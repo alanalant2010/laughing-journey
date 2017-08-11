@@ -1,0 +1,171 @@
+ 
+
+Active Ingredient: Budesonide 
+
+ 
+
+Dosage Form; Route: Extended release tablet; oral 
+
+ 
+
+Recommended Studies: Three studies 
+
+ 
+
+1. Type of study: Fasting 
+
+
+Design: Single-dose, partially or fully replicated crossover design, in vivo 
+
+Strength: 9 mg 
+
+Subjects: Normal healthy males and females, general population. Females should not be 
+pregnant, and, if applicable, should practice abstention or contraception during the study. 
+
+ 
+
+ 
+
+2. Type of study: Fed 
+
+
+Design: Single-dose, partially or fully replicated crossover design, in vivo 
+
+Strength: 9 mg 
+
+Subjects: Normal healthy males and females, general population. Females should not be 
+pregnant, and, if applicable, should practice abstention or contraception during the study. 
+
+ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Budesonide in plasma 
+
+ 
+
+Bioequivalence based on (90% CI): Budesonide 
+
+ 
+
+Additional comments regarding the bioequivalence (BE) study with PK endpoints: 
+
+ 
+
+(1) Applicants may consider using a reference-scaled average bioequivalence 
+approach for budesonide. If using this approach, the applicant should provide 
+evidence of high variability in the BE parameters (i.e., within-subject variability > 
+30%) for the reference product. For general information on this approach, refer to 
+the Progesterone capsule guidance for additional information regarding highly 
+variable drug products. 
+
+
+ 
+
+(2) For both fasting and fed studies, the following PK parameters are recommended: 
+Log-transformed AUC8-48, AUC0-t, and Cmax, where AUC8-48 is the area under the 
+plasma concentration vs. time curve from 8 to 48 hours, AUC0-t is the area under 
+the curve from 0 hours to the last measurable time point, and Cmax is the 
+maximum plasma concentration. There should be at least four non-zero 
+measurements of concentrations for the partial AUC8-48. 
+
+
+
+ 
+
+(3) As AUC0-t is recommended in place of AUC0-8, the last sampling time point 
+should be at least at 72 hours. 
+
+
+ 
+
+ 
+
+3. Type of study: In vitro comparative dissolution study 
+
+Strength: 9 mg 
+
+Apparatus: USP Apparatus 2 (paddle) 
+
+Acid stage: 2 hours in 0.1 N HCl at 100 rpm (500 mL) 
+
+Buffer stage: Each of 
+
+(1) pH 4.5 acetate buffer at 100 rpm 
+(2) pH 6.0 phosphate buffer at 100 rpm 
+(3) pH 6.5 phosphate buffer at 100 rpm 
+(4) pH 6.8 phosphate buffer at 100 rpm 
+(5) pH 7.2 phosphate buffer at 100 rpm 
+(6) pH 7.5 phosphate buffer at 100 rpm 
+
+
+Volume: 1000 mL 
+
+Temperature: 37ºC 
+
+Sample times: As needed for profile comparison when applicable 
+
+Additional comments: Submit dissolution data with 0.5% of and without Macrogol 
+Cetostearyl Ether in the buffer stage at different pH values. In addition, the applicant may 
+also use other appropriate type(s) of surfactant in the multi-pH media at various 
+concentrations and use other appropriate apparatus and rotational speed. Submit a 
+detailed dissolution method development report to justify the suitability of the selected 
+surfactant and its concentration and the selected apparatus and rotational speed to 
+demonstrate bioequivalence between the generic product and the reference listed drug 
+(RLD). The applicant should use at least 12 tablets per test. 
+
+ 
+
+Waiver request of in vivo testing: Not applicable 
+
+ 
+
+Dissolution test method and sampling times: The dissolution information for this drug product 
+can be found on the FDA-Recommended Dissolution Methods website available to the public at 
+the following location: http://www.accessdata.fda.gov/scripts/cder/dissolution/. Conduct 
+comparative dissolution testing on 12 dosage units each of all strengths of the test and reference 
+products. Specifications will be determined upon review of the abbreviated new drug application 
+(ANDA). 
+
+ 
+
+Due to a concern of dose dumping of drug from this drug product when taken with alcohol, the 
+Agency currently requests that additional dissolution testing be conducted using various 
+concentrations of ethanol in the dissolution medium, as follows: 
+
+ 
+
+Testing conditions: 900 mL, 0.1 N HCl, USP apparatus 2 (paddle) @100 rpm, with or 
+without alcohol 
+
+ 
+
+Test 1: 12 units tested according to the proposed method (with 0.1N HCl), with data 
+collected every 15 minutes for a total of two hours 
+
+
+ 
+
+Test 2: 12 units tested by substituting 5% (v/v) of test medium with Alcohol USP and data 
+collection every 15 minutes for a total of two hours 
+
+ 
+
+Test 3: 12 units tested by substituting 20% (v/v) of test medium with Alcohol USP and data 
+collection every 15 minutes for a total of two hours 
+
+ 
+
+Test 4: 12 units tested by substituting 40% (v/v) of test medium with Alcohol USP and data 
+collection every 15 minutes for a total of two hours 
+
+ 
+
+Both test and RLD products must be tested accordingly and data must be provided on 
+individual unit, means, range, and %CV. 
+
+ 
+
+ 
+
+

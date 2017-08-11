@@ -1,0 +1,664 @@
+ 
+
+ 
+
+Active Ingredient: Betaxolol hydrochloride 
+
+ 
+
+Dosage Form; Route: Suspension/drops; ophthalmic 
+
+ 
+
+Recommended Studies: One study 
+
+ 
+
+Type of study: Bioequivalence (BE) study with clinical endpoint 
+
+Design: Randomized (1:1), double-masked, parallel, two-arm in vivo 
+
+Strength: EQ 0.25 % Base 
+
+Subjects: Males and females with chronic open-angle glaucoma or ocular hypertension in 
+both eyes 
+
+Additional comments: Specific recommendations are provided below. 
+
+______________________________________________________________________________ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Not applicable (N/A) 
+
+ 
+
+Bioequivalence based on (95% CI): Clinical endpoint (in vivo option) 
+
+ 
+
+Dissolution test method and sampling times: N/A 
+
+ 
+
+Additional comments regarding the BE study with clinical endpoint: 
+
+ 
+
+1. The Office of Generic Drugs (OGD) recommends conducting a BE study with a clinical 
+endpoint in the treatment of open-angle glaucoma and ocular hypertension comparing the 
+test product versus the reference listed drug (RLD), each applied as one drop in both eyes 
+two times daily at approximately 8:00 a.m., and 8:00 p.m. for 42 days (6 weeks). 
+
+
+ 
+
+2. Inclusion criteria (the sponsor may add additional criteria): 
+a. Male or nonpregnant females aged at least 18 years with chronic open-angle 
+glaucoma or ocular hypertension in both eyes. 
+b. Subject requires treatment of both eyes and is able to discontinue use of all ocular 
+hypotensive medication(s) or switch ocular hypotensive medications and undergo an 
+appropriate washout period. 
+c. Adequate washout period prior to baseline of any ocular hypotensive medication (see 
+Table 1). In order to minimize potential risk to patients due to intraocular pressure 
+(IOP) elevations during the washout period, the investigator may choose to substitute 
+a parasympathomimetic or carbonic anhydrase inhibitor in place of a 
+sympathomimetic, alpha-agonist, beta-adrenergic blocking agent, or prostaglandin. 
+
+
+
+
+
+
+All patients must have discontinued all ocular hypotensive medication for the 
+minimum washout period provided in Table 1. 
+d. Baseline (Day 0/hour 0) IOP = 22 mm Hg and = 34 mm Hg in each eye and any 
+asymmetry of IOP between the eyes no greater than 5 mm Hg. 
+e. Baseline best corrected visual acuity equivalent to 20/200 or better in each eye. 
+
+
+
+
+
+ 
+
+Table 1: Washout periods for ocular hypotensive medications 
+
+ 
+
+Medication 
+
+Minimum 
+washout 
+period 
+
+Parasympathomimetics [e.g., pilocarpine (Isopto® Carpine), carbachol (Isopto® 
+Carbachol)] 
+
+4 days 
+
+Carbonic Anhydrase Inhibitors (systemic or topical) [e.g., acetazolamide 
+(Diamox®), dorzolamide hydrochloride (Trusopt®), brinzolamide (Azopt®)] 
+
+4 days 
+
+Sympathomimetics [e.g., dipivefrin (Propine®), epinephrine (Epifrin®)] 
+
+2 weeks 
+
+Alpha-agonists [e.g., apraclonidine (Iopidine®), brimonidine tartrate (Alphagan®, 
+Alphagan® P), brimonidine tartrate and brinzolamide (Simbrinza®)] 
+
+2 weeks 
+
+Beta-adrenergic blocking agents [e.g., timolol (Timoptic®, Betimol®, Timoptic 
+XE®, Istatol®), timolol maleate and dorzolamide hydrochloride (Cosopt®), 
+timolol maleate and brimonidine tartrate (Combigan®), levobunolol (Akbeta®, 
+Betagan®), betaxolol (Betoptic®, Betoptic-S®), metipranolol (Opti-Pranolol®), 
+carteolol (Ocupress®)] 
+
+4 weeks 
+
+Prostaglandin analogs [e.g., latanoprost (Xalatan®), travoprost (Travatan®), 
+bimatoprost (Lumigan®), tafluprost (Zioptan™)] 
+
+4 weeks 
+
+
+
+ 
+
+3. Exclusion criteria (the sponsor may add additional criteria): 
+a. Females who are pregnant, breast-feeding, or planning a pregnancy. 
+b. Females of childbearing potential who do not agree to utilize an adequate form of 
+contraception. 
+c. Current, or past history of, severe hepatic or renal impairment. 
+d. Current, or history within two months prior to baseline of, significant ocular disease, 
+(e.g., corneal edema, uveitis, ocular infection, ocular trauma in either eye). 
+e. Current corneal abnormalities that would prevent accurate IOP readings with the 
+Goldmann applanation tonometer. 
+f. Functionally significant visual field loss. 
+g. Contraindication to betaxolol therapy or known hypersensitivity to any component of 
+betaxolol therapy. 
+h. Use at any time prior to baseline of an intraocular corticosteroid implant. 
+i. Use within one week prior to baseline of contact lens. 
+j. Use within two weeks prior to baseline of: 1) topical ophthalmic corticosteroid or 2) 
+topical corticosteroid. 
+k. Use within one month prior to baseline of: 1) systemic corticosteroid or 2) high-dose 
+salicylate therapy. 
+
+
+
+
+
+
+l. Use within six months prior to baseline of intravitreal or subtenon injection of 
+ophthalmic corticosteroid. 
+m. Any other intraocular surgery within six months prior to baseline (e.g., cataract 
+surgery). 
+n. Refractive surgery, filtering surgery, or laser surgery for IOP reduction within twelve 
+months prior to baseline. 
+
+
+
+
+ 
+
+4. The protocol should include a list of the prescription and nonprescription/over-the-
+counter drug products, procedures, and activities that are prohibited during the study, 
+such as: 
+a. Ocular hypotensive drug product other than study treatment, e.g., acetazolamide 
+(Diamox®), betaxolol solution (Betoptic®), betaxolol and pilocarpine (Betoptic® 
+Pilo), bimatoprost (Lumigan®), brimonidine tartrate (Alphagan®, Alphagan® P), 
+brimonidine tartrate and brinzolamide (Simbrinza®), brimonidine tartrate and timolol 
+maleate (Combigan®), brinzolamide (Azopt®), carbachol (Miostat®), carteolol 
+(Ocupress®), dorzolamide hydrochloride (Trusopt®), dorzolamide hydrochloride and 
+timolol maleate (Cosopt®), epinephrine (Epifrin®), latanoprost (Xalatan®), 
+levobetaxolol (Betaxon®), levobunolol (Akbeta®, Betagan®), mannitol (Osmitrol®), 
+metipranolol (OptiPranolol®), pilocarpine (Isopto® Carpine, Pilopine HS®), 
+tafluprost (Zioptan™), timolol (Betimol®, Istalol®, Timoptic®, Timoptic XE®), 
+travoprost (Travatan®, Travatan Z®). 
+b. Ophthalmic nonprescription/over-the-counter or prescription product, other than 
+study treatment and the occasional use of artificial tears. 
+c. Oral carbonic anhydrase inhibitor. 
+d. High-dose salicylate therapy. 
+e. Topical or systemic corticosteroid. 
+f. Topical ophthalmic corticosteroid. 
+g. Intraocular corticosteroid implant. 
+h. Intravitreal or subtenon injection of ophthalmic corticosteroid. 
+i. Systemic beta-adrenergic blocking drug product. 
+j. Change in concurrent treatment or initiation of treatment with agents potentially 
+affecting IOP ( e.g., antihypertensive medication). 
+k. Contact lenses. 
+l. Ocular surgery. 
+
+
+
+
+
+ 
+
+5. The recommended primary endpoint is the mean difference in IOP of both eyes between 
+the two treatment groups at four time points, i.e., at approximately 8:00 a.m. (hour 0; 
+before the morning drop) and 10:00 a.m. (hour 2) at the Day 14 (week 2) and Day 42 
+(week 6) visits. 
+
+
+ 
+
+6. The enrolled subjects should have mixture of light and dark colored irides similar in 
+proportion to the U.S. population. 
+
+
+ 
+
+7. The protocol should clearly define the per-protocol (PP) and safety populations. 
+a. The accepted PP population used for BE evaluation includes all randomized subjects 
+who meet all inclusion/exclusion criteria, instill a pre-specified proportion of the 
+
+
+
+
+
+
+scheduled doses (e.g., 75% to 125%) of the assigned product for the specified 
+duration of the study, do not miss the scheduled applications for more than 3 
+consecutive days, and complete evaluations at Day 14 (week 2) and Day 42 (week 6) 
+within the designated visit window (+/- 4 days) with no protocol violations that would 
+affect the treatment evaluation. The protocol should specify how compliance will be 
+verified (e.g., by the use of subject diaries). 
+b. The safety population includes all randomized subjects who receive study product. 
+
+
+
+
+
+ 
+
+8. Subjects whose condition worsens (e.g., IOP = 36 mm Hg in either eye) and require 
+alternate or supplemental therapy for the treatment of their chronic open-angle glaucoma 
+or ocular hypertension during the study should be discontinued, excluded from the PP 
+population analysis, and provided with effective treatment. 
+
+
+ 
+
+9. The start and stop dates of concomitant medication use during the study should be 
+provided in the data set in addition to the reason for the medication use. The sponsor 
+should clearly explain whether the medication was used prior to baseline visit, during the 
+study, or both. 
+
+
+ 
+
+10. All adverse events (AEs) should be reported, whether or not they are considered to be 
+related to the treatment. The report of AEs should include date of onset, description of 
+AE, severity, relation to study medication, action taken, outcome, and date of resolution. 
+This information is needed to determine whether the incidence and severity of adverse 
+reactions is different between the test product and RLD. 
+
+
+ 
+
+11. Generally, a drug product intended for ophthalmic use shall contain the same inactive 
+ingredients and in the same concentration as the RLD. For an ophthalmic drug product 
+that differs from the RLD in preservative, buffer, substance to adjust tonicity, or 
+thickening agent [as permitted by the chemistry, manufacturing and controls (CMC) 
+regulations for ANDAs, 21 CFR 314.94(a)(9)(iv)], the regulation specifies that the 
+applicant must identify and characterize the differences and provide information 
+demonstrating that the differences do not affect the safety or efficacy of the proposed 
+drug product. 
+
+
+ 
+
+12. The method of randomization should be described in the protocol and the randomization 
+schedule provided as a SAS data set in .xpt format (created using SAS XPORT). The 
+FDA recommends that an independent third party generate and hold the randomization 
+code throughout the conduct of the study in order to minimize bias. The sponsor may 
+generate the randomization code if not involved in the packaging and labeling of the 
+study medication. A sealed copy of the randomization scheme should be retained at the 
+study site and should be available to FDA investigators at the time of site inspection to 
+allow for verification of the treatment identity of each subject. 
+
+
+ 
+
+13. Applicants should provide a detailed description of the masking procedure in the 
+protocol. The packaging of the test and reference products should be similar in 
+appearance to make differences in treatment less obvious to the subjects and to maintain 
+adequate masking of evaluators. When possible, neither the subject nor the investigator 
+
+
+
+should be able to identify the treatment. If the two treatments differ in appearance, 
+evaluators should not be in the room whenever the treatment is taken out of the external 
+packaging or the subject is dosed with a study treatment. 
+
+
+ 
+
+14. Refer to 21 CFR 320.38, 320.63 and the Guidance for Industry: Handling and Retention 
+of BA and BE Testing Samples regarding retention of study drug samples and 21 CFR 
+320.36 for requirements for maintenance of records of BE testing. In addition, the 
+investigators should follow the procedures of ICH E6, Good Clinical Practice: 
+Consolidated Guideline, for retention of study records and data in order to conduct their 
+studies in compliance with good laboratory practices and good clinical practices. 
+Retention samples should be randomly selected from the drug supplies received prior to 
+dispensing to subjects. Retention samples should not be returned to the sponsor at any 
+time. 
+
+
+ 
+
+15. It is the sponsor’s responsibility to enroll sufficient subjects for the study to demonstrate 
+BE between the products. 
+
+
+ 
+
+16. To establish BE, the limits of each two-sided 95% confidence interval of the treatment 
+difference (test – reference) for mean IOP of both eyes (continuous variable) at all four 
+follow-up points (i.e., at approximately 8:00 a.m. (hour 0; before the morning drop) and 
+10:00 a.m. (hour 2) at the Day 14 (week 2) and Day 42 (week 6)) visits must be within ± 
+1.5 mm Hg using the PP population for all time points measured and within ± 1.0 mm Hg 
+using the PP population for at least three time points measured. 
+
+
+ 
+
+17. The results of the primary endpoint at the four time points obtained by both the test 
+product and RLD should be compared to the results that supported the approval of the 
+RLD and any historical results in the literature. 
+
+
+ 
+
+18. Study data should be submitted to the OGD in electronic format. All data should be 
+submitted as a SAS .xpt file, created using SAS XPORT (not CPORT). 
+
+
+a. Include a list of file names, a description of the content of each file, an 
+explanation of the variables within each file, and a description of all variable 
+codes (for example, for the treatment variable, A = TEST and B = 
+REFERENCE. 
+
+ 
+
+b. Provide a separate data set for demographic, vital sign, adverse event, 
+disposition (including reason for discontinuation of treatment), concomitant 
+medication, medical history, compliance, and comment variables. 
+
+ 
+
+19. Applicants should provide a summary data set containing a separate line listing for each 
+subject, if data exist. Use the following headings, if applicable: 
+a. Study identifier 
+b. Subject identifier 
+c. Site identifier: study center 
+d. Age 
+e. Age units (years) 
+
+
+
+
+
+
+f. Sex 
+g. Race 
+h. Iris color 
+i. Name of actual treatment (exposure): test product, RLD 
+j. Completed the study (yes/no) 
+k. Reason for premature discontinuation of subject 
+l. Subject required additional treatment for open-angle glaucoma or ocular hypertension 
+due to unsatisfactory treatment response (yes/no) 
+m. Per Protocol (PP) population inclusion (yes/no) 
+n. Reason for exclusion from PP population 
+o. Safety population inclusion (yes/no) 
+p. Reason for exclusion from safety population 
+q. Mean IOP of both eyes at Day 0/hour 0 
+r. Mean IOP of both eyes at Day 0/hour 2 
+s. Mean IOP of both eyes at Day 14 (week 2)/hour 0 
+t. Mean IOP of both eyes at Day 14 (week 2)/hour 2 
+u. Mean IOP of both eyes at Day 42 (week 6)/hour 0 
+v. Mean IOP of both eyes at Day 42 (week 6)/hour 2 
+w. Treatment compliance: number of missed doses per subject 
+x. Concomitant medication (yes/no) 
+y. Adverse event(s) reported (yes/no) 
+
+
+
+
+
+ 
+
+Table 2 provides an example. Note: this sample table may contain additional information 
+not applicable to your study and/or it may not contain all information applicable to your 
+study. 
+
+Table 2: Example of a summary data set containing one line listing for each subject 
+
+ 
+
+STUDYID 
+
+SUBJID 
+
+SITEID 
+
+AGE 
+
+AGEU 
+
+SEX 
+
+RACE 
+
+iris_col 
+
+EXTRT 
+
+completd 
+
+disc_rs 
+
+add_trt 
+
+pp 
+
+pp_rs 
+
+safety 
+
+safe_rs 
+
+101 
+
+1 
+
+01 
+
+54 
+
+YEARS 
+
+F 
+
+1 
+
+ 
+
+A 
+
+Y 
+
+ 
+
+N 
+
+Y 
+
+ 
+
+Y 
+
+ 
+
+101 
+
+2 
+
+01 
+
+58 
+
+YEARS 
+
+F 
+
+1 
+
+ 
+
+B 
+
+Y 
+
+ 
+
+N 
+
+Y 
+
+ 
+
+Y 
+
+ 
+
+
+
+ 
+
+iop0_0 
+
+iop0_2 
+
+iop14_0 
+
+iop14_2 
+
+iop42_0 
+
+iop42_2 
+
+complian 
+
+CM 
+
+AE 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0 
+
+Y 
+
+Y 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0 
+
+N 
+
+N 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Note: Capitalized headings are from Clinical Data Interchange Standards Consortium (CDISC) 
+Study Data Tabulation Model (SDTM) Implementation Guide (IG) for Human Clinical Trials 
+V3.1.2 Final, dated 11/12/08. 
+
+ 
+
+STUDYID: Study identifier 
+
+SUBJID: Subject identifier for the study 
+
+SITEID: Study site identifier 
+
+AGE: Age 
+
+AGEU: Age units (years) 
+
+SEX: Sex, M=male, F=female, U=unknown 
+
+RACE: Race, 1=white, 2=Black or African American, 3=Asian, 4=American 
+Indian or Alaska Native, 5=Native Hawaiian or other Pacific Islanders 
+
+iris_col: Iris color, e.g., BL-blue; BR=brown; GRA=gray; GRE=green, HA=hazel 
+
+EXTRT: Name of actual treatment (exposure), e.g., A=test product, B= RLD 
+
+completd: Subject completed the study, Y=yes, N=no 
+
+disc_rs: Reason for premature discontinuation from the study, e.g., A=adverse 
+event, B=death, C=lost to follow-up, D=non-compliance with treatment, 
+E=treatment unmasked, F=subject moved out of area, G=unsatisfactory 
+treatment response, H=withdrew consent, I=protocol violation, K=other 
+event 
+
+add_trt: Subject required additional treatment for elevated intraocular pressure due 
+to unsatisfactory treatment response, Y=yes, N=no 
+
+pp: Per Protocol (PP) population inclusion, Y=yes, N=no 
+
+pp_rs: Reason for exclusion from PP population, e.g., A=prematurely 
+discontinued, B=lost to follow-up, C=subject moved out of the area, 
+D=noncompliant, etc. 
+
+safety: Safety population inclusion, Y=yes, N=no 
+
+safe_rs: Reason for exclusion from Safety population, e.g., A=never treated, etc. 
+
+iop0_0: Mean intraocular pressure (IOP) of both eyes at Day 0/hour 0 
+
+iop0_2: Mean IOP of both eyes at Day 0/hour 2 
+
+iop14_0: Mean IOP of both eyes at Day 14 (week 2)/hour 0 
+
+iop14_2: Mean IOP of both eyes at Day 14 (week 2)/hour 2 
+
+iop42_0: Mean IOP of both eyes at Day 42 (week 6)/hour 0 
+
+iop42_2: Mean IOP of both eyes at Day 42 (week 6)/hour 2 
+
+complian: Treatment compliance, e.g., number of missed doses per subject 
+
+CM: Concomitant medication, Y=yes, N=no AE: Adverse event(s) reported, 
+
+ Y=yes, N=no 
+
+ 
+
+20. The study data should be submitted in standardized format. Consider the implementation 
+and use of data standards as early as possible in the product development lifecycle, so 
+that standards are accounted for in the design, conduct, and analysis of clinical studies. 
+For more details, please refer to 
+http://www.fda.gov/Drugs/DevelopmentApprovalProcess/FormsSubmissionRequirements/ElectronicSubmissions/ucm248635.htm 
+
+
+ 
+
+
+21. The protocol should include a full, detailed statistical analysis plan and describe how 
+missing data will be prevented and handled if the problem occurs. 
+
+
+ 
+
+22. These recommendations are specific to this product and may not be appropriate for BE 
+studies of any other product, including any other dosage form or strength of betaxolol. 
+
+
+

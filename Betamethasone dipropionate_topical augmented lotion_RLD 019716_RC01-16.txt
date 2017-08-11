@@ -1,0 +1,67 @@
+ 
+
+Active Ingredient: Betamethasone dipropionate 
+
+ 
+
+Dosage Form; Route: Lotion (augmented); topical 
+
+ 
+
+Recommended Studies: A waiver of the requirement for the submission of evidence 
+
+obtained in vivo measuring bioavailability or demonstrating bioequivalence may be 
+requested in situations where the proposed drug product meets all the requirements 
+specified in 21 CFR 320.22(b)(3). Alternatively, in situations where the proposed drug 
+product contains a change in formulation from the reference listed drug product that may 
+significantly affect the systemic or local availability of the active ingredient, two 
+vasoconstrictor studies are recommended. 
+
+ 
+
+1. Type of study: Pilot vasoconstrictor study 
+
+
+Design: A pilot dose duration-response study using the reference product 
+
+Strength: 0.05% 
+
+Subjects: Healthy males and nonpregnant, nonlactating females, general population 
+Additional comments: Please refer to the guidance “Topical Dermatological 
+Corticosteroids: In Vivo Bioequivalence” available at: 
+
+http://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/ucm070234.pdf. 
+
+ 
+
+ 
+
+2. Type of study: Pivotal vasoconstrictor study 
+
+
+Design: A pivotal bioequivalence study 
+
+Strength: 0.05% 
+
+Subjects: Healthy males and nonpregnant, nonlactating females, general population 
+
+Additional comments: Please refer to the guidance above 
+
+ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): N/A 
+
+ 
+
+Bioequivalence based on (90% CI): Pivotal vasoconstrictor study 
+
+ 
+
+Waiver request of in vivo testing: A waiver of the in vivo studies listed above may be 
+requested in accordance with 21 CFR 320.22(b). 
+
+Dissolution test method and sampling times: N/A 
+
+

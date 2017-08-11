@@ -1,0 +1,96 @@
+Active ingredient: Balsalazide Disodium 
+
+ 
+
+Form/Route: Tablets/Oral 
+
+ 
+
+Recommended studies: 2 studies 
+
+ 
+
+1. Type of study: Fasting 
+
+Design: Single-dose, two-treatment, two-period crossover in-vivo 
+
+Strength: 1.1 g (dose = 3×1.1 g) 
+
+Subjects: Healthy males and nonpregnant females, general population. 
+
+Additional comments: Applicants may consider using a reference-scaled average 
+bioequivalence approach for this drug product. If using this approach, the applicant 
+should provide evidence of high variability in the bioequivalence parameters (i.e., within-
+subject variability = 30%) for the reference product. For general information on this 
+approach refer to the Progesterone Capsule Guidance for additional information 
+regarding highly variable drugs. 
+
+
+
+
+___________________________________________________________________________ 
+
+ 
+
+2. Type of study: Fed 
+
+Design: Single-dose, two-treatment, two-period crossover in-vivo 
+
+Strength: 1.1 g (dose = 3×1.1 g) 
+
+Subjects: Healthy males and nonpregnant females, general population. 
+
+Additional comments: see above 
+__________________________________________________________________________ 
+
+
+
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Balsalazide and Mesalamine in plasma 
+
+ 
+
+Bioequivalence based on (90% CI): Balsalazide and Mesalamine 
+
+ 
+
+Waiver request of in vivo testing: Not Applicable 
+
+ 
+
+In vitro dissolution testing under the following conditions should be submitted to support 
+documentation of bioequivalence: 
+
+Strength: 1.1 g 
+
+Apparatus: USP Apparatus 2 (paddle) 
+
+Medium: 0.1N HCl at 50 rpm and 100 rpm 
+
+pH 4.5 buffer at 50 rpm and 100 rpm 
+
+pH 6.8 buffer at 50 rpm and 100 rpm 
+
+pH 7.4 buffer at 50 rpm and 100 rpm 
+
+
+Volume: 1000 mL 
+
+Temperature: 37ºC 
+
+Additional comments: The applicant should use at least 12 tablets per test. The f2 metric will be 
+used to compare dissolution profiles. 
+
+ 
+
+Dissolution test method and sampling times: 
+
+Please note that a Dissolution Methods Database is available to the public at the OGD website 
+at http://www.accessdata.fda.gov/scripts/cder/dissolution/. Please find the dissolution 
+information for this product at this website. Please conduct comparative dissolution testing on 12 
+dosage units each of all strengths of the test and reference products. Specifications will be 
+determined upon review of the application. 
+
+

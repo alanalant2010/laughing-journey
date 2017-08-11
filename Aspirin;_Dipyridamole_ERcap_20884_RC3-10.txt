@@ -1,0 +1,77 @@
+ 
+
+Active ingredient: Aspirin; Dipyridamole 
+
+ 
+
+Form/Route: Extended Release Capsule/Oral 
+
+ 
+
+Recommended studies: 2 studies 
+
+ 
+
+1. Type of study: Fasting 
+
+Design: Single-dose, two-way crossover in-vivo 
+
+Strength: 25 mg/200 mg 
+
+Subjects: Healthy males and nonpregnant females, general population. 
+
+Additional Comments: 
+
+
+
+
+__________________________________________________________________________ 
+
+ 
+
+2. Type of study: Fed 
+
+Design: Single-dose, two-way crossover in-vivo 
+
+Strength: 25 mg/200 mg 
+
+Subjects: Healthy males and nonpregnant females, general population. 
+
+Additional Comments: 
+
+
+
+
+___________________________________________________________________________ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Acetylsalicylic acid and dipyridamole 
+in plasma 
+
+ 
+
+Bioequivalence based on (90% CI): Acetylsalicylic acid and dipyridamole 
+
+ 
+
+Dissolution test method and sampling times: 
+
+Please note that a Dissolution Methods Database is available to the public at the OGD website 
+at http://www.accessdata.fda.gov/scripts/cder/dissolution/. Please find the dissolution 
+information for this product at this website. Please conduct comparative dissolution testing on 
+12 dosage units each of the test and reference products. Specifications will be determined upon 
+review of the application. 
+
+ 
+
+In addition to the method above, for modified release products, dissolution profiles on 12 dosage 
+units each of test and reference products generated using USP Apparatus I at 100 rpm and/or 
+Apparatus II at 50 rpm in at least three dissolution media (pH 1.2, 4.5 and 6.8 buffer) should be 
+submitted in the application. Agitation speeds may have to be increased if appropriate. It is 
+acceptable to add a small amount of surfactant, if necessary. Please include early sampling times 
+of 1, 2, and 4 hours and continue every 2 hours until at least 80% of the drug is released, to 
+provide assurance against premature release of drug (dose dumping) from the formulation. 
+Specifications will be determined upon review of the data submitted in the application. 
+
+

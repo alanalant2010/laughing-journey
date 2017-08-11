@@ -1,0 +1,141 @@
+ 
+
+Active Ingredient: Naltrexone hydrochloride; bupropion hydrochloride 
+
+ 
+
+Dosage Form; Route: Extended-release tablet; oral 
+
+ 
+
+Recommended Studies: Two studies 
+
+ 
+
+1. Type of study: Fasting 
+
+
+Design: Single-dose, two-treatment, two-period crossover in vivo 
+
+Strength: Naltrexone hydrochloride/bupropion hydrochloride 8 mg/90 mg × 2 tablets (16 
+mg/180 mg) 
+
+Subjects: Healthy males and nonpregnant females, general population 
+
+Additional comments: Per the currently approved reference listed drug (RLD) labeling, 
+exclude following subjects who have: 
+
+1) A seizure disorder or a history of seizures 
+2) A current or prior diagnosis of anorexia nervosa or bulimia 
+3) An abrupt discontinuation of alcohol, benzodiazepines, barbiturates, or antiepileptic 
+drugs 
+4) A history of head trauma or prior seizure, severe stroke, arteriovenous 
+malformation, central nervous system tumor or infection, or metabolic disorders 
+(e.g., hypoglycemia, hyponatremia, severe hepatic impairment, and hypoxia) 
+5) An excessive use of alcohol or sedatives, addiction to cocaine or stimulants, or 
+withdrawal from sedatives 
+6) Diabetes treated with insulin and/or oral diabetic medications (sulfonylureas and 
+meglitinides) that may cause hypoglycemia 
+7) Concomitant administration of monoamine oxidase inhibitors (MAOI); at least 14 
+days should elapse between discontinuation of MAOI and initiation of the study 
+8) Concomitant administration of medications that may lower the seizure threshold, 
+including antipsychotics, tricyclic antidepressants, theophylline, and systemic 
+steroids 
+
+
+___________________________________________________________________________ 
+
+2. Type of study: Fed 
+
+
+Design: Single-dose, two-treatment, two-period crossover in vivo 
+
+Strength: Naltrexone hydrochloride/bupropion hydrochloride 8 mg/90 mg × 2 tablets (16 
+mg/180 mg) 
+
+Subjects: Healthy males and nonpregnant females, general population 
+
+ Additional comments: Same as comments above 
+
+
+Analytes to measure (in appropriate biological fluid): Naltrexone and its active metabolite, 6-
+beta-naltrexol, in plasma; bupropion and its active metabolites, hydroxybupropion, 
+threohydrobupropion, and erythrohydrobupropion, in plasma 
+
+ 
+
+Submit the metabolite data as supportive evidence of comparable therapeutic outcome. For the 
+metabolite, the following data should be submitted: individual and mean concentrations, 
+individual and mean pharmacokinetic parameters, and geometric means and ratios of means for 
+AUC and Cmax. 
+
+ 
+
+Bioequivalence based on (90% CI): Naltrexone and bupropion 
+
+ 
+
+Waiver request of in vivo testing: Not applicable 
+
+ 
+
+Dissolution test method and sampling times: The dissolution information for this drug 
+product can be found on the FDA-Recommended Dissolution Methods Web site, available to the 
+public at the following location: http://www.accessdata.fda.gov/scripts/cder/dissolution/. 
+Conduct comparative dissolution testing on 12 dosage units of the test and reference products. 
+Specifications will be determined upon review of the abbreviated new drug application (ANDA). 
+
+ 
+
+In addition to the method above, for modified-release products, dissolution profiles on 12 dosage 
+units each of the test and reference products generated using U.S. Pharmacopeia (USP) 
+Apparatus I at 100 rpm and/or Apparatus II at 50 rpm in at least three dissolution media (pH 1.2, 
+4.5, and 6.8 buffer) should be submitted in the application. Agitation speeds may be increased, if 
+appropriate. It is acceptable to add a small amount of surfactant, if necessary. Include early 
+sampling times of 1, 2, and 4 hours and continue every 2 hours until at least 80% of the drug is 
+released, to provide assurance against premature release of drug (dose dumping) from the 
+formulation. Specifications will be determined upon review of the data submitted in the 
+application. 
+
+ 
+
+Due to a concern of dose dumping of drug from this drug product when taken with alcohol, the 
+Agency currently requests that additional dissolution testing be conducted using various 
+concentrations of ethanol in the dissolution medium, as follows: 
+
+ 
+
+Testing conditions: 900 mL, 0.1 N HCl, USP apparatus 1 (basket) @75 rpm, with or without 
+alcohol 
+
+ 
+
+Test 1: 12 units tested according to the proposed method (with 0.1N HCl), with data 
+collected every 15 minutes for a total of 2 hours 
+
+ 
+
+Test 2: 12 units analyzed by substituting 5% (v/v) of test medium with Alcohol USP and 
+data collection every 15 minutes for a total of 2 hours 
+
+ 
+
+Test 3: 12 units analyzed by substituting 20% (v/v) of test medium with Alcohol USP and 
+data collection every 15 minutes for a total of 2 hours 
+
+ 
+
+
+Test 4: 12 units analyzed by substituting 40% (v/v) of test medium with Alcohol USP and 
+data collection every 15 minutes for a total of 2 hours 
+
+ 
+
+Both test and RLD products must be tested accordingly, and data must be provided on 
+individual unit, means, range, and %CV. 
+
+ 
+
+ 
+
+

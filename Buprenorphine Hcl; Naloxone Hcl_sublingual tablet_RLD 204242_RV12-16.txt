@@ -1,0 +1,87 @@
+ 
+
+Active Ingredient: Buprenorphine hydrochloride; Naloxone hydrochloride 
+
+ 
+
+Dosage Form; Route: Sublingual tablet; oral 
+
+ 
+
+Recommended Studies: One study 
+
+ 
+
+1. Type of study: Fasting 
+
+
+Design: Single-dose, two-treatment, two-period crossover in vivo 
+
+Strength: EQ 11.4 mg base/EQ 2.9 mg base 
+
+Subjects: Healthy males and non-pregnant, non-breastfeeding females, general population, 
+18 to 55 years of age (inclusive), with a minimum weight of 59 kg (129.8 lbs) 
+
+Additional Comments: 
+
+a) A naltrexone blockade should be used to minimize the risk of any opioid-related 
+adverse events. Naltrexone should be administered well in advance of dosing, in 
+order to achieve adequate blockade of opioid receptors. The most common approach 
+is to administer 50 mg to 100 mg of naltrexone tablets at the following times 12 
+hours and 0.5 hours pre-dose; and 50 mg at 12 hours and 24 hours post-dose. Please 
+consult with a physician who is an expert in the administration of opioids for an 
+appropriate dose of opioid antagonist. 
+b) Exclude subjects who have received any opioid within 14 days of dosing. 
+c) Tablet should be placed under the tongue until completely dissolved; tablet 
+should not be moved after placement. Advise subjects not to cut, crush, break, 
+chew or swallow the tablet. 
+d) The study design (e.g., inclusion/ exclusion criteria), procedures (e.g., safety 
+monitoring), and concomitant medications (drug interactions) should address all of 
+the elements related to patient safety specified in the RLD label. 
+e) A clear plan for continuous respiratory monitoring from the time of dosing past 
+the time of expected peak effect of the drug (i.e., at least 3 hours after dosing) 
+should be included. Standard operating procedures (SOPs) should be in place for 
+assessing and treating ventilatory depression, and personnel qualified to treat 
+ventilatory emergencies should be immediately available. 
+f) Buprenorphine hydrochloride and naloxone hydrochloride sublingual tablet is 
+under a Risk Evaluation and Mitigation Strategy (REMS) program with Elements 
+to Assure Safe Use (ETASU) (1) to mitigate the risks of accidental overdose 
+misuse and abuse and (2) to inform patients of the serious risks associated with 
+this drug product. All pertinent elements of this REMS and of the warnings in the 
+approved labeling for buprenorphine hydrochloride and naloxone hydrochloride 
+sublingual tablet must be incorporated into the protocol and informed consent in 
+the bioequivalence study. 
+
+
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Buprenorphine and its active metabolite, 
+norbuprenorphine, in plasma. For naloxone, measure unconjugated and total naloxone in plasma. 
+
+ 
+
+Submit the metabolite data as supportive evidence of comparable therapeutic outcome. For the 
+metabolite, the following data should be submitted: individual and mean concentrations, individual and 
+mean pharmacokinetic parameters, and geometric means and ratios of means for AUC and Cmax. 
+
+Bioequivalence based on (90% CI): Buprenorphine and naloxone 
+
+ 
+
+Waiver request of in vivo testing: EQ 0.7 mg base/EQ 0.18 mg base, EQ 1.4 mg base/EQ 0.36 mg 
+base, EQ 2.9 mg base/EQ 0.71 mg base, EQ 5.7 mg base/EQ 1.4 mg base and EQ 8.6 mg base/EQ 2.1 mg 
+base strengths based on (i) acceptable bioequivalence study on the EQ 11.4 mg base/EQ 2.9 mg base 
+strength, (ii) acceptable in vitro dissolution testing of all strengths, and (iii) proportional similarity of 
+the formulations across all strengths. Refer to the Mirtazapine Tablet Draft Guidance for additional 
+information regarding waivers of in vivo testing. 
+
+ 
+
+Dissolution test method and sampling times: The dissolution information for this drug product can 
+be found on the FDA-Recommended Dissolution Methods website available to the public at the 
+following location: http://www.accessdata.fda.gov/scripts/cder/dissolution/. Conduct comparative 
+dissolution testing on 12 dosage units each of all strengths of the test and reference products. 
+Specifications will be determined upon review of the abbreviated new drug application (ANDA). 
+
+

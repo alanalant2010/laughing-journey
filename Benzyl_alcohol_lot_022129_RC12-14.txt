@@ -1,0 +1,993 @@
+ 
+
+ 
+
+Active Ingredient: Benzyl alcohol 
+
+ 
+
+Dosage Form; Route: Lotion; topical 
+
+ 
+
+I. In Vitro option: 
+
+
+ 
+
+To qualify for the in vitro option for this drug product pursuant to 21 CFR 320.24(b)(6), under 
+which “[a]ny other approach deemed adequate by FDA to measure bioavailability or establish 
+bioequivalence” may be acceptable for determining the bioavailability or bioequivalence (BE) of 
+a drug product, all of the following criteria must be met: 
+
+i. Equivalent comparative qualitative and quantitative (Q1/Q2) characterization. 
+ii. Equivalent comparative physicochemical and microstructural (Q3) characterization of 
+comparable pH, specific gravity, emulsion globule size distribution (e.g., evaluated 
+microscopically, if possible) and viscosity profiles with measurements made not only to 
+determine the linear viscoelastic response but also to investigate any nonlinear viscosity 
+behavior over a range of shear rates. We recommend to perform these comparative 
+studies on at least three lots of the test product, and (as available) three lots of the RLD 
+product. 
+iii. Equivalent comparative dosage form performance characterization in vitro, using the USP 
+<1724> compendial In Vitro Release Test (IVRT) method. We recommend that the IVRT 
+method be validated to demonstrate its reproducibility and discrimination sensitivity. 
+Discrimination sensitivity may be validated by testing of the 5% benzyl alcohol lotion, 
+compared with altered (e.g. 2.5% and 7.5%) benzyl alcohol lotions of otherwise 
+comparable composition, to demonstrate the sensitivity of the IVRT method to 
+monitoring the proportionality of the release rates as a function of benzyl alcohol 
+concentration, and to demonstrate the ability of the IVRT method to detect inequivalence 
+of the altered formulations’ drug release rates to that measured for the 5% benzyl alcohol 
+lotion, using the statistical methodology described in <1724>. 
+iv. Equivalent comparative dosage form performance characterization ex vivo in Pediculus 
+humanus capitis (head lice), using an appropriate pediculicide hair tuft assay with 
+relevant controls (e.g., similar to Strycharz et al., Journal of Medical Entomology 
+45(1):75-81. 2008). 
+
+
+
+
+
+
+ 
+
+If the generic drug product has different inactive ingredients compared to the RLD, then the 
+
+Office of Generic Drugs requests a clinical endpoint study to determine bioequivalence between 
+the products.
+
+___________________________________________________________________________ 
+
+ 
+
+
+ 
+
+II. In Vivo option: 
+
+
+ 
+
+Recommended studies: One study 
+
+ 
+
+Type of study: Bioequivalence (BE) study with clinical endpoint 
+
+Design: Randomized, double blind, parallel, placebo-controlled, in vivo 
+
+Strength: 5% 
+
+Subjects: Healthy males and nonpregnant females, aged 6 months to 60 years, with active 
+infestation with Pediculus humanus capitis (head lice and their ova) 
+
+Additional comments: Specific recommendations are provided below. 
+
+ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Not Applicable (N/A) 
+
+ 
+
+Bioequivalence based on (90% CI): Clinical endpoint 
+
+ 
+
+Waiver request of in vivo testing: N/A 
+
+ 
+
+Dissolution test method and sampling times: N/A 
+
+ 
+
+Additional comments regarding the BE study with clinical endpoint: 
+
+ 
+
+1. The Office of Generic Drugs (OGD) recommends conducting a bioequivalence study 
+with a clinical endpoint in the treatment of active infestation with Pediculus humanus 
+capitis (head lice and their ova) comparing the test product versus the reference listed 
+drug (RLD) and vehicle control, applied at one time at home on study Day 1 by the 
+subject or their caregiver and one time at home again on Day 8. The primary endpoint 
+is the proportion of subjects with treatment success, defined as absence of live head 
+lice when examined 14 days after the last application of study treatment (study Day 
+22). Four site visits, each including a visual examination for the presence of live lice by 
+the evaluator with the aid of a 5X lighted magnifier and a wide tooth comb to part and 
+separate the subject’s hair, are recommended as follows: Visit 1 (study Day 1; before 
+home treatment #1), Visit 2 (study Day 2; one day after home treatment #1), Visit 3 
+(study Day 9; one day after home treatment #2) and Visit 4 (study Day 22; 14 days 
+after home treatment #2). 
+
+ 
+
+2. A placebo control arm (vehicle of test product) is recommended to demonstrate that the 
+test product and RLD are active and as a parameter to establish that the study is 
+sufficiently sensitive to detect differences between products. 
+
+ 
+
+3. Inclusion Criteria (the sponsor may add additional criteria): 
+
+a. Healthy males or nonpregnant females aged 6 months to 60 years, inclusive with an 
+active infestation of Pediculus humanus capitis (human head lice) with at least 
+three “live lice” (defined as live adults and/or nymphs) at baseline. 
+
+
+b. Subject and/or parent/guardian agree that the subject will not use any other form of 
+lice treatment during the duration of the study. 
+
+ 
+
+4. Exclusion Criteria (the sponsor may add additional criteria): 
+
+a. Females who are pregnant, breast feeding, or who wish to become pregnant during 
+the study period. 
+
+b. Known allergy or hypersensitivity to benzyl alcohol or any component of the test 
+product or RLD. 
+
+c. Scalp condition that could make it difficult to evaluate the extent and severity of an 
+infestation or that would present a problem in the evaluation of response to therapy 
+(e.g. psoriatic scalp lesions, extensive seborrheic dermatitis). 
+
+d. Known history of irritation or sensitivity to pediculicides or hair care products. 
+
+e. Within 4 weeks of randomization treatment with a pediculicide. 
+
+f. Subject with very short (shaved) hair, subject who plans to shave head during the 
+study, and/or subject who used any hair dye, bleaches, hair straightening or 
+permanent wave solution on the hair within 14 days of randomization. 
+
+ 
+
+5. The primary endpoint is the proportion of subjects in the Per Protocol (PP) population 
+in each treatment group with treatment success (i.e., absence of live head lice) when 
+examined 14 days after the last application of study treatment (study Day 22; 14 days 
+after home treatment #2). 
+
+ 
+
+6. Subjects who do not respond to therapy (i.e., if any live head lice are noted during Visit 
+2, 3, or 4) will receive standard therapy (i.e., early escape clause). Such subjects will be 
+treated as failures of therapy in the final analysis. Subjects with no live lice should be 
+provided with sufficient study drug for the second treatment (e.g. 7 days after the first 
+treatment.) 
+
+ 
+
+7. Provide oral and written instructions to the subject and/or parent/guardian as follows: 
+
+a. Cover face and eyes with a towel and keep eyes closed tightly. Apply the lotion 
+directly to the dry scalp and rub into hair to completely cover the entire scalp and 
+all scalp hair. When applying the lotion, pay particular attention to the back of the 
+neck and behind the ears. Follow the Usage Guideline in Table 1 for the amount of 
+lotion needed per application: 
+
+ 
+
+Table 1: Benzyl Alcohol Lotion, 5% Usage Guideline 
+
+ 
+
+Hair Length 
+
+Amount of ULESFIA® Lotion per Application 
+
+Ounces 
+
+8 oz bottle 
+
+Short 
+
+0-2 inches 
+
+4-6 oz 
+
+½-¾ bottle 
+
+2-4 inches 
+
+6-8 oz 
+
+¾-1 bottle 
+
+Medium 
+
+4-8 inches 
+
+8-12 oz 
+
+1-1½ bottles 
+
+8-16 inches 
+
+12-24 oz 
+
+1½-3 bottles 
+
+Long 
+
+16-22 inches 
+
+24-32 oz 
+
+3-4 bottles 
+
+
+
+
+Hair Length 
+
+Amount of ULESFIA® Lotion per Application 
+
+
+
+Ounces 
+
+8 oz bottle 
+
+Over 22 inches 
+
+32-48 oz 
+
+4-6 bottles 
+
+
+
+ 
+
+b. Massage the lotion into hair and scalp. Leave the lotion on for 10 minutes; then 
+thoroughly rinse off with water. 
+
+c. Repeat application after 7 days after the first application. 
+
+d. Avoid eye exposure. If lotion comes in contact with the eyes, flush them 
+immediately with water. If irritation persists, consult a physician. 
+
+e. Anyone applying the lotion should wash their hands immediately after the 
+application process is complete. 
+
+f. Keep out of reach of children. 
+
+ 
+
+8. Provide details in the protocol regarding the procedures to be taken to decrease 
+reinfestation, such as the examination of household members of the enrolled subjects 
+for head lice (and treatment of such household members found to be infested), 
+decontamination of clothing and bed linen that may have been contaminated by the 
+infested individual prior to treatment and disinfection of combs and brushed used by 
+the infected patient. 
+
+ 
+
+9. The protocol should clearly define the per-protocol (PP), modified intent-to-treat 
+(mITT) and safety populations. 
+
+a. The PP population includes all randomized subjects who met all 
+inclusion/exclusion criteria, applied the assigned product as instructed and 
+completed the evaluation within the designated visit window (+/- 2 days) with no 
+protocol violations that would affect the treatment evaluation. The protocol should 
+specify how compliance will be verified, e.g., by the use of subject diaries, and the 
+protocol violations that would affect the treatment evaluation. 
+
+b. The mITT population includes all randomized subjects who met all 
+inclusion/exclusion criteria, received the assigned study product and returned for at 
+least one post-baseline evaluation visit. 
+
+c. The safety population includes all randomized subjects who received study 
+product. 
+
+ 
+
+10. It is important to ensure that evaluators (experienced professionals) conduct a thorough 
+and consistent evaluation for the presence of lice. This information could be captured 
+as the time spent by the evaluator to assess for the presence of lice. 
+
+ 
+
+11. Subjects with live lice noted at Visits 2, 3, or 4 and any subjects whose condition 
+worsens and require alternate or supplemental therapy for the treatment of their 
+Pediculus humanus capitis during the study should be discontinued, included in the PP 
+population analysis as treatment failures, and provided with effective treatment. 
+Subjects discontinued early for other reasons should be excluded from the PP 
+population, but included in the mITT population, using Last Observation Carried 
+Forward (LOCF). 
+
+ 
+
+
+12. The start and stop date of concomitant medication use during the study should be 
+provided in the data set in addition to the reason for the medication use. The sponsor 
+should clearly explain whether the medication was used prior to baseline visit, during 
+the study, or both. 
+
+ 
+
+13. All adverse events (AEs) should be reported, whether or not they are considered to be 
+related to the treatment. The report of AEs should include date of onset, description of 
+the AE, severity, relation to study medication, action taken, outcome and date of 
+resolution. 
+
+ 
+
+14. Application site reactions such as irritation, erythema, pyoderma, excoriation, edema, 
+anesthesia, pain, and ocular irritation are to be recorded at each visit to allow a 
+comparison between treatment groups. Local safety evaluation should be performed on 
+a four-point scale (0 (absent), 1 (mild), 2 (moderate), and 3 (severe)) for five 
+categories: pruritus, erythema, pyoderma, and excoriation. A descriptive analysis 
+comparing the application site reactions for each treatment group is recommended. It is 
+important to ensure that the test product is not worse than the reference product with 
+regard to the expected and unexpected application site reactions. 
+
+ 
+
+15. If the inactive ingredients are different than those contained in the RLD or present in 
+significantly different amounts, then the sponsor is to clearly describe the differences 
+and provide information to show that the differences will not affect the safety, efficacy 
+and/or systemic or local availability of the drug. 
+
+ 
+
+16. The quantitative information of inactive ingredients of the vehicle/placebo control 
+should be provided. 
+
+ 
+
+17. The method of randomization should be described in the protocol. It is recommended 
+that an independent third party generate and hold the randomization code throughout 
+the conduct of the study in order to minimize bias. The sponsor may generate the 
+randomization code if not involved in the packaging and labeling of the study 
+medication. A sealed copy of the randomization scheme should be retained at the study 
+site and should be available to FDA investigators at the time of site inspection to allow 
+for verification of the treatment identity of each subject. 
+
+ 
+
+18. A detailed description of the blinding procedure is to be provided in the protocol. The 
+packaging of the test, reference and placebo products should be similar in appearance 
+to make differences in treatment less obvious to the subjects and to maintain adequate 
+blinding of evaluators. When possible, neither the subject nor the investigator should 
+be able to identify the treatment. The containers should not be opened by the subject at 
+the study center. 
+
+ 
+
+19. Please refer to 21 CFR 320.38, 320.63 and the Guidance for Industry, “Handling and 
+Retention of BA and BE Testing Samples”, regarding retention of study drug samples 
+and 21 CFR 320.36 for requirements for maintenance of records of bioequivalence 
+testing. In addition, the investigators should follow the procedures of ICH E6, “Good 
+
+
+Clinical Practice: Consolidated Guideline”, for retention of study records and data in 
+order to conduct their studies in compliance with Good Laboratory Practices (GLP) 
+and Good Clinical Practices (GCP). Retention samples should be randomly selected 
+from the drug supplies received prior to dispensing to subjects. Retention samples 
+should not be returned to the sponsor at any time. 
+
+ 
+
+20. It is the sponsor's responsibility to enroll sufficient subjects for the study to 
+demonstrate bioequivalence between the products. 
+
+ 
+
+21. To establish bioequivalence, the 90% confidence interval of the test - reference 
+difference between products for the primary endpoint (success proportion) must be 
+contained within [-0.20, +0.20] for dichotomous variables (success versus failure), 
+using the PP population. 
+
+ 
+
+22. As a parameter for determining adequate study sensitivity, the test product and RLD 
+should both be statistically superior to placebo control (p < 0.05, two-sided) for the 
+primary endpoint using the mITT population and LOCF. 
+
+ 
+
+23. The following Statistical Analysis Method is recommended for equivalence testing 
+for a dichotomous variable (success/failure): 
+
+ 
+
+Equivalence Analysis 
+
+ 
+
+Based on the usual method used in OGD for binary outcomes, the 90% confidence 
+interval for the difference in success proportions between test and reference 
+treatment must be contained within [-0.20, +0.20] in order to establish equivalence. 
+
+ 
+
+The compound hypothesis to be tested is: 
+
+ 
+
+H - < -0.20 or - > 0.20 0: algebraic figure
+Tpalgebraic figure
+Rpalgebraic figure
+Tpalgebraic figure
+Rp
+
+ 
+
+versus 
+
+ 
+
+H - = 0.20 A: -0.20 = algebraic figure
+Tpalgebraic figure
+Rp
+
+ 
+
+where = success rate of test treatment and = success rate of reference 
+treatment. algebraic figure
+Tpalgebraic figure
+Rp
+
+ 
+
+Let 
+
+ = sample size of test treatment group algebraic figure
+Tn
+
+ c= number of successes in test treatment group algebraic figure
+Tn
+
+ = sample size of reference treatment group algebraic figure
+Rn
+
+ c= number of successes in reference treatment group algebraic figure
+Rn
+
+ 
+
+
+ = c/ , = c/ , algebraic figure
+Tp^algebraic figure
+Tnalgebraic figure
+Tnalgebraic figure
+Rp^algebraic figure
+Rnalgebraic figure
+Rn
+
+ 
+
+ and se = ((1 - )/ + (1 - )/ ) ½. algebraic figure
+Tp^algebraic figure
+Tp^algebraic figure
+Tnalgebraic figure
+Rp^algebraic figure
+Rp^algebraic figure
+Rn
+
+ 
+
+The 90% confidence interval for the difference in proportions between test and 
+reference was calculated as follows, using Yates’ correction: 
+
+ 
+
+L = ( - ) – 1.645 se – (1/ + 1/)/2 algebraic figure
+Tp^algebraic figure
+Rp^algebraic figure
+Tnalgebraic figure
+Rn
+
+ 
+
+U = ( - ) + 1.645 se + (1/ + 1/)/2 algebraic figure
+Tp^algebraic figure
+Rp^algebraic figure
+Tnalgebraic figure
+Rn
+
+ 
+
+We reject H0 if L = -0.20 and U = 0.20 
+
+ 
+
+Rejection of the null hypothesis H0 supports the conclusion of equivalence of the 
+two products. 
+
+ 
+
+24. The Case Report Form (CRF) should clearly document the specific reason for use of 
+this product, e.g. new infestation of lice or failure to respond adequately to other 
+topical prescription or over-the counter treatments. Study data should be submitted to 
+the OGD in electronic format. 
+
+a. A list of file names, with a simple description of the content of each file, should 
+be included. Such a list should include an explanation of the variables included 
+in each of the data sets. 
+
+b. Please provide a “pdf” document with a detailed description of the codes that are 
+used for each variable in each of the SAS datasets (for example, Y=yes, N=no for 
+analysis population). 
+
+c. SAS transport files, covering all variables collected in the Case Report Forms 
+(CRFs) per subject, should include .xpt as the file extension and should not be 
+compressed. A simple SAS program to open the data transport files and SAS 
+files should be included. 
+
+d. Primary data sets should consist of two data sets: No Last Observation Carried 
+Forward (NO-LOCF-pure data set) and Last Observation Carried Forward 
+(LOCF- modified data set). 
+
+e. Please provide a separate dataset for variables such as demographics, disease 
+severity (IGA), vital signs, adverse events, disposition (including reason for 
+discontinuation of treatment,) concomitant medications, medical history, 
+compliance and comments, etc. 
+
+ 
+
+25. Please provide a summary dataset containing a separate line listing for each subject 
+(if data exist) using the following headings, if applicable: 
+
+a. Study identifier 
+b. Subject identifier 
+
+
+
+c. Site identifier: study center 
+d. Age 
+e. Age units (years) 
+f. Sex 
+g. Race 
+h. Name of Actual Treatment (exposure): test product, RLD, placebo 
+i. Date of Treatment One 
+j. Date of Treatment Two 
+k. Completed the study (yes/no) 
+l. Reason for premature discontinuation of subject 
+m. Subject required additional treatment for Pediculus humanus capitis due to 
+unsatisfactory treatment response (yes/no) 
+n. Per Protocol (PP) population inclusion (yes/no) 
+o. Reason for exclusion from PP population 
+p. Modified Intent to Treat (mITT) population inclusion (yes/no) 
+q. Reason for exclusion from mITT population 
+r. Safety population inclusion (yes/no) 
+s. Reason for exclusion from safety population 
+t. Final designation of treatment outcome (success/failure) on study Day 15 
+u. Compliance (i.e., was lotion applied and removed as instructed?) (yes/no) 
+v. Concomitant medication (yes/no) 
+w. Adverse event(s) reported (yes/no) 
+
+
+ 
+
+Please refer to Table 2 as an example. This sample table may contain additional 
+information not applicable to your study and/or it may not contain all information 
+applicable to your study. 
+
+ 
+
+Table 2: Example of a summary dataset containing one line listing for each subject 
+
+ 
+
+STUDYID 
+
+SUBJID 
+
+SITEID 
+
+AGE 
+
+ 
+
+AGEU 
+
+SEX 
+
+RACE 
+
+EXTRT 
+
+trt1_date 
+
+trt2_date 
+
+completd 
+
+disc_rs 
+
+add_tx 
+
+pp 
+
+pp_rs 
+
+mitt 
+
+mitt_rs 
+
+safety 
+
+safe_rs 
+
+tx_out 
+
+complian 
+
+CM 
+
+AE 
+
+101 
+
+1 
+
+01 
+
+5 
+
+YEARS 
+
+F 
+
+1 
+
+A 
+
+11-5-14 
+
+11-12-14 
+
+Y 
+
+ 
+
+N 
+
+Y 
+
+ 
+
+Y 
+
+ 
+
+Y 
+
+ 
+
+S 
+
+0 
+
+Y 
+
+Y 
+
+101 
+
+2 
+
+01 
+
+8 
+
+YEARS 
+
+F 
+
+1 
+
+B 
+
+12-2-14 
+
+12-9-14 
+
+Y 
+
+ 
+
+N 
+
+Y 
+
+ 
+
+Y 
+
+ 
+
+Y 
+
+ 
+
+S 
+
+0 
+
+N 
+
+N 
+
+
+
+ 
+
+Note: Capitalized headings are from Clinical Data Interchange Standards Consortium 
+(CDISC) Study Data Tabulation Model (SDTM) Implementation Guide (IG) for Human 
+Clinical Trials V3.1.2 Final dated 11/12/08. 
+
+ 
+
+STUDYID: Study Identifier 
+
+SUBJID: Subject Identifier for the Study 
+
+SITEID: Study Site Identifier 
+
+AGE: Age 
+
+AGEU: Age units (years) 
+
+
+SEX: Sex, e.g., M=Male, F=Female, U=Unknown 
+
+RACE: Race, e.g., 1=White, 2=Black or African American, 3=Asian, 
+
+ 4=American Indian or Alaska Native, 5=Native Hawaiian or Other 
+Pacific Islanders 
+
+EXTRT: Name of Actual Treatment (exposure), e.g., A=test product, B= RLD, 
+
+ C=placebo 
+
+trt1_date: Date of Treatment #1 (ex. November 5, 2014 would be displayed as 11- 
+
+ 5-14) 
+
+trt2_date: Date of Treatment #2 (ex. November 12, 2014 would be displayed as 
+
+ 11-12-14) 
+
+completd: Subject completed the study, e.g., Y=Yes, N=No 
+
+disc_rs: Reason for premature discontinuation from the study, e.g., A=adverse 
+
+event, B=death, C=lost to follow-up, D=non-compliance with 
+treatment, E=treatment unblinded, F=subject moved out of area, 
+G=unsatisfactory treatment response, H=withdrew consent, I=protocol 
+violation, K=other event, L=live lice noted at Visits 2, 3, or 4 
+
+add_trt: Subject required additional treatment for Pediculus humanus capitis 
+
+ due to unsatisfactory treatment response, e.g., Y=Yes, N=No 
+
+pp: Per Protocol (PP) population inclusion, e.g., Y=Yes, N=No 
+
+pp_rs: Reason for exclusion from PP population, e.g., A=prematurely 
+discontinued, B=lost to follow-up, C=subject moved out of the area, 
+D=noncompliant, etc. 
+
+mitt: Modified Intent to Treat (mITT) population inclusion, e.g., Y=Yes, 
+
+ N=No 
+
+mitt_rs: Reason for exclusion from mITT population, e.g., A=never treated, etc. 
+
+safety: Safety population inclusion, e.g., Y=Yes, N=No 
+
+safe_rs: Reason for exclusion from Safety population, e.g., A=never treated, etc. 
+
+tx_out: Final designation of treatment outcome based of live head lice on study 
+
+ Day 15, e.g., A=success, B=failure 
+
+complian: Treatment compliance (was lotion applied and removed as instructed?), 
+
+ e.g., Y=Yes, N=No 
+
+CM: Concomitant medication, e.g., Y=Yes, N=No 
+
+AE: Adverse event(s) reported, e.g., Y=Yes, N=No 
+
+ 
+
+26. Please provide a dataset containing a separate line listing for each visit per subject (if 
+data exist) using the following headers, if applicable: 
+
+a. Study identifier 
+
+b. Subject identifier 
+
+c. Name of Actual Treatment (exposure): test product, RLD, placebo 
+
+d. Visit number 
+
+e. Visit date 
+
+f. Number of days since baseline visit 
+
+g. Evaluator: identity of evaluator 
+
+h. Number of live head lice 
+
+i. Skin reaction score\s for each sign and symptom evaluated (e.g., erythema, 
+pyoderma, excoriation, edema, and pain) 
+
+
+j. Concomitant medication reported during this visit (yes/no) 
+
+k. Adverse event reported during this visit (yes/no) 
+
+l. Laboratory testing during this visit (yes/no) 
+
+ 
+
+Please refer to Table 3 as an example. This sample table may contain additional 
+information not applicable to your study and/or it may not contain all information 
+applicable to your study. 
+
+ 
+
+Table 3: Example of dataset containing one line listing for each visit per subject 
+
+ 
+
+STUDYID 
+
+SUBJID 
+
+EXTRT 
+
+VISITNUM 
+
+ 
+
+SVSTDTC 
+
+ELTMBS 
+
+EVAL 
+
+live_lic 
+
+sr_eryth 
+
+sr_pyod 
+
+sr_excor 
+
+sr_edema 
+
+sr_pain 
+
+CMrpt 
+
+AErpt 
+
+LBtest 
+
+101 
+
+1 
+
+A 
+
+1 
+
+2004-07-01 
+
+0 
+
+ 
+
+4 
+
+0 
+
+0 
+
+1 
+
+0 
+
+0 
+
+Y 
+
+N 
+
+Y 
+
+
+
+ 
+
+Note: Capitalized headings are from Clinical Data Interchange Standards Consortium 
+(CDISC) Study Data Tabulation Model (SDTM) Implementation Guide (IG) for Human 
+Clinical Trials V3.1.2 Final dated 11/12/08. 
+
+ 
+
+STUDYID: Study Identifier 
+
+SUBJID: Subject Identifier for the Study 
+
+EXTRT: Name of Actual Treatment (exposure), e.g., A=test product, B=RLD, 
+
+ C=placebo 
+
+VISITNUM: Visit Sequence Number 
+
+SVSTDTC: Visit date: (SVSTDTC=Subject Visit Start Date Time-Character) 
+
+ELTMBL: Elapsed Time since Baseline (days) 
+
+EVAL: Evaluator: identity of the evaluator 
+
+live_lic: Number of live head lice 
+
+sr_eryth: Skin reaction erythema score, e.g. 0=absent, 1=mild (slight, barely 
+
+perceptible), 2=moderate (distinct presence), 3=severe (marked, 
+intense) 
+
+sr_pyod: Skin reaction pyoderma score, e.g. 0=absent, 1=mild (slight, barely 
+
+perceptible), 2=moderate (distinct presence), 3-severe (marked, 
+intense) 
+
+sr_excor: Skin reaction excoriation score, e.g. 0=absent, 1=mild (slight, barely 
+
+perceptible), 2=moderate (distinct presence), 3=severe (marked, 
+intense) 
+
+sr_edema: Skin reaction edema score, e.g. 0=absent, 1=mild (slight, barely 
+
+perceptible), 2=moderate (distinct presence), 3=severe (marked, 
+intense) 
+
+sr_pain: Skin reaction pain score, e.g. 0=absent, 1=mild (slight, barely 
+
+perceptible), 2=moderate (distinct presence), 3=severe (marked, 
+intense) 
+
+CMrpt: Concomitant Medication reported during this visit, e.g., Y=Yes, N=No 
+
+
+AErpt: Adverse Event reported during this visit, e.g., Y=Yes, N=No 
+
+LBtest: Laboratory Testing performed during this visit, e.g., Y=Yes, N=No 
+
+ 
+
+27. These recommendations are specific to this product and may not be appropriate for 
+bioequivalence studies of any other product, including any other dosage form or 
+strength of benzyl alcohol. 
+
+ 
+
+ 
+
+

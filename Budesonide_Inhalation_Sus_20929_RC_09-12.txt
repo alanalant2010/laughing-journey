@@ -1,0 +1,2994 @@
+ 
+
+Active ingredient: Budesonide 
+
+ 
+
+Form/Route: Suspension/Inhalation 
+
+ 
+
+Recommended studies: 
+
+ 
+
+1. Testing Requirements for the Highest Strength (1 mg/2 mL) Product: 
+
+
+
+
+The generic budesonide suspension/inhalation product must be qualitatively (Q1) and 
+quantitatively (Q2) the same as the reference listed drug product (RLD). 
+
+ 
+
+Option A. In Vitro Bioequivalence Studies Alone: 
+
+ 
+
+The following in vitro comparative tests are recommended. Pari LC Plus Nebulizer/Pari 
+Master compressor system is recommended for those tests requiring nebulization. The tests 
+include: 
+
+ 
+
+1) Sameness of polymorphic form of the drug substance based on X-ray diffraction. 
+
+ 
+
+2) Sameness of shape (crystalline habit) of the drug substance. 
+
+ 
+
+3) Comparative Unit Dose Content (UDC) of drug in the ampules. 
+
+ 
+
+4) Comparative Mean Nebulization Time (MNT) and Mean Delivered Dose (MDD): The 
+test should be conducted at the mouthpiece (% nominal dose) at the labeled flow rate of 
+5.5 L/min through such time that mist is no longer coming out of the mouthpiece. 
+
+ 
+
+5) Comparative drug particle and agglomerate Particle Size Distribution (PSD) in the 
+suspension (in the ampoule): The PSD determination should be based on a validated 
+method. Validation should demonstrate method sensitivity to drug particle size over the 
+expected size range in the suspension. 
+
+ 
+
+6) Comparative drug particle and agglomerate PSD in the nebulized aerosol: Recommended 
+method for this test is the aerodynamic particle size distribution (APSD) of the nebulized 
+aerosol based on Apparatus 5 (USP <601>) at a flow rate of 15 L/min through the 
+Apparatus. We recommend the study be conducted based on USP <1601> using the Pari 
+LC Plus Nebulizer/Pari Master compressor system. The amount of drug deposited on the 
+induction port, the seven stages of the cascade impactor, and the sum of the back-up filter 
+and micro-orifice collector (MOC) should be submitted.
+
+
+7) Comparative aqueous droplet size distribution of the nebulized aerosol by a Laser 
+diffraction method. 
+
+ 
+
+Option B. Combination of In Vitro and In Vivo Bioequivalence Studies: 
+
+ 
+
+1) Tests should include all described above in 1. Option A, with the exception of 
+comparative drug particle and agglomerate PSD in the nebulized aerosol referred 
+in 1. Option A. 6) 
+
+ 
+
+2) A clinical endpoint bioequivalence study, with demonstration of acceptable dose-
+response for test and reference products to assure study sensitivity. At this time, 
+the Agency has no recommendations regarding the clinical bioequivalence study 
+design. 
+
+ 
+
+3) A systemic exposure (pharmacokinetic) bioequivalence study. 
+
+ 
+
+2. Testing Requirements for the Two Lower Strengths (0.5 mg/2 mL or 0.25 
+mg/2 mL) Products: 
+
+
+
+
+If the micronized budesonide (bulk drug) used in the lower strength product is the 
+same as that used in the higher strength product, i.e., same particle size, PSD, 
+polymorphic form, and shape, and the respective lower strength test and reference 
+formulations are Q1 and Q2 the same, the Division of Bioequivalence (DB) 
+recommends that the firm conduct the following tests for the lower strengths of the 
+test product: 
+
+ 
+
+Option A. In Vitro Bioequivalence Studies Alone: 
+
+ 
+
+If the comparative drug particle and agglomerate PSD in the nebulized aerosol 
+between the test and reference products for both the higher and lower strengths can be 
+determined, the following in vitro testing should be sufficient to demonstrate the 
+equivalence of the lower strengths: 
+
+ 
+
+1) Documentation of bioequivalence of the higher strength product based on 
+acceptable comparative in vitro data outlined above. 
+
+ 
+
+2) Comparative drug particle and agglomerate PSD in the suspension (in the 
+ampoule) between the respective lower strengths of the test and reference 
+products: The PSD determination should be based on a validated method. 
+Validation should demonstrate method sensitivity to drug particle size over the 
+expected size range in the suspension. 
+
+ 
+
+3) Comparative drug particle and agglomerate PSD in the nebulized aerosol between 
+the respective lower strengths of the test and reference products: Recommended 
+method for this test is the aerodynamic particle size distribution (APSD) of the 
+
+
+nebulized aerosol based on Apparatus 5 (USP <601>) at a flow rate of 15 L/min 
+through the Apparatus. We recommend the study be conducted based on USP 
+<1601> using the Pari LC Plus Nebulizer/Pari Master compressor system. The 
+amount of drug deposited on the induction port, the seven stages of the cascade 
+impactor, and the sum of the back-up filter and micro-orifice collector (MOC) 
+should be submitted. 
+
+ 
+
+4) Comparative Unit Dose Content (UDC) of drug between the respective lower 
+strengths of the test and reference products. 
+
+ 
+
+5) Comparative Mean Nebulization Time (MNT) and Mean Delivered Dose (MDD): 
+The test should be conducted at the mouthpiece (% nominal dose) at the labeled 
+flow rate of 5.5 L/min through such time that mist is no longer coming out of the 
+mouthpiece, between the respective lower strengths of the test and reference 
+products. 
+
+ 
+
+6) The Mean Delivered Dose (MDD) ratio of the higher to lower strength of the test 
+product should be similar to that of the reference product. 
+
+ 
+
+Option B. Combination of In Vitro and In Vivo Bioequivalence Studies: 
+
+ 
+
+If the drug particle and agglomerate PSD in the nebulized aerosols of the higher and 
+lower strengths of the test and reference products cannot be determined as described 
+above, the following testing should be sufficient to demonstrate the equivalence of the 
+lower strengths: 
+
+ 
+
+1) Documentation of bioequivalence of the higher strength product based on 
+acceptable comparative in-vivo and in-vitro data outlined in 1, option B. 
+
+ 
+
+2) Comparative Unit Dose Content (UDC) of drug between the respective lower 
+strengths of the test and reference products. 
+
+ 
+
+3) Comparative Mean Nebulization Time (MNT) and Mean Delivered Dose (MDD) 
+at the mouthpiece (% nominal dose) at the labeled flow rate of 5.5 L/min through 
+such time that mist is no longer coming out of the mouthpiece, between the 
+respective lower strengths of the test and reference products. 
+
+ 
+
+4) The Mean Delivered Dose (MDD) ratio of the higher to lower strength of the test 
+product should be similar to that of the reference product. 
+
+ 
+
+
+3. Recommendations Related to the Batch Size Recommendation for In Vitro BE 
+Studies: 
+
+1) In vitro BE studies for Budesonide Inhalation Suspension should generally be 
+performed on samples from each of three or more batches of the test product and 
+three or more batches of the reference listed drug. 
+
+ 
+
+2) The number of units per batch to be studied should not be fewer than 30 for each 
+strength of the test and reference products (i.e., no fewer than 10 from each of 
+three batches). 
+
+ 
+
+4. Recommendations Related to the Number of Retention Samples of Test Article 
+from the In Vivo and In Vitro BE Studies: 
+
+According to 21 CFR 320.63, the applicant and the contract research organization “shall 
+retain reserved samples for any test article and reference standard used in conducting an 
+in vivo or in vitro bioequivalence study required for approval of the abbreviated 
+application or supplemental application.” 
+
+ 
+
+A. If the BE studies are conducted at one site, the number of BE retention samples for 
+Budesonide Inhalation Suspension drug product is recommended as follows: 
+
+ 
+
+At least 50 units for each batch of test and reference products, including placebos 
+(if applicable), must be retained for BE studies for Budesonide Inhalation 
+Suspension drug product, in line with the FDA draft Guidance for Industry 
+“Bioavailability and Bioequivalence Studies for Nasal Aerosols and Nasal Sprays 
+for Local Action (April 2003), for multi-unit nasal aerosols and nasal sprays 
+delivering 30 or more actuations per canister or bottle. 
+
+ 
+
+B. If the BE studies are conducted at multiple sites, the number of BE retention 
+samples for Budesonide Inhalation Suspension drug product is recommended as 
+follows: 
+
+ 
+
+At least 50 units for each batch of test and reference products, including placebos 
+(if applicable), with not less than 10 units per each batch per site, be retained for 
+the BE studies. For instance, if a BE study is conducted at 6 sites, using 1 batch of 
+the test and reference products, the total number of reserve samples to be retained 
+for the test and reference products must be at least 60, with at least 10 units per 
+each batch per site (10 units/batch/site X 1 batch/product X 6 sites = at least 60 
+units/product). 
+
+
+ 
+
+5. Recommendation Related to the Population Bioequivalence (PBE) Statistical 
+Analysis Procedure Used in Bioequivalence Determination of Budesonide 
+Suspension Inhalation Product: 
+
+A. Step-wise Procedure of the PBE Computation: 
+
+ 
+
+Step 1. Establish population BE criterion: 
+
+Population BE criterion: 
+
+ 
+
+algebraic expression
+()().sssµµ=
+-+-
+2222RRTRT or algebraic expression
+()().sssµµ=
+-+-
+20222TRTRT 
+
+ 
+
+Linerarized Criteria: 
+
+algebraic expression
+()()022221<•--+-=RpRTRTs.ssµµ. for algebraic expression
+0TRss>
+
+algebraic expression
+()()0202222<•--+-=TpRTRTs.ssµµ. for algebraic expression
+0TRss=
+
+ 
+
+ 
+
+ 
+
+Where, 
+
+ 
+
+algebraic expression
+RTµµ-: Mean difference of T (log scale) and R (log scale) products 
+
+ 
+
+algebraic expression
+22,RTss: Total variance of T and R products 
+
+sTO 
+: Regulatory constant (sTO= 0.1) 
+
+ 
+
+.p: Regulatory constant (.p= 2.0891) calculated as following: 
+
+ 
+
+ algebraic expression
+089.21.001.0)]11.1[ln(
+22=
++ 
+
+
+ 
+
+Estimating the Linerarized Criteria: 
+
+ 
+
+algebraic expression
+mMSWmmMSBmMSWmmMSBRpRpTT)1()1()1()1(ˆ21-
++-+-
+-
+++.=...) 
+for algebraic expression
+0TRss> 
+
+ 
+
+algebraic expression
+2022)1()1(ˆTpRRTTmMSWmmMSBmMSWmmMSBs..-
+-
+--
+-
+++.=) for algebraic expression
+0TRss= 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Where, 
+
+ 
+
+ algebraic expression
+······-=.RTXX) 
+
+
+ 
+
+m: number of life stages 
+
+MSWT : within-bottle variability for test product 
+
+MSWR : within-bottle variability for reference product 
+
+(MSBT -MSWT )/m : between-bottle variability for test product 
+
+(MSBR – MSWR)/m : between-bottle variability for reference product 
+
+ 
+
+Step 2. Calculate MSB and MSW: 
+
+Calculation for MSWT, MSWR, MSBT and MSBR can be conducted as follows. 
+
+ 
+
+algebraic expression
+1)(
+112-·
+-·
+=
+SS==
+····
+kkjnikijkknXXmMSBkkll 
+k refers to either test or reference product 
+
+ 
+
+algebraic expression
+)1(
+)(
+1112-··
+-
+=
+SSS===
+·
+mnXXMSWkkjnimsijkijkskkkll 
+
+
+algebraic expression
+mXXmsijksijkS=
+·=1; algebraic expression
+kkinjijkknXXkkll·
+=
+SS==
+·
+···
+11 
+
+ 
+
+algebraic expression
+RTnn, : Number of canisters or bottles per batch, for T and R products 
+
+ 
+
+algebraic expression
+RTll,: Number of batches of T and R products 
+
+ 
+
+Xijks is the ith bottle in batch # j at life stage s for test or reference product; 
+
+ 
+
+algebraic expression
+·ijkXis the average m life stages for ith bottle in batch # j; 
+
+ 
+
+algebraic expression
+·kX..is the population mean for the reference or test products. 
+
+ 
+
+
+ 
+
+ 
+
+Step 3. Calculate sR and sT 
+
+1) sR can be conducted as follow: 
+
+ 
+
+sR = algebraic expression
+mMSWmmMSBRR)1(-
++ 
+
+a. If sR > sTO (regulatory constant, 0.1), using the reference-scaled procedure to 
+determine BE for the measured parameter(s) 
+
+
+b. If sR = sT0 (regulatory constant, 0.1), using the constant-scaled procedure to 
+determine BE for the measured parameter(s) 
+
+
+
+
+ 
+
+ 
+
+ 2) sT can be conducted as follow: 
+
+ 
+
+ sT = algebraic expression
+mMSWmmMSBTT)1(-
++ 
+
+ 
+
+Step 4. Calculate linearized point estimate and 95% upper confidence bound: 
+
+1) Reference-scaled Criterion (): Use a=0.05 for a 95% upper confidence bound: algebraic expression
+1..
+
+ 
+
+Equation for Linearized Point Estimate: 
+
+ 
+
+Eq = ED+ E1+ E2+ E3s+ E4s 
+
+ 
+
+95% upper confidence bound (H.1): 
+
+ 
+
+H.1 = (ED+ E1+ E2+ E3s+ E4s) + (UD+ U1+ U2+U3s+U4s)½ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Following are the equations to compute each component: 
+
+ 
+
+Eq= Point Estimate 
+
+Hq= Confidence Bound 
+
+Uq=(Hq- Eq)2 
+
+algebraic expression
+2DE.
+=. 
+
+algebraic expression
+22/12,1
+ˆ
+..
+.
+.
+..
+.
+.
+...
+.
+...
+.
+··
++
+··
++.=-·+·-mnMSBmnMSBtHRRRTTTnnDRRTTlllla 
+
+algebraic expression
+DU 
+
+algebraic expression
+mMSBET=1 
+
+algebraic expression
+2,11)1(1a.-·
+·-·
+=
+TTnTTEnHll 
+
+algebraic expression
+1U 
+
+algebraic expression
+mMSWmET·-
+=)1(2 
+
+algebraic expression
+2),1(
+2)1(2a.-··
+·-··
+=
+mnTTTTEmnHll 
+
+algebraic expression
+2U 
+
+algebraic expression
+mMSBsERp)1(3.+-= 
+
+algebraic expression
+21,13)1(3a.--·
+·-·
+=
+RRnRRsEnsHll 
+
+algebraic expression
+sU3 
+
+algebraic expression
+mMSWmsERp)1()1(4-
++-=. 
+
+ 
+
+algebraic expression
+21),1(
+4)1(4a.--··
+·-··
+=
+mnRRRRsEmnsHll 
+
+algebraic expression
+sU4 
+
+ 
+
+
+
+ 
+
+Where is from the cumulative distribution function of the chi-square 
+distribution with degrees of freedom, i.e. algebraic expression
+2,1a.-·TTnlalgebraic expression
+1-·TTnlalgebraic expression
+a..a==-·-·)Pr(2,121TTTTnnll
+
+ 
+
+For data collected on one life stage (m=1), ignore E2 and E4s and their corresponding H 
+and U terms in the calculation. For data collected on more than one stage (m=2), use the 
+equations listed above. 
+
+ 
+
+2) Constant-scaled Criterion (): Use a=0.05 for a 95% upper confidence bound: algebraic expression
+2..
+
+ 
+
+Equation for Linearized Point Estimate: 
+
+ 
+
+ Eq = ED+ E1+ E2+ E3c+ E4c- .psT02 
+
+95% upper confidence bound (H.2): 
+
+ 
+
+H.2= (ED+ E1+ E2+ E3c+ E4c - .psT02 ) + (UD+ U1+ U2+U3c+U4c)½ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Following are the equations to compute each component: 
+
+ 
+
+ 
+
+Eq= Point Estimate 
+
+Hq= Confidence Bound 
+
+Uq=(Hq- Eq)2 
+
+algebraic expression
+2DE.
+=. 
+
+algebraic expression
+22/12,1
+ˆ
+..
+.
+.
+..
+.
+.
+...
+.
+...
+.
+··
++
+··
++.=-·+·-mnMSBmnMSBtHRRRTTTnnDRRTTlllla 
+
+algebraic expression
+DU 
+
+algebraic expression
+mMSBET=1 
+
+algebraic expression
+2,11)1(1a.-·
+·-·
+=
+TTnTTEnHll 
+
+algebraic expression
+1U 
+
+algebraic expression
+mMSWmET·-
+=)1(2 
+
+algebraic expression
+2),1(
+2)1(2a.-··
+·-··
+=
+mnTTTTEmnHll 
+
+algebraic expression
+2U 
+
+algebraic expression
+mMSBcER-=3 
+
+algebraic expression
+21,13)1(3a.--·
+·-·
+=
+RRnRRcEncHll 
+
+algebraic expression
+cU3 
+
+algebraic expression
+mMSWmcER)1(4-
+-= 
+
+ 
+
+algebraic expression
+21),1(
+4)1(4a.--··
+·-··
+=
+mnRRRRrcEmncHll 
+
+ 
+
+algebraic expression
+cU4 
+
+
+
+ 
+
+For data collected on one life stage (m=1), ignore E2 and E4c and their corresponding H 
+and U terms in the calculation. For data collected on more than one stage (m=2), use the 
+equations listed above. 
+
+ 
+
+The method of obtaining the upper confidence bound is based on two FDA guidances: 1) 
+Statistical Information from the June 1999 Draft Guidance and Statistical Information for 
+In Vitro Bioequivalence Posted on August 18, 1999, accompanying to Draft Guidance for 
+Industry: Bioavailability and Bioequivalence Studies for Nasal Aerosols and Nasal 
+Sprays for Local Action (April 2003); and 2) Guidance for Industry: Statistical 
+Approaches to Establishing Bioequivalence (Jan. 2001). The concept is adapted from the 
+method for the two-sequence, four-period study design using T-distribution. 
+
+ 
+
+Step 5. For the test product to be bioequivalent to the reference product, the 
+following condition must be satisfied: 
+
+The 95% upper confidence bound for linearlized criteria H. must be = 0. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+B. An Example of PBE Computation: 
+
+ 
+
+Study Design: The data given in this example are simulated. A parallel design with two 
+products (test or reference) including 3 batches and 10 bottles/containers per batch for 
+each product with three life stages (beginning, middle and end). 
+
+ 
+
+Batches 
+
+Container 
+
+Stage 
+
+Product 
+
+In vitro measurement 
+
+1 
+
+31 
+
+B 
+
+REF 
+
+5.957211 
+
+1 
+
+31 
+
+M 
+
+REF 
+
+5.961802 
+
+1 
+
+31 
+
+E 
+
+REF 
+
+5.967178 
+
+1 
+
+32 
+
+B 
+
+REF 
+
+6.010251 
+
+1 
+
+32 
+
+M 
+
+REF 
+
+6.004711 
+
+1 
+
+32 
+
+E 
+
+REF 
+
+6.004797 
+
+1 
+
+33 
+
+B 
+
+REF 
+
+5.884161 
+
+1 
+
+33 
+
+M 
+
+REF 
+
+5.894085 
+
+1 
+
+33 
+
+E 
+
+REF 
+
+5.895977 
+
+1 
+
+34 
+
+B 
+
+REF 
+
+5.624705 
+
+1 
+
+34 
+
+M 
+
+REF 
+
+5.632991 
+
+1 
+
+34 
+
+E 
+
+REF 
+
+5.614428 
+
+1 
+
+35 
+
+B 
+
+REF 
+
+5.957329 
+
+1 
+
+35 
+
+M 
+
+REF 
+
+5.966059 
+
+1 
+
+35 
+
+E 
+
+REF 
+
+5.968143 
+
+1 
+
+36 
+
+B 
+
+REF 
+
+5.074298 
+
+1 
+
+36 
+
+M 
+
+REF 
+
+5.063063 
+
+1 
+
+36 
+
+E 
+
+REF 
+
+5.058519 
+
+1 
+
+37 
+
+B 
+
+REF 
+
+5.418587 
+
+1 
+
+37 
+
+M 
+
+REF 
+
+5.420591 
+
+1 
+
+37 
+
+E 
+
+REF 
+
+5.418178 
+
+1 
+
+38 
+
+B 
+
+REF 
+
+6.325178 
+
+1 
+
+38 
+
+M 
+
+REF 
+
+6.321954 
+
+1 
+
+38 
+
+E 
+
+REF 
+
+6.303148 
+
+1 
+
+39 
+
+B 
+
+REF 
+
+5.656286 
+
+1 
+
+39 
+
+M 
+
+REF 
+
+5.68025 
+
+1 
+
+39 
+
+E 
+
+REF 
+
+5.675036 
+
+1 
+
+40 
+
+B 
+
+REF 
+
+5.792299 
+
+1 
+
+40 
+
+M 
+
+REF 
+
+5.775161 
+
+1 
+
+40 
+
+E 
+
+REF 
+
+5.793083 
+
+2 
+
+41 
+
+B 
+
+REF 
+
+5.601033 
+
+2 
+
+41 
+
+M 
+
+REF 
+
+5.611223 
+
+2 
+
+41 
+
+E 
+
+REF 
+
+5.601142 
+
+2 
+
+42 
+
+B 
+
+REF 
+
+5.61553 
+
+2 
+
+42 
+
+M 
+
+REF 
+
+5.587412 
+
+2 
+
+42 
+
+E 
+
+REF 
+
+5.591004 
+
+2 
+
+43 
+
+B 
+
+REF 
+
+5.682466 
+
+2 
+
+43 
+
+M 
+
+REF 
+
+5.676472 
+
+2 
+
+43 
+
+E 
+
+REF 
+
+5.671434 
+
+2 
+
+44 
+
+B 
+
+REF 
+
+5.844336 
+
+
+
+
+2 
+
+44 
+
+M 
+
+REF 
+
+5.855172 
+
+2 
+
+44 
+
+E 
+
+REF 
+
+5.862329 
+
+2 
+
+45 
+
+B 
+
+REF 
+
+5.898151 
+
+2 
+
+45 
+
+M 
+
+REF 
+
+5.883657 
+
+2 
+
+45 
+
+E 
+
+REF 
+
+5.878956 
+
+2 
+
+46 
+
+B 
+
+REF 
+
+6.100662 
+
+2 
+
+46 
+
+M 
+
+REF 
+
+6.105463 
+
+2 
+
+46 
+
+E 
+
+REF 
+
+6.108098 
+
+2 
+
+47 
+
+B 
+
+REF 
+
+6.294753 
+
+2 
+
+47 
+
+M 
+
+REF 
+
+6.28534 
+
+2 
+
+47 
+
+E 
+
+REF 
+
+6.302333 
+
+2 
+
+48 
+
+B 
+
+REF 
+
+5.638072 
+
+2 
+
+48 
+
+M 
+
+REF 
+
+5.627372 
+
+2 
+
+48 
+
+E 
+
+REF 
+
+5.623516 
+
+2 
+
+49 
+
+B 
+
+REF 
+
+5.113562 
+
+2 
+
+49 
+
+M 
+
+REF 
+
+5.122454 
+
+2 
+
+49 
+
+E 
+
+REF 
+
+5.109271 
+
+2 
+
+50 
+
+B 
+
+REF 
+
+5.932752 
+
+2 
+
+50 
+
+M 
+
+REF 
+
+5.913438 
+
+2 
+
+50 
+
+E 
+
+REF 
+
+5.912427 
+
+3 
+
+51 
+
+B 
+
+REF 
+
+5.961947 
+
+3 
+
+51 
+
+M 
+
+REF 
+
+5.955332 
+
+3 
+
+51 
+
+E 
+
+REF 
+
+5.943721 
+
+3 
+
+52 
+
+B 
+
+REF 
+
+6.2334 
+
+3 
+
+52 
+
+M 
+
+REF 
+
+6.250689 
+
+3 
+
+52 
+
+E 
+
+REF 
+
+6.219668 
+
+3 
+
+53 
+
+B 
+
+REF 
+
+6.041431 
+
+3 
+
+53 
+
+M 
+
+REF 
+
+6.038234 
+
+3 
+
+53 
+
+E 
+
+REF 
+
+6.080464 
+
+3 
+
+54 
+
+B 
+
+REF 
+
+6.049713 
+
+3 
+
+54 
+
+M 
+
+REF 
+
+6.039759 
+
+3 
+
+54 
+
+E 
+
+REF 
+
+6.054218 
+
+3 
+
+55 
+
+B 
+
+REF 
+
+6.834563 
+
+3 
+
+55 
+
+M 
+
+REF 
+
+6.85264 
+
+3 
+
+55 
+
+E 
+
+REF 
+
+6.857395 
+
+3 
+
+56 
+
+B 
+
+REF 
+
+4.864966 
+
+3 
+
+56 
+
+M 
+
+REF 
+
+4.907521 
+
+3 
+
+56 
+
+E 
+
+REF 
+
+4.891049 
+
+3 
+
+57 
+
+B 
+
+REF 
+
+5.895176 
+
+3 
+
+57 
+
+M 
+
+REF 
+
+5.885851 
+
+3 
+
+57 
+
+E 
+
+REF 
+
+5.874895 
+
+3 
+
+58 
+
+B 
+
+REF 
+
+6.45826 
+
+3 
+
+58 
+
+M 
+
+REF 
+
+6.443113 
+
+3 
+
+58 
+
+E 
+
+REF 
+
+6.435882 
+
+3 
+
+59 
+
+B 
+
+REF 
+
+6.090533 
+
+3 
+
+59 
+
+M 
+
+REF 
+
+6.102835 
+
+3 
+
+59 
+
+E 
+
+REF 
+
+6.077606 
+
+
+
+
+3 
+
+60 
+
+B 
+
+REF 
+
+5.886724 
+
+3 
+
+60 
+
+M 
+
+REF 
+
+5.920949 
+
+3 
+
+60 
+
+E 
+
+REF 
+
+5.915749 
+
+4 
+
+1 
+
+B 
+
+TEST 
+
+6.894594 
+
+4 
+
+1 
+
+M 
+
+TEST 
+
+6.913011 
+
+4 
+
+1 
+
+E 
+
+TEST 
+
+6.895764 
+
+4 
+
+2 
+
+B 
+
+TEST 
+
+5.832334 
+
+4 
+
+2 
+
+M 
+
+TEST 
+
+5.846562 
+
+4 
+
+2 
+
+E 
+
+TEST 
+
+5.832269 
+
+4 
+
+3 
+
+B 
+
+TEST 
+
+6.235755 
+
+4 
+
+3 
+
+M 
+
+TEST 
+
+6.26231 
+
+4 
+
+3 
+
+E 
+
+TEST 
+
+6.245095 
+
+4 
+
+4 
+
+B 
+
+TEST 
+
+5.646185 
+
+4 
+
+4 
+
+M 
+
+TEST 
+
+5.635887 
+
+4 
+
+4 
+
+E 
+
+TEST 
+
+5.63034 
+
+4 
+
+5 
+
+B 
+
+TEST 
+
+5.960711 
+
+4 
+
+5 
+
+M 
+
+TEST 
+
+5.962902 
+
+4 
+
+5 
+
+E 
+
+TEST 
+
+5.961959 
+
+4 
+
+6 
+
+B 
+
+TEST 
+
+5.500354 
+
+4 
+
+6 
+
+M 
+
+TEST 
+
+5.508444 
+
+4 
+
+6 
+
+E 
+
+TEST 
+
+5.513115 
+
+4 
+
+7 
+
+B 
+
+TEST 
+
+6.663099 
+
+4 
+
+7 
+
+M 
+
+TEST 
+
+6.64733 
+
+4 
+
+7 
+
+E 
+
+TEST 
+
+6.651215 
+
+4 
+
+8 
+
+B 
+
+TEST 
+
+5.724774 
+
+4 
+
+8 
+
+M 
+
+TEST 
+
+5.72086 
+
+4 
+
+8 
+
+E 
+
+TEST 
+
+5.71411 
+
+4 
+
+9 
+
+B 
+
+TEST 
+
+6.183375 
+
+4 
+
+9 
+
+M 
+
+TEST 
+
+6.186433 
+
+4 
+
+9 
+
+E 
+
+TEST 
+
+6.182109 
+
+4 
+
+10 
+
+B 
+
+TEST 
+
+5.64053 
+
+4 
+
+10 
+
+M 
+
+TEST 
+
+5.648589 
+
+4 
+
+10 
+
+E 
+
+TEST 
+
+5.626395 
+
+5 
+
+11 
+
+B 
+
+TEST 
+
+6.69764 
+
+5 
+
+11 
+
+M 
+
+TEST 
+
+6.71128 
+
+5 
+
+11 
+
+E 
+
+TEST 
+
+6.699829 
+
+5 
+
+12 
+
+B 
+
+TEST 
+
+6.555609 
+
+5 
+
+12 
+
+M 
+
+TEST 
+
+6.549935 
+
+5 
+
+12 
+
+E 
+
+TEST 
+
+6.551611 
+
+5 
+
+13 
+
+B 
+
+TEST 
+
+5.009683 
+
+5 
+
+13 
+
+M 
+
+TEST 
+
+5.013969 
+
+5 
+
+13 
+
+E 
+
+TEST 
+
+5.010928 
+
+5 
+
+14 
+
+B 
+
+TEST 
+
+5.440976 
+
+5 
+
+14 
+
+M 
+
+TEST 
+
+5.42057 
+
+5 
+
+14 
+
+E 
+
+TEST 
+
+5.447687 
+
+5 
+
+15 
+
+B 
+
+TEST 
+
+6.477609 
+
+5 
+
+15 
+
+M 
+
+TEST 
+
+6.456082 
+
+
+
+
+5 
+
+15 
+
+E 
+
+TEST 
+
+6.448981 
+
+5 
+
+16 
+
+B 
+
+TEST 
+
+6.442601 
+
+5 
+
+16 
+
+M 
+
+TEST 
+
+6.426217 
+
+5 
+
+16 
+
+E 
+
+TEST 
+
+6.436262 
+
+5 
+
+17 
+
+B 
+
+TEST 
+
+5.640496 
+
+5 
+
+17 
+
+M 
+
+TEST 
+
+5.63846 
+
+5 
+
+17 
+
+E 
+
+TEST 
+
+5.640755 
+
+5 
+
+18 
+
+B 
+
+TEST 
+
+6.597718 
+
+5 
+
+18 
+
+M 
+
+TEST 
+
+6.599232 
+
+5 
+
+18 
+
+E 
+
+TEST 
+
+6.609437 
+
+5 
+
+19 
+
+B 
+
+TEST 
+
+6.007241 
+
+5 
+
+19 
+
+M 
+
+TEST 
+
+5.990695 
+
+5 
+
+19 
+
+E 
+
+TEST 
+
+5.984292 
+
+5 
+
+20 
+
+B 
+
+TEST 
+
+6.781806 
+
+5 
+
+20 
+
+M 
+
+TEST 
+
+6.774386 
+
+5 
+
+20 
+
+E 
+
+TEST 
+
+6.784001 
+
+6 
+
+21 
+
+B 
+
+TEST 
+
+5.993852 
+
+6 
+
+21 
+
+M 
+
+TEST 
+
+5.994287 
+
+6 
+
+21 
+
+E 
+
+TEST 
+
+5.993541 
+
+6 
+
+22 
+
+B 
+
+TEST 
+
+6.012322 
+
+6 
+
+22 
+
+M 
+
+TEST 
+
+6.006182 
+
+6 
+
+22 
+
+E 
+
+TEST 
+
+6.017961 
+
+6 
+
+23 
+
+B 
+
+TEST 
+
+5.965969 
+
+6 
+
+23 
+
+M 
+
+TEST 
+
+5.97125 
+
+6 
+
+23 
+
+E 
+
+TEST 
+
+5.967839 
+
+6 
+
+24 
+
+B 
+
+TEST 
+
+5.592609 
+
+6 
+
+24 
+
+M 
+
+TEST 
+
+5.581154 
+
+6 
+
+24 
+
+E 
+
+TEST 
+
+5.588877 
+
+6 
+
+25 
+
+B 
+
+TEST 
+
+6.002182 
+
+6 
+
+25 
+
+M 
+
+TEST 
+
+6.011583 
+
+6 
+
+25 
+
+E 
+
+TEST 
+
+6.018746 
+
+6 
+
+26 
+
+B 
+
+TEST 
+
+5.267014 
+
+6 
+
+26 
+
+M 
+
+TEST 
+
+5.272291 
+
+6 
+
+26 
+
+E 
+
+TEST 
+
+5.265213 
+
+6 
+
+27 
+
+B 
+
+TEST 
+
+5.766104 
+
+6 
+
+27 
+
+M 
+
+TEST 
+
+5.786727 
+
+6 
+
+27 
+
+E 
+
+TEST 
+
+5.773194 
+
+6 
+
+28 
+
+B 
+
+TEST 
+
+6.054975 
+
+6 
+
+28 
+
+M 
+
+TEST 
+
+6.05232 
+
+6 
+
+28 
+
+E 
+
+TEST 
+
+6.061088 
+
+6 
+
+29 
+
+B 
+
+TEST 
+
+5.838689 
+
+6 
+
+29 
+
+M 
+
+TEST 
+
+5.837566 
+
+6 
+
+29 
+
+E 
+
+TEST 
+
+5.842508 
+
+6 
+
+30 
+
+B 
+
+TEST 
+
+5.784255 
+
+6 
+
+30 
+
+M 
+
+TEST 
+
+5.789891 
+
+6 
+
+30 
+
+E 
+
+TEST 
+
+5.788662 
+
+
+
+ 
+
+
+Following the step-wise PBE computation procedure outlined above, the following 
+components can be determined: 
+
+ 
+
+Reference-scaled: 
+
+ 
+
+Eq related 
+intermediate 
+parameters 
+
+Hq related 
+intermediate 
+parameters 
+
+Uq related intermediate 
+parameters 
+
+H.= Eq + (Uq)½ 
+
+ED= 0.022094106 
+
+HD= 0.113976896 
+
+UD= 0.008442447 
+
+ 
+
+E1= 0.219742944 
+
+H1= 0.359860715 
+
+U1= 0.01963299 
+
+ 
+
+E2= 3.9108E-05 
+
+H2= 5.43319E-05 
+
+U2= 2.31765E-10 
+
+ 
+
+E3s= -0.505515326 
+
+H3s= -0.344478125 
+
+U3= 0.02593298 
+
+ 
+
+E4s= -0.000256672 
+
+H4s= -0.000194739 
+
+U4= 3.83572E-09 
+
+ 
+
+Eq (linearized point 
+estimate) = 
+
+-0.26389584 
+
+ 
+
+Uq= (Hq- Eq)2 = 0.054008421 
+
+H. = -0.031498721 
+
+
+
+ 
+
+Constant-scaled: 
+
+ 
+
+Eq related intermediate 
+parameters 
+
+Hq related intermediate 
+parameters 
+
+Uq related intermediate 
+parameters 
+
+H.= Eq + (Uq)½ 
+
+ED = 0.022094106 
+
+HD= 0.113976896 
+
+UD = 0.008442447 
+
+ 
+
+E1= 0.219742944 
+
+H1= 0.359860715 
+
+U1= 0.01963299 
+
+ 
+
+E2=3.9108E-05 
+
+H2= 5.43319E-05 
+
+U2= 2.31765E-10 
+
+ 
+
+E3c= -0.163644789 
+
+H3c= -0.111514028 
+
+U3= 0.002717616 
+
+ 
+
+E4c= -8.30895E-05 
+
+H4c= -6.30405E-05 
+
+U4= 4.0196E-10 
+
+ 
+
+Eq (linearized point 
+estimate) = 
+
+0.057257267 
+
+ 
+
+Uq= (Hq- Eq)2 = 0.030793054 
+
+H. = 0.232736764 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+Calculate sR: 
+
+ 
+
+sR = algebraic expression
+mMSWmmMSBRR)1(-
++= algebraic expression
+163727878.0= 0.4046 > 0.1 (regulatory constant), 
+therefore, reference-scaled procedure applies. 
+
+ 
+
+Since the 95% upper confidence bound for linearized criteria of reference-scaled 
+procedure is negative (-0.031498721), bioequivalence can be concluded. 
+
+ 
+
+C. Electronic Table Templates for BE Study Data 
+
+ 
+
+The following table templates have been developed in a concise format consistent with 
+the Common Technical Document (CTD). For electronic submission of the individual 
+data and summary data from the BE studies, please provide complete tables using the 
+
+
+formats indicated below, and send them as a part of the ANDA bioequivalence 
+submission. Submission of these electronic summary tables is necessary for improving 
+the efficiency of the review process. 
+
+ 
+
+Table 1. Individual Data of In Vitro Tests Using SAS Transport Format 
+
+ 
+
+Batches 
+
+Container 
+
+Stage 
+
+Product 
+
+In vitro measurement 
+(original data) 
+
+1 
+
+1 
+
+Beginning 
+
+Reference 
+
+ 
+
+1 
+
+1 
+
+Middle 
+
+Reference 
+
+ 
+
+1 
+
+1 
+
+End 
+
+Reference 
+
+ 
+
+2 
+
+2 
+
+Beginning 
+
+Test 
+
+ 
+
+2 
+
+2 
+
+Middle 
+
+Test 
+
+ 
+
+2 
+
+2 
+
+End 
+
+Test 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+Table 2. Summary Tables of PBE Results Using Word and/or PDF Format 
+
+ 
+
+ 
+
+Variable 
+
+Geometric Mean 
+
+Geometric 
+Mean Ratio 
+
+Standard Deviation 
+
+SigmaT/SigmaR 
+Ratio 
+
+Test 
+
+Reference 
+
+SigmaT 
+
+ 
+
+SigmaR 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+Scaled 
+
+Linearized Point 
+Estimate 
+
+95% Upper 
+Confidence Bound 
+
+Pass or Fail PBE 
+
+Reference-scaled 
+
+ 
+
+ 
+
+ 
+
+Constant-scaled 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+

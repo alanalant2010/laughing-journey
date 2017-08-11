@@ -1,0 +1,88 @@
+ 
+
+Active ingredient: Atovaquone 
+
+ 
+
+Form/Route: Tablets/Oral 
+
+ 
+
+Recommended studies: 2 studies 
+
+ 
+
+1. Type of study: Fasting 
+Design: Single-dose, two-treatment, two-period crossover in-vivo 
+
+Strength: 250 mg 
+
+Subjects: Normal healthy males and females, general population. 
+
+Additional Comments: You may also consider using a parallel study design due to 
+atovaquone’s long half-life. For long half-life drug products, an AUC truncated to 72 
+hours may be used in place of AUC0-t or AUC0-8. 
+
+
+
+
+______________________________________________________________________________ 
+
+ 
+
+2. Type of study: Fed 
+Design: Single-dose, two-treatment, two-period crossover in-vivo 
+
+Strength: 250 mg 
+
+Subjects: Normal healthy males and females, general population. 
+
+Additional comments: Please see comment above. 
+
+
+
+
+______________________________________________________________________________ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Atovaquone in plasma 
+
+ 
+
+Bioequivalence based on (90% CI): Atovaquone 
+
+ 
+
+Waiver request of in-vivo testing: Not Applicable 
+
+ 
+
+Dissolution test method and sampling times: 
+
+ 
+
+Please note that a Dissolution Methods Database is available to the public at the OGD website 
+at http://www.fda.gov/cder/ogd/index.htm. Please find the dissolution information for this 
+product at this website. Please conduct comparative dissolution testing on 12 dosage units each 
+of all strengths of the test and reference products. Specifications will be determined upon review 
+of the application. 
+
+ 
+
+Atovaquone is known to be practically insoluble in both water and 0.1 M HCl (<0.0002 mg/mL 
+at 25ºC). Use of conventional aqueous dissolution media with and without surfactant has been 
+found unsuccessful and not reproducible in some laboratories working with atovaquone tablet 
+products. If encountering the same difficulty, you may consider developing a dissolution method 
+
+
+similar to the method available in the Dissolution Database. Although the use of the high 
+alcoholic medium is not considered conventional, it has been found justifiable by the FDA for 
+this drug substance. 
+
+ 
+
+You may develop an alternate dissolution testing method for the drug product and submit the 
+dissolution testing results when the application is filed. 
+
+

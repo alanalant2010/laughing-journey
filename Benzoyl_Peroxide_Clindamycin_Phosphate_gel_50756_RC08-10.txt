@@ -1,0 +1,576 @@
+Contains Nonbinding Recommendations 
+
+Draft Guidance on Benzoyl Peroxide; Clindamycin Phosphate 
+
+This draft guidance, once finalized, will represent the Food and Drug Administration's (FDA's) 
+current thinking on this topic. It does not create or confer any rights for or on any person and does 
+not operate to bind FDA or the public. You can use an alternative approach if the approach satisfies 
+the requirements of the applicable statutes and regulations. If you want to discuss an alternative 
+approach, contact the Office of Generic Drugs. 
+
+Active ingredients: Benzoyl Peroxide; Clindamycin Phosphate 
+Form/Route: Gel/Topical 
+Recommended studies: 1 study 
+
+Type of study: Bioequivalence (BE) Study with Clinical Endpoint 
+Design: Randomized, double blind, parallel, placebo controlled, in vivo 
+Strength: 5%; EQ 1% Base 
+Subjects: Healthy males and nonpregnant females with acne vulgaris 
+Additional comments: Specific recommendations are provided below. 
+
+Analytes to measure (in appropriate biological fluid): Not Applicable 
+
+Bioequivalence based on (90% CI): Clinical endpoint 
+
+Waiver request of in vivo testing: Not Applicable 
+
+Dissolution test method and sampling times: Not Applicable 
+
+Additional comments regarding the BE study with clinical endpoint: 
+
+1. 
+Note that there are two designated reference listed drugs (RLDs) for Benzoyl Peroxide and 
+Clindamycin Phosphate Gel/Topical, 5%; EQ 1% Base (i.e., BenzaClin® Topical Gel & Duac® 
+Topical Gel). While the active ingredients for both RLDs are the same, the recommended dosage 
+and administration, approved indication, and method of dispensing are different; thus, the 
+Therapeutic Equivalent Code listed in the Orange book for both RLDs is BT (i.e., topical products 
+with bioequivalence issues). Generic sponsors must conduct a separate clinical endpoint study to 
+demonstrate bioequivalence of the test product to each RLD selected. 
+2. 
+The Office of Generic Drugs (OGD) recommends conducting a bioequivalence study with a 
+clinical endpoint in the treatment of acne vulgaris comparing the test product versus the RLD 
+BenzaClin® and placebo control, each applied twice daily in the morning and evening for 70 days 
+(10 weeks) to the affected areas of the face after the skin is gently washed, rinsed with warm water 
+and patted dry. The two co-primary endpoints of the study are: 1) mean percent change from 
+baseline to week 10 (study Day 70) in the inflammatory (papules and pustules) lesion count, and 2) 
+mean percent change from baseline to week 10 in the non-inflammatory (open and closed 
+comedones) lesion count. 
+3. 
+A placebo control arm is recommended to demonstrate that the test product and RLD are active 
+and as a parameter to establish that the study is sufficiently sensitive to detect differences between 
+products. 
+Recommended Aug 2010; Revised Mar 2012 
+
+
+4. 
+Inclusion Criteria (the sponsor may add additional criteria) 
+a. 
+Healthy male or nonpregnant female aged . 12 and . 
+40 years with a clinical diagnosis of acne 
+vulgaris. 
+b. 
+On the face, . 25 non-inflammatory lesions (i.e., open and closed comedones) AND . 20 
+inflammatory lesions (i.e., papules and pustules) AND . 2 nodulocystic lesions (i.e., nodules 
+and cysts). 
+c. 
+Investigator’s Global Assessment (IGA) of acne severity grade 2, 3, or 4 (per Table 1). 
+Table 1. Sample IGA Scale for Acne Vulgaris1 
+
+Grade Description 
+0 Clear skin with no inflammatory or noninflammatory lesions 
+1 Almost clear; rare noninflammatory lesions with no more than one small inflammatory lesion 
+2 Mild severity; greater than Grade 1; some noninflammatory lesions with no more than a few 
+inflammatory lesions (papules/pustules only, no nodular lesions) 
+3 Moderate severity; greater than Grade 2; up to many noninflammatory lesions and may have 
+some inflammatory lesions, but no more than one small nodular lesion 
+4* Severe; greater than Grade 3; up to many noninflammatory lesions and may have some 
+inflammatory lesions, but no more than a few nodular lesions 
+
+* The Case Report Forms for acne studies can allow for reporting by investigators of lesion worsening 
+beyond Grade 4 with treatment. It is recommended that enrollment of acne vulgaris subjects not include 
+subjects with nodulocystic acne. Subjects who worsen beyond Grade 4 are to be described in the safety 
+evaluation. 
+d. 
+Willing to refrain from use of all other topical acne medications or antibiotics during the 10week 
+treatment period. 
+e. 
+If female of childbearing potential, willing to use an acceptable form of birth control during the 
+study. 
+5. 
+Exclusion Criteria (the sponsor may add additional criteria) 
+a. 
+Presence of any skin condition that would interfere with the diagnosis or assessment of acne 
+vulgaris (e.g., on the face: rosacea, dermatitis, psoriasis, squamous cell carcinoma, eczema, 
+acneform eruptions caused by medications, steroid acne, steroid folliculitis, or bacterial 
+folliculitis). 
+b. 
+Excessive facial hair (e.g. beards, sideburns, moustaches, etc.) that would interfere with 
+diagnosis or assessment of acne vulgaris. 
+c. 
+History of hypersensitivity or allergy to benzoyl peroxide or clindamycin and/or any of the 
+study medication ingredients. 
+d. 
+Use within 6 months prior to baseline of oral retinoids (e.g. Accutane®) or therapeutic vitamin 
+A supplements of greater than 10,000 units/day (multivitamins are allowed). 
+e. 
+Use for less than 3 months prior to baseline of estrogens or oral contraceptives; use of such 
+therapy must remain constant throughout the study. 
+1 U.S. Department of Health and Human Services, Food and Drug Administration, Center for Drug Evaluation and 
+Research. Draft Guidance for Industry: Acne Vulgaris: Developing Drugs for Treatment. Clinical/Medical. 
+September 2005. Accessed at 
+http://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM071292.pdf 
+
+Recommended Aug 2010; Revised Mar 2012 2 
+
+
+f. 
+Use on the face within 1 month prior to baseline or during the study of: 1) cryodestruction or 
+chemodestruction, 2) dermabrasion, 3) photodynamic therapy, 4) acne surgery, 5) intralesional 
+steroids, or 6) x-ray therapy. 
+g. 
+Use within 1 month prior to baseline of: 1) spironolactone, 2) systemic steroids, 3) systemic 
+antibiotics, 4) systemic treatment for acne vulgaris (other than oral retinoids, which require a 
+6-month washout), or 5) systemic anti-inflammatory agents. 
+h. 
+Use within 2 weeks prior to baseline of: 1) topical steroids, 2) topical retinoids, 3) topical acne 
+treatments including over-the-counter preparations, 4) topical anti-inflammatory agents, 5) 
+medicated cleansers or 6) topical antibiotics. 
+6. 
+Subjects should cleanse the face with a mild or soapless, non-medicated cleanser, pat dry and then 
+apply the product onto the affected areas of the face twice daily, in the morning and evening, 
+avoiding contact with the mouth, eyes, and other mucous membranes. 
+7. 
+Subjects should not apply moisturizers, new brands of make-up, creams, lotions, powders or any 
+topical product other than the assigned treatment to the treatment area. Subjects should minimize 
+exposure to sunlight, including sunlamps, while using the product. Use of sunscreen products and 
+protective clothing over treated areas is recommended when sun exposure cannot be avoided. 
+8. 
+The protocol should include a list of the prescription and over-the-counter drug products, 
+procedures, and activities that are prohibited during the study, such as: 
+a. 
+Any other topical products applied to face. 
+b. 
+Medicated cleansers used on face. 
+c. 
+Spironolactone. 
+d. 
+Oral retinoids, therapeutic vitamin A supplements of greater than 10,000 units/day 
+(multivitamins are allowed) or other systemic treatment for acne vulgaris. 
+e. 
+Systemic (e.g., oral or injectable) antibiotics. 
+f. 
+Systemic steroids, systemic anti-inflammatory agents or immunosuppressive drugs. 
+g. 
+Antipruritics, including antihistamines, within 24 hours of study visits. 
+h. 
+Use on the face of 1) cryodestruction or chemodestruction, 2) dermabrasion, 3) photodynamic 
+therapy, 4) acne surgery, 5) intralesional steroids, or 6) x-ray therapy. 
+i. 
+Use of tanning booths, sunbathing, or excessive exposure to the sun. 
+j. 
+Use of hormonal contraceptives should not be initiated or changed during the study. 
+9. 
+The two primary endpoints of the study are: 1) mean percent change from baseline to week 10 
+(study Day 70) in the inflammatory (papules and pustules) lesion count, and 2) mean percent 
+change from baseline to week 10 in the non-inflammatory (open and closed comedones) lesion 
+count. Total lesion count assessment is no longer considered. The protocol should clearly define 
+papules, pustules, open comedones, closed comedones, nodules and cysts. When counting facial 
+acne lesions, it is important that all lesions be counted, including those present on the nose. Counts 
+of nodules and cysts should be reported separately and not included in the inflammatory or noninflammatory 
+lesion counts. 
+10. The dichotomized IGA severity scale should be treated as a secondary endpoint for supportive 
+evidence. This secondary endpoint for bioequivalence should be evaluated as the proportion of 
+subjects with a clinical response of “success” at week 10. Success should be defined as an IGA 
+score that is at least 2 grades less than the baseline assessment. Failure should be defined as an 
+IGA score that is the same, higher or one grade lower than the baseline assessment. 
+11. The protocol should clearly define the per-protocol (PP), modified intent-to-treat (mITT) and 
+safety populations. 
+Recommended Aug 2010; Revised Mar 2012 3 
+
+
+12. The accepted PP population used for bioequivalence evaluation includes all randomized subjects 
+who met all inclusion/exclusion criteria, apply a prespecified proportion of the scheduled 
+applications (e.g., 75% to 125%) of the assigned product for the specified duration of the study, do 
+not miss the scheduled applications for more than 3 consecutive days, and complete the evaluation 
+within the designated visit window (+/- 4 days) with no protocol violations that would affect the 
+treatment evaluation. The protocol should specify how compliance will be verified, e.g., by the use 
+of subject diaries. 
+13. The mITT population includes all randomized subjects who met the inclusion/exclusion criteria, 
+apply at least one dose of assigned product and return for at least one post-baseline evaluation visit. 
+14. The safety population includes all randomized subjects who received study product. 
+15. Subjects who are discontinued early from the study due to lack of treatment effect after completing 
+4 weeks of treatment should be included in the PP population as treatment failures. Subjects whose 
+condition worsens and require alternate or supplemental therapy for the treatment of acne vulgaris 
+during the study should be discontinued, included in the PP population analysis, and provided with 
+effective treatment. Subjects discontinued early for other reasons should be excluded from the PP 
+population, but included in the mITT population, using LOCF. 
+16. The start and stop date of concomitant medication use during the study should be provided in the 
+data set in addition to the reason for the medication use. 
+17. All adverse events (AEs) should be reported, whether or not they are considered to be related to the 
+treatment. The report of AEs should include date of onset, description of the AE, severity, relation 
+to study medication, action taken, outcome and date of resolution. This information is needed to 
+determine if the incidence and severity of adverse reactions is different between the test product 
+and RLD. 
+18. Due to the warning contained in the label of this product, subjects should be carefully monitored 
+for adverse events associated with severe colitis (diarrhea and bloody diarrhea). If significant 
+diarrhea occurs, the drug should be discontinued for that subject. 
+19. Application site reactions such as erythema, dryness, burning/stinging, erosion, edema, pain and 
+itching are to be recorded at each visit to allow a comparison between treatment groups. A 
+descriptive analysis comparing the application site reactions for each treatment group is 
+recommended. It is important to ensure that the test product is not worse than the reference product 
+with regard to the expected and unexpected application site reactions. 
+20. If the inactive ingredients are different than those contained in the RLD or in significantly different 
+amounts, then the sponsor is to clearly describe the differences and provide information to show 
+that the differences will not affect the safety, efficacy and/or systemic or local availability of the 
+drug. If the inactive ingredients are different, OGD may request pharmacokinetic studies to ensure 
+similar absorption of clindamycin. 
+21. The method of randomization should be described in the protocol. It is recommended that an 
+independent third party generate and hold the randomization code throughout the conduct of the 
+study in order to minimize bias. The sponsor may generate the randomization code if not involved 
+in the packaging and labeling of the study medication. A sealed copy of the randomization scheme 
+Recommended Aug 2010; Revised Mar 2012 4 
+
+
+should be retained at the study site and should be available to FDA investigators at the time of site 
+inspection to allow for verification of the treatment identity of each subject. 
+
+22. A detailed description of the blinding procedure is to be provided in the protocol. The packaging of 
+the test, reference and placebo products should be similar in appearance to make differences in 
+treatment less obvious to the subjects and to maintain adequate blinding of evaluators. When 
+possible, neither the subject nor the investigator should be able to identify the treatment. The 
+containers should not be opened by the subject at the study center. 
+23. Please refer to 21 CFR 320.38, 320.63 and the Guidance for Industry, “Handling and Retention of 
+BA and BE Testing Samples”, regarding retention of study drug samples and 21 CFR 320.36 for 
+requirements for maintenance of records of bioequivalence testing. In addition, the investigators 
+should follow the procedures of 21 CFR 58 and ICH E6, “Good Clinical Practice: Consolidated 
+Guideline”, for retention of study records and data in order to conduct their studies in compliance 
+with Good Laboratory Practices (GLP) and Good Clinical Practices (GCP). Retention samples 
+should be randomly selected from the drug supplies received prior to dispensing to subjects. 
+Retention samples should not be returned to the sponsor at any time. 
+24. It is the sponsor's responsibility to enroll sufficient subjects for the study to demonstrate 
+bioequivalence between the products. 
+25. To establish bioequivalence, the 90% confidence interval of the test/reference ratio of the mean 
+percent change from baseline to week 10 in the inflammatory (papules and pustules) lesion counts 
+and in the non-inflammatory lesion counts must be contained within [0.80, 1.25], using the PP 
+study population. 
+26. As a parameter for determining adequate study sensitivity, the test product and RLD should be 
+statistically superior to placebo (p<0.05) with regard to percent change from baseline to week 10 in 
+the inflammatory lesion counts using the mITT study population and Last Observation Carried 
+Forward (LOCF). 
+27. The following Statistical Analysis Method is recommended for equivalence testing for a 
+continuous variable: 
+Equivalence Analysis 
+
+The compound hypothesis to be tested is: 
+
+H0: µT / µR =.1 or µT / µR =.2 versus HA : .1 < µT / µR < .2 
+
+Where µT = mean of test treatment, and µR = mean of reference treatment 
+
+Typically, we reject H0 with a type I error a = 0.05 (two 1-sided tests), if the 90% confidence 
+interval for the ratio of means between test and reference products (µT / µR) is contained 
+within the interval [.1, .2], where .1 = 0.80 and .2 = 1.25. 
+
+Rejection of the null hypothesis H0 supports the conclusion of equivalence of the two products. 
+
+28. The following Statistical Analysis Method is recommended for equivalence testing for a 
+dichotomous variable (success/failure): 
+Equivalence Analysis 
+
+Recommended Aug 2010; Revised Mar 2012 5 
+
+
+Based on the usual method used in OGD for binary outcomes, the 90% confidence interval 
+for the difference in success proportions between test and reference treatment must be 
+contained within [-0.20, +0.20] in order to establish equivalence. 
+
+The compound hypothesis to be tested is: 
+
+H0: pT -pR < -0.20 or pT -pR . 0.20 
+versus 
+HA: -0.20 . 
+pT -pR . 0.20 
+
+where pT = success rate of test treatment and pR = success rate of reference treatment. 
+
+Let 
+nT = sample size of test treatment group 
+c nT = number of successes in test treatment group 
+nR = sample size of reference treatment group 
+c nR = number of successes in reference treatment group 
+
+^^
+
+p = c nT / nT , p = c nR / nR ,
+
+TR 
+
+^^ ^^ 
+
+and se = ( p (1 -p )/ nT + p (1 -p )/ nR ) ½. 
+
+TT RR 
+
+The 90% confidence interval for the difference in proportions between test and reference was 
+calculated as follows, using Yates’ correction: 
+
+^^ 
+
+L = ( p -p ) – 1.645 se – (1/ nT + 1/ nR )/2
+
+TR 
+
+^^ 
+
+U = ( p -p ) + 1.645 se + (1/ nT + 1/ nR )/2
+
+TR 
+
+We reject H0 if L . -0.20 and U . 0.20 
+Rejection of the null hypothesis H0 supports the conclusion of equivalence of the two products. 
+29.Rank transformation of the data may be needed if the data is significantly skewed such that analysis 
+of the raw data would not be valid. 
+30.Study data should be submitted to the OGD in electronic format. 
+
+a. A list of file names, with a simple description of the content of each file, should be included. 
+Such a list should include an explanation of the variables included in each of the data sets. 
+Recommended Aug 2010; Revised Mar 2012 6 
+
+
+b. 
+Please provide a “pdf” document with a detailed description of the codes that are used for each 
+variable in each of the SAS datasets (for example, Y=yes, N=no for analysis population). 
+c. 
+All SAS transport files, covering all variables collected in the Case Report Forms (CRFs) per 
+subject, should include .xpt as the file extension and should not be compressed. A simple SAS 
+program to open the data transport files and SAS files should be included. 
+d. 
+Primary data sets should consist of two data sets: No Last Observation Carried Forward (NOLOCF-
+pure data set) and Last Observation Carried Forward (LOCF-modified data set). 
+e. 
+Please provide a separate dataset for variables such as demographics, lesion counts, vital signs, 
+adverse events, disposition (including reason for discontinuation of treatment), concomitant 
+medications, medical history, compliance and comments, etc. 
+31.Please provide a summary dataset containing a separate line listing for each subject (if data exist) 
+using the following headings, if applicable: 
+
+a. 
+Study identifier 
+b. 
+Subject identifier 
+c. 
+Site identifier: study center 
+d. 
+Age 
+e. 
+Age units (years) 
+f. 
+Sex 
+g. 
+Race 
+h. 
+Name of Actual Treatment (exposure): test product, RLD, placebo control 
+i. 
+Location of Treatment Area 
+j. 
+Duration of Treatment (total exposure in days) 
+k. 
+Completed the study (yes/no) 
+l. 
+Reason for premature discontinuation of subject 
+m. 
+Subject required additional treatment for acne vulgaris due to unsatisfactory treatment response 
+(yes/no) 
+n. 
+Per Protocol (PP) population inclusion (yes/no) 
+o. 
+Reason for exclusion from PP population 
+p. 
+Modified Intent to Treat (mITT) population inclusion (yes/no) 
+q. 
+Reason for exclusion from mITT population 
+r. 
+Safety population inclusion (yes/no) 
+s. 
+Reason for exclusion from Safety population 
+t. 
+Total number of inflammatory lesions on the face at baseline 
+u. 
+Total number of non-inflammatory lesions on the face at baseline 
+v. 
+Total number of nodules/cysts on the face at baseline 
+w. 
+IGA score at baseline 
+x. 
+Total number of inflammatory lesions on the face at week 10 
+y. 
+Total number of non-inflammatory lesions on the face at week 10 
+z. Total number of nodules/cysts on the face at week 10 
+aa. IGA score at week 10 
+bb. Final designation for IGA (success/failure) 
+cc. Treatment compliance : number of missed doses per subject 
+dd. Concomitant medication (yes/no) 
+ee. Adverse event(s) reported (yes/no) 
+Please refer to Table 2 as an example. This sample table may contain additional information not 
+applicable to your study and/or it may not contain all information applicable to your study. 
+
+Recommended Aug 2010; Revised Mar 2012 7 
+
+
+Table 2: Example of a summary dataset containing one line listing for each subject 
+
+STUDYID 
+SUBJIDSITEIDAGEAGEUSEXRACEEXTRTEXLOC 
+EXDUR 
+completddisc_rsadd_trtpppp_rsmittmitt_rs 
+101 1 01 21 YEARS F 1 A Face 14 Y N Y Y 
+101 2 01 30 YEARS F 1 B Face 14 Y N Y Y 
+
+safetysafe_rsnuminfbnumnonbnumnodbiga_bnuminf10numnon10numnod10iga_10 
+iga_fcomplianCMAE 
+Y 32 45 0 3 16 30 0 2 F 0 Y Y 
+Y 25 36 1 3 10 18 1 1 S 0 N N 
+
+Note: Capitalized headings are from Clinical Data Interchange Standards Consortium (CDISC) Study 
+Data Tabulation Model (SDTM) Implementation Guide (IG) for Human Clinical Trials V3.1.2 Final 
+
+
+dated 11/12/08. 
+STUDYID: Study Identifier 
+SUBJID: Subject Identifier for the Study 
+SITEID: Study Site Identifier 
+AGE: Age 
+AGEU: Age units (years) 
+SEX: Sex, e.g., M=Male, F=Female, U=Unknown 
+RACE: Race, e.g., 1=White, 2=Black or African American, 3=Asian, 4=American Indian 
+or Alaska Native, 5=Native Hawaiian or Other Pacific Islanders 
+EXTRT: Name of Actual Treatment (exposure), e.g., A=test product, B= RLD, C=placebo 
+control 
+EXLOC: Location of Treatment Area, e.g. F=face, etc. 
+EXDUR: Duration of Treatment (total exposure in days) 
+completd: Subject completed the study, e.g., Y=Yes, N=No 
+disc_rs: Reason for premature discontinuation from the study, e.g., A=adverse event, 
+B=death, C=lost to follow-up, D=non-compliance with treatment, E=treatment 
+unblinded, F=subject moved out of area, G=unsatisfactory treatment response, 
+H=withdrew consent, I=protocol violation, K=other event 
+add_trt: Subject required additional treatment for acne due to unsatisfactory treatment 
+response, e.g., Y=Yes, N=No 
+pp: Per Protocol (PP) population inclusion, e.g., Y=Yes, N=No 
+pp_rs: Reason for exclusion from PP population, e.g., A=prematurely discontinued, 
+B=lost to follow-up, C=subject moved out of the area, D=noncompliant, etc. 
+mitt: Modified Intent to Treat (mITT) population inclusion, e.g., Y=Yes, N=No 
+mitt_rs: Reason for exclusion from mITT population, e.g., A=never treated, etc. 
+safety: Safety population inclusion, e.g., Y=Yes, N=No 
+safe_rs: Reason for exclusion from Safety population, e.g., A=never treated, etc. 
+numinfb: Total number of inflammatory lesions on face at baseline 
+numnonb: Total number of noninflammatory lesions on face at baseline 
+numnodb: Total number of nodular/cystic lesions on face at baseline 
+
+Recommended Aug 2010; Revised Mar 2012 8 
+
+
+iga_b: IGA score at baseline, e.g., 0=Clear, 1=Almost Clear, 2=Mild, 3=Moderate 
+numinf10: Total number of inflammatory lesions on face at week 10 
+numnon10: Total number of noninflammatory lesions on face at week 10 
+numnod10: Total number of nodular/cystic lesions on face at week 10 
+iga_10: IGA score at week 10, e.g., 0=Clear, 1=Almost Clear, 2=Mild, 3=Moderate 
+iga_f: Final designation for IGA, e.g., S=Success; F=Failure 
+complian: Treatment compliance, e.g., number of missed doses per subject 
+CM: Concomitant medication, e.g., Y=Yes, N=No 
+AE: Adverse event(s) reported, e.g., Y=Yes, N=No 
+
+32.Please provide a dataset containing a separate line listing for visit per subject (if data exist) using 
+the following headers, if applicable: 
+
+a. 
+Study identifier 
+b. 
+Subject identifier 
+c. 
+Name of Actual Treatment (exposure): test product, RLD, placebo control 
+d. 
+Location of Dose Administration: application site 
+e. 
+Visit number 
+f. 
+Visit date 
+g. 
+Number of days since baseline visit 
+h. 
+Evaluator: identity of evaluator 
+i. 
+Total number of inflammatory lesions 
+j. 
+Total number of noninflammatory lesions 
+k. 
+Total number of nodular/cystic lesions 
+l. 
+IGA score 
+m. 
+Skin reaction scores for each sign and symptom evaluated (e.g., erythema, dryness, 
+burning/stinging, erosion, edema, pain, itching, etc.) 
+n. 
+Concomitant medication reported during this visit (yes/no) 
+o. 
+Adverse event reported during this visit (yes/no) 
+p. 
+Laboratory testing during this visit (yes/no) 
+Please refer to Table 3 as an example. This sample table may contain additional information not 
+applicable to your study and/or it may not contain all information applicable to your study. 
+
+Table 3: Example of dataset containing one line listing for each visit per subject 
+
+STUDYID 
+SUBJIDEXTRTEXLOC 
+VISITNUMSVSTDTCELTMBSEVALnuminfnumnonnumnodiga 
+101 1 A F 1 2004-07-01 1 35 28 1 3 
+
+erythemadrynessburningerosionedemapainitchingCMrptAErptLBtest 
+1 0 0 1 0 0 0 Y Y N 
+
+Recommended Aug 2010; Revised Mar 2012 9 
+
+
+Note: Capitalized headings are from Clinical Data Interchange Standards Consortium (CDISC) Study 
+Data Tabulation Model (SDTM) Implementation Guide (IG) for Human Clinical Trials V3.1.2 Final 
+
+
+dated 11/12/08. 
+
+STUDYID: Study Identifier 
+SUBJID: Subject Identifier for the Study 
+EXTRT: Name of Actual Treatment (exposure), e.g., A=test product, B=RLD, C= placebo 
+
+control 
+EXLOC: Location of Treatment Area: specific anatomical site of application, e.g., F=face 
+
+etc. 
+VISITNUM: Visit Sequence Number 
+SVSTDTC: Visit date: (SVSTDTC=Subject Visit Start Date Time-Character) 
+ELTMBL: Elapsed Time since Baseline (days) 
+EVAL: Evaluator: identity of the evaluator 
+numinf: Total number of inflammatory lesions on face 
+numnon: Total number of noninflammatory lesions on face 
+numnod: Total number of nodular/cystic lesions on face 
+iga: IGA score, e.g., 0=Clear; 1=Almost clear, 2=Mild, 3=Moderate, 4=Severe 
+erythema: Skin reaction erythema score, e.g., 0=absent, 1=mild (slight, barely perceptible), 
+
+2=moderate (distinct presence), 3=severe (marked, intense) 
+dryness: Skin reaction dryness score, e.g., 0=absent, 1=mild (slight, barely 
+perceptible), 2=moderate (distinct presence), 3=severe (marked, intense) 
+
+
+burning: Skin reaction burning/stinging score, e.g., 0=absent, 1=mild (slight, barely 
+perceptible), 2=moderate (distinct presence), 3-severe (marked, intense) 
+erosion: Skin reaction erosion score, e.g., 0=absent, 1=mild (slight, barely perceptible), 
+
+2=moderate (distinct presence), 3=severe (marked, intense) 
+edema: Skin reaction edema score, e.g., 0=absent, 1=mild (slight, barely perceptible), 
+2=moderate (distinct presence), 3=severe (marked, intense) 
+
+
+pain: Skin reaction pain score, e.g., 0=absent, 1=mild (slight, barely perceptible), 
+2=moderate (distinct presence), 3=severe (marked, intense) 
+itching: Skin reaction itching score, e.g., 0=absent, 1=mild (slight, barely perceptible), 
+
+2=moderate (distinct presence), 3=severe (marked, intense) 
+CMrpt: Concomitant Medication reported during this visit, e.g., Y=Yes, N=No 
+AErpt: Adverse Event reported during this visit, e.g., Y=Yes, N=No 
+LBtest: Laboratory Testing performed during this visit, e.g., Y=Yes, N=No 
+
+33. These recommendations are specific to this product and may not be appropriate for bioequivalence 
+studies of any other product, including any other dosage form or strength of benzoyl peroxide or 
+clindamycin. 
+Recommended Aug 2010; Revised Mar 2012 10 
+
+

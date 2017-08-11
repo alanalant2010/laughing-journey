@@ -1,0 +1,90 @@
+ 
+
+Active Ingredient: Buprenorphine HCl; Naloxone HCl 
+
+ 
+
+Dosage Form; Route: Film; buccal 
+
+ 
+
+Recommended Studies: One study 
+
+ 
+
+1. Type of study: Fasting 
+
+
+Design: Single-dose, two-way crossover, in vivo 
+
+Strength: 6.3 mg; 1 mg Buprenorphine (base); Naloxone (base) 
+
+Subjects: Healthy males and nonpregnant females, general population, aged 
+18 to 50 years 
+
+Additional comments: 
+
+A. Film should be placed on the buccal area until completely dissolved; film should 
+not be moved after placement. Subjects should not chew, swallow, or cut the 
+film. 
+
+B. Exclude subjects who have received any opioid within 14 days of dosing. 
+
+C. An opioid antagonist, such as naltrexone hydrochloride oral tablet, 50 mg, may be 
+used to minimize opioid-related adverse events. The opioid antagonist should be 
+administered well in advance of dosing, in order to achieve adequate blockade of 
+opioid receptors. Consult with a physician who is an expert in the administration 
+of opioids for the appropriate dose and dosing regimen of an opioid antagonist for 
+a single dose of buprenorphine and naloxone buccal film 6.3 mg; 1 mg 
+administered to a healthy volunteer who has not received any opioid within 14 
+days of dosing. 
+
+D. A clear plan for continuous respiratory monitoring from the time of dosing past 
+the time of expected peak effect of the drug (i.e., at least 3 hours after dosing) 
+should be included. Standard operating procedures (SOPs) should be in place for 
+assessing and treating ventilatory depression, and personnel qualified to treat 
+ventilatory emergencies should be immediately available. 
+
+E. Buprenorphine and naloxone buccal film is under a Risk Evaluation and 
+Mitigation Strategy (REMS) program with Elements to Assure Safe Use 
+(ETASU) to (1) mitigate the risks of accidental overdose, misuse, and abuse, and 
+(2) inform patients of the serious risks associated with this drug product. All 
+pertinent elements of this REMS and of the warnings in the approved labeling for 
+buprenorphine and naloxone buccal film must be incorporated into the protocol 
+and informed consent in the bioequivalence (BE) study. 
+
+ 
+
+
+Analytes to measure (in appropriate biological fluid): Buprenorphine and its active 
+metabolite, nor-buprenorphine, in plasma. For Naloxone, measure unconjugated and total 
+naloxone in plasma. 
+
+ 
+
+Submit the metabolite data as supportive evidence of comparable therapeutic outcome. For the 
+metabolite, the following data should be submitted: individual and mean concentrations; 
+individual and mean pharmacokinetic parameters; and geometric means and ratios of means for 
+AUC and Cmax. 
+
+ 
+
+Bioequivalence based on (90% CI): Buprenorphine and Naloxone 
+
+ 
+
+Waiver request of in vivo testing: Buprenorphine (base); Naloxone (base) 4.2 mg; 0.7 mg and 
+2.1 mg; 0.3 mg buccal films based on (i) acceptable BE study on the 6.3 mg; 1 mg strength, (ii) 
+acceptable in vitro dissolution testing of all strengths, and (iii) proportional similarity of the 
+formulations across all strengths. 
+
+ 
+
+Dissolution test method and sampling times: The dissolution information for this drug 
+product can be found on the FDA-Recommended Dissolution Methods website available to the 
+public at the following location: http://www.accessdata.fda.gov/scripts/cder/dissolution/. 
+Conduct comparative dissolution testing on 12 dosage units each of all strengths of the test and 
+reference products. Specifications will be determined upon review of the abbreviated new drug 
+application (ANDA). 
+
+

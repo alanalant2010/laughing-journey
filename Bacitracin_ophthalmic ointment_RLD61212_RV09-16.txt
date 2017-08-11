@@ -1,0 +1,52 @@
+
+
+Active Ingredient: Bacitracin 
+
+
+
+Dosage Form; Route: Ointment; ophthalmic 
+
+
+
+Recommended Studies: Acceptable comparative physicochemical characterization of the 
+test and reference listed drug (RLD) formulations. The comparative study should be performed 
+on at least three exhibit batches1 of both test and reference products and should include: 
+
+1 All 3 exhibit batches should be at least 1/10 the size of the commercial batch and the manufacturing process used 
+for the 3 exhibit batches should be reflective of the process used for the commercial batch. 
+
+2 Q1 (qualitative sameness) means that the test product uses the same inactive ingredient(s) as the reference product. 
+
+3 Q2 (quantitative sameness) means that the concentrations of the inactive ingredient(s) used in the test product are 
+within ±5% of those used in the reference product. 
+
+
+
+•Comparative appearance.
+•Comparative acidity and alkalinity of the extracted ointment base.
+•Comparative rheological properties including yield stress and viscosity. Theapplicant should characterize viscosity over a range of shear rates.
+•Comparative drug particle size and size distribution. Full profiles of the particlesize distribution should also be submitted for all samples tested.
+•Comparative in vitro drug release rates of bacitracin from the test and RLDformulations. The methodology used for in vitro drug release testing should beable to discriminate the effect of process variability in the production of the testformulation.
+
+
+
+
+
+
+The test and RLD formulations should be qualitatively2 and quantitatively3 the same (Q1/Q2). 
+
+
+
+Analytes to measure (in appropriate biological fluid): Not applicable 
+
+Bioequivalence based on (90% CI): Not applicable 
+
+
+
+Waiver request of in vivo testing: Not applicable 
+
+
+
+Dissolution test method and sampling times: Not applicable 
+
+

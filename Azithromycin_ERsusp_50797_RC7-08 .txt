@@ -1,0 +1,55 @@
+ 
+
+Active ingredient: Azithromycin 
+
+ 
+
+Form/Route: Extended Release Suspension/Oral 
+
+ 
+
+Recommended studies: 1 study 
+
+ 
+
+Type of study: Fasting 
+
+Design: Single-dose, two-way crossover in-vivo 
+
+Strength: 2 gm 
+
+Subjects: Normal healthy males and females, general population 
+
+Additional comments: As an option, due to the relatively long half-life, the firm may 
+
+wish to conduct this study using a parallel design. As an additional option for either the 
+
+crossover or parallel design, the firm may wish to truncate the AUC at 72 hours. 
+
+______________________________________________________________________________ 
+
+ 
+
+Analytes to measure: Azithromycin in plasma 
+
+ 
+
+Bioequivalence based on (90% CI): Azithromycin 
+
+ 
+
+Waiver request of in-vivo testing: Not Applicable 
+
+ 
+
+Dissolution test method and sampling times: 
+
+ 
+
+Please note that a Dissolution Methods Database is available to the public at the OGD website 
+at http://www.fda.gov/cder/ogd/index.htm. Please find the dissolution information for this 
+product at this website. Please conduct comparative dissolution testing on 12 dosage units each 
+of all strengths of the test and reference products. Specifications will be determined upon review 
+of the application. 
+
+

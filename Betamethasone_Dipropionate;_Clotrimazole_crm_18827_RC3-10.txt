@@ -1,0 +1,482 @@
+Contains Nonbinding Recommendations 
+
+Draft Guidance on Betamethasone Dipropionate; Clotrimazole 
+
+This draft guidance, once finalized, will represent the Food and Drug Administration's (FDA's) 
+current thinking on this topic. It does not create or confer any rights for or on any person and does 
+not operate to bind the FDA or the public. You can use an alternative approach if the approach 
+satisfies the requirements of the applicable statutes and regulations. If you want to discuss an 
+alternative approach, contact the Office of Generic Drugs. 
+
+Active ingredient: Betamethasone Dipropionate; Clotrimazole 
+
+Form/Route: 
+Cream/Topical 
+
+Recommended studies: 3 studies 
+
+1.&2. Type of study: Vasoconstrictor Study 
+Design: Evaluate the betamethasone dipropionate component by conducting a pilot dose duration-
+response study followed by the pivotal in vivo bioequivalence study. 
+Strength: EQ 0.05% Base; 1% 
+Subjects: Healthy males and nonpregnant females, general population 
+Additional comments: Please refer to the guidance “Topical Dermatological Corticosteroids: In 
+Vivo Bioequivalence” available at: 
+http://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/ucm 
+070234.pdf. 
+
+3. 
+Type of study: Clinical Endpoint Bioequivalence (BE) Study 
+Design: Evaluate the clotrimazole component of this product by conducting a randomized, double 
+blind, parallel, placebo-controlled, in vivo, clinical endpoint BE study. 
+Strength: EQ 0.05% Base; 1% 
+Subjects: Healthy males and females with tinea pedis. 
+Additional comments: Specific recommendations are provided below. 
+Analytes to measure (in appropriate biological fluid): Not Applicable. 
+
+Bioequivalence based on (90% CI): Vasoconstrictor assay studies (pilot dose duration-response study 
+followed by the pivotal in vivo bioequivalence study); Clinical endpoint (study #3). 
+
+Waiver request of in vivo testing: Not Applicable. 
+
+Dissolution test method and sampling times: Not Applicable. 
+
+Additional comments regarding the clinical endpoint BE study: 
+
+1. 
+The Office of Generic Drugs (OGD) recommends a clinical endpoint bioequivalence study in the 
+treatment of tinea pedis. Subjects are to be randomized to receive the generic betamethasone 
+dipropionate and clotrimazole topical cream, EQ 0.05% base/1%, the reference listed drug 
+(RLD), or placebo. The study drug is to be administered by gently massaging the cream into the 
+affected skin areas twice daily, in the morning and evening, for 28 consecutive days (i.e., 4 
+weeks). The primary endpoint is to be evaluated at the test-of-cure visit (study Week 6, two 
+weeks after the end of treatment). 
+Recommended Mar 2010 
+
+
+2. 
+Although all tinea pedis lesions on both feet are to be treated in this study, a target lesion on one 
+foot is to be identified as the most severe lesion and evaluated at the baseline visit and at each 
+study visit. Each of the following signs and symptoms should be scored using the following 
+scale: 
+a. 
+Signs: fissuring/cracking, erythema, maceration, and scaling 
+b. 
+Symptoms: pruritus and burning/stinging 
+c. 
+Scoring Scale: Each score should be objectively defined. The following is an example of an 
+acceptable scale. 
+0 = none (complete absence of any signs or symptoms) 
+1 = mild (slight) 
+2 = moderate (definitely present) 
+3 = severe (marked, intense) 
+
+
+3. 
+Inclusion Criteria (the sponsor may add additional criteria): 
+a. 
+Healthy males and females aged = 18 years. 
+b. 
+Clinical diagnosis of tinea pedis with lesions localized to the interdigital spaces or 
+predominantly interdigital, but may extend to other areas of the foot (the non-interdigital 
+lesions should not be hyperkeratotic, i.e., characteristic of tinea pedis moccasin), and 
+provisionally confirmed at baseline by a positive potassium hydroxide (KOH) wet mount 
+preparation (i.e., skin scrapings from the target site are placed on a microscope slide with a 
+drop of 10% KOH, and microscopic examination reveals segmented fungal hyphae). 
+c. 
+The sum of the clinical signs and symptoms scores of the target lesion is at least 4, including 
+a minimum score of at least 2 for erythema AND a minimum score of 2 for either scaling or 
+pruritus (on a scale of 0-3, where 2 indicates moderate severity). 
+4. 
+Exclusion Criteria (the sponsor may add additional criteria): 
+a. 
+Pregnant or lactating or planning to become pregnant during the study period. 
+b. 
+Use of antipruritics, including antihistamines, within 72 hours prior to entry into the study. 
+c. 
+Use of topical corticosteroid, antibiotics or antifungal therapy within 2 weeks prior to entry 
+into the study. 
+d. 
+Use of systemic (e.g., oral or injectable) corticosteroid, antibiotics or antifungal therapy 
+within 1 month prior to entry into the study. 
+e. 
+Use of oral terbinafine or itraconazole within 2 months prior to entry into the study. 
+f. 
+Use of immunosuppressive medication or radiation therapy within 3 months prior to entry 
+into the study. 
+g. 
+Confluent, diffuse moccasin-type tinea pedis of the entire plantar surface. 
+h. 
+Presence of any other infection of the foot or other disease process that might confound the 
+treatment evaluation. 
+i. 
+History of dermatophyte infections unresponsive to systemic or topical antifungal drugs. 
+j. 
+Known hypersensitivity to clotrimazole, betamethasone dipropionate, other corticosteroids, 
+imidazoles, or to any ingredients in the study drugs. 
+5. 
+A positive skin fungal culture at baseline should not be an inclusion criterion due to the time lag 
+between obtaining the culture specimen and receiving the culture results. However, a, skin fungal 
+culture must be obtained at baseline at the target site. Testing should be performed to identify the 
+isolates at the species level (e.g., Trichophyton rubrum, Trichophyton mentagrophytes, or 
+Epidermophyton floccosum). Only subjects with a pretreatment baseline skin fungal culture from 
+the target site that is positive for Trichophyton rubrum, Trichophyton mentagrophytes, or 
+Epidermophyton floccosum should be included in the per protocol (PP) and modified intent to 
+treat (mITT) populations for the primary endpoint analysis. Subjects with a negative baseline 
+Recommended Mar 2010 
+2 
+
+
+fungal culture should be excluded from the PP and mITT populations, but included in the safety 
+population for the safety analyses. 
+
+6. 
+Trichophyton rubrum is the most common infecting organism in tinea pedis. Therefore, > 50% of 
+the subjects should have fungal cultures positive for T. rubrum upon entry into the study. 
+7. 
+Subjects should avoid the use of occlusive wrappings or dressings over the application site. 
+Subjects should avoid contact of the study drug with the eyes or the mouth, or intravaginal use. 
+8. 
+The protocol should include a list of the prescription and over-the-counter drug products that are 
+prohibited during the study, such as: 
+a. 
+Any other topical products applied to the target site 
+b. 
+Systemic (e.g., oral or injectable) antibiotics or antifungals. 
+c. 
+Systemic corticosteroid or immunosuppressive drugs. 
+d. 
+Antipruritics, including antihistamines, within 24 hours of study visits. 
+9. 
+The recommended primary endpoint of the study is the proportion of subjects with therapeutic 
+cure, defined as both mycological cure and clinical cure, at the test-of-cure visit conducted 2 
+weeks (+/- 4 days) after the end of treatment, (study Day 38-46). Mycological cure is defined as a 
+negative KOH test AND a negative fungal culture. Clinical cure is defined as a total severity score 
+no more than 2 with no individual severity score greater than 1, on a 4-point scale provided 
+above. 
+10. The protocol should clearly define the PP, mITT and safety populations. 
+11. The accepted PP population used for bioequivalence evaluation includes all randomized subjects 
+who met all inclusion/exclusion criteria, had a positive baseline skin fungal culture for 
+Trichophyton rubrum, Trichophyton mentagrophytes, or Epidermophyton floccosum, were 
+compliant with the assigned study treatment, and completed the evaluation at the test-of-cure visit 
+within the designated visit window (+/- 4 days; i.e., study Day 38-46). The protocol should 
+provide a definition of compliant subjects (e.g., used at least 75% and no more than 125% of 
+study drug doses) and specify how compliance will be verified (e.g., by the use of subject 
+diaries). 
+12. The mITT population includes all randomized subjects who met the inclusion/exclusion criteria, 
+had a positive baseline skin fungal culture for Trichophyton rubrum, Trichophyton 
+mentagrophytes, or Epidermophyton floccosum, used at least one dose of study product, and 
+returned for at least one post-baseline visit. 
+13. The safety population includes all randomized subjects who received study product. 
+14. Subjects who are discontinued early from the study due to lack of treatment effect after 
+completing 14 days of treatment should be included in the mITT and PP population as treatment 
+failures. Subjects discontinued early for other reasons should be excluded from the PP 
+population, but included in the mITT population, using LOCF. 
+15. Subjects who receive or self-administer topical drug therapy to the feet for the treatment of 
+irritation/pruritus after the treatment phase of the study should be analyzed in the mITT and PP 
+populations as a treatment failure. 
+16. All adverse events (AEs) should be reported, whether or not they are considered to be related to 
+the treatment. The report of AEs should include date of onset, description of the AE, severity, 
+Recommended Mar 2010 
+3 
+
+
+relation to study medication, action taken, outcome and date of resolution. This information is 
+needed to determine if the incidence and severity of adverse reactions is different between the test 
+product and RLD. 
+
+17. If the inactive ingredients are different than those contained in the RLD or in significantly 
+different amounts, then the sponsor is to clearly describe the differences and provide information 
+to show that the differences will not affect the safety, efficacy and/or systemic or local 
+availability of the drug. 
+18. The method of randomization should be described in the protocol. It is recommended that an 
+independent third party generate and hold the randomization code throughout the conduct of the 
+study in order to minimize bias. The sponsor may generate the randomization code if not involved 
+in the packaging and labeling of the study medication. A sealed copy of the randomization 
+scheme should be retained at the study site and should be available to FDA investigators at the 
+time of site inspection to allow for verification of the treatment identity of each subject. 
+19. A detailed description of the blinding procedure is to be provided in the protocol. The packaging 
+of the test, reference and placebo products should be similar in appearance to make differences in 
+treatment less obvious to the subjects and to maintain adequate blinding of evaluators. When 
+possible, neither the subject nor the investigator should be able to identify the treatment. The 
+containers should not be opened by the subject at the study center. 
+20. Please refer to 21 CFR 320.38, 320.63 and the Guidance for Industry, “Handling and Retention of 
+BA and BE Testing Samples”, regarding retention of study drug samples and 21 CFR 320.36 for 
+requirements for maintenance of records of bioequivalence testing. In addition, the investigators 
+should follow the procedures of 21 CFR 58 and ICH E6, “Good Clinical Practice: Consolidated 
+Guideline”, for retention of study records and data in order to conduct their studies in compliance 
+with Good Laboratory Practices (GLP) and Good Clinical Practices (GCP). Retention samples 
+should be randomly selected from the drug supplies received prior to dispensing to subjects. 
+Retention samples should not be returned to the sponsor at any time. 
+21. It is the sponsor's responsibility to enroll sufficient subjects for the study to demonstrate 
+bioequivalence between the products. 
+22. To establish bioequivalence, the 90% confidence interval of the difference in therapeutic cure 
+rates between the test product and RLD treatment groups at the test-of-cure visit (study Day 3846) 
+must be within [-0.20, +0.20] for dichotomous variables (cure versus failure), using the PP 
+population. 
+23. As a parameter for determining adequate study sensitivity, the test product and RLD should both 
+be statistically superior to placebo (p<0.05) with regard to the therapeutic cure rate at the test-ofcure 
+visit (study Day 38-46), using the mITT study population and Last Observation Carried 
+Forward (LOCF). 
+24. The following Statistical Analysis Method is recommended for equivalence testing for a 
+dichotomous variable (success/failure): 
+Equivalence Analysis 
+
+Based on the usual method used in OGD for binary outcomes, the 90% confidence interval 
+for the difference in success proportions between test and reference treatment must be 
+contained within [-0.20, +0.20] in order to establish equivalence. 
+
+Recommended Mar 2010 4 
+
+
+The compound hypothesis to be tested is: 
+
+H0: pT -pR < -0.20 or pT -pR > 0.20 
+versus 
+HA: -0.20 = 
+pT -pR = 0.20 
+
+where pT = cure rate of test treatment and pR = cure rate of reference treatment. 
+
+Let 
+nT = sample size of test treatment group 
+c nT = number of cured subjects in test treatment group 
+nR = sample size of reference treatment group 
+c nR = number of cured subjects in reference treatment group 
+
+^ 
+^
+
+p 
+= c nT / nT , p = c nR / nR ,
+
+T 
+R 
+
+^^ ^^ 
+
+and se = ( p (1 -p )/ nT + p (1 -p )/ nR ) ½. 
+
+TT RR 
+
+The 90% confidence interval for the difference in proportions between test and reference was 
+calculated as follows, using Yates’ correction: 
+
+^^ 
+
+L = ( p -p ) – 1.645 se – (1/ nT + 1/ nR )/2
+
+TR 
+
+^^ 
+
+U = ( p -p ) + 1.645 se + (1/ nT + 1/ nR )/2
+
+TR 
+
+We reject H0 if L = -0.20 and U = 0.20 
+
+Rejection of the null hypothesis H0 supports the conclusion of equivalence of the two products. 
+
+25. Study data should be submitted to the OGD in electronic format. 
+a. 
+A list of file names, with a simple description of the content of each file, should be included. 
+b. 
+Please provide a “pdf” document with a detailed description of the codes that are used for 
+each variable in each of the SAS datasets (for example, Y=yes, N=no for analysis 
+population). 
+c. 
+All SAS transport files should include .xpt as the file extension and should not be 
+compressed. A simple SAS program to open the data transport files and SAS files should be 
+included. 
+d. 
+Primary data sets should consist of two data sets: No Last Observation Carried Forward (NOLOCF-
+pure data set) and Last Observation Carried Forward (LOCF-modified data set). 
+Recommended Mar 2010 
+5 
+
+
+e. 
+Please provide a separate dataset for variables such as demographics, baseline admission 
+criteria, baseline vital signs, adverse events, reasons for discontinuation of treatment, 
+concomitant medications, medical history, compliance and comments, etc. 
+26. Please provide a summary dataset containing a separate line listing for each subject (if data exist) 
+using the following headings, if applicable: 
+a. 
+Study identifier 
+b. 
+Subject identifier 
+c. 
+Site identifier: study center 
+d. 
+Age 
+e. 
+Age units (years) 
+f. 
+Sex 
+g. 
+Race 
+h. 
+Name of Actual Treatment (exposure): test product, RLD, placebo 
+i. 
+Duration of Treatment (total exposure in days) 
+j. 
+Per Protocol (PP) population inclusion (yes/no) 
+k. 
+Reason for exclusion from PP population 
+l. 
+Modified Intent to Treat (mITT) population inclusion (yes/no) 
+m. 
+Reason for exclusion from mITT population 
+n. 
+Safety population inclusion (yes/no) 
+o. 
+Reason for exclusion from safety population 
+p. 
+Final designation as therapeutic cure (yes/no) 
+q. 
+Treatment compliance: number of missed doses per subject 
+r. 
+Concomitant medication (yes/no) 
+s. 
+Adverse event(s) reported (yes/no) 
+Please refer to Table 1 as an example. This sample table may contain additional information not 
+applicable to your study and/or it may not contain all information applicable to your study. 
+
+Table 1: Example of a summary dataset containing one line listing for each subject 
+
+STUDYID 
+SUBJIDSITEIDAGEAGEU 
+SEXRACEEXTRTEXDUR 
+pppp_rsmittmitt_rs 
+safetysafe_rscurecomplianCMAE101 1 01 22 YEARS F 1 A 28 Y Y Y N 0 Y Y 
+101 2 01 30 YEARS F 1 B 28 Y Y Y Y 0 N N 
+
+Note: Capitalized headings are from Clinical Data Interchange Standards Consortium (CDISC) Study 
+Data Tabulation Model (SDTM) Implementation Guide (IG) for Human Clinical Trials V3.1.2 Final 
+dated 11/12/08. 
+
+STUDYID: Study Identifier 
+
+SUBJID: Subject Identifier for the Study 
+
+SITEID: Study Site Identifier 
+
+AGE: Age 
+
+AGEU: Age units (years) 
+
+SEX: Sex, e.g., M=Male, F=Female, U=Unknown 
+
+RACE: Race, e.g., 1=White, 2=Black or African American, 3=Asian, 4=American Indian 
+
+or Alaska Native, 5=Native Hawaiian or Other Pacific Islanders 
+
+EXTRT: Name of Actual Treatment (exposure), e.g., A=test product, B= RLD, C=placebo 
+
+Recommended Mar 2010 
+6 
+
+
+EXDUR: Duration of Treatment (total exposure in days) 
+pp: Per Protocol (PP) population inclusion, e.g., Y=Yes, N=No 
+pp_rs: Reason for exclusion from PP population, e.g., A=prematurely discontinued, 
+
+
+B=lost to follow-up, C=subject moved out of the area, D=noncompliant, etc. 
+mitt: Modified Intent to Treat (mITT) population inclusion, e.g., Y=Yes, N=No 
+mitt_rs: Reason for exclusion from mITT population, e.g., A=never treated, B=negative 
+
+baseline culture, etc. 
+safety: Safety population inclusion, e.g., Y=Yes, N=No 
+safe_rs: Reason for exclusion from Safety population, e.g., A=never treated, etc. 
+cure: Final designation e.g., Y=Yes (therapeutic cure), N=No (failure) 
+complian: Treatment compliance, e.g., number of missed doses per subject 
+CM: Concomitant medication, e.g., Y=Yes, N=No 
+AE: Adverse event(s) reported, e.g., Y=Yes, N=No 
+
+27. Please provide a dataset containing a separate line listing for each visit per subject (if data exist) 
+using the following headers, if applicable: 
+a. Study identifier 
+b. Subject identifier 
+c. Name of Actual Treatment (exposure): test product, RLD, placebo control 
+d. Visit number 
+e. Visit date 
+f. Number of days since baseline visit 
+g. Evaluator: identity of evaluator 
+h. Fissuring/Cracking score 
+i. Erythema score 
+j. Maceration score 
+k. Scaling score 
+l. Pruritus score 
+m. Burning/Stinging score 
+n. Composite (total) signs and symptoms score 
+o. KOH result 
+p. Culture result 
+q. Mycological cure (yes/no) 
+r. Clinical cure (yes/no) 
+s. Therapeutic cure (yes/no) 
+t. Concomitant medication reported during this visit (yes/no) 
+u. Adverse event reported during this visit (yes/no) 
+v. Laboratory testing during this visit (yes/no) 
+Please refer to Table 2 as an example. This sample table may contain additional information not 
+applicable to your study and/or it may not contain all information applicable to your study. 
+
+Table 2: Example of dataset containing one line listing for each visit per subject 
+
+STUDYID 
+SUBJIDEXTRTVISITNUMSVSTDTCELTMBSEVALfisscracerythema 
+macerati 
+scalingpruritusburnstincompsskohculturemycocureclincurethercureCMrptAErptLBtest 
+101 1 A 1 2004-07-01 0 JB 0 2 1 2 0 0 5 PosPos Y N Y 
+
+Recommended Mar 2010 7 
+
+
+Note: Capitalized headings are from Clinical Data Interchange Standards Consortium (CDISC) Study 
+Data Tabulation Model (SDTM) Implementation Guide (IG) for Human Clinical Trials V3.1.2 Final 
+
+
+dated 11/12/08. 
+
+STUDYID: Study Identifier 
+SUBJID: Subject Identifier for the Study 
+EXTRT: Name of Actual Treatment (exposure), e.g., A=test product, B=RLD, C= placebo 
+
+control 
+VISITNUM: Visit Sequence Number 
+SVSTDTC: Visit date: (SVSTDTC=Subject Visit Start Date Time-Character) 
+ELTMBL: Elapsed Time since Baseline (days) 
+EVAL: Evaluator: identity of the evaluator, e.g., initials 
+fisscrac: Fissuring/Cracking score, e.g., 0=none (complete absence), 1=mild (slight), 
+
+2=moderate (definitely present), 3=severe (marked, intense) 
+erythema: Erythema score, e.g., 0=none (complete absence), 1=mild (slight), 2=moderate 
+(definitely present), 3=severe (marked, intense) 
+macerati: Maceration score, e.g., 0=none (complete absence), 1=mild (slight), 2=moderate 
+(definitely present), 3=severe (marked, intense) 
+scaling: Scaling score, e.g., 0=none (complete absence), 1=mild (slight), 2=moderate 
+(definitely present), 3=severe (marked, intense) 
+pruritus: Pruritus score, e.g., 0=none (complete absence), 1=mild (slight), 2=moderate 
+(definitely present), 3=severe (marked, intense) 
+burnstin: Burning/Stinging score, e.g., 0=none (complete absence, 1=mild (slight), 
+
+2=moderate (definitely present), 3=severe (marked, intense) 
+compss: Composite (total) signs and symptoms score 
+koh: KOH, e.g., Pos=Positive, Neg=Negative 
+culture: Culture, e.g., Pos=Positive for Candida species, Neg=Negative for Candida 
+
+species 
+mycocure: Mycological cure, e.g., Y=Yes, N=No 
+clincure: Clinical cure, e.g., Y=Yes, N=No 
+thercure: Therapeutic cure, e.g., Y=Yes, N=No 
+CMrpt: Concomitant Medication reported during this visit, e.g., Y=Yes, N=No 
+AErpt: Adverse Event reported during this visit, e.g., Y=Yes, N=No 
+LBtest: Laboratory Testing performed during this visit, e.g., Y=Yes, N=No 
+
+28. These recommendations are specific to this product and may not be appropriate for 
+bioequivalence studies of any other product, including any other dosage form or strength of 
+betamethasone dipropionate and clotrimazole. 
+Recommended Mar 2010 8 
+
+

@@ -1,0 +1,65 @@
+ 
+
+Active ingredient: Aspirin; Butalbital; Caffeine; Codeine Phosphate 
+
+ 
+
+Form/Route: Capsules/Oral 
+
+ 
+
+Recommended studies: 2 studies 
+
+ 
+
+1. Type of study: Fasting 
+
+ Design: Single-dose, two-way crossover in-vivo 
+
+ Strength: 325 mg/50 mg/40 mg/30 mg 
+
+ Subjects: Healthy males and nonpregnant females, general population 
+
+Additional Comments: None 
+
+_______________________________________________________________________ 
+
+ 
+
+2. Type of study: Fed 
+
+ Design: Single-dose, two-way crossover in-vivo 
+
+ Strength: 325 mg/50 mg/40 mg/30 mg 
+
+ Subjects: Healthy males and nonpregnant females, general population 
+
+Additional Comments: None 
+
+________________________________________________________________________ 
+
+ 
+
+Analytes to measure (in plasma/serum/blood): Butalbital and codeine in plasma 
+
+ 
+
+Bioequivalence based on (90% CI): Butalbital and codeine 
+
+ 
+
+Waiver request of in-vivo testing: Not Applicable 
+
+ 
+
+Dissolution test method and sampling times: 
+
+ 
+
+Please note that a Dissolution Methods Database is available to the public at the OGD 
+website at http://www.accessdata.fda.gov/scripts/cder/dissolution/. Please find the 
+dissolution information for this product at this website. Please conduct comparative 
+dissolution testing on 12 dosage units each of all strengths of the test and reference 
+products. Specifications will be determined upon review of the application. 
+
+

@@ -1,0 +1,111 @@
+ 
+
+Active ingredient: Buprenorphine Hydrochloride; Naloxone Hydrochloride 
+
+This draft guidance, when finalized, will represent the current thinking of the Food and Drug 
+Administration (FDA, or the Agency) on this topic. It does not establish any rights for any person 
+and is not binding on FDA or the public. You can use an alternative approach if it satisfies the 
+requirements of the applicable statutes and regulations. To discuss an alternative approach, contact 
+the Office of Generic Drugs. 
+
+ 
+
+Dosage Form; Route: Film; Sublingual, buccal 
+
+ 
+
+Recommended Studies: One study 
+
+ 
+
+1. Type of study: Fasting 
+
+Design: Single-dose, two-treatment, two-period crossover in vivo 
+
+Strength: EQ 12 mg base/EQ 3 mg base 
+
+Subjects: Healthy males and non-pregnant, non-lactating females, general 
+population, aged 18 to 50 years 
+
+Additional comments: 
+
+A. Film should be placed under the tongue until they are completely dissolved; 
+film should not be moved after placement. Advise subjects not to chew, 
+swallow or cut the film. 
+B. Exclude subjects who have received any opioid within 14 days of dosing. 
+C. An opioid antagonist, such as Naltrexone Hydrochloride Oral Tablet, 50 
+mg, should be used to minimize opioid-related adverse events. The opioid 
+antagonist should be administered well in advance of dosing, in order to 
+achieve adequate blockade of opioid receptors. Please consult with a 
+physician who is an expert in the administration of opioids for the 
+appropriate dose and dosing regimen of an opioid antagonist for a single 
+dose of buprenorphine hydrochloride and naloxone hydrochloride 
+sublingual film EQ 12 mg base/EQ 3 mg base administered to a healthy 
+volunteer who had not received any opioid within 14 days of dosing. 
+D. A clear plan for continuous respiratory monitoring from the time of dosing 
+past the time of expected peak effect of the drug (i.e. at least 3 hours after 
+dosing) should be included. Standard operating procedures (SOPs) should 
+be in place for assessing and treating ventilatory depression, and personnel 
+qualified to treat ventilatory emergencies should be immediately available. 
+E. Buprenorphine Hydrochloride and Naloxone Hydrochloride Sublingual 
+Film is under a Risk Evaluation and Mitigation Strategy (REMS) program 
+with Elements to Assure Safe Use (ETASU) (1) to mitigate the risks of 
+accidental overdose misuse and abuse and (2) inform patients of the serious 
+risks associated with this drug product. All pertinent elements of this REMS 
+and of the warnings in the approved labeling for buprenorphine 
+hydrochloride and naloxone hydrochloride sublingual film must be 
+
+
+
+incorporated into the protocol and informed consent in the bioequivalence 
+study. 
+F. The bioequivalence study be performed using either the sublingual or 
+buccal route of administration. The same one route should be used for all 
+subjects in both periods. 
+
+
+ 
+
+ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Buprenorphine and its 
+active metabolite, norbuprenorphine, in plasma. For Naloxone, measure 
+unconjugated and total naloxone in plasma. 
+
+ 
+
+Please submit the metabolite data as supportive evidence of comparable therapeutic 
+outcome. For the metabolite, the following data should be submitted: individual and mean 
+concentrations, individual and mean pharmacokinetic parameters, and geometric means 
+and ratios of means for AUC and Cmax . 
+
+ 
+
+Bioequivalence based on (90% CI): Buprenorphine and Naloxone 
+
+ 
+
+Waiver request of in vivo testing: EQ 2 mg base/EQ 0.5 mg base, EQ 4 mg base/EQ 1 
+mg base and EQ 8 mg base/EQ 2 mg base strengths based on (i) acceptable bioequivalence 
+study on the EQ 12 mg base/EQ 3 mg base strength, (ii) acceptable in vitro dissolution 
+testing of all strengths, and (iii) proportional similarity of the formulations across all 
+strengths. Please refer to the Mirtazapine Tablet Draft Guidance for additional information 
+regarding waivers of in vivo testing. 
+
+ 
+
+Dissolution test method and sampling times: 
+
+ 
+
+The dissolution information for this drug product can be found on the FDA-Recommended 
+Dissolution Methods web site, available to the public at the following location: 
+http://www.accessdata.fda.gov/scripts/cder/dissolution/. Please conduct comparative dissolution 
+testing on 12 dosage units each of all strengths of the test and reference products. Specifications 
+will be determined upon review of the abbreviated new drug application (ANDA). 
+
+. 
+
+

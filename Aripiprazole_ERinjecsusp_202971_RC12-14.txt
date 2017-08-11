@@ -1,0 +1,107 @@
+ 
+
+Active Ingredient: Aripiprazole 
+
+ 
+
+Dosage Form; Route: Extended-release injectable suspension; intramuscular 
+
+ 
+
+Recommended Studies: One study 
+
+ 
+
+ 
+
+1. Type of study: In vivo steady-state fasting 
+
+
+Design: Multiple-dose, randomized, crossover, in vivo 
+
+Strength: 400 mg 
+
+Subjects: Patients who are already receiving a stable regimen of aripiprazole extended-
+release injection via the intramuscular route. Patients who are already receiving 400 mg 
+of aripiprazole extended-release injection every four weeks would be eligible to 
+participate in the study by continuing their established maintenance dose. 
+
+Additional comments: FDA recommends that studies not be conducted using healthy 
+subjects or patients on a different antipsychotic treatment. Aripiprazole is a potent 
+antipsychotic drug and its administration could be associated with some serious adverse 
+events. Due to the nature of these adverse events, FDA recommends that bioequivalence 
+of generic versions of potent antipsychotic drugs be assessed in patients already receiving 
+the products on established regimens. 
+
+ 
+
+ 
+
+As per 21 CFR § 314.94, the proposed parenteral drug product should be qualitatively 
+(Q1) and quantitatively (Q2) the same to the reference product for both strengths (300 
+mg/vial and 400 mg/vial). 
+
+ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Aripiprazole in plasma 
+
+ 
+
+Bioequivalence based on (90% CI): Aripiprazole 
+
+ 
+
+In the evaluation of bioequivalence of the multiple dose study, the following pharmacokinetic 
+data should be submitted for aripiprazole: 
+
+ 
+
+• Individual and mean plasma drug concentration levels in a dosing interval after steady 
+state is reached 
+• Individual and mean trough levels (Cmin ss) 
+• Individual and mean peak levels (Cmax ss) 
+
+
+
+• Calculation of individual and mean steady-state AUCinterdose (AUCinterdose is AUC during a 
+dosing interval at steady state) 
+• Individual and mean percent fluctuation [=100 * (Cmax ss – Cmin ss)/Caverage ss] 
+• Individual and median time to peak concentration 
+
+
+ 
+
+The log-transformed AUC and Cmax data should be analyzed statistically using analysis of 
+variance. The 90% confidence interval for the ratio of the geometric means of the 
+pharmacokinetic parameters (AUC and Cmax) should be within 80-125%. Fluctuation for the test 
+product should be evaluated for comparability with the fluctuation of the reference product. 
+
+ 
+
+In period 2 (when patients are switched from reference to test or vice versa), individual and mean 
+blood drug concentration levels should also be reported during the first three dosing intervals. 
+Intensive sampling should be performed during this period to accurately capture changes in 
+trough and peak levels. This information will be used as supporting data for bioequivalence to 
+confirm that any differences in Tlag does not result in significant transient differences in Cmin. 
+
+ 
+
+Waiver request of in vivo testing: 
+
+300 mg based on (i) acceptable bioequivalence studies on the 400 mg strength, (ii) proportionally 
+similar across all strengths, and (iii) acceptable in vitro dissolution testing of all strengths. 
+
+ 
+
+Dissolution test method and sampling times: The dissolution information for this drug product 
+can be found on the FDA-Recommended Dissolution Methods website available to the public at 
+the following location: http://www.accessdata.fda.gov/scripts/cder/dissolution/. Conduct 
+comparative dissolution testing on 12 dosage units each of all strengths of the test and reference 
+products. Specifications will be determined upon review of the abbreviated new drug application 
+(ANDA). 
+
+ 
+
+

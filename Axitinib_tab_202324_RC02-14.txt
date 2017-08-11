@@ -1,0 +1,111 @@
+ 
+
+Active ingredient: Axitinib 
+
+ 
+
+Form/Route: Tablet/Oral 
+
+ 
+
+Recommended studies: 2 studies 
+
+ 
+
+1. Type of study: Fasting 
+
+
+Design: Single dose, two way crossover, in vivo 
+
+Strength: 5 mg 
+
+Subjects: Healthy males and non-pregnant females, general population. 
+
+Additional Comments: Adhere to the following additional comments regarding the study 
+population, exclusion criteria, safety monitoring, stopping rules and informed consent: 
+
+ 
+
+i. Recommended study population: healthy subjects = 18 years of age with no 
+clinically relevant abnormalities identified by a detailed medical history, full 
+physical examination, including blood pressure (BP) and pulse rate (PR) 
+measurement, 12-lead electrocardiogram (ECG) and clinical laboratory tests. 
+ii. We recommend the following exclusion criteria: 
+a. Age < 18 years 
+b. Pregnant or breastfeeding women 
+c. Women of childbearing potential 
+d. Individuals with hepatic, thyroid, or renal dysfunction 
+e. Current use or anticipated need for drugs with known or suspected 
+interactions with axitinib 
+f. Subjects with hypertension or cardiovascular risk factors 
+g. Subjects with a history of gastrointestinal bleeding 
+
+
+
+iii. We recommend the following safety monitoring (prior to dosing and after each 
+dosing period) during the BE trial: pregnancy test for women, liver function tests, 
+thyroid function tests, electrocardiogram, urinalysis, and blood pressure. In 
+addition, males and their female partners need to practice adequate contraception 
+for at least two weeks after the last dose of axitinib. 
+iv. We recommend the following stopping rules: occurrence of two or more adverse 
+events of > Grade 2 (Common Terminology Criteria for Adverse Events 
+(CTCAE) or WHO Toxicity Criteria), any occurrence of > CTCAE Grade 3 
+
+
+
+adverse events, or any occurrence of a serious adverse event (SAE) possibly 
+related to the study drug. 
+v. FDA recommends that the Informed Consent should state that axitinib caused 
+birth defects in animals and that the potential for axitinib to cause malignancies is 
+unknown. Based on input from the FDA/Office of Hematology and Oncology 
+Products (OHOP), FDA/Division of Clinical Review (DCR) also recommends 
+including specific information on carcinogenicity and teratogenicity into the 
+informed consent document. 
+
+
+ 
+
+ 
+
+2. Type of study: Fed 
+
+
+Design: Single dose, two way crossover, in vivo 
+
+Strength: 5 mg 
+
+Subjects: Healthy males and non-pregnant females, general population. 
+
+Additional Comments: Same as the fasting study. 
+
+ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Axitinib in plasma 
+
+ 
+
+Bioequivalence based on (90% CI): Axitinib 
+
+ 
+
+Waiver request of in vivo testing: 1 mg tablet, based on (i) acceptable bioequivalence studies 
+on the 5 mg strength, (ii) acceptable in vitro dissolution testing of all strengths, and (iii) 
+proportional similarity of the formulations across all strengths. 
+
+ 
+
+Dissolution test method and sampling times: 
+
+ 
+
+Please note that a Dissolution Methods Database is available to the public at the OGD website 
+at http://www.accessdata.fda.gov/scripts/cder/dissolution/. Please find the dissolution 
+information for this product at this website. Please conduct comparative dissolution testing on 12 
+dosage units each of all strengths of the test and reference products. Specifications will be 
+determined upon review of the application. 
+
+ 
+
+

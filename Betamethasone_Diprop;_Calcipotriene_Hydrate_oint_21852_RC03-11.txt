@@ -1,0 +1,619 @@
+Contains Nonbinding Recommendations 
+
+Draft Guidance on Betamethasone Dipropionate; Calcipotriene Hydrate 
+
+This draft guidance, once finalized, will represent the Food and Drug Administration's (FDA's) 
+current thinking on this topic. It does not create or confer any rights for or on any person and does 
+not operate to bind FDA or the public. You can use an alternative approach if the approach satisfies 
+the requirements of the applicable statutes and regulations. If you want to discuss an alternative 
+approach, contact the Office of Generic Drugs. 
+
+Active ingredient: Betamethasone Dipropionate; Calcipotriene Hydrate 
+
+Form/Route: Ointment/Topical 
+
+Recommended studies: 3 studies 
+
+1.&2. Type of study: Vasoconstrictor Study 
+Design: Evaluate the betamethasone dipropionate component by conducting a pilot dose duration-
+response study followed by the pivotal in vivo bioequivalence study. 
+Strength: 0.064%; 0.005% 
+Subjects: Healthy males and females. 
+Additional comments: Please refer to the guidance “Topical Dermatological Corticosteroids: In 
+Vivo Bioequivalence” available at: 
+http://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/ucm 
+070234.pdf. 
+
+3. Type of study: Bioequivalence (BE) Study with Clinical Endpoint 
+Design: Randomized, double blind, parallel, placebo-controlled in vivo 
+Strength: 0.064%; 0.005% 
+Subjects: Healthy males and females with clinical diagnosis of psoriasis vulgaris (plaque psoriasis) 
+Additional comments: Specific recommendations are provided below. 
+
+Analytes to measure (in appropriate biological fluid): Not Applicable 
+
+Bioequivalence based on (90% CI): Vasoconstrictor assay studies (pilot dose duration-response study 
+followed by the pivotal in vivo bioequivalence study); Clinical endpoint (study #3) 
+
+Waiver request of in vivo testing: Not Applicable 
+
+Dissolution test method and sampling times: Not Applicable 
+
+Additional comments regarding the BE study with clinical endpoint: 
+
+1. The Office of Generic Drugs (OGD) recommends conducting a bioequivalence study with a 
+clinical endpoint in the treatment of stable psoriasis vulgaris comparing the test product versus 
+the reference listed drug (RLD) and vehicle control, each applied once daily as an adequate layer 
+to the affected area(s) for 28 days (4 weeks). The two co-primary endpoints are the proportions of 
+subjects with treatment success on the Physician’s Global Assessment (PGA) and clinical success 
+on the Psoriasis Area Severity Index (PASI) scale at the target lesion site at the week 4 visit 
+(study day 29). 
+
+
+
+2. A vehicle (placebo) control arm is recommended to demonstrate that the test product and RLD 
+are active and as a parameter to establish that the study is sufficiently sensitive to detect 
+differences between products at the lower end of the dose/response curve. A rescue clause should 
+be included to allow for discontinuation due to lack of treatment response or worsening disease. 
+3. Inclusion Criteria (the sponsor may add additional criteria) 
+a. Male or nonpregnant females aged at least 18 years with a clinical diagnosis of stable (at least 
+6 months) psoriasis vulgaris involving 5% to 30% body surface area (BSA). 
+b. A PGA of disease severity of at least moderate disease severity (grade = 3, per Table 1). 
+c. A plaque elevation of at least moderate severity (grade = 3, per Table 2) at the target lesion 
+site. The most severe lesion at baseline should be identified as the target lesion. 
+
+
+
+
+4. Exclusion Criteria (the sponsor may add additional criteria) 
+a. Females who are pregnant, breast feeding, or planning a pregnancy. 
+b. Females of childbearing potential who do not agree to utilize an adequate form of 
+contraception. 
+c. Current diagnosis of unstable forms of psoriasis in the treatment area, including guttate, 
+erythrodermic, exfoliative or pustular psoriasis. 
+d. Other inflammatory skin disease in the treatment area that may confound the evaluation of 
+the psoriasis vulgaris (e.g., atopic dermatitis, contact dermatitis, tinea corporis). 
+e. Presence of pigmentation, extensive scarring, pigmented lesions or sunburn in the treatment 
+areas, which could interfere with the rating of efficacy parameters. 
+f. History of psoriasis unresponsive to topical treatments. 
+g. History of hypersensitivity to any component of the test product or RLD. 
+h. Current or past history of hypercalcemia, vitamin D toxicity, severe renal insufficiency, or 
+severe hepatic disorders. 
+i. Current immunosuppression. 
+j. Use within six months prior to baseline of biologic treatment for psoriasis (e.g., infliximab, 
+adalimumab, alefacept). 
+k. Use within three months prior to baseline of: 1) chemotherapy, or 2) radiation therapy. 
+l. Use within two months prior to baseline of: 1) immunosuppressive drugs (e.g., tacrolimus, 
+pimecrolimus), or 2) oral retinoids. 
+m. Use within one month prior to baseline of: 1) systemic steroids, 2) systemic antibiotics, 3) 
+other systemic antipsoriatic treatment, 4) PUVA therapy, 5) UVB therapy, or 6) systemic 
+anti-inflammatory agents. 
+n. Use within 2 weeks prior to baseline of: 1) topical anti-psoriatic drugs (e.g., salicylic acid, 
+anthralin, coal tar, calcipotriene, tazarotene), 2) topical corticosteroids, or 3) topical retinoids. 
+
+
+
+
+5. Scales to be used for evaluation of baseline disease severity and treatment effect: 
+
+
+Table 1. Physician’s Global Assessment (PGA) of Disease Severity 
+
+Score Grade Definition 
+0 None No plaque elevation above normal skin level; may have residual non-erythematous 
+discoloration; no psoriatic scale; no erythema 
+1 Minimal Essentially flat with possible trace elevation; faint erythema; no psoriatic scale 
+2 Mild Slight but definite elevation of plaque above normal skin level; may have up to 
+moderate erythema (red coloration); fine scales with some lesions partially covered 
+3 Moderate Moderate elevation with rounded or sloped edges to plaque; moderate erythema (red 
+coloration); somewhat coarse scales with most lesions partially covered 
+
+
+Score Grade Definition 
+4 Severe Marked elevation with hard, sharp edges to plaque; severe erythema (very red 
+coloration); coarse, thick scales with virtually all lesions covered and a rough surface 
+5 Very 
+Severe 
+Very marked elevation with very hard, sharp edges to plaque; very severe erythema 
+(extreme red coloration); very coarse, thick scales with all lesions covered and a very 
+rough surface 
+
+Table 2. Severity of Psoriasis Area Severity Index (PASI) at the Target Lesion Site 
+
+Score Grade Erythema Scaling Plaque Elevation 
+0 Clear No evidence of 
+erythema 
+No evidence of scaling No evidence of plaques above 
+normal skin level 
+1 Almost 
+Clear 
+Pink discoloration, 
+minimal erythema 
+Occasional fine scales 
+hardly noticeable 
+Slight, just discernable elevation 
+above normal skin level 
+2 Mild Light red coloration Slight but definite 
+roughness, fine scale 
+present, no cracking 
+Discernable elevation above 
+normal skin level upon 
+examination, but not pronounced 
+3 Moderate Moderate redness, Moderate roughness, Definite plaque formation with 
+but not dark somewhat coarse scaling rounded/sloped edges to plaque 
+4 Severe Dark red coloration Marked roughness, 
+coarse/thick scaling, 
+cracking may be evident 
+Marked elevation with hard, 
+distinct edges to plaque 
+5 Very 
+Severe 
+Very dark red 
+coloration with 
+induration present 
+Very thick scales covering 
+extensive area severe 
+cracking/fissures may be 
+evident 
+Very marked elevation, very 
+hard and sharp edges to plaque 
+
+6. Body Surface Area (BSA) percentage is no longer requested as an individual component sign in 
+the PASI scale but the BSA percentage and distribution should be recorded at baseline. 
+7. The protocol should include a list of the prescription and over-the-counter drug products, 
+procedures, and activities that are prohibited during the study, such as: 
+a. Topical product other than the assigned treatment (including moisturizers, new brands of 
+make-up, creams, ointments, lotions, and powders) applied on or near the treatment area. 
+b. Topical or systemic antipsoriatic treatment (e.g., anthralin, coal tar, tazarotene, retinoids, 
+tacalcitol, infliximab, adalimumab, alefacept, PUVA therapy, UVB therapy). 
+c. Topical or systemic corticosteroids. 
+d. Immunosuppressive drugs. 
+e. Calcium supplements. 
+f. More than 400 IU/day of Vitamin D or vitamin D analogs. 
+g. Initiation of or changes to non antipsoriatic concomitant medication that could affect 
+psoriasis (e.g., beta blockers, lithium) during the study. 
+h. Tanning booths, sun lamps, or nonprescription UV light sources. 
+i. Phototherapy. 
+j. The treated areas should not be bandaged, covered or wrapped as to be occlusive. 
+k. The maximum weekly dose of study treatment should not exceed 100 g. 
+l. Subjects should be instructed to not apply study treatment on the face, mouth, eyes, axillae, 
+vagina or groin, to avoid contact with the face or eyes, to not swallow the study treatment, to 
+not use study treatment if skin atrophy is present at the treatment site, to minimize exposure 
+to natural or artificial sunlight, and to always wash hands thoroughly after use. 
+
+
+
+
+
+
+
+8. Due to the possibility of elevated serum calcium levels with calcipotriene absorption, serum 
+calcium, serum albumin and albumin-corrected serum calcium levels should be included in serum 
+chemistry analysis. Subjects with elevation in serum calcium outside the normal range should be 
+discontinued from the study. The serum calcium level should be corrected for serum albumin 
+level as follows: 
+“corrected” serum calcium=serum calcium mg/dL + (0.8 x[4.0-albumin g/dL]) 
+
+
+9. Calcium levels of subjects should be compared between study treatment groups to ensure that 
+similar effects are seen with both active treatments. The number of subjects with elevated serum 
+calcium levels and the mean albumin corrected calcium levels at baseline and at week 4 should 
+also be compared in all study treatment groups. 
+10. The recommended co-primary endpoints are: 
+a. the proportion of subjects in each treatment group with treatment success [defined as absent 
+or very mild disease, a score of 0 or 1, within the treatment area(s)] on the PGA of disease 
+severity at the week 4 visit (study day 29), and 
+b. the proportion of subjects in each treatment group with clinical success (defined as absent or 
+mild, a score of 0 or 1, at the target lesion site) on the PASI at the week 4 visit (study day 29). 
+Each psoriatic sign of scaling, erythema, and plaque elevation should have a score of 0 or 1 at 
+week 4 (study day 29) for the subject to be considered a success. The target lesion is to be 
+identified at baseline as the most severe lesion. 
+
+
+
+
+11. The protocol should clearly define the per-protocol (PP), modified intent-to-treat (mITT) and 
+safety populations. 
+a. The accepted PP population used for bioequivalence evaluation includes all randomized 
+subjects who meet all inclusion/exclusion criteria, apply a pre-specified proportion of the 
+scheduled applications (e.g., 75% to 125%) of the assigned product for the specified duration 
+of the study, do not miss the scheduled applications for more than 3 consecutive days, and 
+complete the evaluation within the designated visit window (+/- 4 days) with no protocol 
+violations that would affect the treatment evaluation. The protocol should specify how 
+compliance will be verified, e.g., by the use of subject diaries. 
+b. The mITT population includes all randomized subjects who meet all inclusion/exclusion 
+criteria, apply at least one dose of assigned product and return for at least one post-baseline 
+evaluation visit. 
+c. The safety population includes all randomized subjects who receive study product. 
+
+
+
+
+12. Subjects who are discontinued early from the study due to lack of treatment effect after 
+completing 2 weeks of treatment should be included in the PP population as treatment failures. 
+Subjects whose condition worsens and require alternate or supplemental therapy for the treatment 
+of their psoriasis vulgaris during the study should be discontinued, included in the PP population 
+analysis, and provided with effective treatment. Subjects discontinued early for other reasons 
+should be excluded from the PP population, but included in the mITT population, using Last 
+Observation Carried Forward (LOCF). 
+13. The start and stop date of concomitant medication use during the study should be provided in the 
+data set in addition to the reason for the medication use. The sponsor should clearly explain 
+whether the medication was used prior to baseline visit, during the study, or both. 
+14. All adverse events (AEs) should be reported, whether or not they are considered to be related to 
+the treatment. The report of AEs should include date of onset, description of the AE, severity, 
+relation to study medication, action taken, outcome and date of resolution. This information is 
+
+
+
+
+
+needed to determine if the incidence and severity of adverse reactions is different between the test 
+product and RLD. 
+
+
+15. Application site reactions such as erythema, dryness, burning/stinging, erosion, edema, pain and 
+itching are to be recorded at each visit to allow a comparison between treatment groups. A 
+descriptive analysis comparing the application site reactions for each treatment group is 
+recommended. It is important to ensure that the test product is not worse than the reference 
+product with regard to these expected application site reactions. 
+16. If the inactive ingredients of the test product are different than those contained in the RLD or in 
+significantly different amounts, then the sponsor must clearly describe the differences and 
+provide information to show that the differences will not affect the safety, efficacy and/or 
+systemic or local availability of the drug. Due to the possibility of hypercalcemia from systemic 
+calcipotriene absorption, the data should demonstrate that those changes in inactive ingredients in 
+the formulation will result in no greater systemic absorption of calcipotriene with the use of the 
+test product than with use of the RLD. 
+17. The method of randomization should be described in the protocol. It is recommended that an 
+independent third party generate and hold the randomization code throughout the conduct of the 
+study in order to minimize bias. The sponsor may generate the randomization code if not involved 
+in the packaging and labeling of the study medication. A sealed copy of the randomization 
+scheme should be retained at the study site and should be available to FDA investigators at the 
+time of site inspection to allow for verification of the treatment identity of each subject. 
+18. A detailed description of the blinding procedure is to be provided in the protocol. The packaging 
+of the test, reference and placebo products should be similar in appearance to make differences in 
+treatment less obvious to the subjects and to maintain adequate blinding of evaluators. When 
+possible, neither the subject nor the investigator should be able to identify the treatment. The 
+containers should not be opened by the subject at the study center. 
+19. Please refer to 21 CFR 320.38, 320.63 and the Guidance for Industry, “Handling and Retention of 
+BA and BE Testing Samples”, regarding retention of study drug samples and 21 CFR 320.36 for 
+requirements for maintenance of records of bioequivalence testing. In addition, the investigators 
+should follow the procedures of 21 CFR 58 and ICH E6, “Good Clinical Practice: Consolidated 
+Guideline”, for retention of study records and data in order to conduct their studies in compliance 
+with Good Laboratory Practices (GLP) and Good Clinical Practices (GCP). Retention samples 
+should be randomly selected from the drug supplies received prior to dispensing to subjects. 
+Retention samples should not be returned to the sponsor at any time. 
+20. It is the sponsor's responsibility to enroll sufficient subjects for the study to demonstrate 
+bioequivalence between the products. 
+21. To establish bioequivalence, the 90% confidence interval of the test - reference difference 
+between products for both co-primary endpoints (success proportion) must be contained within 
+[-0.20, +0.20] for dichotomous variables (success versus failure), using the PP population. 
+22. As a parameter for determining adequate study sensitivity, the test product and RLD should be 
+statistically superior to placebo (p<0.05, two-sided) for both co-primary endpoints (success 
+proportion) using the mITT study population and LOCF. 
+
+
+
+23. The site and size of the treatment area should be compared and tabulated for each treatment 
+group. 
+24. The following Statistical Analysis Method is recommended for equivalence testing for a 
+dichotomous variable (success/failure): 
+
+
+Equivalence Analysis 
+Based on the usual method used in OGD for binary outcomes, the 90% confidence interval for the 
+difference in success proportions between test and reference treatment must be contained within 
+[-0.20, +0.20] in order to establish equivalence. 
+
+The compound hypothesis to be tested is: 
+
+H0: pT -pR < -0.20 or pT -pR > 0.20 
+versus 
+HA: -0.20 = pT -pR = 0.20 
+
+
+where pT = success rate of test treatment and pR = success rate of reference treatment. 
+
+Let 
+nT = sample size of test treatment group 
+c nT = number of successes in test treatment group 
+nR = sample size of reference treatment group 
+c nR = number of successes in reference treatment group 
+
+
+^^
+
+p = c nT / nT , p = c nR / nR ,
+
+TR 
+
+^^ ^^ 
+
+and se = ( p (1 -p )/ nT + p (1 -p )/ nR ) ½. 
+
+TT RR 
+
+The 90% confidence interval for the difference in success proportions between test and reference 
+should be calculated as follows, using Yates’ correction: 
+
+^^ 
+
+L = ( p -p ) – 1.645 se – (1/ nT + 1/ nR )/2
+
+TR 
+
+^^ 
+
+U = ( p -p ) + 1.645 se + (1/ nT + 1/ nR )/2
+
+TR 
+
+We reject H0 if L = -0.20 and U = 0.20 
+Rejection of the null hypothesis H0 supports the conclusion of equivalence of the two products. 
+
+
+
+25. Study data should be submitted to the OGD in electronic format. 
+
+a. A list of file names, with a simple description of the content of each file, should be included. 
+Such a list should include an explanation of the variables included in each of the data sets. 
+b. Provide a “pdf” document with a detailed description of the codes that are used for each 
+variable in each of the SAS datasets (for example, Y=yes, N=no for analysis population). 
+c. All SAS transport files, covering all variables collected in the Case Report Forms (CRFs) per 
+subject, should include .xpt as the file extension and should not be compressed. A simple 
+SAS program to open the data transport files and SAS files should be included. 
+d. Primary data sets should consist of two data sets: No Last Observation Carried Forward (NOLOCF-
+pure data set) and Last Observation Carried Forward (LOCF-modified data set). 
+e. Please provide a separate dataset for variables such as demographics, vital signs, adverse 
+events, disposition (including reason for discontinuation of treatment), concomitant 
+medications, medical history, compliance and comments, etc. 
+
+
+26. Please provide a summary dataset containing a separate line listing for each subject (if data exist) 
+using the following headings, if applicable: 
+
+a. Study identifier 
+b. Subject identifier 
+c. Site identifier: study center 
+d. Age 
+e. Age units (years) 
+f. Sex 
+g. Race 
+h. Name of Actual Treatment (exposure): test product, RLD, vehicle control 
+i. Location of Treatment Area (e.g., arm, trunk, leg) 
+j. Duration of Treatment (total exposure in days) 
+k. Size of Treatment Area (e.g., cm2) 
+l. Previous use of antipsoriatic treatment (yes/no) 
+m. Completed the study (yes/no) 
+n. Reason for premature discontinuation of subject 
+o. Subject required additional treatment for psoriasis vulgaris due to unsatisfactory treatment 
+response (yes/no) 
+p. Per Protocol (PP) population inclusion (yes/no) 
+q. Reason for exclusion from PP population 
+r. Modified Intent to Treat (mITT) population inclusion (yes/no) 
+s. Reason for exclusion from mITT population 
+t. Safety population inclusion (yes/no) 
+u. Reason for exclusion from Safety population 
+v. Percent (%) Body Surface Area (BSA) involvement at baseline 
+w. PGA score at baseline and at week 4 
+x. Severity of total PASI score at baseline and at week 4 
+y. Individual PASI component score for erythema, scaling, and plaque elevation at baseline and 
+at week 4 
+z. Albumin corrected calcium level at baseline and at week 4 
+aa. Final designation of outcome on PGA (success/failure) 
+bb. Final designation of outcome on PASI (success/failure) 
+
+
+cc. Treatment compliance: number of missed doses per subject 
+dd. Concomitant medication (yes/no) 
+ee. Adverse event(s) reported (yes/no) 
+
+
+
+Please refer to Table 3 as an example. This sample table may contain additional information not 
+applicable to your study and/or it may not contain all information applicable to your study. 
+
+Table 3: Example of a summary dataset containing one line listing for each subject 
+
+STUDYID 
+SUBJIDSITEIDAGEAGEU 
+SEXRACEEXTRTEXLOC 
+EXDUR 
+size_txprev_pscompletddisc_rsadd_trtpppp_rsmittmitt_rs 
+101 1 01 54 YEARS F 1 A RL 28 Y N Y Y 
+101 2 01 58 YEARS F 1 B RA 28 Y N Y Y 
+
+safetysafety_rsbsa_bpga_bpga_4pasi_bpasi_4eyth_beyth_4scale_bscale_4plaque_bplaque_4alcalc_balcalc_4tx_outclin_outcomplianCMAE 
+Y 8 3 0 3 4 3 2 2 2 3 3 0 Y Y 
+Y 10 4 1 3 0 2 2 3 1 4 4 0 N N 
+
+Note: Capitalized headings are from Clinical Data Interchange Standards Consortium (CDISC) Study 
+Data Tabulation Model (SDTM) Implementation Guide (IG) for Human Clinical Trials V3.1.2 Final 
+dated 11/12/08. 
+
+STUDYID: Study Identifier 
+
+SUBJID: Subject Identifier for the Study 
+
+SITEID: Study Site Identifier 
+
+AGE: Age 
+
+AGEU: Age units (years) 
+
+SEX: Sex, e.g., M=Male, F=Female, U=Unknown 
+
+RACE: Race, e.g., 1=White, 2=Black or African American, 3=Asian, 4=American Indian 
+
+or Alaska Native, 5=Native Hawaiian or Other Pacific Islanders 
+
+EXTRT: Name of Actual Treatment (exposure), e.g., A=test product, B= RLD, C=vehicle 
+
+control 
+
+EXLOC: Location of Treatment Area, e.g., A=arm, L=leg, etc. 
+
+EXDUR: Duration of Treatment (total exposure in days) 
+
+size_tx: Size of Treatment area (e.g., cm2) 
+
+prev_ps: Previous use of antipsoriatic treatment , e.g., Y=Yes, N=No 
+
+completd: Subject completed the study, e.g., Y=Yes, N=No 
+
+disc_rs: Reason for premature discontinuation from the study, e.g., A=adverse event, 
+
+B=death, C=lost to follow-up, D=non-compliance with treatment, E=treatment 
+
+unblinded, F=subject moved out of area, G=unsatisfactory treatment response, 
+
+H=withdrew consent, I=protocol violation, K=other event 
+
+add_trt: Subject required additional treatment for psoriasis vulgaris due to unsatisfactory 
+
+treatment response, e.g., Y=Yes, N=No 
+
+pp: Per Protocol (PP) population inclusion, e.g., Y=Yes, N=No 
+
+pp_rs: Reason for exclusion from PP population, e.g., A=prematurely discontinued, 
+
+
+B=lost to follow-up, C=subject moved out of the area, D=noncompliant, etc. 
+
+mitt: Modified Intent to Treat (mITT) population inclusion, e.g., Y=Yes, N=No 
+
+mitt_rs: Reason for exclusion from mITT population, e.g., A=never treated, etc. 
+
+safety: Safety population inclusion, e.g., Y=Yes, N=No 
+
+safe_rs: Reason for exclusion from Safety population, e.g., A=never treated, etc. 
+
+bsa_b: Percent (%) of Body Surface Area (BSA) involvement at baseline 
+
+pga_b: PGA score at baseline 
+
+pga_4: PGA score at week 4 
+
+pasi_b: Severity of total PASI score at baseline 
+
+pasi_4: Severity of total PASI score at week 4 
+
+eryth_b: PASI score for Erythema at baseline 
+
+eryth_4: PASI score for Erythema at week 4 
+
+scale_b: PASI score for Scaling at baseline 
+
+scale_4: PASI score for Scaling at week 4 
+
+plaque_b: PASI score for Plaque Elevation at baseline 
+
+plaque_4: PASI score for Plaque Elevation at week 4 
+
+alcalc_b: Albumin adjusted serum calcium at baseline 
+
+alcalc_4: Albumin adjusted serum calcium at week 4 
+
+tx_out Final designation of treatment outcome (A=success, B=failure) based on PGA 
+
+clin_out: Final designation as clinical outcome (A=success, B=failure) based on Severity 
+
+of PASI 
+
+complian: Treatment compliance, e.g., number of missed doses per subject 
+
+CM: Concomitant medication, e.g., Y=Yes, N=No 
+
+AE: Adverse event(s) reported, e.g., Y=Yes, N=No 
+
+27. Please provide a dataset containing a separate line listing for each visit per subject (if data exist) 
+using the following headers, if applicable: 
+
+a. Study identifier 
+b. Subject identifier 
+c. Name of Actual Treatment (exposure): test product, RLD, vehicle control 
+d. Location of Dose Administration: application site 
+e. Visit number 
+f. Visit date 
+g. Number of days since baseline visit 
+h. Evaluator: identity of evaluator 
+i. PGA score 
+j. Total PASI score 
+k. Individual erythema PASI score 
+l. Individual scaling PASI score 
+m. Individual plaque elevation PASI score 
+n. Skin reaction scores for each sign and symptom evaluated (e.g., erythema, dryness, 
+burning/stinging, erosion, edema, pain, itching, etc.) 
+o. Concomitant medication reported during this visit (yes/no) 
+p. Adverse event reported during this visit (yes/no) 
+q. Laboratory testing during this visit (yes/no) 
+r. Serum calcium level 
+s. Serum albumin level 
+t. Albumin-corrected serum calcium level 
+
+
+Please refer to Table 4 as an example. This sample table may contain additional information not 
+applicable to your study and/or it may not contain all information applicable to your study. 
+
+
+Table 4: Example of dataset containing one line listing for each visit per subject 
+
+STUDYID 
+SUBJIDEXTRTEXLOC 
+VISITNUMSVSTDTCELTMBSEVALpgapasi_totpasi_erypasi_scapasi_plaerythemadrynessburning 
+101 1 A RL 1 2004-07-01 1 2 2 1 
+
+erosionedemapainitchingCMrptAErptLBtestcalcalbalcalc 
+1 1 1 Y Y Y N 
+
+Note: Capitalized headings are from Clinical Data Interchange Standards Consortium (CDISC) Study 
+Data Tabulation Model (SDTM) Implementation Guide (IG) for Human Clinical Trials V3.1.2 Final 
+dated 11/12/08. 
+
+STUDYID: Study Identifier 
+SUBJID: Subject Identifier for the Study 
+EXTRT: Name of Actual Treatment (exposure), e.g., A=test product, B=RLD, C= vehicle 
+
+control 
+EXLOC: Location of Treatment Area: specific anatomical site of application, e.g., A=arm, 
+
+L=leg, etc. 
+VISITNUM: Visit Sequence Number 
+SVSTDTC: Visit date: (SVSTDTC=Subject Visit Start Date Time-Character) 
+ELTMBL: Elapsed Time since Baseline (days) 
+EVAL: Evaluator: identity of the evaluator 
+pga: PGA score 
+pasi_tot: Total PASI score 
+pasi_ery: Individual erythema PASI score 
+pasi_sca: Individual scaling PASI score 
+pasi_pla: Individual plaque elevation PASI score 
+erythema: Skin reaction erythema score, e.g. 0=absent, 1=mild (slight, barely perceptible), 
+
+2=moderate (distinct presence), 3=severe (marked, intense) 
+dryness: Skin reaction dryness score, e.g. 0=absent, 1=mild (slight, barely perceptible), 
+2=moderate (distinct presence), 3=severe (marked, intense) 
+burning: Skin reaction burning score, e.g. 0=absent, 1=mild (slight, barely perceptible), 
+2=moderate (distinct presence), 3-severe (marked, intense) 
+erosion: Skin reaction erosion score, e.g. 0=absent, 1=mild (slight, barely perceptible), 
+
+2=moderate (distinct presence), 3=severe (marked, intense) 
+edema: Skin reaction edema score, e.g. 0=absent, 1=mild (slight, barely perceptible), 
+2=moderate (distinct presence), 3=severe (marked, intense) 
+pain: Skin reaction pain score, e.g. 0=absent, 1=mild (slight, barely perceptible), 
+2=moderate (distinct presence), 3=severe (marked, intense) 
+
+itching: Skin reaction itching score, e.g. 0=absent, 1=mild (slight, barely perceptible), 
+2=moderate (distinct presence), 3=severe (marked, intense) 
+
+
+CMrpt: Concomitant Medication reported during this visit, e.g., Y=Yes, N=No 
+AErpt: Adverse Event reported during this visit, e.g., Y=Yes, N=No 
+LBtest: Laboratory Testing performed during this visit, e.g., Y=Yes, N=No 
+calc: Serum calcium level 
+alb: Serum albumin level 
+alcalc: Albumin-corrected serum calcium level 
+
+28. These recommendations are specific to this product and may not be appropriate for 
+bioequivalence studies of any other product, including any other dosage form or strength of 
+betamethasone dipropionate or calcipotriene. 
+
+

@@ -1,0 +1,67 @@
+ 
+
+Active Ingredient: Avanafil 
+
+ 
+
+Dosage Form; Route: Tablet; oral 
+
+ 
+
+Recommended Studies: Two studies 
+
+ 
+
+1. Type of study: Fasting 
+
+
+Design: Single-dose, two-way crossover in vivo 
+
+Strength: 200 mg 
+
+Subjects: Healthy males, general population 
+
+Additional comments: Coadministration of avanafil with any form of organic nitrate is 
+contraindicated due to the potentiation of hypotension. Nitrates should not be 
+administered to subjects for at least 12 hours after the last dose of avanafil and should be 
+administered under close medical supervision with appropriate hemodynamic monitoring. 
+
+___________________________________________________________________________ 
+
+2. Type of study: Fed 
+
+
+Design: Single-dose, two-way crossover in vivo 
+
+Strength: 200 mg 
+
+Subjects: Healthy males, general population 
+
+Additional comments: Same as above 
+
+________________________________________________________________________ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Avanafil in plasma 
+
+ 
+
+Bioequivalence based on (90% CI): Avanafil 
+
+ 
+
+Waiver request of in vivo testing: 50 mg and 100 mg based on (i) acceptable bioequivalence 
+studies on the 200 mg strength, (ii) acceptable in vitro dissolution testing of all strengths, and 
+(iii) proportional similarity of the formulations across all strengths. 
+
+ 
+
+Dissolution test method and sampling times: The dissolution information for this drug 
+product can be found on the FDA-Recommended Dissolution Methods website available to the 
+public at the following location: http://www.accessdata.fda.gov/scripts/cder/dissolution/. 
+Conduct comparative dissolution testing on 12 dosage units each of all strengths of the test and 
+reference products. Specifications will be determined upon review of the abbreviated new drug 
+application (ANDA). 
+
+

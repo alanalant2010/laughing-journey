@@ -1,0 +1,76 @@
+ 
+
+Active Ingredient: Bosutinib monohydrate 
+
+ 
+
+Dosage Form; Route: Tablet; oral 
+
+ 
+
+Recommended Studies: Two studies 
+
+ 
+
+1. Type of study: Fasting 
+
+
+Design: Single-dose, two-way crossover, in vivo 
+
+Strength: Eq. 100 mg base 
+
+Subjects: Healthy males and non-pregnant females, general population 
+
+Additional comments: 1) Females should practice abstention or contraception during the 
+study. 2) Investigators should refer to the FDA-approved labeling and apply appropriate 
+screening and monitoring recommendations for changes in the liver function tests and 
+blood counts along with other relevant recommendations described in the product’s 
+package insert. 3) Bioequivalence (BE) study protocols should include provisions for 
+adequate treatment and discontinuation of subjects from the study upon development of 
+hypersensitivity or other adverse reactions, as appropriate. 
+
+ 
+
+ 
+
+2. Type of study: Fed 
+
+
+Design: Single-dose, two-way crossover, in vivo 
+
+Strength: Eq. 100 mg base 
+
+Subjects: Healthy males and non-pregnant females, general population 
+
+Additional comments: Same as above 
+
+ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Bosutinib in plasma 
+
+ 
+
+Bioequivalence based on (90% CI): Bosutinib 
+
+ 
+
+Waiver request of in vivo testing: Eq. 500 mg bosutinib (base) tablet, based on (i) acceptable 
+bioequivalence studies on the Eq. 100 mg (base) strength, (ii) acceptable in vitro dissolution 
+testing of all strengths, and (iii) proportional similarity of the formulations across all strengths. 
+
+ 
+
+Dissolution test method and sampling times: The dissolution information for this drug product 
+can be found on the FDA-Recommended Dissolution Methods website available to the public at 
+the following location: http://www.accessdata.fda.gov/scripts/cder/dissolution/. Conduct 
+comparative dissolution testing on 12 dosage units each of all strengths of the test and reference 
+
+
+products. Specifications will be determined upon review of the abbreviated new drug application 
+(ANDA). 
+
+ 
+
+

@@ -1,0 +1,76 @@
+ 
+
+Active ingredient: Bicalutamide 
+
+ 
+
+Form/Route: Tablets/Oral 
+
+ 
+
+Recommended studies: 2 studies 
+
+ 
+
+1. Type of study: Fasting 
+Design: Single-dose, two-way crossover in-vivo 
+
+Strength: 50 mg 
+
+Subjects: Normal healthy males, general population. 
+
+Additional Comments: Female subjects should be excluded from the bioequivalence 
+studies. Bicalutamide has a long terminal elimination half-life. Please 
+ensure adequate washout periods between treatments in the crossover studies. You may 
+also consider using a parallel study design due to bicalutamide’s long half-life. For long 
+half-life drug products, an AUC truncated to 72 hours may be used in place of AUC0-t or 
+AUC0-8. 
+
+
+
+
+______________________________________________________________________________ 
+
+ 
+
+2. Type of study: Fed 
+Design: Single-dose, two-way crossover in-vivo 
+
+Strength: 50 mg 
+
+Subjects: Normal healthy males, general population. 
+
+Additional comments: Please see comments above. 
+
+
+
+
+______________________________________________________________________________ 
+
+ 
+
+Analytes to measure: Bicalutamide, using an achiral assay 
+
+ 
+
+Bioequivalence based on (90% CI): Bicalutamide 
+
+ 
+
+Waiver request of in-vivo testing: Not Applicable 
+
+ 
+
+Dissolution test method and sampling times: 
+
+ 
+
+Please note that a Dissolution Methods Database is available to the public at the OGD website 
+at http://www.fda.gov/cder/ogd/index.htm. Please find the dissolution information for this 
+product at this website. Please conduct comparative dissolution testing on 12 dosage units each 
+of all strengths of the test and reference products. Specifications will be determined upon review 
+of the application. 
+
+ 
+
+

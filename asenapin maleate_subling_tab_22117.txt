@@ -1,0 +1,380 @@
+ 
+
+Active ingredient: Asenapine Maleate 
+
+ 
+
+Form/Route: Tablet/Sublingual 
+
+ 
+
+Recommended studies: 1 study 
+
+ 
+
+1. Type of study: Steady-state 
+
+Design: Multiple-dose, two-way, crossover in vivo 
+
+Strength: EQ 10 mg base 
+
+Subjects: Male and non-pregnant female patients who are receiving a stable twice daily dose of 
+asenapine maleate EQ 10 mg base. FDA recommends that studies not be conducted using healthy 
+subjects. 
+
+ 
+
+Additional comments: 1) According to the randomization schedule, an equal number of patients 
+would receive either the generic formulation (Treatment A) or the reference formulation (Treatment 
+B) in the same dose as administered prior to the study, i.e., a twice daily dose of asenapine maleate 
+EQ 10 mg base, for 7 days, 2) Patients would then be switched to the other product for a second 
+period of 7 days. There should be no washout period between the two treatment periods, 3) After the 
+study is completed, patients could be continued on twice daily dose of asenapine maleate EQ 10 mg 
+base using an approved asenapine maleate product as prescribed by their clinicians, 4) Tablets should 
+not be crushed, chewed, or swallowed, 5) Subjects should not eat or drink for 10 minutes after drug 
+administration, 6) Applicants may consider using a reference-scaled average bioequivalence approach 
+for this drug product. If using this approach, please provide evidence of high variability in the 
+bioequivalence parameters, AUC and/or Cmax (i.e., within-subject variability = 30%) for the 
+reference product. For general information on this approach, please refer to the Progesterone Capsule 
+Draft Guidance for additional information regarding reference-scaled average bioequivalence 
+approach. 7) Steady-state asenapine concentrations should be confirmed by obtaining at least three 
+consecutive measurements of plasma asenapine concentrations prior to dosing. 
+
+________________________________________________________________________ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Asenapine in plasma 
+
+ 
+
+Bioequivalence based on (90% CI): Asenapine 
+
+ 
+
+Waiver request of in vivo testing: EQ 5 mg base, based on (i) acceptable bioequivalence studies on the 
+EQ 10 mg base strength, (ii) acceptable in vitro disintegration and dissolution testing of all strengths, and 
+(iii) proportional similarity of the formulations across all strengths. Please refer to the Mirtazapine Tablet 
+Draft Guidance for additional information regarding waivers of in vivo testing 
+
+ 
+
+Disintegration and Dissolution test method and sampling times: 
+
+Please conduct the disintegration test as per the USP. Please note that a Dissolution Methods Database 
+is available to the public at the OGD website at http://www.accessdata.fda.gov/scripts/cder/dissolution/. 
+
+
+Please find the dissolution information for this product at this website. Please conduct comparative 
+disintegration and dissolution testing on 12 dosage units each of all strengths of the test and reference 
+products. Specifications will be determined upon review of the application. 
+
+ 
+
+Additional comments regarding the bioequivalence study: 
+
+ 
+
+Before the study begins, the proposed protocol must be approved by an institutional review board 
+(IRB).1 
+
+ 
+
+The FDA recommends that applicants enroll a sufficient number of patients to ensure adequate 
+statistical power. 
+
+ 
+
+Blood samples should be collected over a dosing interval on day 7, following preliminary sampling 
+on days 5 and 6 to confirm steady-state conditions. The last dose of asenapine maleate sublingual 
+tablet, EQ 10 mg base to be taken before blood sampling for each period should be administered at 
+the clinical site to assure exact timing of sampling. 
+
+ 
+
+1. Patient Entry Criteria and Facilities 
+
+To enter into this study, patients should be appropriate candidates for asenapine maleate sublingual 
+tablet, EQ 10 mg base twice daily therapy (as stated in product labeling, e.g. exclude subjects with 
+severe hepatic impairment, history of allergic or adverse responses to asenapine maleate or any 
+comparable or similar product, history of drug induced leukopenia/neutropenia, history of congenital 
+prolongation of the QT interval, history of cardiac arrhythmias, recent history of myocardial 
+infarction or unstable heart disease) and have been taking a stable dose of asenapine maleate 
+sublingual tablet, EQ 10 mg base twice daily therapy for at least three months. Patients should be 
+otherwise healthy as determined by physical examination, medical history, and routine hematologic 
+and biochemical tests (e.g., exclude subjects with screening low white blood cell count, neutropenia, 
+hypomagnesemia, hypokalemia, prolonged QT interval or bradycardia). 
+
+ 
+
+Outpatients should be hospitalized for at least 2 days during the collection of each set of 
+pharmacokinetic samples. The clinical and analytical laboratories used for the study should be 
+identified in the study report, along with the names, titles, and curriculum vitae of the medical and 
+scientific/analytical directors. 
+
+ 
+
+2. Safety Monitoring 
+
+White blood cell (WBC) counts should be monitored and asenapine maleate sublingual tablet 
+treatment modified, if necessary, in accordance with the leukopenia, neutropenia and agranulocytosis 
+warning in the labeling of the reference listed drug product. Patients requiring modification of 
+asenapine maleate sublingual tablet treatment should be dropped from the study and provided with 
+prompt medical care. Blood pressure, heart rate, and body temperature should be monitored during 
+the study and immediate medical care provided for any significant abnormalities. 
+
+ 
+
+3. Restrictions 
+
+Patients should fast for at least 8 hours prior to and 4 hours after the administration of the morning 
+dose of the test or reference treatment on day 7 of each period (i.e., the days on which blood samples 
+are to be collected to assess the concentration-time curve). All meals on day 7 should be standardized 
+during the study. Water may be allowed, except for 1 hour before and 1 hour after drug 
+administration, when no liquid should be permitted. 
+
+ 
+
+1 See 21 CFR 314.94(a)(7)(iii) 
+
+
+Patients with any of the following should be excluded from the study: 
+
+• A history of allergic or adverse reactions to asenapine maleate or any comparable or similar 
+product 
+
+
+
+
+ 
+
+• A history of severe hepatic impairment, drug induced leukopenia/neutropenia, congenital 
+prolongation of the QT interval, cardiac arrhythmias, myocardial infarction or unstable heart 
+disease 
+
+
+
+
+ 
+
+• Concurrent primary psychiatric or neurological diagnosis, including organic mental disorder, 
+severe tardive dyskinesia, or idiopathic Parkinson’s disease 
+
+
+
+
+ 
+
+• A total white blood cell count below 4000/mL, or an absolute neutrophil count below 
+2000/mL 
+
+
+
+
+ 
+
+• A history of granulocytopenia or myeloproliferative disorders (drug-induced or idiopathic) 
+
+
+
+
+ 
+
+• Significant orthostatic hypotension (i.e., a drop in systolic blood pressure of 30 mm Hg or 
+more and/or a drop in diastolic blood pressure of 20 mm Hg or more on standing) 
+
+
+
+
+ 
+
+• Concurrent use of antihypertensive medication or any medication that might predispose to 
+orthostatic hypotension 
+
+
+
+
+ 
+
+• A medical or surgical condition that might interfere with the absorption, metabolism, or 
+excretion of asenapine maleate 
+
+
+
+
+ 
+
+• A history of epilepsy or risk for seizures 
+
+
+
+
+ 
+
+• Concurrent use of other drugs known to suppress bone marrow function 
+
+
+
+
+ 
+
+• Expected changes in concomitant medications during the period of study 
+
+
+
+
+ 
+
+• Positive tests for drug or alcohol abuse at screening or baseline 
+
+
+
+
+ 
+
+• A history of alcohol or drug dependence by Diagnostic and Statistical Manual of Mental 
+Disorders IV (DSM-IV) criteria during the 6-month period immediately prior to study entry 
+
+
+
+
+ 
+
+• Compliance with outpatient medication schedule not expected 
+
+
+
+
+ 
+
+• History of multiple syncopal episodes 
+
+
+
+
+ 
+
+4. Blood Sampling 
+
+Venous blood samples should be collected after the day 7 morning dose to assess the concentration-
+time curve at predose (0 hours) and at 0.25, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0, 5.0, 6.0, 8.0, 10.0, 12.0 
+hours. The predose blood sampling should include at least three successive trough level samples 
+(Cmin). These samples should be collected on the last 3 days of dosing in each period to ensure that 
+steady-state blood plasma/serum levels are achieved in each study period. 
+
+ 
+
+Other Recommendations 
+
+1. Precautions and Safety Issues 
+
+
+2 See 21 CFR 50.25 
+
+• Patients should be confined for at least 12 hours after the first dose of the test and reference 
+products. 
+
+
+
+
+ 
+
+• Patients should remain in the supine position for the first 6 hours after the first dose, even if they 
+were previously on a stable dose of asenapine maleate. 
+
+
+
+
+ 
+
+• Patients should be adequately hydrated. This may be achieved by administering 240 mL of water 
+before the overnight fast, 240 mL of water one hour before dosing, and beginning no sooner than 
+1 hour after drug administration, 240 mL of water every 2 hours for 6 hours post-dosing. Subjects 
+should not eat or drink for 10 minutes after drug administration. 
+
+
+
+
+ 
+
+• Patients must be adequately informed of possible cardiovascular adverse effects in the consent 
+form.2 
+
+
+
+
+ 
+
+2. Statistical Analysis of Pharmacokinetic Data (Blood Plasma/Serum) 
+
+The following pharmacokinetic data should be used for the evaluation of bioequivalence of the multiple-
+dose study: 
+
+ 
+
+• Individual and mean blood drug concentration levels 
+
+
+
+
+ 
+
+• Individual and mean trough levels (Cmin ss) 
+
+
+
+
+ 
+
+• Individual and mean peak levels (Cmax ss) 
+
+
+
+
+ 
+
+• Calculation of individual and mean steady-state AUCinterdose (AUCinterdose is AUC during a 
+dosing interval at steady-state) 
+
+
+
+
+ 
+
+• Individual and mean percent fluctuation [ =100 * (Cmax ss – Cmin ss)/Caverage ss] 
+
+
+
+
+ 
+
+• Individual and mean time to peak concentration 
+
+
+
+
+ 
+
+• The log-transformed AUC and Cmax data should be analyzed statistically using analysis of 
+variance. The 90% confidence interval for the ratio of the geometric means of the 
+pharmacokinetic parameters (AUC and Cmax) should be within 80-125%. Fluctuation for the test 
+product should be evaluated for comparability with the fluctuation of the reference product. The 
+trough concentration data should also be analyzed statistically to verify that steady-state was 
+achieved prior to Period 1 and Period 2 pharmacokinetic sampling. 
+
+
+
+
+ 
+
+3. Clinical Report and Adverse Reactions 
+
+ 
+
+• Patient medical histories, physical examination and laboratory reports, and all incidents of 
+possible adverse reactions should be reported. 
+
+
+
+
+

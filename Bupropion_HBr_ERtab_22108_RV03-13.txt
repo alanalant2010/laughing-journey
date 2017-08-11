@@ -1,0 +1,142 @@
+ 
+
+Active ingredient: Bupropion Hydrobromide 
+
+ 
+
+Form/Route: Extended Release Tablets/Oral 
+
+ 
+
+Recommended studies: 2 studies 
+
+ 
+
+1. Type of study: Fasting 
+
+Design: Single-dose, two-treatment, two-period crossover in vivo 
+
+Strength: 522 mg 
+
+Subjects: Healthy males and nonpregnant females, general population. 
+
+Additional comments: Exclude subjects per the currently approved Reference Listed 
+Drug (RLD) labeling, e.g., prior seizure, seizure disorder or epilepsy, central nervous 
+system tumor, severe hepatic cirrhosis, history of head trauma, current depression, 
+current or prior diagnosis of bulimia or anorexia nervosa, taken a monoamine oxidase 
+(MAO) inhibitor within 14 days prior to dosing, allergic to any active or inactive 
+ingredient in the study medications or undergoing abrupt discontinuation of alcohol or 
+sedatives (including benzodiazepines). Prohibit the concomitant administration of drug 
+products per the currently approved RLD labeling, e.g., any MAO inhibitor, 
+antipsychotic, antidepressant, theophylline, systemic steroid and any other drug product 
+containing bupropion hydrochloride or bupropion hydrobromide. 
+
+
+
+
+______________________________________________________________________________ 
+
+ 
+
+2. Type of study: Fed 
+
+Design: Single-dose, two-treatment, two-period crossover in vivo 
+
+Strength: 522 mg 
+
+Subjects: Healthy males and nonpregnant females, general population. 
+
+Additional comments: See above Additional comments for Study 1. Please refer to the 
+Amantadine Hydrochloride Tablet Draft Guidance for additional information regarding 
+fed studies. 
+
+
+
+
+______________________________________________________________________________ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Bupropion and its active metabolites, 
+hydroxybupropion, threohydrobupropion, and erythrohydrobupropion, in plasma. 
+
+ 
+
+Please submit the metabolites data as supportive evidence of comparable therapeutic outcome. 
+For the metabolites, the following data should be submitted: individual and mean concentrations, 
+individual and mean pharmacokinetic parameters, and geometric means and ratios of means for 
+AUC and Cmax. 
+
+ 
+
+
+Bioequivalence based on (90% CI): Bupropion 
+
+ 
+
+Approval of other strength(s): 174 mg and 348 mg based on (i) acceptable bioequivalence 
+studies on the 522 mg strength, (ii) proportionally similar across all strengths, and (iii) acceptable 
+in vitro dissolution testing of all strengths. 
+
+ 
+
+Dissolution test method and sampling times: 
+
+Please note that a Dissolution Methods Database is available to the public at the OGD website 
+at http://www.accessdata.fda.gov/scripts/cder/dissolution/. Please find the dissolution 
+information for this product at this website. Please conduct comparative dissolution testing on 12 
+dosage units each of all strengths of the test and reference products. Specifications will be 
+determined upon review of the application. 
+
+ 
+
+In addition to the method above, for modified release products, dissolution profiles on 12 dosage 
+units each of test and reference products generated using USP Apparatus I at 100 rpm and/or 
+Apparatus II at 50 rpm in at least three dissolution media (pH 1.2, 4.5 and 6.8 buffer) should be 
+submitted in the application. Agitation speeds may have to be increased if appropriate. It is 
+acceptable to add a small amount of surfactant, if necessary. Please include early sampling times 
+of 1, 2, and 4 hours and continue every 2 hours until at least 80% of the drug is released, to 
+provide assurance against premature release of drug (dose dumping) from the formulation. 
+Specifications will be determined upon review of the data submitted in the application. 
+
+ 
+
+Due to concerns of dose dumping from this drug product when taken with alcohol, please 
+conduct additional dissolution testing using various concentrations of ethanol in the dissolution 
+medium, as follows: 
+
+ 
+
+Testing Conditions: 900 mL, 0.1 N HCl, USP apparatus 1 (baskets) @ 75 rpm, with or without 
+alcohol: 
+
+ 
+
+Test 1: 12 units tested according to the proposed method (with 0.1 N HCl), with data 
+collected every 15 minutes for a total of 2 hours. 
+
+ 
+
+Test 2: 12 units tested by substituting 5% (v/v) of test medium with Alcohol USP, and 
+data collection every 15 minutes for a total of 2 hours. 
+
+ 
+
+Test 3: 12 units tested by substituting 20% (v/v) of test medium with Alcohol USP, and 
+data collection every 15 minutes for a total of 2 hours. 
+
+ 
+
+Test 4: 12 units tested by substituting 40% (v/v) of test medium with Alcohol USP, and 
+data collection every 15 minutes for a total of 2 hours. 
+
+ 
+
+Both test and RLD products must be tested accordingly and data must be provided on individual 
+unit, means, range and %CV on all strengths. 
+
+ 
+
+ 
+
+

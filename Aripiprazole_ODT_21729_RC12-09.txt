@@ -1,0 +1,207 @@
+Draft Guidance on Aripiprazole 
+
+ 
+
+Active ingredient: Aripiprazole 
+
+ 
+
+Form/Route: Orally Disintegrating Tablet/Oral 
+
+ 
+
+Recommended studies: 2 studies 
+
+ 
+
+1. Type of study: Fasting 
+
+Design: Single-dose, two-treatment, two-period crossover in-vivo 
+
+Strength: 10 mg 
+
+Subjects: Healthy males and nonpregnant females, general population. 
+
+Additional Comments: For safety reasons, the 10 mg ODT should be used in the 
+bioequivalence studies. See notes. 
+
+
+
+
+________________________________________________________________________ 
+
+ 
+
+2. Type of study: Fed 
+
+Design: Single-dose, two-treatment, two-period crossover in-vivo 
+
+Strength: 10 mg 
+
+Subjects: Normal healthy males and nonpregnant females, general population 
+
+Additional Comments: 
+
+
+
+
+ 
+
+Notes: 
+
+ 
+
+Life-threatening adverse events attributed to acute laryngeal dystonia have been reported 
+following administration of a single dose of 30 mg aripiprazole to healthy volunteers in 
+bioequivalence studies. Although such events have not been reported at doses lower than 30 
+mg, because of the life-threatening nature of these events, and because the dose response 
+relationship is not known for this event, the following safety precautions are recommended 
+for healthy volunteer studies of aripiprazole at all doses: 
+
+ 
+
+• Study protocols should specify standard procedures to diagnose and treat dystonic 
+reactions should they occur. 
+
+
+• Subjects younger than 45 years of age should be excluded. There appears to be an 
+inverse linear relationship between age and the incidence of acute dystonic reactions. 
+Adults under 35 years of age were reported to have a 15-fold higher rate of 
+neuroleptic-induced dystonia compared to a group of patients 60-80 years of age. The 
+occurrence of dystonias appears to be rare at ages of approximately 45 years and 
+higher. 
+
+
+• Protocols should include stringent drug screening procedures to ensure that subjects 
+are free of illicit drugs at the time of administration of each study drug dose. 
+
+
+
+
+This draft guidance, once finalized, will represent the Food and Drug Administration's (FDA's) 
+current thinking on this topic. It does not create or confer any rights for or on any person and does 
+not operate to bind FDA or the public. You can use an alternative approach if the approach satisfies 
+the requirements of the applicable statutes and regulations. If you want to discuss an alternative 
+approach, contact the Office of Generic Drugs. 
+
+
+• The screening interview should include specific questions to exclude subjects with a 
+prior personal or family history of dystonic reactions to medications. Prospective 
+study subjects should also be specifically questioned about prior neuroleptic drug 
+exposures. 
+
+
+
+
+ 
+
+Aripiprazole has been poorly tolerated by healthy volunteers in some bioequivalence studies, 
+particularly at the 15 and 30 mg dose levels. In several cases, adverse events have resulted in 
+a high incidence of dropouts. Adverse events in aripiprazole studies have included nausea, 
+vomiting, dizziness, syncope, insomnia, headache, fatigue, hypotension, hot flashes, 
+weakness, diaphoresis and confusion. To minimize the occurrence of adverse events, and to 
+ensure the safety of healthy volunteer subjects in clinical trials of aripiprazole, the following 
+is recommended: 
+
+ 
+
+• Subjects should be monitored in-house for at least 3 days after dosing and until 
+adverse events have resolved. 
+
+
+• Subjects should be kept supine for at least 8 hours starting no longer than 15 minutes 
+after each dose. 
+
+
+• Subjects should be asked to use the bathroom soon before dosing. Subjects should be 
+encouraged to use urinals or bedpans during the first 8 hours after dosing and at any 
+time after dosing if the subject is experiencing adverse events such as nausea, 
+dizziness or hypotension. If subjects do use the bathroom during the first 8 hours after 
+dosing or while experiencing adverse events such as nausea, dizziness or hypotension, 
+they should be assisted to and from the bathroom by study personnel. 
+
+
+• At a minimum, routine 12-lead EKG’s should be performed at 3-5 hours after dosing 
+and at 8-12 hours after dosing. Continuous EKG monitoring during those time periods 
+may be considered as an alternative. 
+
+
+• Vital signs monitoring should continue post dosing throughout the period that subjects 
+are housed, commencing no later than 30 minutes following dosing. Vital signs 
+should be monitored frequently (at least every 0.5-1 hour) for at least the first 8 hours 
+after dosing and the first hour after subjects are allowed to rise from the supine 
+position. 
+
+
+• Prespecified limits should be defined for reporting adverse events related to vital signs 
+(e.g. hypotension, bradycardia, etc.). Vital sign readings that meet these predefined 
+limits should be reported as adverse events, even if they are not performed during a 
+scheduled assessment (e.g. vital signs performed as part of an assessment of an 
+adverse event). 
+
+
+• The protocol should include standard procedures for the assessment and management 
+of potential adverse events, including vital signs and EKG monitoring as appropriate 
+for adverse events possibly associated with hypotension. 
+
+
+• Women of childbearing potential should be enrolled only if they are using effective 
+contraceptives. A negative pregnancy test is needed within 24 hours prior to each 
+dose. These subjects should also be informed of the potential teratogenicity of the 
+study drug as part of the informed consent process. Nursing women should also be 
+excluded. 
+
+
+• The protocol should include measures to prevent relative dehydration at the time of 
+dosing, such as encouragement of water intake whenever possible prior to dosing. 
+Consideration should be made to providing a standard meal just prior to the standard 
+fasting period before dosing. 
+
+
+
+
+
+• During the informed consent process, subjects should be advised of the high incidence 
+of adverse events that have occurred in some healthy volunteer studies of aripiprazole. 
+
+
+
+
+ 
+
+Aripiprazole has a long terminal elimination half-life. Please ensure adequate washout 
+periods between treatments in the crossover studies. You may also consider using a parallel 
+study design due to aripiprazole’s long half-life. For long half-life drug products, an AUC 
+truncated to 72 hours may be used in place of AUC0-t or AUC0-inf. Please collect sufficient 
+blood samples in the bioequivalence studies to adequately characterize the peak 
+concentration (Cmax) and time to reach peak concentration (tmax). 
+
+________________________________________________________________________ 
+
+ 
+
+Analyte to measure: Aripiprazole in plasma 
+
+ 
+
+Bioequivalence based on (90% CI): Aripiprazole in plasma 
+
+ 
+
+Waiver request of in-vivo testing: 15 mg, 20 mg and 30 mg based on (i) acceptable 
+bioequivalence studies on the 10 mg, (ii) proportional similarity of all strengths, and (iii) 
+acceptable in vitro dissolution testing of all strengths. 
+
+ 
+
+Dissolution test method and sampling times: 
+
+ 
+
+Please note that a Dissolution Methods Database is available to the public at the OGD 
+website at http://www.accessdata.fda.gov/scripts/cder/dissolution/. Please find the 
+dissolution information for this product at this website. Please conduct comparative 
+dissolution testing on 12 dosage units each of all strengths of the test and reference 
+products. Specifications will be determined upon review of the application. 
+
+

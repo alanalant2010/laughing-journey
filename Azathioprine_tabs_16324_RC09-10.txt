@@ -1,0 +1,80 @@
+Contains Nonbinding Recommendations 
+
+Draft Guidance on Azathioprine 
+
+This draft guidance, once finalized, will represent the Food and Drug Administration's (FDA's) 
+current thinking on this topic. It does not create or confer any rights for or on any person and does 
+not operate to bind FDA or the public. You can use an alternative approach if the approach satisfies 
+the requirements of the applicable statutes and regulations. If you want to discuss an alternative 
+approach, contact the Office of Generic Drugs. 
+
+Active ingredient: Azathioprine 
+Form/Route: Tablet /Oral 
+Recommended studies: 1 study 
+
+Type of study: Fasting 
+Design: Single-dose, two-way crossover in-vivo 
+Strength: 50 mg 
+Subjects: Patients who are on a regimen of oral azathioprine tablets. 
+Additional Comments: Specific recommendations are provided below. 
+
+Analytes to measure (in appropriate biological fluid): Azathioprine and its active metabolite, 
+6-mercaptopurine in plasma 
+
+Bioequivalence based on (90% CI): Azathioprine 
+
+Please submit the metabolite data as supportive evidence of comparable therapeutic outcome. 
+For the metabolite, the following data should be submitted: individual and mean concentrations, 
+individual and mean pharmacokinetic parameters, and geometric means and ratios of means for 
+AUC and Cmax. 
+
+Waiver request of in-vivo testing: 25mg, 75 mg and 100 mg based on (i) acceptable 
+bioequivalence studies on the 50 mg strength, (ii) proportional similarity of the formulations 
+across all strengths, and (iii) acceptable in vitro dissolution testing of all strengths. 
+
+Dissolution test method and sampling times: 
+
+Please note that a Dissolution Methods Database is available to the public at the OGD website 
+at http://www.accessdata.fda.gov/scripts/cder/dissolution/index.cfm. Please find the dissolution 
+information for this product at this website. Please conduct comparative dissolution testing on 12 
+dosage units of the test and reference products. Specifications will be determined upon review of 
+the application. 
+
+Additional comments regarding the PK bioequivalence study 
+
+1. Submission of an Investigational New Drug Application (IND) is required prior to the 
+conduct of a bioequivalence study for a cytotoxic drug product such as Azathioprine (See 
+21 C.F.R § 320.31). 
+
+
+Recommended Sep 2010 
+
+
+2. These studies should be conducted in patients who are already receiving azathioprine at a 
+fixed dose of 50 mg/day or 100 mg/day. If you choose to enroll patients who are on a 
+regimen of 100 mg/day, then each patient should receive two tablets of 50 mg strength. 
+3. The bioequivalence study should be conducted on 2 consecutive days of a standard 
+treatment cycle, with each of these days representing a study period. No additional 
+washout is necessary. 
+4. The study should be designed around each patient’s existing azathioprine regimen. 
+5. No changes in dose or regimen should be made for the purpose of the bioequivalence 
+study. 
+6. In a crossover study, the dose that each patient receives should be the same between the 
+two study periods. If a change in dose is needed, that patient should be dropped from the 
+study. 
+7. Any concomitant medications taken by each patient should be the same for the two study 
+periods. If a change in concomitant medications is necessary, that patient should be 
+dropped from the study. 
+8. Females should not be pregnant or lactating, and if applicable, should practice abstention 
+or contraception during the study. 
+9. Patients with inherited deficiency of methyltransferase activity must be excluded from 
+these studies. 
+10. The protocol may exclude concomitant chemotherapy and should exclude prior exposure 
+to doxorubicin. 
+11. The informed consent should include a description of the known genotoxicity of 6mercaptopurine 
+in human cells and animal models. 
+
+
+Recommended Sep 2010 
+
+

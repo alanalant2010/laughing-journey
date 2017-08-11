@@ -1,0 +1,83 @@
+Active Ingredient: Bexarotene 
+
+
+
+Dosage Form; Route: Capsule; oral 
+
+
+
+Recommended Studies: One study 
+
+
+
+1.Type of study and design: Multiple-dose, steady state, two-way crossover in vivo
+
+
+Strength: 75 mg
+
+Subjects: Patients who are receiving Bexarotene Capsules in an established treatmentregimen
+
+Additional comments:
+
+a)TARGRETIN is a member of the retinoid class of drugs that is associated with birthdefects in humans. The protocol should specify and require both formal pregnancycounseling for female subjects, and male subjects regarding the risk to their femalepartner and a section regarding the counseling in the Informed Consent document.
+b)Adequate contraception must be continued for at least 1 month following the last doseof bexarotene.
+c)The protocol should include following specific exclusion criteria in addition to otherexclusion criteria:
+•Subjects demonstrating abnormalities in lipid profile or thyroid-function onscreening laboratory evaluations.
+•Subjects receiving systemic therapy with Vitamin A in doses of greater than15000 IU (5000 mcg) per day.
+•Subjects who are taking gemfibrozil or tamoxifen.
+•Use of any other retinoid class drug (e.g. isotretinoin) within 30 days of entry intothe study.
+•Use of topical medications such as corticosteroids or tar baths.
+d)In addition to the exclusion of drugs that are also known to cause photosensitivity,
+subjects should be advised to avoid prolonged exposure to the sun or UV light duringthe study. Similarly, it would be prudent to exclude subjects with a known history ofskin cancer.
+e)The protocol should include an appropriate plan for continued follow-up, standardcare for subsequent follow up, and treatment of subjects who continue to demonstratethyroid and/or lipid abnormalities at the end of study laboratory evaluations.
+
+
+
+Analytes to measure (in appropriate biological fluid): Bexarotene in plasma 
+
+Bioequivalence based on (90% CI): Bexarotene 
+
+Waiver request of in vivo testing: Not Applicable 
+
+Dissolution test method and sampling times: The dissolution information for this drug product 
+can be found on the FDA-Recommended Dissolution Methods website available to the public at 
+the following location: http://www.accessdata.fda.gov/scripts/cder/dissolution/. Conduct 
+comparative dissolution testing on 12 dosage units each of all strengths of the test and reference 
+products. Specifications will be determined upon review of the abbreviated new drug application 
+(ANDA). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

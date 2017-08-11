@@ -1,0 +1,822 @@
+ 
+
+ 
+
+Active Ingredient: Brimonidine tartrate 
+
+ 
+
+Dosage Form; Route: Gel; topical 
+
+ 
+
+Recommended Study: One study 
+
+ 
+
+1. Type of study: bioequivalence (BE) study with clinical endpoint 
+
+Design: Randomized, double-blind, parallel, three-arm, placebo-controlled in vivo 
+
+Strength: EQ 0.33% Base 
+
+Subjects: Healthy males and nonpregnant females with moderate to severe persistent facial 
+erythema of rosacea 
+
+Additional comments: See specific recommendations provided below 
+
+______________________________________________________________________________ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Not applicable (N/A) 
+
+ 
+
+Bioequivalence based on (90% CI): Clinical endpoint 
+
+ 
+
+Dissolution test method and sampling times: N/A 
+
+ 
+
+Additional comments regarding the BE study with clinical endpoint: 
+
+ 
+
+1. The Office of Generic Drugs (OGD) recommends conducting a BE study with clinical 
+endpoint in the treatment of moderate-to-severe persistent (nontransient) facial erythema 
+of rosacea. The study should compare the test product versus the reference listed drug 
+(RLD) and placebo (vehicle) control, each administered by applying a pea-size amount of 
+the assigned study treatment to each of the five areas of the face (forehead, chin, nose, 
+each cheek)—avoiding the eyes and lips—once daily for 15 days. 
+
+
+ 
+
+2. A placebo (vehicle) control arm is recommended to demonstrate that the test product and 
+RLD are active and as a parameter to establish that the study is sufficiently sensitive to 
+detect differences between products. 
+
+
+ 
+
+3. Inclusion criteria (the sponsor may add additional criteria): 
+a. Healthy male or nonpregnant females aged at least 18 years with a clinical diagnosis 
+of facial rosacea. 
+b. A clinical diagnosis of facial rosacea 
+
+
+
+
+
+
+c. A Clinician Erythema Assessment (CEA) score of =3 at Screening and on 
+Baseline/Day 1 prior to study drug application (per Table 1) 
+d. A Patient Self Assessment (PSA) score of =3 at Screening and on Baseline/Day 1 
+prior to study drug application (per Table 2) 
+e. Subject’s willingness to minimize external factors that might trigger rosacea flare-ups 
+(e.g., spicy foods, thermally hot foods and drinks, hot environments, prolonged sun 
+exposure, strong winds, alcoholic beverages) 
+
+
+
+
+
+ 
+
+Table 1: Sample CEA Scale for Rosacea 
+
+Grade 
+
+Description 
+
+0 
+
+Clear skin with no signs of erythema 
+
+1 
+
+Almost clear; slight redness 
+
+2 
+
+Mild erythema; definite redness 
+
+3 
+
+Moderate erythema; marked redness 
+
+4 
+
+Severe erythema; fiery redness 
+
+
+
+ 
+
+Table 2: Sample PSA Scale for Rosacea 
+
+Grade 
+
+Description 
+
+0 
+
+No redness 
+
+1 
+
+Very mild redness 
+
+2 
+
+Mild redness 
+
+3 
+
+Moderate redness 
+
+4 
+
+Severe redness 
+
+
+
+ 
+
+4. Exclusion criteria (the sponsor may add additional criteria): 
+a. Females who are pregnant, breast feeding, or planning a pregnancy. 
+b. Females of childbearing potential who do not agree to utilize an adequate form of 
+contraception. 
+c. Particular forms of rosacea (rosacea conglobata, rosacea fulminans, isolated 
+rhinophyma, isolated pustulosis of the chin) or other concomitant facial dermatoses 
+that are similar to rosacea such as peri-oral dermatitis, demodicidosis, facial keratosis 
+pilaris, seborrheic dermatitis, acute lupus erythematosus, or actinic telangiectasia. 
+d. Presence of =3 facial inflammatory lesions of rosacea. 
+e. Subjects with Raynaud’s syndrome, thromboangiitis obliterans, orthostatic 
+hypotension, severe cardiovascular disease, cerebral or coronary insufficiency, renal 
+or hepatic impairment, scleroderma, Sjögren’s syndrome, or depression 
+f. Presence of any skin condition on the face that would interfere with the diagnosis or 
+assessment of rosacea 
+g. Excessive facial hair (e.g., beards, sideburns, moustaches, etc.) that would interfere 
+with the study treatments or study assessments 
+h. Dermatologic or surgical procedure on the face within four weeks prior to baseline 
+i. Known hypersensitivity reaction to any component of brimonidine therapy 
+
+
+
+
+
+
+j. Current use of monoamine oxidase (MAO) inhibitors, barbiturates, opiates, sedatives, 
+systemic anesthetics, alpha-agonists, cardiac glycosides, beta blockers, other 
+antihypertensive agents, or brimonidine tartrate ophthalmic solution 
+k. Use within six months prior to baseline of oral retinoids (e.g., Accutane®) or 
+therapeutic vitamin A supplements of greater than 10,000 units/day (multivitamins 
+are allowed) 
+l. Use within 12 weeks prior to baseline of systemic immunomodulators 
+m. Use within four weeks prior to baseline of 1) topical immunomodulators, 2) systemic 
+antibiotics, 3) systemic corticosteroids, 4) systemic anti-inflammatory agents, 5) 
+systemic treatment for rosacea, or 6) systemic treatment for acne (other than oral 
+retinoids, which require a 6-month washout) 
+n. Use within two weeks prior to baseline of 1) topical corticosteroids, 2) topical 
+retinoids, 3) topical antibiotics, 4) topical anti-inflammatory, 5) topical treatment for 
+rosacea, or 6) topical treatment for acne 
+o. Use within 1 week prior to baseline of niacin =500 mg per day 
+
+
+
+
+ 
+
+5. The protocol should include a list of the prescription and over-the-counter drug products, 
+procedures, and activities that are prohibited during the study, such as: 
+a. Any other topical products applied to face 
+b. Medicated soaps used on face 
+c. Dermatologic or surgical procedure on face 
+d. MAO inhibitors, barbiturates, opiates, sedatives, systemic anesthetics, alpha-agonists, 
+cardiac glycosides, beta blockers, other antihypertensive agents, or brimonidine 
+tartrate ophthalmic solution 
+e. Systemic treatment for rosacea 
+f. Systemic corticosteroids, systemic antibiotics, systemic immunomodulators, systemic 
+anti-inflammatory agents, oral retinoids, or other systemic treatment for acne vulgaris 
+g. Use of tanning booths, sunbathing, or excessive exposure to the sun 
+h. Subjects should be instructed to wash their hands with soap and water before and 
+after applying treatment and to avoid contact of the study product with the eye or lips. 
+
+
+
+
+
+ 
+
+6. The CEA and PSA should be performed at the screening visit, the Baseline/Day 1 visit, 
+and the End of Study/Day 15 visit. The screening visit and the Day 1 visit should be on 
+separate days. During the screening visit, the CEA and PSA should be performed once. 
+During the Day 1 and Day 15 visits, the CEA and PSA should be performed five times: 
+prior to dosing and at 3, 6, 9, and 12 hours post-application. 
+
+
+ 
+
+7. The recommended primary endpoint is the proportion of subjects with treatment success 
+at Hour 3, 6, 9, and 12 post-application on Day 15, where treatment success is defined as 
+a 2-grade improvement from pre-dose on Day 1 on both the CEA and PSA scales at each 
+time point. 
+
+
+ 
+
+8. The recommended secondary endpoint is the proportion of subjects with treatment 
+success at Hour 3, 6, 9, and 12 post-application on Day 1, where treatment success is 
+defined as a 2-grade improvement from pre-dose on Day 1 on both the CEA and PSA 
+scales at each time point. 
+
+
+
+ 
+
+9. The protocol should clearly define the per-protocol (PP), modified intent-to-treat (mITT), 
+and safety populations. 
+a. The accepted PP population used for BE evaluation includes all randomized subjects 
+who met all inclusion/exclusion criteria, applied a pre-specified proportion of the 
+scheduled doses (e.g., 75% to 125%) of the assigned product for the specified 
+duration of the study, did not miss the scheduled applications for more than 1 
+consecutive day, and completed the evaluation within the designated visit window 
+(+/- 2 days) with no protocol violations that would affect the treatment evaluation. 
+The protocol should specify how compliance will be verified, e.g., by the use of 
+subject diaries. 
+b. The mITT population includes all randomized subjects who applied at least one dose 
+of assigned product. 
+c. The safety population includes all randomized subjects who received study product. 
+
+
+ 
+
+10. Subjects who are discontinued early from the study due to insufficient or lack of 
+treatment effect should be included in the PP population as treatment failures. Subjects 
+discontinued early for other reasons should be excluded from the PP population, but 
+included in the mITT population, using Last Observation Carried Forward (LOCF). 
+
+
+ 
+
+11. The start and stop dates of concomitant medication use during the study should be 
+provided in the data set in addition to the reason for the medication use. The sponsor 
+should clearly explain whether the medication was used prior to Baseline visit, during the 
+study, or both. 
+
+
+ 
+
+12. All adverse events (AEs) should be reported, whether or not they are considered to be 
+related to the treatment. The report of AEs should include date of onset, description of 
+AE, severity, relation to study medication, action taken, outcome, and date of resolution. 
+This information is relevant to FDA’s determination of whether the incidence and 
+severity of adverse reactions is different between the test product and RLD. 
+
+
+ 
+
+13. If the inactive ingredients of the test product are different from those contained in the 
+RLD or in significantly different amounts, the sponsor must clearly describe the 
+differences and provide information to show that the differences will not affect the safety, 
+efficacy, and/or systemic or local availability of the drug. 
+
+
+ 
+
+14. The method of randomization should be described in the protocol and the randomization 
+schedule provided as a SAS data set in .xpt format (created using SAS XPORT). The 
+Agency recommends that an independent third party generate and hold the randomization 
+code throughout the conduct of the study in order to minimize bias. The sponsor may 
+generate the randomization code if not involved in the packaging and labeling of the 
+study medication. A sealed copy of the randomization scheme should be retained at the 
+study site and should be available to FDA investigators at the time of the site inspection 
+to allow for verification of the treatment identity of each subject. 
+
+
+ 
+
+
+15. A detailed description of the blinding procedure is to be provided in the protocol. The 
+packaging of the test, reference, and placebo products should be similar in appearance to 
+make differences in treatment less obvious to the subjects and to maintain adequate 
+blinding of evaluators. When possible, neither the subject nor the investigator should be 
+able to identify the treatment. The containers should not be opened by the subject at the 
+study center. 
+
+
+ 
+
+16. Refer to 21 CFR 320.38, 320.63 and the guidance for industry Handling and Retention of 
+BA and BE Testing Samples regarding retention of study drug samples and 21 CFR 
+320.36 for requirements for maintenance of records of BE testing. In addition, the 
+investigators should follow the procedures of 21 CFR 58 and ICH E6, Good Clinical 
+Practice: Consolidated Guideline, for retention of study records and data in order to 
+conduct their studies in compliance with Good Laboratory Practices (GLP) and Good 
+Clinical Practices (GCP). Retention samples should be randomly selected from the drug 
+supplies received prior to dispensing to subjects. Retention samples should not be 
+returned to the sponsor at any time. 
+
+
+ 
+
+17. It is the sponsor’s responsibility to enroll sufficient subjects for the study to demonstrate 
+bioequivalence between the products. 
+
+
+ 
+
+18. To establish bioequivalence for a dichotomous endpoint, FDA recommends applicants 
+test the following compound hypotheses using the per protocol population: 
+HO: pT – pR = .1 or pT – pR = .2 versus HA: .1 < pT – pR < .2 
+where pT = the success rate of the primary endpoint for the treatment group, and 
+pR = the success rate of the primary endpoint for the reference group. 
+The null hypothesis, HO, is rejected with a type I error (a) of 0.05 (two one-sided tests) if 
+the estimated 90% confidence interval for the difference of the success rates between test 
+and reference products (pT – pR) is contained within the interval [. 1, . 2], where . 1 = -
+0.20 and . 2 = 0.20. Rejection of the null hypothesis supports the conclusion of 
+equivalence of the two products. 
+
+
+ 
+
+19. To establish sensitivity within the study for either a dichotomous or continuous primary 
+endpoint, the test and reference products should both be statistically superior to the 
+placebo. Conduct an appropriate inferential test with a type I error (a) of 0.05, using the 
+mITT population and the primary endpoint. 
+
+
+ 
+
+20. Study data should be submitted to OGD in electronic format. All data should be 
+submitted as a SAS .xpt file, created using SAS XPORT (not CPORT). 
+a. Include a list of file names, a description of the content of each file, an explanation 
+of the variables within each file, and a description of all variable codes (for example, 
+for the treatment variable, A = TEST and B = RLD). 
+b. Provide a SAS program to open the SAS .xpt files. 
+
+
+
+c. Provide two primary data sets, one with No Last Observation Carried Forward (NO-
+LOCF - pure data set) and one with the Last Observation Carried Forward (LOCF - 
+modified data set). 
+d. Provide a separate data set for demographic, vital sign, adverse event, disposition 
+(including reason for discontinuation of treatment), concomitant medication, medical 
+history, compliance, and comment variables. 
+
+
+ 
+
+21. Sponsors should provide a summary data set that contains a separate line listing for each 
+subject (if data exist) using the following headings, if applicable: 
+a. Study identifier 
+b. Site identifier: study center 
+c. Subject identifier 
+d. Age 
+e. Age units (years) 
+f. Sex 
+g. Race 
+h. Name of actual treatment (exposure): test product, RLD, placebo control 
+i. Duration of treatment (total exposure in days) 
+j. Completed the study (yes/no) 
+k. Reason for premature discontinuation of subject 
+l. Subject required additional treatment for rosacea due to unsatisfactory treatment 
+response (yes/no) 
+m. Per Protocol (PP) population inclusion (yes/no) 
+n. Reason for exclusion from PP population 
+o. Modified Intent to Treat (mITT) population inclusion (yes/no) 
+p. Reason for exclusion from mITT population 
+q. Safety population inclusion (yes/no) 
+r. Reason for exclusion from safety population 
+s. CEA score at screening visit 
+t. CEA score at Day 1 visit at pre-dose 
+u. CEA score at Day 1 visit at 3 hours post-application 
+v. CEA score at Day 1 visit at 6 hours post-application 
+w. CEA score at Day 1 visit at 9 hours post-application 
+x. CEA score at Day 1 visit at 12 hours post-application 
+y. CEA score at Day 15 visit at pre-dose 
+z. CEA score at Day 15 visit at 3 hours post-application 
+aa. CEA score at Day 15 visit at 6 hours post-application 
+bb. CEA score at Day 15 visit at 9 hours post-application 
+cc. CEA score at Day 15 visit at 12 hours post-application 
+dd. PSA score at screening visit 
+ee. PSA score at Day 1 visit at pre-dose 
+ff. PSA score at Day 1 visit at 3 hours post-application 
+gg. PSA score at Day 1 visit at 6 hours post-application 
+hh. PSA score at Day 1 visit at 9 hours post-application 
+ii. PSA score at Day 1 visit at 12 hours post-application 
+jj. PSA score at Day 15 visit at pre-dose 
+
+
+
+kk. PSA score at Day 15 visit at 3 hours post-application 
+ll. PSA score at Day 15 visit at 6 hours post-application 
+mm. PSA score at Day 15 visit at 9 hours post-application 
+nn. PSA score at Day 15 visit at 12 hours post-application 
+oo. Final designation of treatment success (yes/no) 
+pp. Treatment compliance: number of missed doses per subject 
+qq. Concomitant medication (yes/no) 
+rr. Adverse event(s) reported (yes/no) 
+
+
+ 
+
+Table 3 provides an example. Note: this table may contain additional information not 
+applicable to the study and/or it may not contain all information applicable to the study. 
+
+ 
+
+Table 3: Example of a Summary Data Set Containing One Line Listing for Each Subject 
+
+STUDYID 
+
+SITEID 
+
+SUBJID 
+
+AGE 
+
+AGEU 
+
+SEX 
+
+RACE 
+
+EXTRT 
+
+EXDUR 
+
+completd 
+
+disc_rs 
+
+add_trt 
+
+pp 
+
+pp_rs 
+
+mitt 
+
+mitt_rs 
+
+safety 
+
+safe_rs 
+
+101 
+
+01 
+
+1 
+
+30 
+
+YEARS 
+
+F 
+
+1 
+
+A 
+
+56 
+
+Y 
+
+ 
+
+N 
+
+Y 
+
+ 
+
+Y 
+
+ 
+
+Y 
+
+ 
+
+101 
+
+01 
+
+2 
+
+28 
+
+YEARS 
+
+F 
+
+1 
+
+B 
+
+56 
+
+Y 
+
+ 
+
+N 
+
+Y 
+
+ 
+
+Y 
+
+ 
+
+Y 
+
+ 
+
+
+
+ 
+
+ 
+
+cea_s 
+
+cea1_p 
+
+cea1_3 
+
+cea1_6 
+
+cea1_9 
+
+cea1_12 
+
+cea15_p 
+
+cea15_3 
+
+cea15_6 
+
+cea15_9 
+
+cea15_12 
+
+psa_s 
+
+psa1_p 
+
+psa1_3 
+
+psa1_6 
+
+psa1_9 
+
+psa1_12 
+
+psa15_p 
+
+psa15_3 
+
+3 
+
+3 
+
+2 
+
+1 
+
+1 
+
+1 
+
+3 
+
+2 
+
+1 
+
+1 
+
+1 
+
+4 
+
+4 
+
+2 
+
+1 
+
+1 
+
+1 
+
+3 
+
+2 
+
+3 
+
+3 
+
+1 
+
+0 
+
+0 
+
+0 
+
+3 
+
+1 
+
+0 
+
+0 
+
+0 
+
+4 
+
+4 
+
+1 
+
+0 
+
+0 
+
+0 
+
+3 
+
+1 
+
+
+
+ 
+
+ 
+
+psa15_6 
+
+psa15_9 
+
+psa15_12 
+
+success 
+
+complian 
+
+CM 
+
+AE 
+
+1 
+
+1 
+
+1 
+
+N 
+
+0 
+
+Y 
+
+Y 
+
+0 
+
+0 
+
+0 
+
+Y 
+
+0 
+
+N 
+
+N 
+
+
+
+Note: Capitalized headings are from the Clinical Data Interchange Standards Consortium (CDISC) Study Data 
+Tabulation Model (SDTM) Implementation Guide (IG) for Human Clinical Trials V3.1.2 Final, dated 11/12/08. 
+
+ 
+
+STUDYID: Study Identifier 
+
+SITEID: Study Site Identifier 
+
+
+SUBJID: Subject Identifier for the Study 
+
+AGE: Age 
+
+AGEU: Age units (years) 
+
+SEX: Sex, e.g., M=Male, F=Female, U=Unknown 
+
+RACE: Race, e.g., 1=White, 2=Black or African American, 3=Asian, 4=American 
+Indian or Alaska Native, 5=Native Hawaiian or Other Pacific Islanders 
+
+EXTRT: Name of Actual Treatment (exposure), e.g., A=test product, B= RLD 
+
+EXDUR: Duration of treatment (total exposure in days) 
+
+completd: Subject completed the study, e.g., Y=Yes, N=No 
+
+disc_rs: Reason for premature discontinuation from the study, e.g., A=adverse 
+event, B=death, C=lost to follow-up, D=non-compliance with treatment, 
+E=treatment unmasked, F=subject moved out of area, G=unsatisfactory 
+treatment response, H=withdrew consent, I=protocol violation, K=other 
+event 
+
+add_trt: Subject required additional treatment for rosacea to unsatisfactory 
+treatment response, e.g., Y=Yes, N=No 
+
+pp: Per Protocol (PP) population inclusion, e.g., Y=Yes, N=No 
+
+pp_rs: Reason for exclusion from PP population, e.g., A=prematurely 
+discontinued, B=lost to follow-up, C=subject moved out of the area, 
+D=noncompliant, etc. 
+
+mitt: Modified Intent to Treat (mITT) population inclusion, e.g., Y=Yes, N=No 
+
+mitt_rs: Reason for exclusion from mITT population, e.g., A=never treated, etc. 
+
+safety: Safety population inclusion, e.g., Y=Yes, N=No 
+
+safe_rs: Reason for exclusion from Safety population, e.g., A=never treated, etc. 
+
+cea_s: CEA score at screening visit, e.g., 3 or 4 
+
+cea1_p: CEA score at Day 1 visit at pre-dose, e.g., 3 or 4 
+
+cea1_3: CEA score at Day 1 visit at 3 hours post-application, e.g., 0, 1, 2 or 3 
+
+cea1_6: CEA score at Day 1 visit at 6 hours post-application, e.g., 0, 1, 2 or 3 
+
+cea1_9: CEA score at Day 1 visit at 9 hours post-application, e.g., 0, 1, 2 or 3 
+
+cea1_12: CEA score at Day 1 visit at 12 hours post-application, e.g., 0, 1, 2 or 3 
+
+cea15_p: CEA score at Day 15 visit at pre-dose, e.g., 0, 1, 2 or 3 
+
+cea15_3: CEA score at Day 15 visit at 3 hours post-application, e.g., 0, 1, 2 or 3 
+
+cea15_6: CEA score at Day 15 visit at 6 hours post-application, e.g., 0, 1, 2 or 3 
+
+cea15_9: CEA score at Day 15 visit at 9 hours post-application, e.g., 0, 1, 2 or 3 
+
+cea15_12: CEA score at Day 15 visit at 12 hours post-application, e.g., 0, 1, 2 or 3 
+
+psa_s: PSA score at screening visit, e.g., 3 or 4 
+
+psa1_p: PSA score at Day 1 visit at pre-dose, e.g., 3 or 4 
+
+psa1_3: PSA score at Day 1 visit at 3 hours post-application, e.g., 0, 1, 2 or 3 
+
+psa1_6: PSA score at Day 1 visit at 6 hours post-application, e.g., 0, 1, 2 or 3 
+
+psa1_9: PSA score at Day 1 visit at 9 hours post-application, e.g., 0, 1, 2 or 3 
+
+psa1_12: PSA score at Day 1 visit at 12 hours post-application, e.g., 0, 1, 2 or 3 
+
+psa15_p: PSA score at Day 15 visit at pre-dose, e.g., 0, 1, 2 or 3 
+
+psa15_3: PSA score at Day 15 visit at 3 hours post-application, e.g., 0, 1, 2 or 3 
+
+psa15_6: PSA score at Day 15 visit at 6 hours post-application, e.g., 0, 1, 2 or 3 
+
+psa15_9: PSA score at Day 15 visit at 9 hours post-application, e.g., 0, 1, 2 or 3 
+
+psa15_12: PSA score at Day 15 visit at 12 hours post-application, e.g., 0, 1, 2 or 3 
+
+
+success: Treatment success, e.g., Y=Yes, N=No 
+
+complian: Treatment compliance, e.g., number of missed doses per subject 
+
+CM: Concomitant medication, e.g., Y=Yes, N=No 
+
+AE: Adverse event(s) reported, e.g., Y=Yes, N=No 
+
+ 
+
+22. These recommendations are specific to this product and may not be appropriate for BE 
+studies of any other product, including any other dosage form or strength of brimonidine. 
+
+
+

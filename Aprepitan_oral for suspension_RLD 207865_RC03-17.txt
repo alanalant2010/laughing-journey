@@ -1,0 +1,60 @@
+
+
+Active Ingredient: Aprepitant 
+
+
+
+Dosage Form; Route: For suspension; oral 
+
+
+
+Recommended Studies: Two studies 
+
+
+
+
+
+1.Type of study: Fasting
+
+
+Design: Single-dose, two-way crossover in-vivo
+
+Strength: 125 mg
+
+Subjects: Healthy males and non-pregnant, non-lactating females, general population.
+
+Additional Comments: Follow the preparation and administration instructions as described inthe approved drug label.
+
+
+
+
+
+2.Type of study: Fed
+
+
+Design: Single-dose, two-way crossover in-vivo
+
+Strength: 125 mg
+
+Subjects: Healthy males and non-pregnant, non-lactating females, general population.
+
+Additional Comments: Follow the preparation and administration instructions as described inthe approved drug label.
+
+
+
+Analytes to measure (in appropriate biological fluid): aprepitant in plasma 
+
+Bioequivalence based on (90% CI): aprepitant 
+
+Waiver request of in-vivo testing: Not applicable 
+
+Dissolution test method and sampling times: The dissolution information for this drug 
+product can be found on the FDA-Recommended Dissolution Methods web site, available to the 
+public at the following location: http://www.accessdata.fda.gov/scripts/cder/dissolution/. 
+Conduct comparative dissolution testing on 12 dosage units each of all strengths of the test and 
+reference products. Specifications will be determined upon review of the abbreviated new drug 
+application (ANDA). 
+
+
+
+

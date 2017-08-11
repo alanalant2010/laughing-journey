@@ -1,0 +1,52 @@
+Contains Nonbinding Recommendations 
+
+Draft Guidance on Benazepril Hydrochloride 
+
+This draft guidance, once finalized, will represent the Food and Drug Administration's (FDA's) 
+current thinking on this topic. It does not create or confer any rights for or on any person and does 
+not operate to bind FDA or the public. You can use an alternative approach if the approach satisfies 
+the requirements of the applicable statutes and regulations. If you want to discuss an alternative 
+approach, contact the Office of Generic Drugs. 
+
+Active ingredient: Benazepril Hydrochloride 
+
+Form/Route: Tablet/Oral 
+
+Recommended studies: 2 studies 
+
+1. Type of study: Fasting 
+Design: Single-dose, two-way crossover in-vivo 
+Strength: 40 mg 
+Subjects: Healthy males and nonpregnant females, general population. 
+Additional comments: 
+2. Type of study: Fed 
+Design: Single-dose, two-way crossover in-vivo 
+Strength: 40 mg 
+Subjects: Healthy males and nonpregnant females, general population. 
+Additional comments: 
+
+
+Analytes to measure (in appropriate biological fluid): Benazepril and its active metabolite, 
+benazeprilat in plasma. 
+
+Bioequivalence based on (90% CI): Benazepril 
+
+Please submit the metabolite data as supportive evidence of comparable therapeutic outcome. 
+For the metabolite, the following data should be submitted: individual and mean concentrations, 
+individual and mean pharmacokinetic parameters, and geometric means and ratios of means for 
+AUC and Cmax. 
+
+Waiver request of in-vivo testing: 5 mg, 10 mg and 20 mg based on (i) acceptable 
+bioequivalence studies on the 40 mg strength, (ii) acceptable in-vitro dissolution testing of all 
+strengths, and (iii) proportional similarity of the formulations across all strengths. 
+
+Dissolution test method and sampling times: 
+Please note that a Dissolution Methods Database is available to the public at the OGD website 
+at http://www.accessdata.fda.gov/scripts/cder/dissolution/. Please find the dissolution 
+information for this product at this website. Please conduct comparative dissolution testing on 12 
+dosage units each of all strengths of the test and reference products. Specifications will be 
+determined upon review of the application. 
+
+Recommended Jul 2010 
+
+

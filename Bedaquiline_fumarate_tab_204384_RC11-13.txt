@@ -1,0 +1,83 @@
+Active ingredient: Bedaquiline Fumarate 
+
+ 
+
+Form/Route: Tablet; Oral 
+
+ 
+
+Recommended studies: 2 studies 
+
+ 
+
+1. Type of study: Fasting 
+
+
+Design: Single-dose, two-way crossover, in vivo 
+
+Strength: 100mg (Dose: 100 mg) 
+
+Subjects: Healthy males and non-pregnant females, general population 
+
+Additional Comments: Due to QT prolongation associated with SIRTURO, 
+electrocardiography (ECGs) should be closely monitored. 
+
+__________________________________________________________________________ 
+
+ 
+
+2. Type of study: Fed 
+
+
+Design: Single-dose, two-way crossover, in vivo 
+
+Strength: 100 mg (Dose: 100 mg) 
+
+Subjects: Healthy males and non-pregnant females, general population 
+
+Additional Comments: See additional comments above. 
+
+__________________________________________________________________________ 
+
+ 
+
+Analytes to measure: Bedaquiline in plasma 
+
+ 
+
+Bioequivalence based on (90% CI): Bedaquiline 
+
+ 
+
+Waiver request of in vivo testing: Not Applicable 
+
+ 
+
+Dissolution test method and sampling times: 
+
+ 
+
+Please note that a Dissolution Methods Database is available to the public at the OGD website 
+at http://www.accessdata.fda.gov/scripts/cder/dissolution/. Please find the dissolution 
+information for this product at this website. Please conduct comparative dissolution testing on 12 
+dosage units each of all strengths of the test and reference products. Specifications will be 
+determined upon review of the application. 
+
+ 
+
+Information Regarding Long Half-Life Drugs 
+
+For an oral immediate release product with a long elimination half-life drug (>24 hrs), applicants 
+can conduct a single-dose, crossover study, provided an adequate washout period is used. If the 
+crossover study is problematic, BE applicants can use a BE study with a parallel design. For 
+
+
+either a crossover or parallel study, sample collection time should be adequate to ensure 
+completion of gastrointestinal transit of the drug product and absorption of the drug substance 
+(which usually occurs within approximately 2 to 3 days). Cmax and a suitable truncated AUC 
+can be used to characterize peak and total drug exposure, respectively. For drugs that 
+demonstrate low intra-subject variability in distribution and clearance, an AUC truncated at 72 
+hour (AUC0-72hr) can be used in place of AUC0-t or AUC0-inf. For drugs demonstrating high 
+intra-subject variability in distribution and/or clearance, AUC truncation should not be used. 
+
+

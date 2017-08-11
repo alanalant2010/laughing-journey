@@ -1,0 +1,83 @@
+ 
+
+Active ingredient: Atomoxetine Hydrochloride 
+
+ 
+
+Form/Route: Capsules/Oral 
+
+ 
+
+Recommended studies: 2 studies 
+
+ 
+
+1. Type of study: Fasting 
+Design: Single-dose, two-way crossover in-vivo 
+
+Strength: 60 mg 
+
+Subjects: Normal healthy males and females, general population 
+
+Additional Comments: 60 mg is studied because higher doses may cause unacceptable side-
+effects in normal healthy subjects 
+
+
+
+
+______________________________________________________________________________ 
+
+ 
+
+2. Type of study: Fed 
+Design: Single-dose, two-way crossover in-vivo 
+
+Strength: 60 mg 
+
+Subjects: Normal healthy males and females, general population 
+
+Additional comments: Please see comment above. 
+
+
+
+
+______________________________________________________________________________ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Atomoxetine in plasma 
+
+ 
+
+Bioequivalence based on (90% CI): Atomoxetine 
+
+ 
+
+Waiver request of in-vivo testing: 5**, 10, 18, 25, 40, 80 and 100 mg based on (i) 
+
+acceptable bioequivalence studies on the 60 mg strength, (ii) proportionally similar across 
+
+all strengths, and (iii) acceptable in vitro dissolution testing of all strengths. 
+
+ 
+
+** The 5 mg strength of STRATTERA™ is currently not marketed. If a firm is interested in seeking ap-
+proval for this strength, please submit a citizen petition requesting the U.S. Food and Drug Administra-
+tion (FDA) make a determination that this particular strength was not withdrawn for reasons of safety or 
+effectiveness, or check the Federal Register for a previously submitted citizen petition. Submission of the 
+citizen petition to the FDA should be done prior to an ANDA submission. 
+
+ 
+
+Dissolution test method and sampling times: 
+
+ 
+
+Please note that a Dissolution Methods Database is available to the public at the OGD website at 
+http://www.fda.gov/cder/ogd/index.htm. Please find the dissolution information for this product at this 
+website. Please conduct comparative dissolution testing on 12 dosage units each of all strengths of the test 
+and reference products. Specifications will be determined upon review of the application. 
+
+ 
+
+

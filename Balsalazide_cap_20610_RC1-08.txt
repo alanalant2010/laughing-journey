@@ -1,0 +1,89 @@
+ 
+
+Active ingredient: Balsalazide Disodium 
+
+ 
+
+Form/Route: Capsule/Oral 
+
+ 
+
+Recommended studies: 2 studies 
+
+ 
+
+1. Type of study: Fasting 
+Design: Single-dose, two-way crossover in-vivo 
+
+Strength: 2250 mg dose (3 x 750 mg) 
+
+Subjects: Normal healthy males and females, general population. Females should not be 
+pregnant, and if applicable, should practice abstention or contraception during the study. 
+
+Additional comments: 
+
+
+
+
+______________________________________________________________________________ 
+
+ 
+
+2. Type of study: Fed 
+Design: Single-dose, two-way crossover in-vivo 
+
+Strength: 2250 mg dose (3 x 750 mg) 
+
+Subjects: Normal healthy males and females, general population 
+
+Additional comments: Please see comment above. 
+
+
+
+
+________________________________________________________________________ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Balsalazide and Mesalamine in plasma 
+
+ 
+
+Bioequivalence based on (90% CI): Balsalazide and Mesalamine 
+
+ 
+
+Waiver request of in-vivo testing: Not Applicable 
+
+ 
+
+In vitro dissolution testing under the following conditions should be submitted to support 
+documentation of bioequivalence: 
+
+ 
+
+Apparatus and rotation speed: USP Apparatus 1 (basket), at 100 rpm 
+
+Medium: (1) 0.1N HCl (2) pH 4.5 buffer 
+
+ (3) pH 6.8 buffer (4) pH 7.4 buffer 
+
+Volume: 900 mL 
+
+Temperature: 37ºC 
+
+Sample times: 5, 10, 15, 20, 30, 45 and 60 minutes and until at least 80% of the 
+labeled content is dissolved. 
+
+ 
+
+Dissolution testing for stability and quality control: 
+
+ 
+
+Please note that a Dissolution Methods Database is available to the public at the OGD website at 
+http://www.fda.gov/cder/ogd/index.htm. Please find the dissolution information for this product at this 
+website. Please conduct comparative dissolution testing on 12 dosage units each of all strengths of the test 
+and reference products. Specifications will be determined upon review of the application. 
+
+

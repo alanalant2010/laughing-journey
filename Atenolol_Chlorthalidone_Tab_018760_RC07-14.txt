@@ -1,0 +1,73 @@
+ 
+
+Active ingredient: Atenolol and Chlorthalidone 
+
+ 
+
+Form/Route: Tablet/Oral 
+
+ 
+
+Recommended studies: 2 study 
+
+ 
+
+1. Type of study: Fasting 
+
+
+Design: Single-dose, two-way crossover in vivo 
+
+Strength: 100 mg/25 mg (100 mg/25 mg dose) 
+
+Subjects: Healthy males and nonpregnant females, general population 
+
+ 
+
+ 
+
+2. Type of study: Fed 
+
+
+Design: Single-dose, two-way crossover in vivo 
+
+Strength: 100 mg/25 mg (100 mg/25 mg dose) 
+
+Subjects: Healthy males and nonpregnant females, general population 
+
+Additional Comments: Please refer to the Amantadine Hydrochloride Tablet Draft 
+Guidance for additional information regarding fed studies. 
+
+ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Atenolol in plasma and Chlorthalidone 
+in whole blood. 
+
+ 
+
+Please refer to the Amiodarone Hydrochloride Tablet Draft Guidance for additional information 
+regarding long half-life drugs. 
+
+ 
+
+Bioequivalence based on (90% CI): Atenolol and Chlorthalidone 
+
+ 
+
+Waiver request of in vivo testing: 50 mg/25 mg based on (i) acceptable bioequivalence studies 
+on the 100 mg/25 mg strength, (ii) acceptable in vitro dissolution testing of all strengths, and (iii) 
+proportional similarity of the formulations across all strengths. Please refer to the Mirtazapine 
+Tablet Draft Guidance for additional information regarding waivers of in vivo testing. 
+
+ 
+
+Dissolution test method and sampling times: 
+
+Please note that a Dissolution Methods Database is available to the public at the OGD website 
+at http://www.accessdata.fda.gov/scripts/cder/dissolution/. Please find the dissolution 
+information for this product at this website. Please conduct comparative dissolution testing on 12 
+dosage units each of all strengths of the test and reference products. Specifications will be 
+determined upon review of the application. 
+
+

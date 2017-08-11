@@ -1,0 +1,997 @@
+Active ingredient: Azelaic Acid 
+
+ 
+
+Form/Route: Gel/Topical 
+
+ 
+
+Recommended studies: 1 study 
+
+ 
+
+1. Type of study: Clinical Endpoint Bioequivalence (BE) Study 
+
+Design: Randomized, double blind, parallel, placebo-controlled in vivo 
+
+Strength: 15% 
+
+Subjects: Healthy males and females with rosacea. 
+
+Additional comments: Specific recommendations are provided below. 
+
+______________________________________________________________________________ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Not Applicable. 
+
+ 
+
+Bioequivalence based on (90% CI): Clinical endpoint. 
+
+ 
+
+Waiver request of in vivo testing: Not Applicable. 
+
+ 
+
+Dissolution test method and sampling times: Not Applicable. 
+
+ 
+
+Additional comments regarding the clinical endpoint BE study: 
+
+ 
+
+1. The Office of Generic Drugs (OGD) recommends a clinical endpoint bioequivalence study in the 
+treatment of moderate rosacea. Subjects are to be randomized to receive the generic Azelaic Acid 
+topical gel, 15%, the reference listed drug (RLD), or placebo twice daily for 12 weeks. The 
+primary endpoint is to be evaluated at the end of treatment (study Week 12). 
+
+
+
+
+ 
+
+2. Inclusion Criteria (the sponsor may add additional criteria): 
+
+
+a. Healthy male or nonpregnant female aged = 18 years with a clinical diagnosis of moderate 
+facial rosacea, defined as the presence of: 
+
+
+i. At least eight and not more than fifty inflammatory facial lesions (i.e., papules/pustules), 
+AND 
+
+
+ii. Persistent erythema, AND 
+
+
+iii. Telangiectasia. 
+
+
+
+
+b. Subject willing to minimize external factors that might trigger rosacea flare-ups (e.g., spicy 
+foods, thermally hot foods and drinks, hot environments, prolonged sun exposure, strong 
+winds and alcoholic beverages). 
+
+
+
+
+
+
+ 
+
+3. Exclusion Criteria (the sponsor may add additional criteria): 
+
+
+a. Pregnant or lactating or planning to become pregnant during the study period. 
+
+
+b. Presence of any skin condition on the face that would interfere with the diagnosis or 
+assessment of rosacea. 
+
+
+
+
+
+
+
+c. Excessive facial hair (e.g. beards, sideburns, moustaches, etc.) that would interfere with 
+diagnosis or assessment of rosacea. 
+
+
+d. History of hypersensitivity or allergy to propylene glycol or any other component of the 
+formulation. 
+
+
+e. Use within 6 months prior to baseline of oral retinoids (e.g. Accutane®) or therapeutic 
+vitamin A supplements of greater than 10,000 units/day (multivitamins are allowed). 
+
+
+f. Use for less than 3 months prior to baseline of estrogens or oral contraceptives; use of such 
+therapy must remain constant throughout the study. 
+
+
+g. Use within 1 month prior to baseline of 1) topical retinoids to the face, 2) systemic antibiotics 
+known to have an impact on the severity of facial rosacea (e.g., containing tetracycline and its 
+derivatives, erythromycin and its derivatives, sulfamethoxazole, or trimethoprim), or 3) 
+systemic corticosteroids. 
+
+
+h. Use within 2 weeks prior to baseline of 1) topical corticosteroids, 2) topical antibiotics or 3) 
+topical medications for rosacea (e.g., metronidazole, azelaic acid). 
+
+
+i. Subjects with moderate or severe rhinophyma, dense telangiectases, or plaque-like facial 
+edema. 
+
+
+j. Ocular rosacea (e.g., conjunctivitis, blepharitis, or keratitis) of sufficient severity to require 
+topical or systemic antibiotics. 
+
+
+
+
+
+
+ 
+
+4. The protocol should include a list of the prescription and over-the-counter drug products that are 
+prohibited during the study, such as: 
+
+
+a. Any other topical products applied to the target site (e.g., metronidazole, topical antibiotics, 
+topical steroids). 
+
+
+b. Oral retinoids. 
+
+
+c. Systemic (e.g., oral or injectable) antibiotics known to have an impact on the severity of 
+facial rosacea (e.g., containing tetracycline, erythromycin, sulfamethoxazole, or trimethoprim 
+or their derivatives). 
+
+
+d. Systemic corticosteroid or immunosuppressive drugs. 
+
+
+e. Antipruritics, including antihistamines, within 24 hours of study visits. 
+
+
+
+
+
+
+ 
+
+5. Subjects should not apply moisturizers, new brands of make-up, creams, lotions, powders or any 
+topical product other than the assigned treatment to the treatment area. Occlusive dressings or 
+wrappings should be avoided in treatment areas. Subjects should minimize exposure to sunlight, 
+including sunlamps, while using the product. Use of sunscreen products and protective clothing 
+over treated areas is recommended when sun exposure cannot be avoided. 
+
+
+
+
+ 
+
+6. Areas to be treated should be washed with a mild cleanser before application and patted dry with 
+a soft towel. A thin layer of study treatment should be gently massaged into the affected areas on 
+the face twice daily, in the morning and evening, for 12 weeks. Contact with the mouth, eyes and 
+other mucous membranes should be avoided. The hands should be washed following application. 
+
+
+
+
+ 
+
+7. The recommended primary endpoint of the study is the mean percent change from baseline to 
+week 12 in the inflammatory (papules and pustules) lesion counts. The protocol should clearly 
+define papules, pustules, and nodules. When counting facial lesions, it is important that all lesions 
+be counted, including those present on the nose. Counts of nodules should be reported separately 
+and not included in the inflammatory lesion counts. 
+
+
+
+
+ 
+
+8. An Investigator’s Global Evaluation (IGE) should be evaluated as a secondary endpoint for the 
+statistical analysis. The IGE should be a static scale, describing the extent of disease associated 
+with each score. This scale should not be a reflection of treatment response, but should describe 
+the condition at each visit. Therefore, no reference should be made to baseline in the evaluation. 
+
+
+
+
+
+The scale should be dichotomized into "success" and "failure". "Success" should be defined either 
+as a score consistent with clear or almost clear at the final visit. 
+
+
+
+
+ 
+
+Score 
+
+Grade 
+
+Definition 
+
+0 
+
+Clear 
+
+No inflammatory lesions present; at most, mild erythema 
+
+1 
+
+Almost Clear 
+
+Very mild erythema present. Very few small papules/pustules 
+
+2 
+
+Mild 
+
+Mild erythema. Several small papules/pustules 
+
+3 
+
+Moderate 
+
+Moderate erythema. Several small or large papules/pustules, and up to 2 
+nodules 
+
+4 
+
+Severe 
+
+Severe erythema. Numerous small and/or large papules/pustules, up to 
+several nodules 
+
+
+
+ 
+
+9. The protocol should clearly define the per-protocol (PP), modified intent-to-treat (mITT) and 
+safety populations. 
+
+
+
+
+ 
+
+10. The PP population includes all randomized subjects who met all inclusion/exclusion criteria, were 
+compliant with the assigned study treatment, returned to the study site for the primary endpoint 
+visit within the specified window (+/- 4 days) OR discontinued from the study as a treatment 
+failure, and did not have any protocol violations. The PP population should be used for the 
+bioequivalence evaluation of test vs. reference. The protocol should provide a definition of 
+compliant subjects (e.g., used at least 75% and no more than 125% of study treatment doses) and 
+specify how compliance will be verified (e.g., by the use of subject diaries). 
+
+
+
+
+ 
+
+11. The mITT population includes all randomized subjects who met all inclusion/exclusion criteria, 
+received study treatment, and returned for at least one post-baseline visit. The mITT population 
+should be used to compare both test and reference products to placebo. 
+
+
+
+
+ 
+
+12. The safety population includes all randomized subjects who received study treatment. 
+
+
+
+
+ 
+
+13. Subjects who discontinued early from the study due to lack of treatment effect after completing at 
+least eight weeks of treatment should be included in the mITT and PP population as treatment 
+failures and the change in inflammatory lesion count from the baseline visit to the last completed 
+visit prior to discontinuation due to lack of efficacy should be carried forward in the primary 
+endpoint analysis. Subjects discontinued early for other reasons should be excluded from the PP 
+population, but included in the mITT population, using Last Observation Carried Forward 
+(LOCF). 
+
+
+
+
+ 
+
+14. All adverse events (AEs) should be reported, whether or not they are considered to be related to 
+the treatment. The report of AEs should include date of onset, description of the AE, severity, 
+relation to study medication, action taken, outcome and date of resolution. This information is 
+needed to determine if the incidence and severity of adverse reactions is different between the test 
+product and RLD. 
+
+
+
+
+ 
+
+15. If the inactive ingredients are different than those contained in the RLD or in significantly 
+different amounts, then the sponsor is to clearly describe the differences and provide information 
+to show that the differences will not affect the safety, efficacy and/or systemic or local 
+availability of the drug. 
+
+
+
+
+ 
+
+16. The method of randomization should be described in the protocol. It is recommended that an 
+independent third party generate and hold the randomization code throughout the conduct of the 
+study in order to minimize bias. The sponsor may generate the randomization code if not involved 
+
+
+
+
+
+in the packaging and labeling of the study medication. A sealed copy of the randomization 
+scheme should be retained at the study site and should be available to FDA investigators at the 
+time of site inspection to allow for verification of the treatment identity of each subject. 
+
+
+
+
+ 
+
+17. A detailed description of the blinding procedure is to be provided in the protocol. The packaging 
+of the test, reference and placebo products should be similar in appearance to make differences in 
+treatment less obvious to the subjects and to maintain adequate blinding of evaluators. When 
+possible, neither the subject nor the investigator should be able to identify the treatment. The 
+containers should not be opened by the subject at the study center. 
+
+
+
+
+ 
+
+18. Please refer to 21 CFR 320.38, 320.63 and the Guidance for Industry, “Handling and Retention of 
+BA and BE Testing Samples”, regarding retention of study drug samples and 21 CFR 320.36 for 
+requirements for maintenance of records of bioequivalence testing. In addition, the investigators 
+should follow the procedures of 21 CFR 58 and ICH E6, “Good Clinical Practice: Consolidated 
+Guideline”, for retention of study records and data in order to conduct their studies in compliance 
+with Good Laboratory Practices (GLP) and Good Clinical Practices (GCP). Retention samples 
+should be randomly selected from the drug supplies received prior to dispensing to subjects. 
+Retention samples should not be returned to the sponsor at any time. 
+
+
+
+
+ 
+
+19. It is the sponsor's responsibility to enroll sufficient subjects for the study to demonstrate 
+bioequivalence between the products. 
+
+
+
+
+ 
+
+20. To establish bioequivalence for the primary endpoint, the 90% confidence interval for the 
+test/reference ratio of mean percent change from baseline to week 12 in the inflammatory 
+(papules and pustules) lesion counts must be contained within [0.80, 1.25] for a continuous 
+variable, using the PP population. To establish bioequivalence for the secondary endpoint, the 
+90% confidence interval of the difference in clinical success rate or success proportion between 
+the test and reference product on the Investigator’s Global Evaluation (IGE) should be contained 
+within [-0.20, +0.20] for a dichotomous variable, using the PP population. 
+
+
+
+
+ 
+
+21. As a parameter for determining adequate study sensitivity, the test product and RLD should both 
+be statistically superior to placebo (p<0.05, two-sided) for the primary endpoint (mean percent 
+change from baseline), using the mITT study population and LOCF. 
+
+
+
+
+ 
+
+22. The following Statistical Analysis Method is recommended for equivalence testing for a 
+continuous variable: 
+
+
+
+
+ 
+
+Equivalence Analysis for a Continuous Variable 
+
+ 
+
+The compound hypothesis to be tested is: 
+
+ 
+
+H0: µT / µR = .1 or µT / µR = .2 versus HA : .1 < µT / µR < .2 
+
+ 
+
+Where µT = mean of test treatment, and µR = mean of reference treatment 
+
+ 
+
+Typically, we reject H0 with a type I error a = 0.05 (two 1-sided tests), if the 90% confidence 
+interval for the ratio of means between test and reference products (µT / µR) is contained within 
+the interval [.1, .2], where .1 = 0.80 and .2 = 1.25. 
+
+ 
+
+Rejection of the null hypothesis H0 supports the conclusion of equivalence of the two products. 
+
+ 
+
+
+23. The following Statistical Analysis Method is recommended for equivalence testing for a 
+dichotomous variable (success/failure): 
+
+
+
+
+ 
+
+Equivalence Analysis for a Dichotomous Variable 
+
+ 
+
+Based on the usual method used in OGD for binary outcomes, the 90% confidence interval for the 
+difference in success proportions between test and reference treatment should be contained within 
+[-0.20, +0.20] in order to establish equivalence. 
+
+ 
+
+The compound hypothesis to be tested is: 
+
+ 
+
+H0: - < -0.20 or - > 0.20 algebraic expression
+Tpalgebraic expression
+Rpalgebraic expression
+Tpalgebraic expression
+Rp
+
+versus 
+
+HA: -0.20 = - = 0.20 algebraic expression
+Tpalgebraic expression
+Rp
+
+where = cure rate of test treatment and = cure rate of reference treatment. algebraic expression
+Tpalgebraic expression
+Rp
+
+Let 
+
+algebraic expression
+Tn = sample size of test treatment group 
+
+c= number of cured subjects in test treatment group algebraic expression
+Tn
+
+algebraic expression
+Rn = sample size of reference treatment group 
+
+c= number of cured subjects in reference treatment group algebraic expression
+Rn
+
+ 
+
+algebraic expression
+Tp^ 
+= c/ , = c/ , algebraic expression
+Tnalgebraic expression
+Tnalgebraic expression
+Rp^algebraic expression
+Rnalgebraic expression
+Rn
+
+and se = ((1 - )/ + (1 - )/ ) ½. algebraic expression
+Tp^algebraic expression
+Tp^algebraic expression
+Tnalgebraic expression
+Rp^algebraic expression
+Rp^algebraic expression
+Rn
+
+The 90% confidence interval for the difference in proportions between test and reference was 
+calculated as follows, using Yates’ correction: 
+
+ 
+
+L = ( - ) – 1.645 se – (1/ + 1/)/2 algebraic expression
+Tp^algebraic expression
+Rp^algebraic expression
+Tnalgebraic expression
+Rn
+
+U = ( - ) + 1.645 se + (1/ + 1/)/2 algebraic expression
+Tp^algebraic expression
+Rp^algebraic expression
+Tnalgebraic expression
+Rn
+
+We reject H0 if L = -0.20 and U = 0.20 
+
+ 
+
+Rejection of the null hypothesis H0 supports the conclusion of equivalence of the two products. 
+
+ 
+
+24. Study data should be submitted to the OGD in electronic format. 
+
+
+a. A list of file names, with a simple description of the content of each file, should be included. 
+
+
+
+
+
+
+
+b. Please provide a “pdf” document with a detailed description of the codes that are used for 
+each variable in each of the SAS datasets (for example, Y=yes, N=no for analysis 
+population). 
+
+
+c. All SAS transport files should include .xpt as the file extension and should not be 
+compressed. A simple SAS program to open the data transport files and SAS files should be 
+included. 
+
+
+d. Primary data sets should consist of two data sets: No Last Observation Carried Forward (NO-
+LOCF-pure data set) and Last Observation Carried Forward (LOCF-modified data set). 
+
+
+e. Please provide a separate dataset for variables such as demographics, baseline admission 
+criteria, baseline vital signs, adverse events, reasons for discontinuation of treatment, 
+concomitant medications, medical history, compliance and comments, etc. 
+
+
+
+
+
+
+ 
+
+25. Please provide a summary dataset containing a separate line listing for each subject (if data exist) 
+using the following headings, if applicable: 
+
+
+a. Study identifier 
+
+
+b. Subject identifier 
+
+
+c. Site identifier: study center 
+
+
+d. Age 
+
+
+e. Age units (years) 
+
+
+f. Sex 
+
+
+g. Race 
+
+
+h. Name of Actual Treatment (exposure): test product, RLD, placebo 
+
+
+i. Duration of Treatment (total exposure in days) 
+
+
+j. Per Protocol (PP) population inclusion (yes/no) 
+
+
+k. Reason for exclusion from PP population 
+
+
+l. Modified Intent to Treat (mITT) population inclusion (yes/no) 
+
+
+m. Reason for exclusion from mITT population 
+
+
+n. Safety population inclusion (yes/no) 
+
+
+o. Reason for exclusion from safety population 
+
+
+p. Baseline lesion count (papules and pustules) 
+
+
+q. Week 12 lesion count (papules and pustules) 
+
+
+r. Treatment compliance: number of missed doses per subject 
+
+
+s. Concomitant medication (yes/no) 
+
+
+t. Adverse event(s) reported (yes/no) 
+
+
+
+
+
+
+ 
+
+Please refer to Table 1 as an example. This sample table may contain additional information not 
+applicable to your study and/or it may not contain all information applicable to your study. 
+
+Table 1: Example of a summary dataset containing one line listing for each subject 
+
+ 
+
+STUDYID 
+
+SUBJID 
+
+SITEID 
+
+AGE 
+
+AGEU 
+
+SEX 
+
+RACE 
+
+EXTRT 
+
+EXDUR 
+
+pp 
+
+pp_rs 
+
+mitt 
+
+mitt_rs 
+
+safety 
+
+safe_rs 
+
+lesion-b 
+
+lesion12 
+
+complian 
+
+CM 
+
+AE 
+
+101 
+
+1 
+
+01 
+
+22 
+
+YEARS 
+
+F 
+
+1 
+
+A 
+
+28
+
+Y 
+
+ 
+
+Y 
+
+ 
+
+Y 
+
+ 
+
+8 
+
+2 
+
+0 
+
+Y 
+
+Y 
+
+101 
+
+2 
+
+01 
+
+30 
+
+YEARS 
+
+F 
+
+1 
+
+B 
+
+28
+
+Y 
+
+ 
+
+Y 
+
+ 
+
+Y 
+
+ 
+
+7 
+
+1 
+
+0 
+
+N 
+
+N 
+
+
+
+Note: Capitalized headings are from Clinical Data Interchange Standards Consortium (CDISC) Study 
+Data Tabulation Model (SDTM) Implementation Guide (IG) for Human Clinical Trials V3.1.2 Final 
+dated 11/12/08. 
+
+ 
+
+
+STUDYID: Study Identifier 
+
+SUBJID: Subject Identifier for the Study 
+
+SITEID: Study Site Identifier 
+
+AGE: Age 
+
+AGEU: Age units (years) 
+
+SEX: Sex, e.g., M=Male, F=Female, U=Unknown 
+
+RACE: Race, e.g., 1=White, 2=Black or African American, 3=Asian, 4=American Indian 
+or Alaska Native, 5=Native Hawaiian or Other Pacific Islanders 
+
+EXTRT: Name of Actual Treatment (exposure), e.g., A=test product, B= RLD, C=placebo 
+
+EXDUR: Duration of Treatment (total exposure in days) 
+
+pp: Per Protocol (PP) population inclusion, e.g., Y=Yes, N=No 
+
+pp_rs: Reason for exclusion from PP population, e.g., A=prematurely discontinued, 
+B=lost to follow-up, C=subject moved out of the area, D=noncompliant, etc. 
+
+mitt: Modified Intent to Treat (mITT) population inclusion, e.g., Y=Yes, N=No 
+
+mitt_rs: Reason for exclusion from mITT population, e.g., A=never treated, B=negative 
+baseline culture, etc. 
+
+safety: Safety population inclusion, e.g., Y=Yes, N=No 
+
+safe_rs: Reason for exclusion from Safety population, e.g., A=never treated, etc. 
+
+lesion_b: Baseline lesion count (total number of papules and pustules at baseline) 
+
+lesion12: Week 12 lesion count (total number of papules and pustules at Week 12) 
+
+complian: Treatment compliance, e.g., number of missed doses per subject 
+
+CM: Concomitant medication, e.g., Y=Yes, N=No 
+
+AE: Adverse event(s) reported, e.g., Y=Yes, N=No 
+
+ 
+
+26. Please provide a dataset containing a separate line listing for each visit per subject (if data exist) 
+using the following headers, if applicable: 
+
+
+a. Study identifier 
+
+
+b. Subject identifier 
+
+
+c. Name of Actual Treatment (exposure): test product, RLD, placebo control 
+
+
+d. Visit number 
+
+
+e. Visit date 
+
+
+f. Number of days since baseline visit 
+
+
+g. Evaluator: identity of evaluator 
+
+
+h. Papule count 
+
+
+i. Pustule count 
+
+
+j. Nodule count 
+
+
+k. Erythema score 
+
+
+l. IGE score 
+
+
+m. Concomitant medication reported during this visit (yes/no) 
+
+
+n. Adverse event reported during this visit (yes/no) 
+
+
+o. Laboratory testing during this visit (yes/no) 
+
+
+
+
+
+
+ 
+
+Please refer to Table 2 as an example. This sample table may contain additional information not 
+applicable to your study and/or it may not contain all information applicable to your study. 
+
+ 
+
+
+Table 2: Example of dataset containing one line listing for each visit per subject 
+
+STUDYID 
+
+SUBJID 
+
+EXTRT 
+
+VISITNUM 
+
+SVSTDTC 
+
+ELTMBS 
+
+EVAL 
+
+papule 
+
+pustule 
+
+nodule 
+
+eryth 
+
+ige 
+
+CMrpt 
+
+AErpt 
+
+LBtest 
+
+101 
+
+1 
+
+A 
+
+1 
+
+2004-07-01
+
+0
+
+JB
+
+4
+
+4
+
+0
+
+2
+
+3
+
+Y
+
+N
+
+Y 
+
+
+
+Note: Capitalized headings are from Clinical Data Interchange Standards Consortium (CDISC) Study 
+Data Tabulation Model (SDTM) Implementation Guide (IG) for Human Clinical Trials V3.1.2 Final 
+dated 11/12/08. 
+
+ 
+
+STUDYID: Study Identifier 
+
+SUBJID: Subject Identifier for the Study 
+
+EXTRT: Name of Actual Treatment (exposure), e.g., A=test product, B=RLD, C= placebo 
+control 
+
+VISITNUM: Visit Sequence Number 
+
+SVSTDTC: Visit date: (SVSTDTC=Subject Visit Start Date Time-Character) 
+
+ELTMBL: Elapsed Time since Baseline (days) 
+
+EVAL: Evaluator: identity of the evaluator, e.g., initials 
+
+papule: number of papules 
+
+pustule: number of pustules 
+
+nodule: number of nodules 
+
+eryth: Erythema score, e.g. 0=none, 1=Mild, 2=Moderate, 3=Severe 
+
+ige: IGE score, e.g., 0=Clear, 1=Almost clear, 2=Mild, 3=Moderate, 4=Severe 
+
+CMrpt: Concomitant Medication reported during this visit, e.g., Y=Yes, N=No 
+
+AErpt: Adverse Event reported during this visit, e.g., Y=Yes, N=No 
+
+LBtest: Laboratory Testing performed during this visit, e.g., Y=Yes, N=No 
+
+ 
+
+27. These recommendations are specific to this product and may not be appropriate for 
+bioequivalence studies of any other product, including any other dosage form or strength of 
+azelaic acid. 
+
+
+
+
+ 
+
+ 
+
+

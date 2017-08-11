@@ -1,0 +1,81 @@
+ 
+
+Active ingredient: Azithromycin 
+
+ 
+
+Form/Route: Tablets/Oral 
+
+ 
+
+Recommended studies: 2 studies 
+
+ 
+
+1. Type of study: Fasting 
+Design: Single-dose, two-way crossover in-vivo 
+
+Strength: 600 mg 
+
+Subjects: Normal healthy males and females, general population. 
+
+Additional Comments: 
+
+
+
+
+______________________________________________________________________________ 
+
+ 
+
+2. Type of study: Fed 
+Design: Single-dose, two-way crossover in-vivo 
+
+Strength: 600 mg 
+
+Subjects: Normal healthy males and females, general population. 
+
+Additional comments: 
+
+
+
+
+______________________________________________________________________________ 
+
+ 
+
+Analytes to measure: Azithromycin 
+
+ 
+
+Bioequivalence based on (90% CI): Azithromycin 
+
+ 
+
+Waiver request of in-vivo testing*: 250 mg and 500 mg based on (i) acceptable bioequivalence 
+
+studies on the 600 mg strength, (ii) proportionally similar across all strengths, and (iii) 
+
+acceptable in vitro dissolution testing of all strengths. 
+
+ 
+
+* Since Azithromycin Tablets, 250 mg, 500 mg, and 600 mg, are the subject of three separate New Drug 
+Applications (NDA’s), three separate Abbreviated New Drug Applications (ANDA’s) must be submitted. 
+You may request a waiver of in vivo bioequivalence testing of the 250 mg and the 500 mg strengths if you 
+meet the criteria. In addition, please cross-reference the in vivo bioequivalence studies conducted on the 
+higher strength along with your waiver request. Please refer to the Guidance for Industry, Variations in 
+Drug Products that May Be Included in a Single ANDA located at: http://www.fda.gov/cder/guidance. 
+
+ 
+
+Dissolution test method and sampling times: 
+
+ 
+
+Please note that a Dissolution Methods Database is available to the public at the OGD website at 
+http://www.fda.gov/cder/ogd/index.htm. Please find the dissolution information for this product at this 
+website. Please conduct comparative dissolution testing on 12 dosage units each of all strengths of the test 
+and reference products. Specifications will be determined upon review of the application. 
+
+

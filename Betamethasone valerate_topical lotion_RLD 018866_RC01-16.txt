@@ -1,0 +1,57 @@
+ 
+
+Active Ingredient: Betamethasone valerate 
+
+ 
+
+Dosage Form; Route: Lotion; topical 
+
+ 
+
+Recommended Studies: Two studies 
+
+ 
+
+ 
+
+1. Type of study: Pilot vasoconstrictor study 
+
+
+Design: A pilot dose duration-response study using the reference product 
+
+Strength: 0.1% (as betamethasone) 
+
+Subjects: Healthy males and nonpregnant, nonlactating females, general population 
+
+Additional Comments: Please refer to the guidance “Topical Dermatological 
+Corticosteroids: In Vivo Bioequivalence” available at: 
+http://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/ucm070234.pdf. 
+
+ 
+
+2. Type of study: Pivotal vasoconstrictor study 
+
+
+Design: A pivotal bioequivalence study 
+
+Strength: 0.1% (as betamethasone) 
+
+Subjects: Healthy males and nonpregnant, nonlactating females, general population 
+
+Additional Comments: Please refer to the guidance above 
+
+ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): N/A 
+
+Bioequivalence based on (90% CI): Pivotal vasoconstrictor study 
+
+Waiver request of in vivo testing: N/A 
+
+Dissolution test method and sample times: N/A 
+
+ 
+
+

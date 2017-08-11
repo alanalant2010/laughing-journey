@@ -1,0 +1,95 @@
+ 
+
+Active ingredient: Atorvastatin, Ezetimibe 
+
+ 
+
+Form/Route: Tablet/Oral 
+
+ 
+
+Recommended studies: 2 studies 
+
+ 
+
+1. Type of study: Fasting 
+
+
+Design: Single dose, two way crossover, in vivo 
+
+Strength: 80 mg (base); 10 mg 
+
+Subjects: Healthy males and non-pregnant females, general population. 
+
+Additional Comments: 1. Females should practice abstention or contraception during the 
+study. 2. Considering the high variability of Atorvastatin, applicants may consider using a 
+reference-scaled average bioequivalence approach for this drug product. If this approach 
+is used, please provide evidence of high variability in the bioequivalence parameters of 
+AUC and/or Cmax (i.e., within-subject variability > 30%). For general information on 
+this approach, please refer to the Individual Product Bioequivalence Recommendations 
+Guidance on Progesterone Capsules. 3. Study subjects should swallow tablets whole. Do 
+not crush, dissolve or chew tablets. 4. Statins may cause fetal harm when administered to 
+a pregnant woman. Because the product contains atorvastatin, it should not be 
+administered to women of childbearing potential. Also these female subjects should be 
+informed of the potential hazards. If the woman becomes pregnant while taking this 
+product, discontinue it immediately. Because of the potential for adverse reactions in 
+nursing infants, women taking these products should not breast-feed. 
+
+________________________________________________________________________ 
+
+ 
+
+2. Type of study: Fed 
+
+
+Design: Single dose, two way crossover, in vivo 
+
+Strength: 80 mg (base); 10 mg 
+
+Subjects: Healthy males and non-pregnant females, general population. 
+
+Additional Comments: Please see above. 
+
+________________________________________________________________________ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Atorvastatin and the metabolites, 
+ortho- and para-hydroxylated atorvastatin, as well as Ezetimibe (unconjugated) and total 
+ezetimibe (ezetimibe + ezetimibe glucuronide) in plasma 
+
+
+ 
+
+Bioequivalence based on (90% CI): Atorvastatin and Ezetimibe (unconjugated) and total 
+ezetimibe (ezetimibe + ezetimibe glucuronide). 
+
+ 
+
+Please submit the atorvastatin metabolite data as supportive evidence of comparable therapeutic 
+outcome. For the metabolite, submit the following data: individual and mean concentrations, 
+individual and mean pharmacokinetic parameters, and geometric means and ratios of means for 
+AUC and Cmax. 
+
+ 
+
+Waiver request of in vivo testing: Atorvastatin; Ezetimibe, i) 40 mg (base); 10 mg, ii) 20 mg 
+(base); 10 mg and iii) 10 mg (base). 10 mg strengths based on (1) acceptable bioequivalence 
+study on the 80 mg (base); 10 mg strength, (2) acceptable in vitro dissolution testing of all 
+strengths, and (3) proportional similarity of the formulations across all strengths. 
+
+ 
+
+Dissolution test method and sampling times: 
+
+ 
+
+Please note that a Dissolution Methods Database is available to the public at the OGD website 
+at http://www.accessdata.fda.gov/scripts/cder/dissolution/. Please find the dissolution 
+information for this product at this website. Please conduct comparative dissolution testing on 12 
+dosage units each of all strengths of the test and reference products. Specifications will be 
+determined upon review of the application. 
+
+ 
+
+

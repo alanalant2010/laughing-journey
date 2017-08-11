@@ -1,0 +1,78 @@
+ 
+
+ 
+
+Active Ingredient: Azilsartan kamedoxomil; chlorthalidone 
+
+ 
+
+Dosage Form; Route: Tablet; oral 
+
+ 
+
+Recommended Studies: Two studies 
+
+ 
+
+1. Type of study: Fasting 
+
+
+Design: Single-dose, two-way crossover in vivo 
+
+Strength: Eq 40 mg medoxomil; 25 mg. 
+
+Subjects: Healthy males and nonpregnant females, general population. 
+
+Additional comments: For long half-life drugs like chlorthalidone, an AUC truncated at 
+72 hours may be used in place of AUC0-t or AUC0-8. Refer to the amantadine 
+hydrochloride tablet draft guidance for additional information regarding long half-life 
+drugs 
+
+Females should not be pregnant, and, if applicable, should practice abstention or 
+contraception during the study 
+
+______________________________________________________________________________ 
+
+ 
+
+2. Type of study: Fed 
+
+
+Design: Single-dose, two-way crossover in vivo 
+
+Strength: Eq 40 mg medoxomil; 25 mg 
+
+Subjects: Healthy males and nonpregnant females, general population 
+
+Additional comments: Refer to the amantadine hydrochloride tablet draft guidance for 
+additional information regarding fed studies 
+
+______________________________________________________________________________ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Azilsartan and chlorthalidone in 
+plasma 
+
+ 
+
+Bioequivalence based on (90% CI): Azilsartan and chlorthalidone 
+
+ 
+
+Waiver request of in vivo testing: Eq 40 mg/12.5 mg, based on (i) acceptable bioequivalence 
+studies on the Eq 40 medoxomil mg/25 mg strength, (ii) acceptable in vitro dissolution testing of 
+all strengths, and (iii) proportional similarity of the formulations across all strengths 
+
+ 
+
+Dissolution test method and sampling times: The dissolution information for this drug product 
+can be found on the FDA-Recommended Dissolution Methods website available to the public at 
+
+
+Recommended Mar 2015 2 
+the following location: http://www.accessdata.fda.gov/scripts/cder/dissolution/. Conduct 
+comparative dissolution testing on 12 dosage units each of all strengths of the test and reference 
+products. Specifications will be determined upon review of the abbreviated new drug application 
+(ANDA). 
+

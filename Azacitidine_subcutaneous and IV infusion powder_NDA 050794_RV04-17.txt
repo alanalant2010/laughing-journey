@@ -1,0 +1,58 @@
+Active Ingredient: Azacitidine 
+
+ 
+
+Dosage Form; Route: Powder; IV (Infusion), Subcutaneous 
+
+ 
+
+Strength: 100 mg/Vial 
+
+ 
+
+The proposed drug product should be qualitatively (Q1) and quantitatively (Q2) the same as the 
+corresponding reference listed drug. Bioequivalence may be established based on comparative in 
+vitro testing. 
+
+ 
+
+
+The three criteria to provide in vitro evidence that the test product, when reconstituted as a 
+suspension for subcutaneous administration, demonstrates bioequivalence are: 
+
+ 
+
+1. Physico-chemical Characteristics. Evidence of equivalence that test and RLD products 
+have the same final physico-chemical characteristics, such as viscosity, osmolality, and pH. 
+2. Particle Morphology. It is recommended that a suitable method for qualitative 
+determination be used to allow observation of particles in the size range in which azacitidine 
+particles are expected to fall. Representative micrographs should also be submitted. These 
+data are supportive, and formal statistical testing is not applicable. 
+3. Particle Diameter. In addition, a suitable method should be used to determine particle 
+diameter. The D10, D50, D90 and span (i.e., (D90–D10)/D50) measurements can be 
+analyzed by using the population bioequivalence (PBE) statistical approach. Refer to the 
+product-specific recommendation for budesonide inhalation suspension for additional 
+information regarding PBE analysis procedures 
+
+
+(http://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM319977.pdf) 
+
+ 
+
+The in vitro testing should be performed on ten samples from one lot of the test product and one 
+lot of the reference listed drug. 
+
+ 
+
+Waiver request of in-vivo testing: Not applicable 
+
+ 
+
+Dissolution test method and sampling times: The dissolution information for this drug 
+product can be found on the FDA-Recommended Dissolution Methods web site, available to the 
+public at the following location: http://www.accessdata.fda.gov/scripts/cder/dissolution/. 
+Conduct comparative dissolution testing on 12 dosage units each of all strengths of the test and 
+reference products. Specifications will be determined upon review of the abbreviated new drug 
+application (ANDA). 
+
+

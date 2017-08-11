@@ -1,0 +1,71 @@
+ 
+
+Active Ingredient: Aspirin 
+
+ 
+
+Dosage Form; Route: Capsule; oral 
+
+ 
+
+Recommended Studies: Two studies 
+
+ 
+
+1. Type of study: Fasting 
+
+
+Design: Single-dose, two-way crossover in vivo 
+
+Strength: 325 mg 
+
+Subjects: Healthy males and nonpregnant females, general population 
+
+Additional comments: None 
+
+ 
+
+ 
+
+2. Type of study: Fed 
+
+
+Design: Single-dose, two-way crossover in vivo 
+
+Strength: 325 mg 
+
+Subjects: Healthy males and nonpregnant females, general population 
+
+Additional comments: None 
+
+ 
+
+ 
+
+Analytes to measure: Acetylsalicylic acid and its active metabolite, salicylic acid, in plasma 
+
+ 
+
+Submit the metabolite data as supportive evidence of comparable therapeutic outcome. For the 
+metabolite, the following data should be submitted: individual and mean concentrations, 
+individual and mean pharmacokinetic parameters, and geometric means and ratios of means for 
+AUC and Cmax. 
+
+ 
+
+Bioequivalence based on (90% CI): Acetylsalicylic acid 
+
+ 
+
+Waiver request of in vivo testing: Not applicable 
+
+ 
+
+Dissolution test method and sampling times: The dissolution information for this drug 
+product can be found on the FDA-Recommended Dissolution Methods Web site, available to the 
+public at the following location: http://www.accessdata.fda.gov/scripts/cder/dissolution/. 
+Conduct comparative dissolution testing on 12 dosage units each of all strengths of the test and 
+reference products. Specifications will be determined upon review of the abbreviated new drug 
+application (ANDA). 
+
+

@@ -1,0 +1,115 @@
+Active Ingredient: Betamethasone valerate 
+
+ 
+
+Dosage Form; Route: Foam aerosol; topical 
+
+ 
+
+Recommended Studies: Two options: waiver or in vivo 
+
+ 
+
+I. Waiver Option 
+
+
+ 
+
+a. To qualify for a waiver of the in vivo bioequivalence (BE) study requirements under 
+21 CFR 320.22(b)(3), a generic betamethasone valerate foam aerosol/topical, 0.12% 
+must be a solution for aerosolization; have the same active ingredient in the same 
+concentration and dosage form as the reference listed drug product (RLD); and must 
+not have an inactive ingredient or other change in formulation from the RLD that may 
+significantly affect systemic or local availability. 
+
+
+ 
+
+b. For a topical drug product with inactive ingredients that differ from the RLD or are 
+present in significantly different amounts [as permitted by the chemistry, 
+manufacturing, and controls regulations for abbreviated new drug applications 
+(ANDAs), 21 CFR 314.94(a)(9)(v)], the regulation specifies that the applicant must 
+identify and characterize the differences and provide information demonstrating that 
+the differences do not affect the safety or efficacy of the proposed drug product. If the 
+generic betamethasone valerate foam aerosol/topical, 0.12% has different inactive 
+ingredients compared to the RLD or differences in the amounts of the same inactive 
+ingredients that are proportionally more than +/- 5% compared to the RLD, then the 
+Office of Generic Drugs (OGD) may request a bioequivalence study with clinical 
+endpoints to determine bioequivalence between the products. 
+
+
+ 
+
+c. For products applied to the scalp, differences in surfactants or potential penetration 
+enhancers may change the distribution of the product over the scalp or penetration of 
+the drug into the diseased tissues. Therefore, clinical endpoint bioequivalence studies 
+are requested for generic shampoo products with differences in these ingredients that 
+are proportionally more than +/- 5% compared to the RLD. 
+
+
+ 
+
+d. To support the waiver request, data from the following comparative in vitro assays of 
+test vs. reference are requested: 
+• Microscopic Birefringence Analysis on the dispensed Aerosol, Foam after 
+complete collapse to determine whether any crystals of undissolved 
+betamethasone valerate form during dispensing. 
+
+
+
+
+
+
+• Time to Break Analysis, conducted at 30ºC, 33ºC, 35ºC, and 40ºC. Time to break 
+is the time from dispensing to complete Aerosol, Foam collapse (break). The 
+testing should be done on at least 3 different lots of the RLD and at least 3 lots of 
+the test product (with each lot manufactured separately). 
+• Weight per volume of uncollapsed aerosol, foam. 
+
+
+
+
+ 
+
+ 
+
+II. In Vivo Option: 
+
+
+ 
+
+Recommended studies: 1 study 
+
+Type of study: Clinical endpoint bioequivalence (BE) study 
+
+Design: Randomized, double-blind, parallel, placebo-controlled in vivo 
+
+Strength: 0.12% 
+
+Subjects: Healthy males and females with moderate to severe corticosteroid-responsive 
+scalp psoriasis 
+
+Additional comments: FDA recommends submitting a protocol for review and comment 
+prior to conducting the study. 
+
+ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Not applicable (N/A) 
+
+ 
+
+Bioequivalence based on (90% CI): Clinical endpoint (in vivo option) 
+
+ 
+
+Dissolution test method and sampling times: N/A 
+
+ 
+
+ 
+
+ 
+
+

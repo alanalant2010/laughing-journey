@@ -1,0 +1,1217 @@
+ 
+
+Active Ingredient: Azelastine hydrochloride and Fluticasone propionate 
+
+ 
+
+Dosage Form; Route: Spray, metered; nasal 
+
+ 
+
+Recommended Studies: In vitro and in vivo studies 
+
+ 
+
+FDA recommends the following in vitro and in vivo studies to establish bioequivalence (BE) of 
+the test (T) to the reference (R) nasal sprays containing azelastine hydrochloride and fluticasone 
+propionate. 
+
+ 
+
+ 
+
+In Vitro Studies 
+
+ 
+
+In vitro BE studies should be performed on samples from each of three or more batches of the T 
+product and three or more batches of the R product, with no fewer than 10 units from each batch. 
+Whenever possible, T product samples should be from the primary stability batches used to 
+establish the expiration date period. When three batches are studied, we recommend the T 
+product be manufactured, preferably from three different batches of the drug substance, different 
+batches of critical excipients, and different batches of the same device (pump and actuator) 
+components. The BE batches to be studied should be at least one-third of the to-be-marketed 
+production batch size. The manufacturing process of these batches should simulate that of large-
+scale production batches for marketing. 
+
+ 
+
+For comparative in vitro studies, T and R should be studied under the same instrumental 
+conditions. Actuation should be conducted in a manner that removes potential operator bias, 
+either by employing automatic actuation or by employing blinded procedures when manual 
+actuation is used, where feasible. The analyst performing the post-actuation evaluations of the 
+collected data should be blinded to the identity of the samples. Method validation should be 
+performed using R product, and the lot number(s) for the R bottles used for the validation should 
+be provided. 
+
+ 
+
+FDA recommends the following in vitro studies to establish in vitro BE of the test and reference 
+nasal sprays containing azelastine hydrochloride and fluticasone propionate. 
+
+ 
+
+
+1. Type of study: Single Actuation Content (SAC) 
+
+Design: The SAC test should be performed at the beginning (B) and end (E) lifestages of 
+the product.1 An appropriate apparatus may be used to determine the SAC using a 
+validated assay. The number of actuations per determination should be one. 
+
+1 Based on the labeled number of actuations, the terms B lifestage, M lifestage, and E lifestage represent the first 
+actuation(s) following the labeled number of priming actuations, the actuation(s) corresponding to 50 percent of the 
+labeled number of actuations, and the actuation(s) corresponding to the labeled number of actuations, respectively. 
+
+ 
+
+Equivalence based on: The SAC comparison of the T and R products is based on the 
+population bioequivalence (PBE). Refer to the product-specific recommendation for 
+budesonide inhalation suspension for additional information regarding PBE analysis 
+procedures 
+
+(http://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM319977.pdf) 
+
+ 
+
+2. Type of study: Droplet Size Distribution by Laser Diffraction 
+
+Design: Droplet size distribution should be determined using laser diffraction or an 
+appropriately validated alternate methodology. Droplet size distribution should be 
+measured for fully developed phase only at B and E lifestages. It is recommended that 
+the studies be performed within a range of 2 to 7 cm from the actuator orifice, with the 
+two distances separated by 3 cm or more. 
+
+Additional comments: Single spray droplet size distribution and span should be reported 
+based on volume (mass). Mean D10, D50, D90 values for a given unit should be computed 
+from the mean of up to three consecutive sprays from that unit at each lifestage. Span 
+can be computed as ((D90 - D10)/D50). To assess precision, the data of each spray should 
+also be reported. 
+
+ 
+
+Equivalence based on: PBE analysis of D50 and span at two selected distances. 
+
+ 
+
+3. Type of study: Drug in Small Particles/Droplets 
+
+Design: Determination of drug in small particles/droplets is recommended to be 
+performed at the B lifestage of the product using the U.S. Pharmacopeia (USP) <601> 
+Apparatus 1 (flow rate of 28.3 L/min), Apparatus 6 (flow rate of 15 L/min), or another 
+appropriate method using a validated, highly sensitive assay. Drug in small 
+particles/droplets should be determined using fewest numbers of actuations (generally not 
+exceeding 10 actuations) justified by the sensitivity of the assay, to be more reflective of 
+individual doses. 
+
+Additional comments: Drug deposition should be reported in mass units. Mass balance 
+should be based on drug deposition on each of valve stem, actuator, adapters, induction 
+port, any other accessories, the top stage, and all lower stages to the filter. Mass balance 
+accountability should be reported based on the sum of all deposition sites. The total mass 
+of drug collected on all stages and accessories is recommended to be between 85 and 
+115% of the amount labeled on a per actuation basis. 
+
+ 
+
+Equivalence based on: PBE modified to be one-sided for mean comparison of drug 
+mass in the small particles/droplets less than 9.0 µm. Refer to the product-specific 
+
+
+recommendation for fluticasone propionate nasal spray metered for the step-wise 
+procedure for PBE modified to be one-sided for mean comparison analysis. 
+
+ 
+
+4. Type of study: Spray Pattern 
+
+Design: The spray pattern test should be performed at the B lifestage of the product and 
+at two different distances from the actuator orifice. The selected distances should be at 
+least 3 cm apart and based on the range of 3 to 7 cm from the R actuator tip. Impaction 
+(thin-layer chromatography plate impaction), non-impaction (laser light sheet and high-
+speed digital camera), or other suitable method may be used to determine the spray 
+pattern. 
+
+Additional comments: Spray pattern should be measured quantitatively in terms of 
+ovality ratio and area within the perimeter (to include a high proportion, e.g., 95% of the 
+total pattern) of the true shape for the automated analysis, or ovality ratio, and Dmax for 
+the manual analysis. Ovality ratio is defined as the ratio of Dmax to Dmin. Dmax and Dmin 
+are the longest and shortest diameters, respectively, that pass through the center of mass 
+or the center of gravity, as appropriate. The number of sprays per spray pattern should 
+preferably be one. 
+
+ 
+
+Equivalence based on: At two selected distances, (i) qualitative comparison of spray 
+shape, and (ii) PBE analysis of ovality ratio and area for automated analysis, or ovality 
+ratio and Dmax for manual analysis. 
+
+ 
+
+5. Type of study: Plume Geometry 
+
+Design: The plume geometry test should be performed at B lifestage of the product. The 
+time sequence sound-triggered flash photography method, laser light sheet technology, 
+and high speed digital camera, or other suitable method may be used to determine the 
+plume geometry at the appropriate post-actuation delay time. 
+
+Additional comments: Plume geometry measurements should be reported at a single 
+delay time while the fully developed plume is still in contact with the actuator tip. Plume 
+geometry should be measured quantitatively in terms of plume angle and width of one 
+side view. The plume angle is based on the conical region of the plume extending from a 
+vertex that occurs at or near the actuator tip. The plume width is measured at a distance 
+equal to the greater of the two distances selected for characterization of the spray pattern. 
+
+ 
+
+Equivalence based on: Ratio of the geometric mean of the three batches of T to that of 
+the three batches of R (based on log-transformed data) for both plume angle and width, 
+which should fall within 90-111% of plume angle and plume width. 
+
+ 
+
+6. Type of study: Priming and Repriming 
+
+Design: Priming and repriming tests should be based on the emitted dose (ex-actuator) of 
+a single actuation immediately following the specified number of priming or repriming 
+actuations specified in the R product labeling. The repriming test should be performed 
+following storage for the specified period of non-use after initial use and/or other 
+conditions (e.g., dropping), if the R product labeling provides such repriming 
+information. 
+
+
+Additional comments: For BE evaluation, the priming and repriming tests should be 
+based on products stored in the valve-upright position, with the exception of a nasal spray 
+for which the R labeling recommends storage in the valve-down position. The priming 
+data can be based on the SAC data at the B lifestage. Repriming would be similarly 
+established based on a single actuation following the specified number of repriming 
+actuations in the R product labeling. 
+
+ 
+
+Equivalence based on: PBE analysis of the emitted dose of a single actuation 
+immediately following the specified number of priming or repriming actuations specified 
+in the R product labeling. 
+
+ 
+
+In vitro BE data submission recommendations 
+
+ 
+
+• For data summary tables and SAS data tables for the in vitro data recommended for nasal 
+spray products, the templates in the following links should be used, to ensure completeness 
+and consistency of the data: 
+
+
+ 
+
+http://www.fda.gov/downloads/Drugs/DevelopmentApprovalProcess/HowDrugsareDevelopedandApproved/ApprovalApplications/AbbreviatedNewDrugApplicationANDAGenerics/UCM209446.pdf 
+
+ 
+
+http://www.fda.gov/downloads/Drugs/DevelopmentApprovalProcess/HowDrugsareDevelopedandApproved/ApprovalApplications/AbbreviatedNewDrugApplicationANDAGenerics/UCM271017.pdf 
+
+ 
+
+• In addition to submission of all raw data, the following supporting documentation for Droplet 
+Size Distribution by Laser Diffraction, Spray Pattern, and Plume Geometry should be 
+provided: 
+
+
+ 
+
+o Documentation includes instrument output reports and photographic or graphic material, 
+as applicable. Documents should be clearly labeled to indicate the product (e.g., T or R), 
+batch number, and testing conditions (e.g., distance, lifestage, delay time), as appropriate. 
+
+
+
+
+ 
+
+o For Droplet Size Distribution by Laser Diffraction, profiles of droplet size and 
+obscuration or percent transmission over the complete life of the single sprays should be 
+submitted. 
+
+
+
+
+ 
+
+o Supporting documentation for Droplet Size Distribution by Laser Diffraction, Spray 
+Pattern, and Plume Geometry should include representative copies, preferably electronic, 
+of > 20% of the total observations. 
+
+
+
+
+ 
+
+o For Spray Pattern and Plume Geometry quantitated by automatic image analysis, 
+representative electronic images rather than paper copies of > 20% of the total 
+observations should be submitted, as electronic files are definitive. For automated image 
+analysis of Spray Pattern and Plume Geometry, in addition to the electronic images, it is 
+
+
+
+
+
+recommended that paper copies of a few screen images be submitted as reference 
+samples. 
+
+
+
+
+ 
+
+ 
+
+Pharmacokinetic (PK) BE Study 
+
+ 
+
+Type of study: Fasting 
+
+Design: Single-dose, two-way crossover 
+
+Strength: EQ 0.125 mg base/0.05 mg per spray 
+
+Dose: Azelastine hydrochloride EQ 0.5 mg base and fluticasone propionate 0.2 mg, administered as 
+two sprays in each nostril 
+
+Subjects: Healthy males and nonpregnant females, general population 
+
+Additional comments: 1) Follow the reference listed drug (RLD) labeling for the method of drug 
+administration; 2) The analytical method should have sufficient sensitivity to adequately quantify the 
+concentration of fluticasone propionate and azelastine in blood [for fluticasone propionate, assay 
+method with Limit of Quantification (LOQ) = 1 pg/mL is suggested]. 
+
+ 
+
+Analytes to measure: Fluticasone propionate and azelastine in plasma 
+
+ 
+
+Equivalence based on: AUC and Cmax for fluticasone propionate and azelastine. The 90% 
+confidence intervals for the geometric mean T/R ratios of AUC and Cmax should fall within the limits 
+of 80.00–125.00% 
+
+ 
+
+ 
+
+Clinical Endpoint BE Study 
+
+ 
+
+The following BE study with a clinical endpoint is recommended. 
+
+ 
+
+The recommendations provided here supersede information provided in the draft guidance for 
+industry Bioavailability and Bioequivalence Studies for Nasal Aerosols and Nasal Sprays for 
+Local Action (April 2003). These recommendations are specific to this product and may not be 
+appropriate for BE studies of any other product, including any other dosage form or strength of 
+azelastine hydrochloride and fluticasone propionate. 
+
+ 
+
+Type of study: BE Study with Clinical Endpoint2 
+
+2 A clinical endpoint BE study is recommended because of an inability at the present time to adequately characterize 
+drug particle size distribution (PSD) in aerosols and sprays. Drug PSD in suspension formulations has the potential 
+to influence the rate and extent of drug availability to nasal sites of action and to systemic circulation. 
+
+Design: Randomized, double-blind, three-arm, placebo-controlled, parallel group 
+
+Strength: EQ 0.125 mg/0.05 mg per spray 
+
+Dose: EQ 0.25 mg/0.1 mg twice-daily, administered as one spray in each nostril 
+
+Subjects: Subjects with seasonal allergic rhinitis 
+
+Additional comments: Specific recommendations are provided below 
+
+ 
+
+
+Additional comments regarding the BE study with clinical endpoint: 
+
+ 
+
+1. The FDA recommends conducting a single BE study with clinical endpoint in the 
+treatment of seasonal allergic rhinitis (SAR) consisting of 2 periods: a 7-day, single-
+blinded, placebo run-in period (Study days -7 to -1) to establish a baseline and to identify 
+placebo responders, followed by a 14-day treatment period (Study Days 1 to 14). Prime 
+each product as per RLD labeling instructions prior to initial dosing. During the placebo 
+run-in period, all subjects are to receive the placebo vehicle administered as one spray in 
+each nostril twice daily for 7 days. All subjects who qualify after the placebo run-in 
+period are to be randomized to receive the test product, reference, or placebo (vehicle) 
+control during the treatment period, administered as one spray in each nostril twice daily 
+for 14 days. The primary endpoint is the difference in the mean change in reflective total 
+nasal symptom scores from baseline to the treatment period. 
+2. A multicenter study is recommended to avoid potential investigator bias. 
+3. A double dummy design is not recommended for study blinding due to a concern that the 
+doubled fluid volume may result in washing the drug from its nasal deposition sites, 
+potentially resulting in an altered safety and efficacy profile. 
+4. Inclusion criteria, at a minimum, should include the following: 
+
+
+ 
+
+a. Males and nonpregnant females, 18 years of age and older. 
+b. For female subjects of childbearing potential: agreement to practice an approved 
+method of birth control. 
+c. History of seasonal allergic rhinitis (SAR). 
+d. Positive test for relevant specific allergens (e.g., allergen skin test). 
+e. Demonstration of significant symptoms during screening and randomization, as 
+measured by a reflective total nasal symptom score of, for example, at least 6 at the 
+time of enrollment (see items 7 and 8). 
+
+
+ 
+
+5. Exclusion criteria, at a minimum, should include the following: 
+
+
+ 
+
+a. For females: Pregnancy, lactating, or planning to become pregnant during the study 
+period. 
+b. Active or quiescent tuberculous infections of the respiratory tract; untreated local or 
+systemic fungal, bacterial, viral, or parasitic infections. 
+c. Presence of glaucoma, cataracts, ocular herpes simplex, conjunctivitis, or other eye 
+infection. 
+d. Presence of any nasal mucosal erosion, nasal septal ulcers, or septum perforation on 
+focused nasal examination at screening or randomization. 
+e. Recent nasal or sinus surgery or nasal trauma. 
+f. Other nasal disease(s) likely to affect deposition of intranasal medication, such as 
+chronic sinusitis, rhinitis medicamentosa, clinically significant polyposis, or nasal 
+structural abnormalities. 
+g. Presence or history of any clinically significant condition that, in the opinion of the 
+
+
+
+investigator, would compromise the safety of the subject or the conduct of the study. 
+h. Planned travel outside of the pollen area during the trial. 
+i. Use of any investigational drug within 30 days prior to screening. 
+j. Any hypersensitivity to azelastine hydrochloride,fluticasone propionate, similar 
+drugs, or any of the inactive ingredients. 
+k. Respiratory tract infection requiring antibiotic within 14 days prior to screening 
+l. History of significant pulmonary disease, including asthma (with the exception of 
+mild intermittent asthma) or COPD. 
+m. Use of any prohibited medications and treatments (including antihistamines, 
+decongestants, leukotriene antagonists, corticosteroids, other nasal therapies, potent 
+cytochrome P450 3A4 inhibitors such as ketoconazole, etc.) prior to screening [the 
+sponsor should provide a list of treatments with justification/rationale provided for 
+duration of the washout period prior to screening]. 
+6. The protocol should include a list of the prescription and over-the-counter drug products, 
+procedures, and activities that are prohibited during the study, such as antihistamines 
+decongestants, leukotriene antagonists, corticosteroids, anti-IgE antibodies (e.g., 
+omalizumab), immunosuppressive therapy, and potent cytochrome P450 3A4 inhibitors 
+such as ketoconazole. 
+
+
+ 
+
+7. Subjects should self-score their symptoms twice daily (AM and PM, 12 hours apart at the 
+same times daily) throughout the 7-day placebo run-in period and the 14-day randomized 
+treatment period. Scoring should be made immediately prior to each dose (and 12 hours 
+after the AM dose for once-daily dosing), to reflect the previous 12 hours (reflective 
+scores) and how the subject is feeling at the time of evaluation, i.e., at the end of dosing 
+interval (instantaneous scores). Each of the following symptom should be scored using 
+the following scale: 
+a. Symptoms: runny nose, sneezing, nasal itching, and congestion. 
+b. Scoring Scale: The following is an example of an acceptable scale. Each score 
+should be objectively defined. 
+
+
+ 
+
+Table 1: Sample Scoring Scale 
+
+Score 
+
+Description 
+
+0 
+
+absent symptoms (no symptom evident) 
+
+1 
+
+mild symptoms (symptom clearly present, but minimal awareness; easily 
+tolerated) 
+
+2 
+
+moderate symptoms (definite awareness of symptom that is bothersome but 
+tolerable) 
+
+3 
+
+severe symptoms (symptom that is hard to tolerate; causes interference with 
+activities of daily living and/or sleeping) 
+
+
+
+ 
+
+8. Total nasal symptom score (TNSS) is the sum of each individual symptom rating for 
+runny nose, sneezing, nasal itching, and congestion. 
+
+
+
+9. Baseline mean reflective TNSS (rTNSS) is the mean of the final seven scores from the 
+placebo run-in period. The final seven scores from the placebo run-in period consist of 
+the AM and PM scores on Days -3, -2, and -1 and the AM score (prior to drug dosing) on 
+Day 1 of the 14-day randomized treatment period. 
+10. Placebo responders should be identified based on demonstration of significant symptoms 
+during screening and randomization, as measured by reflective TNSS at the baseline, for 
+example, mean rTNSS of at least 6. Placebo responders should be excluded from the 
+study to increase the ability to show a significant difference between active and placebo 
+treatments, and to increase sensitivity to detect potential differences between active 
+products. 
+11. Treatment mean rTNSS is the average of 27 scores from the randomized treatment 
+period. The 27 scores consist of the PM score on Day 1 and the AM and PM scores on 
+Days 2 to 14. 
+12. The recommended primary endpoint is the change from the baseline mean rTNSS to the 
+treatment mean rTNSS, expressed in absolute units rather than percent change from 
+baseline. 
+13. The recommended secondary endpoint is the change from the baseline mean 
+instantaneous (iTNSS) and the treatment mean iTNSS, expressed in absolute units rather 
+than percent change from baseline. 
+14. The protocol should clearly, prospectively define the per-protocol (PP), modified intent-
+to-treat (mITT), and safety populations. 
+a. The accepted PP population used for BE evaluation includes all randomized subjects 
+who meet all inclusion/exclusion criteria, take a pre-specified proportion of the 
+scheduled doses (e.g., at least 75% to no more than 125% overall compliance) of the 
+assigned product for the specified duration of the study, do not miss the scheduled 
+study drug administrations for more than 3 consecutive days, record a prespecified 
+number of qualifying rTNSS scores (e.g., 75% to 125%), and complete the 
+evaluations as prespecified in the protocol at approximately the same time of the day, 
+with no protocol violations that would affect the treatment evaluation. The protocol 
+should specify how compliance will be verified, e.g., by the use of subject diaries. 
+b. The mITT population includes all subjects randomized into the treatment period who 
+have taken at least one dose of assigned product during the treatment period (see 
+comment #26 for applied use of mITT population). 
+c. The safety population includes all randomized subjects who received at least one dose 
+of study product treatment. 
+
+
+
+
+
+ 
+
+15. Subjects who discontinue early from the study due to a lack of treatment effect should be 
+included in the mITT and PP populations. Only subjects discontinued from the study for 
+other reasons clearly not related to a lack of efficacy or emergence of safety concerns 
+should be excluded from the PP population, but should remain in the mITT population. 
+
+
+
+16. The start and stop dates of concomitant medication use during the study should be 
+provided in the dataset in addition to the reason for the medication use. The sponsor 
+should clearly explain whether the medication was used prior to baseline visit, during the 
+study, or both. 
+17. All adverse events (AEs) should be reported, whether or not they are considered to be 
+related to the treatment. The report of AEs should include date of onset, description of 
+the AE, severity, relation to study medication, action taken, outcome, and date of 
+resolution. This information is needed to determine whether the incidence and severity of 
+adverse reactions is different between the test product and reference product. 
+
+
+ 
+
+18. The quantitative information of inactive ingredients of the placebo control should be 
+provided. OGD recommends that the inactive ingredients in the placebo product be 
+qualitatively and quantitatively the same as the inactive ingredients in the RLD 
+formulation. 
+19. A detailed description of the blinding procedure is to be provided in the protocol. The 
+packaging of the test, reference, and placebo products should be similar in appearance to 
+make differences in treatment less obvious to the subjects and to maintain adequate 
+blinding of evaluators. Neither the subject nor the investigator should be able to identify 
+the treatment. The containers should not be opened by the subject in the presence of the 
+evaluator at the study center. 
+20. OGD recommends that each of the test and reference batches used in the clinical endpoint 
+BE study be at least one of the three batches used for the in vitro BE studies. 
+21. Refer to 21 CFR 320.38, 320.63, and the guidance for industry Handling and Retention of 
+BA and BE Testing Samples regarding retention of study drug samples. Refer to 21 CFR 
+320.36 for requirements for maintenance of records of BE testing. In addition, the 
+investigators should follow the procedures of ICH E6, Good Clinical Practice: 
+Consolidated Guideline, for retention of study records and data in order to conduct their 
+studies in compliance with Good Laboratory Practices (GLP) and Good Clinical Practices 
+(GCP). At least 50 units each of the test, reference, and placebo products, with not less 
+than 5 units per each shipment per site, should be retained as reserve samples. Retention 
+samples should be randomly selected from each drug shipment by each study site and 
+retained by the investigator or an independent third party not involved with packaging 
+and labeling of the study products. Retention samples should not be returned to the 
+sponsor at any time. 
+22. It is the sponsor’s responsibility to enroll sufficient subjects for the study to demonstrate 
+bioequivalence between the products. 
+23. Subjects who discontinued from the study early should be identified, and the protocol 
+should clearly, prospectively state how missing data will be handled in the statistical 
+analyses and provide appropriate justification for the method chosen. The protocol 
+
+
+
+should also include subject retention strategies and other plans to minimize missing data. 
+24. We recommend using a statistical model for the endpoint data that takes into account 
+baseline values. If the study was conducted at multiple clinical centers, center should 
+also be considered in the data analysis. 
+
+
+ 
+
+25. To establish BE for a continuous endpoint, the Agency recommends the following 
+compound hypotheses be tested using the PP population: 
+
+
+ 
+
+HO: µT /µR <-.1 or µT /µR > .2 versus HA : .1= µT /µR = .2 
+
+ 
+
+where µT = mean of the primary endpoint for the test group, and 
+
+µR = mean of the primary endpoint of the reference group 
+
+ 
+
+The null hypothesis, HO, is rejected with a type I error (a) of 0.05 (two one-sided tests) if 
+the estimated 90% CI for the ratio of the means between T and R (µT /µR) is contained 
+within the interval [.1, .2], where .1 = 0.80 and .2 = 1.25. Rejection of the null 
+hypothesis supports the conclusion of equivalence of the two products. 
+
+ 
+
+26. To establish sensitivity within the study for a continuous primary endpoint, both the test and 
+reference products should be statistically superior to the placebo. Conduct an appropriate 
+inferential test with a type I error (a) of 0.05, using the mITT population and the primary 
+endpoint. 
+
+
+ 
+
+27. The method of randomization should be described in the protocol and the randomization 
+schedule provided as a SAS data set in .xpt format (created using SAS XPORT). The 
+Agency recommends that an independent third party generate and hold the randomization 
+code throughout the conduct of the study in order to minimize bias. The sponsor may 
+generate the randomization code if not involved in the packaging and labeling of the 
+study medication. A sealed copy of the randomization scheme should be retained at the 
+study site and should be available to FDA investigators at the time of site inspection to 
+allow for verification of the treatment identity of each subject. 
+
+
+ 
+
+28. Study data should be submitted to the Office of Generic Drugs (OGD) in electronic 
+format. All data should be submitted as an SAS .xpt file, created using SAS XPORT (not 
+CPORT). 
+a. Include a list of file names, a description of the content of each file, an explanation 
+of the variables within each file, and a description of all variable codes (for example, 
+for the treatment variable, A = TEST and B = Reference). 
+b. Provide two primary data sets: one with raw data (as collected) and one dataset 
+modified for missing data as specified prospectively. 
+c. Provide a separate data set for demographic, vital sign, adverse event, disposition 
+(including reason for discontinuation of treatment), trial arms, subject visits, 
+concomitant medication, medical history, compliance, protocol deviation, pollen 
+count, and comment variables. 
+
+
+
+
+
+ 
+
+
+29. Provide a summary data set containing a separate line listing for each subject (if data 
+exist) using the following headings, if applicable: 
+a. Study identifier 
+b. Subject identifier 
+c. Site identifier: study center 
+d. Age 
+e. Age units (years) 
+f. Sex 
+g. Race 
+h. Name of Actual Treatment (exposure): test product, reference, placebo control 
+i. Total number of doses taken during the placebo run-in period 
+j. Total number of doses taken during the treatment period 
+k. Completed the study (yes/no) 
+l. Reason for premature discontinuation of subject 
+m. Subject required additional treatment for seasonal allergic rhinitis due to 
+unsatisfactory treatment response 
+n. Per Protocol (PP) population inclusion (yes/no) 
+o. Reason for exclusion from PP population 
+p. Modified Intent to Treat (mITT) population inclusion (yes/no) 
+q. Reason for exclusion from mITT population 
+r. Safety population inclusion (yes/no) 
+s. Reason for exclusion from Safety population 
+t. Baseline rTNSS total score 
+u. Total number of baseline rTNSS ratings 
+v. Treatment period rTNSS total score 
+w. Total number of treatment period rTNSS ratings 
+x. Baseline iTNSS total score 
+y. Total number of baseline iTNSS ratings 
+z. Treatment period iTNSS total score 
+aa. Total number of treatment period iTNSS ratings 
+bb. Baseline mean rTNSS 
+cc. Treatment period mean rTNSS 
+dd. Mean change from baseline in rTNSS 
+ee. Baseline mean iTNSS 
+ff. Treatment period mean iTNSS 
+gg. Mean change from baseline in iTNSS 
+hh. Treatment compliance: number of missed doses per subject 
+ii. Concomitant medication (yes/no) 
+jj. Adverse event(s) reported (yes/no) 
+
+
+
+
+
+ 
+
+Table 2 provides an example. Note: This sample table may contain additional information not 
+applicable to your study and/or it may not contain all information applicable to your study. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Table 2: Example of a Summary Data Set Containing One Line Listing for Each Subject 
+
+ 
+
+STUDYID 
+
+SUBJID 
+
+SITEID 
+
+AGE 
+
+AGEU 
+
+SEX 
+
+RACE 
+
+EXTRT 
+
+dose_pla 
+
+dose_trt 
+
+completd 
+
+disc_rs 
+
+add_trt 
+
+pp 
+
+pp_rs 
+
+mitt 
+
+mitt_rs 
+
+101 
+
+1 
+
+01 
+
+21 
+
+YEARS 
+
+F 
+
+1 
+
+A 
+
+ 
+
+ 
+
+Y 
+
+C 
+
+ 
+
+Y 
+
+ 
+
+Y 
+
+ 
+
+101 
+
+2 
+
+01 
+
+30 
+
+YEARS 
+
+F 
+
+1 
+
+B 
+
+ 
+
+ 
+
+Y 
+
+D 
+
+ 
+
+Y 
+
+ 
+
+Y 
+
+ 
+
+
+
+ 
+
+safety 
+
+safe_rs 
+
+rs_base 
+
+rn_base 
+
+rs_trt 
+
+rn_trt 
+
+is_base 
+
+in_base 
+
+istrt 
+
+in_trt 
+
+rtnss_b 
+
+rtnss_tt 
+
+rtnss_ch 
+
+itnss_b 
+
+itnss_tt 
+
+itnss_ch 
+
+complian 
+
+CM 
+
+AE 
+
+Y 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Y 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+NOTE: Capitalized headings are from Clinical Data Interchange Standards Consortium 
+(CDISC) Study Data Tabulation Model (SDTM) Implementation Guide (IG) for Human 
+Clinical Trials V3.1.2 Final, dated 11/12/08. 
+
+ 
+
+STUDYID: Study Identifier 
+
+SUBJID: Subject Identifier for the Study 
+
+SITEID: Study Site Identifier 
+
+AGE: Age 
+
+AGEU: Age units (years) 
+
+SEX: Sex, e.g., M=Male, F=Female, U=Unknown 
+
+RACE: Race, e.g., 1=White, 2=Black or African American, 3=Asian, 4=American 
+Indian or Alaska Native, 5=Native Hawaiian or Other Pacific Islanders 
+
+EXTRT: Name of Actual Treatment (exposure), e.g., A=test product, B= reference, 
+C=placebo control 
+
+dose_pla: Total number of doses taken during the placebo-run-in period 
+
+dose_trt : Total number of doses taken during the treatment period 
+
+completd: Subject completed the study, e.g., Y=Yes, N=No 
+
+disc_rs: Reason for premature discontinuation from the study, e.g., A=adverse 
+event, B=death, C=lost to follow-up, D=non-compliance with treatment, 
+E=treatment unblinded, F=subject moved out of area, G=unsatisfactory 
+treatment response, H=withdrew consent, I=protocol violation, K=other 
+event 
+
+add_trt: Subject required additional treatment for seasonal allergic rhinitis due to 
+unsatisfactory treatment response, e.g., Y=Yes, N=No 
+
+pp: Per Protocol (PP) population inclusion, e.g., Y=Yes, N=No 
+
+
+pp_rs: Reason for exclusion from PP population, e.g., A=prematurely 
+discontinued, B=lost to follow-up, C=subject moved out of the area, 
+D=noncompliant, etc. 
+
+mitt: Modified Intent to Treat (mITT) population inclusion, e.g., Y=Yes, N=No 
+
+mitt_rs: Reason for exclusion from mITT population, e.g., A=never treated, etc. 
+
+safety: Safety population inclusion, e.g., Y=Yes, N=No 
+
+safe_rs Reason for exclusion from Safety population, e.g., A=never treated, etc. 
+
+rs_base: Baseline rTNSS total score 
+
+rn_base: Total number of baseline rTNSS ratings 
+
+rs_trt Treatment period rTNSS total score 
+
+rn_trt: Total number of treatment period rTNSS ratings 
+
+is_base: Baseline iTNSS total score 
+
+in_base: Total number of baseline iTNSS ratings 
+
+is_trt: Treatment period iTNSS total score 
+
+in_trt: Total number of treatment period iTNSS ratings 
+
+rtnss_b: Baseline mean rTNSS, e.g., 0 to 12 
+
+rtnss_tt: Treatment period mean rTNSS, e.g., 0 to 12 
+
+rtnss_ch: Mean change from baseline in rTNSS 
+
+itnss_b: Baseline mean iTNSS, e.g., 0 to 12 
+
+itnss_tt: Treatment period mean iTNSS, e.g., 0 to 12 
+
+itnss_ch: Mean change from baseline in iTNSS 
+
+complian: Treatment compliance, e.g., number of missed doses per subject 
+
+CM: Concomitant medication, e.g., Y=Yes, N=No 
+
+AE: Adverse event(s) reported, e.g., Y=Yes, N=No 
+
+ 
+
+30. Provide a data set containing a separate line listing for each study day per subject (if data 
+exist). The following headers are recommended, if applicable: 
+a. Study identifier 
+b. Subject identifier 
+c. Name of Actual Treatment (exposure): test product, reference, placebo control 
+d. Study day sequence number 
+e. Actual date of study day 
+f. Number of days since baseline visit 
+g. Reflective Runny nose score 
+h. Reflective Sneezing score 
+i. Reflective Nasal itching score 
+j. Reflective Congestion score 
+k. Reflective total nasal symptom score 
+l. Instantaneous Runny nose score 
+m. Instantaneous Sneezing score 
+n. Instantaneous Nasal itching score 
+o. Instantaneous Congestion score 
+p. Instantaneous total nasal symptom score 
+q. Date of symptom scoring 
+r. Time of symptom scoring (e.g., AM, PM) 
+s. Date of dosing 
+
+
+
+t. Time of dosing (e.g., AM, PM) 
+
+
+ 
+
+Table 3 provides an example. Note: This sample table may contain additional information 
+not applicable to your study and/or it may not contain all information applicable to your 
+study. 
+
+ 
+
+Table 3: Example of Data Set Containing One Line Listing for Each Study Day Per 
+Subject 
+
+STUDYID 
+
+SUBJID 
+
+EXTRT 
+
+studydy 
+
+studydt 
+
+ELTMBS 
+
+rrunny_s 
+
+rsneeze_s 
+
+ritch_s 
+
+rconge_s 
+
+rtnss 
+
+irunny_s 
+
+isneeze_s 
+
+iitch_s 
+
+iconge_s 
+
+itnss 
+
+101 
+
+1 
+
+A 
+
+1 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+scrdtc 
+
+scrttc 
+
+dosedtc 
+
+dosettc 
+
+ 
+
+am 
+
+ 
+
+am 
+
+
+
+ 
+
+Note: Capitalized headings are from Clinical Data Interchange Standards Consortium (CDISC) 
+Study Data Tabulation Model (SDTM) Implementation Guide (IG) for Human Clinical Trials 
+V3.1.2 Final, dated 11/12/08. 
+
+ 
+
+STUDYID: Study Identifier 
+
+SUBJID: Subject Identifier for the Study 
+
+EXTRT: Name of Actual Treatment (exposure), e.g., A=test product, B= reference, 
+C= placebo control 
+
+studydy: Study day sequence number, e.g., -7 to 14 
+
+studydt: Actual date of study day 
+
+ELTMBL: Elapsed Time since Baseline Visit (days) 
+
+rrunny_s: Reflective runny nose score, e.g., 0 to 3 
+
+rsneeze_s: Reflective sneezing score, e.g., 0 to 3 
+
+ritch_s: Reflective nasal itching score, e.g., 0 to 3 
+
+rconge_s: Reflective congestion score, e.g., 0 to 3 
+
+rtnss: Total reflective nasal symptom score e.g., 0 to 12 
+
+irunny_s: Instantaneous runny nose score, e.g., 0 to 3 
+
+isneeze_s: Instantaneous sneezing score, e.g., 0 to 3 
+
+iitch_s: Instantaneous nasal itching score, e.g., 0 to 3 
+
+iconge_s: Instantaneous congestion score, e.g., 0 to 3 
+
+itnss: Total instantaneous nasal symptom score , e.g., 0 to 12 
+
+
+scrdtc: Date of symptom scoring 
+
+scrttc: Time of symptom scoring, e.g., AM, PM 
+
+dosedtc: Date of dosing 
+
+dosettc: Time of dosing 
+
+ 
+
+ 
+
+Additional Information 
+
+ 
+
+Number of Reserve Samples: 
+
+ 
+
+At least 50 units of each of three batches should be retained for each of T and R products used in 
+in vitro or in vivo PK BE studies. If these studies include placebo product, at least 50 units of 
+each placebo batch should also be retained. If these studies are conducted at multiple sites, the 
+number of BE retention samples is recommended to be not less than 10 units per batch per site. 
+
+ 
+
+Formulation and Device: 
+
+ 
+
+The generic product formulation is recommended to be qualitatively (Q1)3 and quantitatively 
+(Q2)4 the same as the R product. The generic product is recommended to deliver the same 
+number of doses as the R product, and the device should be similar in shape, size, and external 
+operating principles to ensure substitutability with the R product without additional need to 
+retrain patients upon use of the generic product. 
+
+3 Q1 (qualitative sameness) means that the T product uses the same inactive ingredient(s) as the R product. 
+
+4 Q2 (quantitative sameness) means that concentration of the inactive ingredient(s) used in the T product are within 
+±5% of those used in the R product. 
+
+ 
+
+ 
+
+

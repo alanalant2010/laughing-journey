@@ -1,0 +1,906 @@
+This draft guidance, when finalized, will represent the current thinking of the Food and Drug 
+Administration (FDA, or the Agency) on this topic. It does not establish any rights for any person 
+and is not binding on FDA or the public. You can use an alternative approach if it satisfies the 
+requirements of the applicable statutes and regulations. To discuss an alternative approach, contact 
+the Office of Generic Drugs. 
+
+ 
+
+Active Ingredient: Budesonide; Formoterol fumarate dihydrate 
+
+ 
+
+Dosage Form; Route: Aerosol; metered; inhalation 
+
+ 
+
+Strength: 0.08 mg/INH; 0.0045 mg/INH 
+
+0.160 mg/INH; 0.0045 mg/INH 
+
+ 
+
+Recommended Studies: In vitro and in vivo studies 
+
+ 
+
+FDA recommends the following in vitro and in vivo studies to establish bioequivalence (BE) of 
+the test (T) and reference (R) metered dose inhalers (MDIs) containing budesonide and 
+formoterol fumarate dihydrate. 
+
+______________________________________________________________________________ 
+
+ 
+
+In Vitro Studies 
+
+ 
+
+FDA recommends that applicants conduct the following in vitro studies for both strengths of the 
+T and R products. For each strength, use at least three batches each of T and R products, with no 
+fewer than 10 units from each batch. 
+
+ 
+
+1. Type of study: Single actuation content (SAC) 
+
+
+Design: The SAC test should be performed at the beginning (B), middle (M), and end 
+(E) lifestages1 of the product using a flow rate of 28.3 L/min. U.S. Pharmacopeia (USP) 
+<601> Apparatus A or another appropriate apparatus may be used to determine the SAC 
+using a validated assay. The number of actuations per determination should be one. 
+
+1 Based on the labeled number of actuations, the terms, B lifestage, M lifestage, and E lifestage represent the first actuation(s) 
+following the labeled number of priming actuations, the actuation(s) corresponding to 50 percent of the labeled number of 
+actuations, and the actuation(s) corresponding to the labeled number of actuations, respectively. 
+
+2 http://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM319977.pdf 
+
+ 
+
+Equivalence based on: Population bioequivalence (PBE) analysis of SAC. The 
+budesonide inhalation suspension BE guidance provides additional information regarding 
+PBE.2 
+
+ 
+
+2. Type of study: Aerodynamic particle size distribution (APSD) 
+
+
+Design: The APSD test should be performed at the B and E lifestages of the product 
+using a flow rate of 28.3 L/min or 30 L/min. The USP <601> Apparatus 1, Apparatus 6, 
+or another appropriate method may be used to determine APSD using a validated assay. 
+
+
+The APSD determination of each unit should be performed with a minimum number of 
+inhalations justified by the sensitivity of the validated assay. 
+
+Additional comments: Drug deposition on individual sites, including the mouthpiece 
+adapter, the induction port, each stage of the cascade impactor (CI), and the filter, is 
+requested. Mass balance accountability should be reported based on the sum of all 
+deposition sites. For electronic submission of the individual CI data for the T and R 
+products, provide a table using the format in the appendix, and send them as part of the 
+abbreviated new drug application (ANDA) submission for BE evaluation. 
+
+ 
+
+Equivalence based on: PBE analysis of impactor-sized mass (ISM).3 The CI profiles 
+representing drug deposition on the individual stages of the CI along with the mass 
+median aerodynamic diameter (MMAD), geometric standard deviation (GSD), and fine 
+particle mass (FPM) should be submitted as supportive evidence for equivalent APSD. 
+
+3 ISM is defined as a sum of the drug mass on all stages of the CI plus the terminal filter, but excluding the top CI stage because 
+of its lack of a specified upper cutoff size limit. 
+
+4 The distance between the actuator orifice and point of spray pattern measurement should be same for T and R. 
+
+ 
+
+3. Type of study: Spray pattern 
+
+
+Design: The spray pattern test should be performed at the B lifestage of the product and 
+at two different distances from the actuator orifice. The selected distances should be at 
+least 3 cm apart and based on the range of 3 to 7 cm from the R actuator mouthpiece.4 
+Impaction (thin-layer chromatography plate impaction), non-impaction (laser light sheet 
+technology), or other suitable method may be used to determine the spray pattern. 
+
+Additional comments: Spray pattern should be measured quantitatively in terms of 
+ovality ratio and area within the perimeter of the true shape (to include a high proportion, 
+e.g., 95 %, of the total pattern) for the automated analysis or ovality ratio and Dmax for the 
+manual analysis. Ovality ratio is defined as the ratio of Dmax to Dmin. Dmax and Dmin are 
+the longest and shortest diameters, respectively, that pass through the center of mass or 
+the center of gravity, as appropriate. The number of sprays per spray pattern would 
+preferably be one. 
+
+ 
+
+Equivalence based on: At two selected distances, (i) qualitative comparison of spray 
+shape, and (ii) PBE analysis of ovality ratio and area within the perimeter of the true 
+shape or ovality ratio and Dmax. 
+
+ 
+
+4. Type of study: Plume geometry 
+
+
+Design: The plume geometry test should be performed at B lifestage of the product. The 
+time sequence sound-triggered flash photography method, laser light sheet technology, or 
+other suitable method may be used to determine the plume geometry at the appropriate 
+post-actuation delay time. 
+
+Additional comments: Plume geometry measurements should be reported at a single 
+delay time while the fully developed plume is still in contact with the actuator 
+mouthpiece. Plume geometry should be measured quantitatively in terms of plume angle 
+and width. The plume angle is based on the conical region of the plume extending from a 
+vertex that occurs at or near the actuator mouthpiece. The plume width is measured at a 
+
+
+distance equal to the greater of the two distances selected for characterization of the spray 
+pattern. 
+
+ 
+
+Equivalence based on: Ratio of the geometric mean of the three batches of T to that of 
+the three batches of R (based on log-transformed data) for both plume angle and width, 
+which should fall within 90 – 111%. 
+
+ 
+
+5. Type of study: Priming and repriming 
+
+
+Design: Priming and repriming tests should be based on the emitted dose (ex-actuator) of 
+a single actuation immediately following the specified number of priming or repriming 
+actuations specified in the R product labeling. The repriming test should be performed 
+following storage for the specified period of non-use after initial use and/or other 
+conditions (e.g., dropping), if the R product labeling provides such repriming 
+information. 
+
+Additional comments: For BE evaluation, the priming and repriming tests should be 
+based on products stored in the valve-upright position, with the exception of MDIs for 
+which the R labeling recommends storage in the valve-down position. The priming data 
+can be based on the SAC data at the B lifestage. 
+
+ 
+
+Equivalence based on: PBE analysis of the emitted dose of a single actuation 
+immediately following the specified number of priming or repriming actuations specified 
+in the R product labeling. 
+
+ 
+
+Pharmacokinetic BE Study 
+
+FDA recommends that applicants conduct the following pharmacokinetic (PK) BE study for both 
+strengths of the T and R products. 
+
+ 
+
+6. Type of study: Fasting 
+
+
+Design: Single-dose, two-way crossover 
+
+Dose: Minimum number of inhalations that is sufficient to characterize a PK profile by 
+using a sensitive analytical method 
+
+Subjects: Normal healthy males and nonpregnant females, general population 
+
+Additional comments: The subjects enrolled for in vivo studies should be trained in the 
+use of the inhalation aerosols in a standard fashion prior to each treatment session to 
+ensure a relatively consistent inspiratory flow rate and inspiratory duration. A Bio-IND 
+is required prior to conduct of the PK study if the dose exceeds the maximum labeled 
+single dose. 
+
+ 
+
+Analyte(s) to measure (in appropriate biological fluid): Budesonide and formoterol in 
+plasma 
+
+ 
+
+Equivalence based on: AUC and Cmax for budesonide and formoterol. The 90% 
+confidence intervals for the geometric mean T/R ratios of AUC and Cmax should fall 
+within the limits of 80.00–125.00%. 
+
+______________________________________________________________________________ 
+
+ 
+
+
+Clinical Endpoint Study 
+
+The Agency recommends that applicants conduct the following BE study with a clinical endpoint 
+for the lowest strength of the T and R products. 
+
+ 
+
+7. Type of study: Clinical endpoint study 
+
+Design: A randomized multiple-dose, placebo-controlled, parallel group design 
+consisting of a 2-week run-in period followed by a 6-week treatment period of the 
+placebo, T product, or R product 
+
+Strength: 80/4.5 (budesonide 80 mcg and formoterol 4.5 mcg) 
+
+Dose: 80/4.5, two inhalations twice daily 
+
+Additional comments: 
+
+• Inclusion criteria should, at minimum, include: 
+a. Adult male or female subjects of non-childbearing or of childbearing 
+potential committed to consistent and correct use of an acceptable method of 
+birth control 
+b. Diagnosed with asthma, as defined by the National Asthma Education and 
+Prevention Program (NAEPP),5 at least 6 months prior to screening 
+c. Moderate-to-severe asthma with a pre-bronchodilator FEV1 of >45% and 
+<85% of predicted normal, measured at least 6 hours after short-acting ß 
+agonist (SABA)and at least 24 hours after the last dose of long-acting ß 
+agonist (LABA), at the screening visit and on the day of treatment 
+d. >15% and >0.20 L reversibility of FEV1 within 30 minutes following 360 
+mcg of albuterol inhalation (pMDI) 
+e. Patients should be stable on their chronic asthma treatment regimen for at 
+least 4 weeks prior to enrollment 
+f. Currently non-smoking; having not used tobacco products (i.e., cigarettes, 
+cigars, pipe tobacco) within the past year, and having < 10 pack-years of 
+historical use 
+g. Able to replace current regularly scheduled short-acting ß agonists (SABAs) 
+with salbutamol/albuterol inhaler for use only on an as-needed basis for the 
+duration of the study (subjects should be able to withhold all inhaled SABAs 
+for at least 6 hours prior to lung function assessments on study visits) 
+h. Willing to discontinue their asthma medications (inhaled corticosteroids and 
+long-acting ß agonists) during the run-in period and for the remainder of the 
+study 
+i. Willingness to give their written informed consent to participate in the study 
+
+
+5 Guidelines for the Diagnosis and Management of Asthma: Expert Panel Report 3. National Education and Prevention 
+Program; National Institute of Health; National Heart, Lung, and Blood Institute. 2007, Publication No. 07-4051 
+
+ 
+
+• Exclusion criteria should, at minimum, include: 
+a. Life-threatening asthma, defined as a history of asthma episodes(s) requiring 
+intubation, and/or associated with hypercapnoea, respiratory arrest or 
+hypoxic seizures, asthma-related syncopal episodes(s), or hospitalizations 
+within the past year or during the run-in period 
+b. Significant respiratory disease other than asthma (chronic obstructive 
+pulmonary disease (COPD), interstitial lung disease, etc.) 
+
+
+
+c. Evidence or history of clinically significant disease or abnormality including 
+congestive heart failure, uncontrolled hypertension, uncontrolled coronary 
+artery disease, myocardial infarction, or cardiac dysrhythmia. In addition, 
+historical or current evidence of significant hematologic, hepatic, 
+neurologic, psychiatric, renal, or other diseases that, in the opinion of the 
+investigator, would put the patient at risk through study participation, or 
+would affect the study analyses if the disease exacerbated during the study 
+d. Patients who required systemic corticosteroids (for any reason) within the 
+past 4 weeks 
+e. Hypersensitivity to any sympathomimetic drug (e.g., formoterol or 
+albuterol) or any inhaled, intranasal, or systemic corticosteroid therapy 
+f. Patients currently receiving ß-blockers 
+
+
+ 
+
+• All spirometry should be conducted in accordance with American Thoracic 
+Society standards. 
+• The study should begin with a placebo run-in period at least 2 weeks in duration 
+to wash out any pre-study corticosteroids/long-acting bronchodilators and to 
+establish FEV1 baseline values. 
+• The study protocol should include pre-specified definitions of asthma 
+exacerbation, as well as pre-specified and appropriate escape criteria with 
+consideration to patient safety. 
+• The study protocol should provide a definition of compliant subjects (e.g., used at 
+least 75% and no more than 125% of study drug doses) and specify how 
+compliance will be verified (e.g., by the use of subject diaries). 
+• To ensure adequate study sensitivity, the T and R products should both be 
+statistically superior to placebo (p<0.05) with regard to the BE study primary 
+endpoints. 
+• It is the sponsor’s responsibility to enroll a sufficient number of subjects for the 
+study to demonstrate BE of the T to the R product. 
+• The start and stop date of concomitant medication use during the study should be 
+provided in the data set in addition to the reason for the medication use. The 
+sponsor should clearly explain whether the medication was used prior to baseline 
+visit, during the study, or both. 
+• All adverse events (AEs) should be reported, whether or not they are considered 
+to be related to the treatment. The report of each AE should include date of onset, 
+description of AE, severity, relation to study medication, action taken, outcome, 
+and date of resolution. This information will assist FDA in determining whether 
+the incidence and severity of adverse reactions is different between the T and R 
+products. 
+
+
+ 
+
+BE study endpoints: (i) Area under the serial FEV1-time curve calculated from time zero to 12 
+hours (AUC0-12h) on the first day of the treatment, and (ii) FEV1 measured in the morning prior to 
+the dosing of inhaled medications on the last day of the 6-week treatment. 
+
+ 
+
+The above two primary endpoints should be baseline adjusted (change from baseline). An FEV1 
+baseline is defined as the average of pre-dose FEV1 values of at least two time points measured 
+
+
+in the morning of the first day of a 6-week treatment period. Sampling should correspond to the 
+same time of day as used on the last day of a 6-week treatment. 
+
+ 
+
+On the first day of the treatment, FEV1 should be determined at 0, 0.5, 1, 2, 3, 4, 6, 8, 10, and 12 
+hours post-dose. 
+
+ 
+
+Equivalence based on: T/R ratio for the primary endpoints. The 90% confidence intervals for 
+the T/R ratios for the primary endpoints should fall within the limits of 80.00-125.00%. 
+
+ 
+
+______________________________________________________________________________ 
+
+ 
+
+Additional information 
+
+ 
+
+Formulation and Device 
+
+ 
+
+FDA recommends that the T product be qualitatively (Q1)6 and quantitatively (Q2)7 the same 
+as the R product, and be similar in shape and size to the R product. The T product should 
+have a dose counter. The Agency encourages sponsors to submit a working model of the 
+MDI to the Office of Generic Drugs prior to the ANDA submission, in order to ensure the 
+eligibility of a T device under the 505(j) pathway. 
+
+6 Q1 (qualitative sameness) means that the T product uses the same inactive ingredient(s) as the R product. 
+
+7 Q2 (quantitative sameness) means that concentration of the inactive ingredient(s) used in the T product are within ±5% of those 
+used in the R product. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+APPENDIX 
+
+ 
+
+ 
+
+Variable Name 
+
+Variable Type 
+
+Content 
+
+Notes 
+
+Product Name 
+
+Character 
+
+TEST or REF 
+
+Identifier for 
+product 
+
+LOT Number 
+
+Alphanumeric/Numeric 
+
+Alphanumeric/Numeric 
+
+Identifier for 
+product lot 
+
+UNIT Number 
+
+Numeric 
+
+Numeric values 
+
+Identifier for unit 
+must be unique 
+for each product 
+(e.g. #1-30 for 
+test and #31-60 
+for ref). 
+
+Stage 1 
+
+Numeric 
+
+Numeric Values 
+
+S1 
+
+Stage 2 
+
+Numeric 
+
+Numeric Values 
+
+S2 
+
+Stage 3 
+
+Numeric 
+
+Numeric Values 
+
+S3 
+
+Stage 4 
+
+Numeric 
+
+Numeric Values 
+
+S4 
+
+Stage 5 
+
+Numeric 
+
+Numeric Values 
+
+S5 
+
+Stage 6 
+
+Numeric 
+
+Numeric Values 
+
+S6 
+
+Stage 7 
+
+Numeric 
+
+Numeric Values 
+
+S7 
+
+Stage 8 or Filter 
+
+Numeric 
+
+Numeric Values 
+
+S8 
+
+ISM 
+
+Numeric 
+
+Numeric Values 
+
+ISM 
+
+MMAD 
+
+Numeric 
+
+Numeric Values 
+
+MMAD 
+
+GSD 
+
+Numeric 
+
+Numeric Values 
+
+GSD 
+
+FPM 
+
+Numeric 
+
+Numeric Values 
+
+FRM 
+
+
+
+ 
+
+Example 
+
+ 
+
+PRODUCT 
+
+LOT 
+
+Unit 
+
+S1 
+
+S2 
+
+S3 
+
+S4 
+
+S5 
+
+S6 
+
+S7 
+
+S8 or 
+Filter 
+
+ISM 
+
+MMAD 
+
+GSD 
+
+FPM 
+
+TEST 
+
+1234 
+
+1 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+9 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+10 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+

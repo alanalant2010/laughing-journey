@@ -1,0 +1,61 @@
+ 
+
+Active Ingredient: Betamethasone dipropionate 
+
+ 
+
+Dosage Form; Route: Cream (augmented); topical 
+
+ 
+
+Recommended Studies: Two studies 
+
+ 
+
+1. Type of study: Pilot vasoconstrictor study 
+
+
+Design: Pilot dose duration-response study using the reference product under un-
+occluded condition 
+
+Strength: 0.05% 
+
+Subjects: Healthy males and females (non-pregnant, non-lactating), general population 
+
+Additional comments: Refer to the guidance “Topical Dermatological Corticosteroids: In 
+Vivo Bioequivalence” available at: 
+
+http://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/ucm070234.pdf. 
+
+ 
+
+ 
+
+2. Type of study: Pivotal vasoconstrictor study 
+
+
+Design: Pivotal in vivo bioequivalence study under un-occluded condition 
+
+Strength: 0.05% 
+
+Subjects: Healthy males and females (non-pregnant, non-lactating), general population 
+
+Additional comments: See comments above. 
+
+ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Not applicable 
+
+ 
+
+Bioequivalence based on (90% CI): Pivotal vasoconstrictor study 
+
+ 
+
+Waiver request of in vivo testing: Not applicable 
+
+Dissolution test method and sampling times: Not applicable 
+
+
