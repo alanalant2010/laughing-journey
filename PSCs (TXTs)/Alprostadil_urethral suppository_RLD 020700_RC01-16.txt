@@ -1,0 +1,1090 @@
+ 
+
+ 
+
+Active ingredient: Alprostadil 
+
+ 
+
+Dosage Form; Route: Suppository; urethral 
+
+ 
+
+Recommended studies: One study 
+
+ 
+
+1. Type of study: Clinical bioequivalence (BE) study with pharmacodynamic endpoint 
+
+
+Design: Randomized, double-blind, parallel, three-arm, vehicle-controlled, in vivo 
+
+Strengths: 0.125 mg, 0.25 mg, 0.5 mg, and 1 mg [NOTE: any dosage strength requested 
+by an ANDA applicant for approval needs to be supported by the generation of adequate 
+data for that particular dosage strength in a BE study with pharmacodynamic endpoint] 
+
+Subjects: Males, aged 18 years or older, with erectile dysfunction. 
+
+Addition comments: Specific recommendations are provided below 
+
+ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Not applicable (N/A) 
+
+ 
+
+Bioequivalence based on (90% CI): Pharmacodynamic endpoint 
+
+ 
+
+Waiver request of in vivo testing: N/A 
+
+ 
+
+Dissolution test method and sampling times: The dissolution information for this drug product 
+can be found on the FDA-Recommended Dissolution Methods Web site, available to the public 
+at the following location: http://www.accessdata.fda.gov/scripts/cder/dissolution/. Conduct 
+comparative dissolution testing on 12 dosage units each of all strengths of the test and reference 
+products. Specifications will be determined upon review of the abbreviated new drug 
+application. 
+
+ 
+
+Additional comments regarding the clinical BE study with pharmacodynamic endpoint: 
+
+ 
+
+1. The Office of Generic Drugs (OGD) recommends conducting a BE study with 
+pharmacodynamic endpoint in the treatment of erectile dysfunction comparing the test 
+product versus the reference listed drug (RLD) and vehicle control. Qualified subjects 
+will be administered a maximum of nine doses of study treatment in the clinic. While 
+dosing may begin with single doses of 0.125 mg, 0.25 mg or placebo, titration is required 
+for the 0.5 mg and 1 mg doses. If the one dose of study treatment administered during the 
+clinic visit did not result in an erection adequate for intercourse, recommend scheduling 
+the next clinic visit in 1 to 5 days. This schedule will comply with the RLD labeling, 
+which states that the maximum frequency of use is no more than two systems per 24-hour 
+
+
+
+period, i.e., the RLD labeling permits the administration of a single dose of alprostadil 
+urethral suppository during an afternoon clinic appointment followed the next day by the 
+administration of a single dose of alprostadil urethral suppository during a morning 
+appointment. 
+
+
+ 
+
+2. The placebo control arm (vehicle of test product) is recommended to demonstrate that the 
+test product and RLD are active and as a parameter to establish that the study is 
+sufficiently sensitive to detect differences between products. 
+
+
+ 
+
+3. Treatment is administered for at most nine clinic visits, with the initial three visits at 
+either the 0.125 mg or 0.25 mg strength. Titration for the next higher dosage strength 
+occurs only if the previous dose fails to result in an adequate erection. Because the RLD 
+labeling recommends that patients are to be titrated to the lowest dose that is adequate for 
+sexual intercourse, the minimum number of clinic visits is three and the maximum is 
+nine. Once an erection adequate for intercourse occurs, titration should stop. Test, 
+reference, and placebo should be administered for the strength at which an adequate 
+erection occurs. The following is an example of such a treatment allocation schedule: 
+
+
+ 
+
+SEQ 
+
+Visit1 
+
+Visit 2 
+
+Visit 3 
+
+Visit 4 
+
+Visit 5 
+
+Visit 6 
+
+Visit 7 
+
+Visit 8 
+
+Visit 9 
+
+1 
+
+TEST 
+
+0.125mg 
+
+RLD 
+
+0.125mg 
+
+Placebo 
+
+RLD 
+
+0.25mg 
+
+Placebo 
+
+TEST 
+
+0.25mg 
+
+Placebo 
+
+TEST 
+
+0.5mg 
+
+RLD 
+
+0.5mg 
+
+2 
+
+TEST 
+
+0.125mg 
+
+Placebo 
+
+RLD 
+
+0.125mg 
+
+Placebo 
+
+RLD 
+
+0.25mg 
+
+TEST 
+
+0.25mg 
+
+RLD 
+
+0.5mg 
+
+TEST 
+
+0.5mg 
+
+Placebo 
+
+3 
+
+RLD 
+
+0.125mg 
+
+TEST 
+
+0.125mg 
+
+Placebo 
+
+TEST 
+
+0.25mg 
+
+Placebo 
+
+RLD 
+
+0.25mg 
+
+Placebo 
+
+RLD 
+
+0.5mg 
+
+TEST 
+
+0.5mg 
+
+4 
+
+TEST 
+
+0.25mg 
+
+RLD 
+
+0.25mg 
+
+Placebo 
+
+RLD 
+
+0.5mg 
+
+Placebo 
+
+TEST 
+
+0.500mg 
+
+Placebo 
+
+TEST 
+
+1mg 
+
+RLD 
+
+1mg 
+
+5 
+
+TEST 
+
+0.25mg 
+
+Placebo 
+
+RLD 
+
+0.25mg 
+
+Placebo 
+
+RLD 
+
+0.5mg 
+
+TEST 
+
+0.5mg 
+
+RLD 
+
+1mg 
+
+TEST 
+
+1mg 
+
+Placebo 
+
+6 
+
+RLD 
+
+0.25mg 
+
+TEST 
+
+0.25mg 
+
+Placebo 
+
+TEST 
+
+0.5mg 
+
+Placebo 
+
+RLD 
+
+0.5mg 
+
+Placebo 
+
+RLD 
+
+1mg 
+
+TEST 
+
+1mg 
+
+7 
+
+RLD 
+
+0.125mg 
+
+Placebo 
+
+TEST 
+
+0.125mg 
+
+Placebo 
+
+TEST 
+
+0.25mg 
+
+RLD 
+
+0.25mg 
+
+TEST 
+
+0.5mg 
+
+RLD 
+
+0.5mg 
+
+Placebo 
+
+8 
+
+Placebo 
+
+TEST 
+
+0.125mg 
+
+RLD 
+
+0.125mg 
+
+TEST 
+
+0.25mg 
+
+RLD 
+
+0.25mg 
+
+Placebo 
+
+RLD 
+
+0.5mg 
+
+Placebo 
+
+TEST 
+
+0.5mg 
+
+9 
+
+Placebo 
+
+RLD 
+
+0.125mg 
+
+TEST 
+
+0.125mg 
+
+RLD 
+
+0.25mg 
+
+TEST 
+
+0.25mg 
+
+Placebo 
+
+TEST 
+
+0.5mg 
+
+Placebo 
+
+RLD 
+
+0.5mg 
+
+10 
+
+RLD 
+
+0.25mg 
+
+Placebo 
+
+TEST 
+
+0.25mg 
+
+Placebo 
+
+TEST 
+
+0.5mg 
+
+RLD 
+
+0.5mg 
+
+TEST 
+
+1mg 
+
+RLD 
+
+1mg 
+
+Placebo 
+
+11 
+
+Placebo 
+
+TEST 
+
+0.25mg 
+
+RLD 
+
+0.25mg 
+
+TEST 
+
+0.5mg 
+
+RLD 
+
+0.5mg 
+
+Placebo 
+
+RLD 
+
+1mg 
+
+Placebo 
+
+TEST 
+
+1mg 
+
+12 
+
+Placebo 
+
+RLD 
+
+0.25mg 
+
+TEST 
+
+0.25mg 
+
+RLD 
+
+0.5mg 
+
+TEST 
+
+0.5mg 
+
+Placebo 
+
+TEST 
+
+1mg 
+
+Placebo 
+
+RLD 
+
+1mg 
+
+
+
+ 
+
+ 
+
+ 
+
+4. Inclusion criteria (the sponsor may add additional criteria): 
+a. Male aged = 18 years with erectile dysfunction. 
+
+
+
+
+
+
+b. Inability, when not using any device(s) or drug product(s) for the treatment of 
+erective dysfunction, to achieve or maintain an erection adequate for intercourse 
+during the three months prior to study entry. 
+c. Willing to discontinue use two weeks prior to enrollment of any treatment for erectile 
+dysfunction (e.g., PDE5 inhibitors, vacuum pump, band therapy, intracavernosal 
+injections). 
+
+
+
+
+ 
+
+5. Exclusion criteria (the sponsor may add additional criteria): 
+a. Female. 
+b. Prior exposure to alprostadil (e.g., alprostadil urethral suppository, alprostadil cream, 
+or alprostadil injection). 
+c. Known allergy or hypersensitivity reaction to alprostadil or any of the study treatment 
+excipients 
+d. Sickle-cell or other disease interfering with study drug administration or trial 
+participation. 
+e. Myocardial infarction within previous six months and history of heath failure or 
+unstable angina. 
+f. Poorly controlled diabetes mellitus. 
+g. Active vasculitis. 
+h. Untreated primary or secondary hypogonadism. 
+i. Life expectancy less than six months 
+j. Waking erections adequate for vaginal penetration within previous three months. 
+k. Indwelling catheter. 
+l. Abnormal penile anatomy, penile implant, or poor hygiene. 
+m. Clinically significant anterior urethral stricture, meatal stenosis, or active urinary tract 
+infection. 
+n. History of Peyronie’s disease 
+
+
+
+
+
+ 
+
+6. The protocol should include a list of the prescription and nonprescription/over-the-
+counter drug products that are prohibited during the study, such as: 
+a. Alprostadil-containing product, except for study medication. 
+b. Device(s) for the treatment of erectile dysfunction 
+c. Drug product(s) for the treatment of erectile dysfunction 
+
+
+
+
+
+ 
+
+7. The recommended primary endpoint is erectile response during in-office titration where 0 
+= “failure,” defined as an erection inadequate for intercourse, or 1 = “success,” defined as 
+the subject achieving an erection adequate for intercourse during in-office titration. 
+
+
+ 
+
+8. The protocol should clearly define the per-protocol (PP), modified intent-to-treat (mITT), 
+and safety populations. 
+a. The accepted PP population used for BE evaluation includes all randomized subjects 
+who meet all inclusion/exclusion criteria, received at least one assigned study 
+treatment, and did not have any protocol violations that would affect the treatment 
+evaluation. 
+b. The mITT population includes all randomized subjects who meet all 
+inclusion/exclusion criteria and received at least one assigned study treatment. 
+
+
+
+c. The safety population includes all randomized subjects who received at least one 
+study treatment. 
+
+
+ 
+
+9. Subjects who discontinued early from the study for any reason after receiving at least one 
+assigned study treatment should be included in the PP and mITT populations. 
+
+
+ 
+
+10. The start and stop dates of concomitant medication use during the study should be 
+provided in the data set in addition to the reason for the medication use. The sponsor 
+should clearly explain whether the medication was used prior to baseline visit, during the 
+study, or both. 
+
+
+ 
+
+11. All adverse events (AEs) should be reported, whether or not they are considered to be 
+related to the treatment. The report of AEs should include date of onset, description of the 
+AE, severity, relation to study medication, action taken, outcome, and date of resolution. 
+This information is needed to determine if the incidence and severity of adverse reactions 
+is different between the test product and RLD. 
+
+
+ 
+
+12. If the inactive ingredients of the test product are different than those contained in the 
+RLD or in significantly different amounts, then the sponsor must clearly describe the 
+differences and provide information to show that the differences will not affect the safety, 
+efficacy, and/or systemic or local availability of the drug. 
+
+
+ 
+
+13. The method of randomization should be described in the protocol and the randomization 
+schedule provided as a SAS data set in .xpt format (created using SAS XPORT). It is 
+recommended that an independent third party generate and hold the randomization code 
+throughout the conduct of the study in order to minimize bias. The sponsor may generate 
+the randomization code if not involved in the packaging and labeling of the study 
+medication. A sealed copy of the randomization scheme should be retained at the study 
+site and should be available to FDA investigators at the time of site inspection to allow 
+for verification of the treatment identity of each subject. 
+
+
+ 
+
+14. A detailed description of the blinding procedure is to be provided in the protocol. The 
+packaging of the test, reference and vehicle-control products should be similar in 
+appearance to make differences in treatment less obvious to the subjects and examiners, 
+and to maintain adequate blinding of evaluators. Neither the subject nor the investigator 
+should be able to identify the treatment. 
+
+
+ 
+
+15. Refer to 21 CFR 320.38, 320.63 and the Guidance for Industry: Handling and Retention 
+of BA and BE Testing Samples regarding retention of study drug samples. Refer to 21 
+CFR 320.36 for requirements for maintenance of records of BE testing. In addition, the 
+investigators should follow the procedures of ICH E6, Good Clinical Practice: 
+Consolidated Guideline, for retention of study records and data in order to conduct their 
+studies in compliance with good laboratory practices (GLPs) and good clinical practices 
+(GCPs). Retention samples should be randomly selected from the drug supplies received 
+prior to dispensing to subjects. Retention samples should not be returned to the sponsor 
+at any time. 
+
+
+
+ 
+
+16. It is the sponsor's responsibility to enroll sufficient subjects for the study to demonstrate 
+BE between the products. 
+
+
+ 
+
+17. To establish bioequivalence, it is recommended the following compound hypotheses be 
+tested using the PP population: 
+
+
+ 
+
+HO: pT – pR < .1 or pT – pR > .2 versus HA: .1 = pT – pR = .2 
+
+ 
+
+where pT = the success rate of the primary endpoint for the treatment group, and 
+
+ pR = the success rate of the primary endpoint for the reference group. 
+
+ 
+
+The null hypothesis, HO, is rejected with a type I error (a) of 0.05 (two one-sided tests) 
+if the 90% confidence interval for the difference of the success rates between test and 
+reference products (pT – pR) is contained within the interval [. 1, . 2], where . 1 = -
+0.20 and . 2 = 0.20. Rejection of the null hypothesis supports the conclusion of 
+equivalence of the two products. 
+
+ 
+
+18. To establish sensitivity for each dosage strength, the test and reference products should 
+both be statistically superior to the placebo. Conduct a separate appropriate inferential 
+test for each dosage strength with a type I error (a) of 0.05, using the mITT population 
+and the primary endpoint. 
+
+
+ 
+
+19. Study data should be submitted to the OGD in electronic format. All data should be 
+submitted as a SAS .xpt file, created using SAS XPORT (not CPORT). 
+
+
+a. Include a list of file names, a description of the content of each file, an 
+explanation of the variables within each file, and a description of all variable 
+codes (for example, for the treatment variable, A = RLD and B = TEST). 
+
+b. Provide a separate data set for demographic, vital sign, adverse event, 
+disposition (including reason for discontinuation of treatment), concomitant 
+medication, medical history, compliance, and comment variables. 
+
+ 
+
+20. Provide a summary data set containing a separate line listing for each subject (if data 
+exist) using the following headings, if applicable: 
+a. Study identifier 
+b. Subject identifier 
+c. Site identifier: study center 
+d. Age 
+e. Age units (years) 
+f. Sex (all subjects should be male) 
+g. Race 
+h. Name of actual treatment (exposure) at visit 1: test product 0.125 mg, RLD 0.125 mg, 
+vehicle control, none, test product 0.25 mg, RLD 0.25 mg, etc. 
+i. Name of actual treatment (exposure) at visit 2: test product 0.125 mg, RLD 0.125 mg, 
+vehicle control, none, test product 0.25 mg, RLD 0.25 mg, etc. 
+
+
+
+
+
+
+j. Name of actual treatment (exposure) at visit 3: test product 0.125 mg, RLD 0.125 mg, 
+vehicle control, none, test product 0.25 mg, RLD 0.25 mg, etc. 
+k. Name of actual treatment (exposure) at visit 4: test product 0. 25 mg, RLD 0.25 mg, 
+vehicle control, none, test product 0.500 mg, RLD 0.500 mg, etc. 
+l. Name of actual treatment (exposure) at visit 5: test product 0.25 mg, RLD 0.25 mg, 
+vehicle control, none, test product 0.500 mg, RLD 0.500 mg, etc. 
+m. Name of actual treatment (exposure) at visit 6: test product 0.25 mg, RLD 0.25 mg, 
+vehicle control, none, test product 0.5 mg, RLD 0.5 mg, etc. 
+n. Name of actual treatment (exposure) at visit 7: test product 0.5 mg, RLD 0.5 mg, 
+vehicle control, none, test product 1 mg, RLD 1 mg, etc. 
+o. Name of actual treatment (exposure) at visit 8: test product 0.5 mg, RLD 0.5 mg, 
+vehicle control, none, test product 1 mg, RLD 1 mg, etc. 
+p. Name of actual treatment (exposure) at visit 9: test product 0.5 mg, RLD 0.5 mg, 
+vehicle control, none, test product 1 mg, RLD 1 mg, etc. 
+q. Total number of treatments (none, one, two, three, …, nine) 
+r. Completed the study (yes/no) 
+s. Reason for premature discontinuation of subject 
+t. PP population inclusion (yes/no) 
+u. Reason for exclusion from PP population 
+v. Modified Intent to Treat (mITT) population inclusion (yes/no) 
+w. Reason for exclusion from mITT population 
+x. Safety population inclusion (yes/no) 
+y. Reason for exclusion from safety population 
+z. Erectile response at visit 1 
+aa. Erectile response at visit 2 
+bb. Erectile response at visit 3 
+cc. Erectile response at visit 4 
+dd. Erectile response at visit 5 
+ee. Erectile response at visit 6 
+ff. Erectile response at visit 7 
+gg. Erectile response at visit 8 
+hh. Erectile response at visit 9 
+ii. Concomitant medication (yes/no) 
+jj. Adverse event(s) reported (yes/no) 
+
+
+
+
+
+ 
+
+Refer to Table 1 as an example. 
+
+ 
+
+
+Table 1: Example of a summary data set containing one line listing for each subject 
+
+STUDYID 
+
+SUBJID 
+
+SITEID 
+
+AGE 
+
+AGEU 
+
+SEX 
+
+RACE 
+
+EXTRT_1 
+
+EXTRT_2 
+
+EXTRT_3 
+
+EXTRT_4 
+
+… 
+
+EXTRT_9 
+
+num_trt 
+
+completed 
+
+disc_rr 
+
+pp 
+
+pp_rs 
+
+mitt 
+
+mitt_rs 
+
+safety 
+
+safe_rs 
+
+visit_1 
+
+visit_2 
+
+visit_3 
+
+visit_4 
+
+… 
+
+visit_9 
+
+CM 
+
+AE 
+
+101 
+
+1 
+
+01 
+
+52 
+
+YEARS 
+
+M 
+
+1 
+
+B 
+
+C 
+
+A 
+
+D 
+
+ 
+
+C 
+
+6 
+
+Y 
+
+ 
+
+Y 
+
+ 
+
+Y 
+
+ 
+
+Y 
+
+ 
+
+0 
+
+0 
+
+0 
+
+0 
+
+ 
+
+1 
+
+Y 
+
+Y 
+
+101 
+
+2 
+
+01 
+
+55 
+
+YEARS 
+
+M 
+
+1 
+
+C 
+
+A 
+
+B 
+
+E 
+
+ 
+
+D 
+
+6 
+
+Y 
+
+ 
+
+Y 
+
+ 
+
+Y 
+
+ 
+
+Y 
+
+ 
+
+1 
+
+1 
+
+0 
+
+ 
+
+ 
+
+ 
+
+N 
+
+N 
+
+
+
+Note: Capitalized headings are from Clinical Data Interchange Standards Consortium 
+(CDISC) Study Data Tabulation Model (SDTM) Implementation Guide (IG) for Human 
+Clinical Trials V3.1.2 Final, dated 11/12/08 
+
+ 
+
+STUDYID: Study identifier 
+
+SUBJID: Subject identifier for the study 
+
+SITEID: Study site identifier 
+
+AGE: Age 
+
+AGEU: Age units (years) 
+
+SEX: Sex, M=male, F=female, U=unknown 
+
+RACE: Race, e.g., 1=white, 2=Black or African American, 3=Asian, 4=American 
+Indian or Alaska Native, 5=Native Hawaiian or other Pacific Islanders 
+
+EXTRT_1: Name of actual treatment (exposure) administered at visit 1, e.g., A=test 
+product 0.125 mg, B= RLD 0.125 mg, C=vehicle control, 0=no treatment 
+administered, D=test product 0.25 mg, E=RLD 0.25 mg, etc. 
+
+EXTRT_2: Name of actual treatment (exposure) administered at visit 2, e.g., A=test 
+product 0.125 mg, B= RLD 0.125 mg, C=vehicle control, 0=no treatment 
+administered, D=test product 0.25 mg, E=RLD 0.25 mg, etc. 
+
+EXTRT_3 Name of actual treatment (exposure) administered at visit 3, e.g., A=test 
+product 0.125 mg, B= RLD 0.125 mg, C=vehicle control, 0=no treatment 
+administered, D=test product 0.25 mg, E=RLD 0.25 mg, etc. 
+
+EXTRT_4: Name of actual treatment (exposure) administered at visit 4, e.g., A=test 
+product 0.125 mg, B= RLD 0.125 mg, C=vehicle control, 0=no treatment 
+administered, D=test product 0.25 mg, E=RLD 0.25 mg, etc. 
+
+EXTRT_5: Name of actual treatment (exposure) administered at visit 5, e.g., A=test 
+product 0.125 mg, B= RLD 0.125 mg, C=vehicle control, 0=no treatment 
+administered, D=test product 0.25 mg, E=RLD 0.25 mg, etc. 
+
+EXTRT_6: Name of actual treatment (exposure) administered at visit 6, e.g., A=test 
+product 0.125 mg, B= RLD 0.125 mg, C=vehicle control, 0=no treatment 
+administered, D=test product 0.25 mg, E=RLD 0.25 mg, etc. 
+
+EXTRT_7: Name of actual treatment (exposure) administered at visit 7, e.g., A=test 
+product 0.125 mg, B= RLD 0.125 mg, C=vehicle control, 0=no treatment 
+administered, D=test product 0.25 mg, E=RLD 0.25 mg, etc. 
+
+EXTRT_8: Name of actual treatment (exposure) administered at visit 8, e.g., A=test 
+product 0.125 mg, B= RLD 0.125 mg, C=vehicle control, 0=no treatment 
+administered, D=test product 0.25 mg, E=RLD 0.25 mg, etc. 
+
+
+EXTRT_9: Name of actual treatment (exposure) administered at visit 9, e.g., A=test 
+product 0.125 mg, B= RLD 0.125 mg, C=vehicle control, 0=no treatment 
+administered, D=test product 0.25 mg, E=RLD 0.25 mg, etc. 
+
+num_trt: Total number of treatments administered (e.g., 0=none, 1=one) 
+
+completed: Completed the study, Y=yes, N=no 
+
+disc_rr: Reason for premature discontinuation of subject, e.g., A=adverse event, 
+
+ B=death, C=lost to follow-up, D=non-compliance with treatment, 
+
+ E=treatment unblinded, F=subject moved out of area, G=unsatisfactory treatment 
+
+ response, H=withdrew consent, I=protocol violation, K=other event 
+
+pp: PP population inclusion, Y=yes, N=no 
+
+pp_rs: Reason for exclusion from PP population, e.g., A=prematurely 
+
+ discontinued, B=lost to follow-up, C=subject moved out of the area, 
+
+ D=noncompliant, etc. 
+
+mitt: Modified Intent to Treat (mITT) population inclusion, e.g., Y=Yes, N=No 
+
+mitt_rs: Reason for exclusion from mITT population, e.g., A=never treated, 
+B=negative baseline culture, etc. 
+
+safety: Safety population inclusion, e.g., Y=Yes, N=No 
+
+safe_rs: Reason for exclusion from Safety population, e.g., A=never treated, etc. 
+
+visit_1: Erectile response at visit 1, e.g., 0= failure or 1=success 
+
+visit_2: Erectile response at visit 2, e.g., 0= failure or 1=success 
+
+visit_3: Erectile response at visit 3, e.g., 0= failure or 1=success 
+
+visit_4: Erectile response at visit 4, e.g., 0= failure or 1=success 
+
+visit_5: Erectile response at visit 5, e.g., 0= failure or 1=success 
+
+visit_6: Erectile response at visit 6, e.g., 0= failure or 1=success 
+
+visit_7: Erectile response at visit 7, e.g., 0= failure or 1=success 
+
+visit_8: Erectile response at visit 8, e.g., 0= failure or 1=success 
+
+visit_9: Erectile response at visit 9, e.g., 0= failure or 1=success 
+
+CM: Concomitant medication, e.g., Y=Yes, N=No 
+
+AE: Adverse event(s) reported, e.g., Y=Yes, N=No 
+
+ 
+
+21. The study data should be submitted in standardized format. Consider the implementation and 
+use of data standards as early as possible in the product development lifecycle, so that data 
+standards are accounted for in the design, conduct, and analysis stages of clinical studies. For 
+more details, please refer to 
+http://www.fda.gov/Drugs/DevelopmentApprovalProcess/FormsSubmissionRequirements/ElectronicSubmissions/ucm248635.htm. 
+
+
+ 
+
+22. The protocol should include a full detailed statistical analysis plan and describe how missing 
+data will be prevented and handled if it exists. 
+
+
+ 
+
+23. These recommendations are specific to this product and may not be appropriate for BE 
+studies of any other product, including any other dosage form or strength of alprostadil. 
+
+
+

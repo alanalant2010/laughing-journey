@@ -1,0 +1,49 @@
+Contains Nonbinding Recommendations 
+
+Draft Guidance on Acetaminophen 
+
+This draft guidance, once finalized, will represent the Food and Drug Administration's 
+(FDA's) current thinking on this topic. It does not create or confer any rights for or on any 
+person and does not operate to bind FDA or the public. You can use an alternative approach 
+if the approach satisfies the requirements of the applicable statutes and regulations. If you 
+want to discuss an alternative approach, contact the Office of Generic Drugs. 
+
+Active ingredient: Acetaminophen 
+
+Form/Route: Extended Release Tablet/Oral 
+
+Recommended studies: 2 studies 
+
+1. Type of study: Fasting 
+Design: Single-dose, two-way crossover in-vivo 
+Strength: 650 mg 
+Subjects: Healthy males and nonpregnant females, general population. 
+Additional Comments: 
+2. Type of study: Fed 
+Design: Single-dose, two-way crossover in-vivo 
+Strength: 650 mg 
+Subjects: Healthy males and nonpregnant females, general population. 
+Additional Comments: Please refer to the Amantadine Hydrochloride Tablet Guidance 
+for additional information regarding fed studies. 
+
+
+Analytes to measure: Acetaminophen in plasma 
+
+Bioequivalence based on (90% CI): Acetaminophen 
+
+Waiver request of in-vivo testing: Acetaminophen Extended Release Caplet or Gelcap, 650 mg 
+based on (i) acceptable bioequivalence studies on the 650 mg strength Geltab or Caplet, (ii) 
+acceptable in-vitro dissolution testing of both dosage forms, and (iii) proportional similarity of 
+both formulations. 
+
+Dissolution test method and sampling times: 
+
+Please note that a Dissolution Methods Database is available to the public at the OGD website 
+at http://www.accessdata.fda.gov/scripts/cder/dissolution/. Please find the dissolution 
+information for this product at this website. Please conduct comparative dissolution testing on 
+12 dosage units each of all strengths of the test and reference products. Specifications will be 
+determined upon review of the application. 
+
+Recommended Feb 2011 
+
+

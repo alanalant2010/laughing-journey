@@ -1,0 +1,63 @@
+This draft guidance, when finalized, will represent the current thinking of the Food and Drug 
+Administration (FDA, or the Agency) on this topic. It does not establish any rights for any person 
+and is not binding on FDA or the public. You can use an alternative approach if it satisfies the 
+requirements of the applicable statutes and regulations. To discuss an alternative approach, contact 
+the Office of Generic Drugs. 
+
+ 
+
+ 
+
+Active Ingredient: Afatinib dimaleate 
+
+ 
+
+Dosage Form; Route: Tablet; oral 
+
+ 
+
+Recommended Studies: One study 
+
+ 
+
+1. Type of study: Fasting 
+
+
+Design: Single-dose, two-way crossover in vivo 
+
+Strength: 40 mg (eq base) 
+
+Subjects: Normal healthy males and females, general population 
+
+Additional comments: Females should not be pregnant or lactating, and, if applicable, 
+should practice abstention or contraception during the study 
+
+ 
+
+______________________________________________________________________________ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Afatinib in plasma 
+
+ 
+
+Bioequivalence based on (90% CI): Afatinib 
+
+ 
+
+Waiver request of in vivo testing: 20 mg (eq base) and 30 mg (eq base) strengths based on (i) 
+acceptable bioequivalence study on the 40 mg (eq base) strength, (ii) proportional similarity of 
+the formulations across all strengths, and (iii) acceptable in vitro dissolution testing of all 
+strengths. 
+
+ 
+
+Dissolution test method and sampling times: The dissolution information for this drug 
+product can be found on the FDA-Recommended Dissolution Methods Web site, available to the 
+public at the following location: http://www.accessdata.fda.gov/scripts/cder/dissolution/. 
+Conduct comparative dissolution testing on 12 dosage units each of all flavors of the test and 
+reference products. Specifications will be determined upon review of the abbreviated new drug 
+application (ANDA). 
+
+

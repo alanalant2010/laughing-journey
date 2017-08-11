@@ -1,0 +1,253 @@
+ 
+
+Active ingredient: Acarbose 
+
+ 
+
+Form/Route: Tablets/Oral 
+
+ 
+
+Recommended studies: 2 Options: In Vitro or In Vivo Studies 
+
+ 
+
+1. In Vitro Option 
+
+ 
+
+If your test product formulations are qualitatively (Q1, i.e., contains all of the same inactive ingredients) 
+and quantitatively (Q2) the same as the reference listed drug (RLD) with respect to inactive ingredients, 
+then bioequivalence (BE) of all tablet strengths may be established based solely on comparative dissolution. 
+This means that (1) the amount of any excipient in the test product should not be more than ± 5% different 
+than the corresponding excipient in the RLD; and (2) the total weight of the test product tablet should not be 
+more than ± 5% different than the total weight of the RLD tablet. 
+
+ 
+
+For Q1 and Q2 formulations, the following comparative dissolution testing of 12 tablets each of test and 
+reference products is recommended: 
+
+ 
+
+a. This FDA dissolution testing method is to be used for stability and quality control testing. The 
+dissolution specification will be determined upon review of the ANDA. 
+
+ 
+
+Apparatus USP Apparatus 2 (paddle) 
+
+Media Water 
+
+Volume 900 mL 
+
+Rotation speed 75 rpm 
+
+Sampling times 10, 15, 20, 30, 45 minutes 
+
+ 
+
+b. In addition, the following multi-media dissolution method should be conducted on 12 tablets each of 
+test and reference products. 
+
+ 
+
+Apparatus USP Apparatus 2 (paddle) 
+
+Media 0.1N HCl, pH 4.5 buffer, and pH 6.8 buffer 
+
+Volume 900 mL 
+
+Rotation speed 50 rpm 
+
+Sampling times 10, 15, 20, 30, 45 and 60 minutes 
+
+
+
+
+ 
+
+ An f2 test should be performed using mean profiles to assure comparable test (T) and reference (R) product 
+drug release under a range of pH conditions. The f2 test comparing T vs. R in each media should be 50 or 
+greater. Note that the f2 test is not necessary when both T and R dissolve 85% or more in 15 minutes or less 
+using all three media. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+2. In Vivo Option 
+
+ 
+
+If your test product formulations are NOT qualitatively (Q1) and quantitatively (Q2) the same as the 
+reference listed drug (RLD) with respect to inactive ingredients, bioequivalence should be established by 
+conducting a study with pharmacodynamic endpoints. The most appropriate endpoint for acarbose is the 
+change in serum glucose concentrations. A pilot study should first be conducted to determine the 
+appropriate dose for the pivotal BE study, as described below: 
+
+ 
+
+a. Pilot Study 
+
+
+
+
+ 
+
+A pilot study is necessary for two reasons, to determine (1) the appropriate dose for the pivotal BE 
+study; and (2) the appropriate number of study subjects needed to provide adequate statistical power 
+to show bioequivalence in the pivotal study. The pilot study should use the RLD given with 75 g of 
+sucrose, and should identify the lowest possible dose that will yield a pharmacodynamic response 
+above baseline. This is done to assure that the glucose-lowering response is not near the plateau of the 
+dose-response curve. Thus, the first dose tested should be the RLD 1*25mg tablet. If treatment with 
+this dose does not elicit a measurable response relative to baseline, it may be necessary to repeat the 
+study with multiples of the 25mg strength, beginning with 2*25mg. The treatments to establish the 
+appropriate dose can be studied in the same group of subjects, with a one-week washout between each 
+treatment, until the optimal dose for the pivotal study is identified. 
+
+ 
+
+b. Bioequivalence Study 
+
+ 
+
+The pivotal BE study should use the 25-mg strength of test and reference products administered at the 
+dose identified in the pilot study. The recommended study design is a randomized balanced two-way 
+crossover study, with a one-week washout between treatments. 
+
+ 
+
+A separate fed bioequivalence study is not necessary. 
+
+ 
+
+3. General Information for Pilot and BE Studies 
+
+ 
+
+a. The diet and physical activity of the study subjects should be strictly controlled prior to and during 
+the study. In addition, because sensitivity to potential differences between products may be reduced 
+in obese subjects, the protocol should specify an acceptable subject weight range. 
+
+ 
+
+b. Please measure serum glucose as a pharmacodynamic endpoint for acarbose. The bioanalytical 
+method used to assay for serum glucose should be properly validated. Please consult the CDER 
+Guidance for Industry: Bioanalytical Method Validation, posted May 2001, for recommendations 
+about the appropriate approach. 
+
+
+
+
+ 
+
+c. We recommend that you obtain a baseline for serum glucose in the following manner: 
+
+
+
+
+ 
+
+• Subjects should receive a challenge dose of 75 g of sucrose on the day prior to drug treatment. 
+The sugar may be given as a solution, 75 g in 150 mL water. The sucrose challenge should 
+follow an overnight fast. 
+
+
+
+
+ 
+
+• Following the administration of sucrose, blood should be sampled for serum glucose for up to 4 
+hours. Drug treatment will take place on the following day. 
+
+
+
+
+ 
+
+• On the drug treatment day, drug should be given together with 75 g of sucrose. Blood should be 
+sampled for serum glucose for up to 4 hours after acarbose/sucrose administration. 
+
+
+
+
+ 
+
+
+d. The literature suggests that the maximum reduction of serum glucose following acarbose 
+administration upon sucrose challenge occurs within the first hour. Therefore, we recommend 
+intensive sampling during the first hour post-dosing to adequately capture the maximum reduction in 
+serum glucose levels. 
+
+
+
+
+ 
+
+e. Bioequivalence evaluation will be based on the reduction of serum glucose levels following treatment 
+with acarbose and sucrose together relative to the baseline serum glucose levels observed (on the 
+prior day) following the sucrose baseline challenge. Thus, the appropriate parameters used for 
+bioequivalence statistics are baseline-adjusted (1) maximum reduction in serum glucose concentration 
+(Cmax); and (2) area under the serum glucose reduction versus time curve through 4 hours, AUEC(0-
+4). The Cmax represents the maximum difference between the baseline glucose profile determined 
+on the day prior to drug treatment and the glucose profile determined on the day of drug treatment. 
+AUEC(0-4) represents the difference in areas computed from the glucose levels following the 
+baseline challenge and following the acarbose and sucrose administration. 
+
+ 
+
+e. To establish bioequivalence between your product and the RLD in the pharmacodynamic endpoint 
+study, the 90% confidence intervals for the test/reference ratios for AUEC(0-4) and Cmax should fall 
+within the bioequivalence limits of 0.8 to 1.25. 
+
+
+
+
+ 
+
+f. It is not necessary to measure plasma concentrations of acarbose. 
+
+
+
+
+ 
+
+g. We recommend that you submit protocols for evaluation prior to initiating the pilot and pivotal 
+bioequivalence studies. 
+
+
+
+
+ 
+
+Waiver request of in-vivo testing: 50 mg and 100 mg based on (i) acceptable in vivo bioequivalence study 
+on the 25 mg strength, (ii) acceptable in vitro dissolution testing of all strengths, and (iii) proportional 
+similarity of the formulations. 
+
+ 
+
+Dissolution test method and sampling times: 
+
+ 
+
+Regardless of the option chosen, please provide dissolution data on 12 dosage units each of test and reference 
+products for all strengths using the three different media described in the In Vitro Option section above. 
+
+ 
+
+In addition, please note that a Dissolution Methods Database is available to the public at the OGD website at 
+http://www.accessdata.fda.gov/scripts/cder/dissolution/. Please find the dissolution information for this 
+product at this website. Please conduct comparative dissolution testing on 12 dosage units each of all 
+strengths of the test and reference products. Specifications will be determined upon review of the application. 
+
+ 
+
+

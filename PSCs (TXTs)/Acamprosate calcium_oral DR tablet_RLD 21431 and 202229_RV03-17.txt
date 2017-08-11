@@ -1,0 +1,74 @@
+
+
+Active Ingredient: Acamprosate Calcium 
+
+
+
+Dosage Form; Route: Delayed release tablet; oral 
+
+
+
+Recommended Studies: Two studies 
+
+
+
+1.Type of study: Fasting
+
+
+Design: Single-dose, partial or fully replicated crossover design in-vivo
+
+Strength: 333 mg
+
+Subjects: Normal healthy males and females, general population. Females should not bepregnant, and if applicable, should practice abstention or contraception during the study
+
+
+
+Additional comments: Applicants may consider using a reference-scaled averagebioequivalence approach for Acamprosate Calcium. If using this approach, pleaseprovide evidence of high variability (i.e., within-subject variability = 30%) in thebioequivalence parameters such as AUC and/or Cmax for the reference product. Forgeneral information on this approach, please refer to Guidance for industry BioequivalenceStudies with Pharmacokinetic Endpoints for Drugs Submitted Under an ANDA. For detailsabout the method of statistical analysis using the reference-scaled average bioequivalenceapproach for Acamprosate Calcium tablets, refer to the product specific guidance forProgesterone capsule.
+
+
+
+
+
+2.Type of study: Fed
+
+
+Design: Single-dose, partial or fully replicated crossover design in-vivo
+
+Strength: 333 mg
+
+Subjects: Normal healthy males and females, general population. Females should not bepregnant, and if applicable, should practice abstention or contraception during the study
+
+
+
+Additional comments: Same as additional comments above
+
+
+
+
+
+Analytes to measure: Acamprosate in plasma* 
+
+*Acamprosate exists completely dissociated in plasma. Therefore, bioequivalence measures maybe reported in terms of acetylhomotaurine. 
+
+Bioequivalence based on (90% CI): Acamprosate* 
+
+*Please refer to the above section
+
+
+
+
+Waiver request of in-vivo testing: Not Applicable 
+
+
+
+Dissolution test method and sampling times: 
+
+The dissolution information for this drug product can be found on the FDA-Recommended 
+Dissolution Methods website available to the public at the following location: 
+http://www.accessdata.fda.gov/scripts/cder/dissolution/. Please conduct comparative dissolution 
+testing on 12 dosage units each of all strengths of the test and reference products. Specifications 
+will be determined upon review of the ANDA. 
+
+
+
+

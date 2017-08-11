@@ -1,0 +1,151 @@
+ 
+
+Active Ingredient: Amphetamine 
+
+ 
+
+Dosage Form; Route: Extended release suspension; oral 
+
+ 
+
+Recommended Studies: Two studies 
+
+ 
+
+1. Type of study: Fasting 
+
+
+Design: Single-dose, two-way crossover in vivo 
+
+Strength: EQ 2.5 mg Base/mL (8x EQ 2.5 mg Base/mL) 
+
+Subjects: Healthy males and non-pregnant, non-lactating females, general population 
+
+Additional comments: Amphetamine, a CNS stimulant, has a high potential for abuse and 
+dependence, and can cause sudden death or other serious heart problems at recommended 
+doses according to the drug product label, applicants should assess the risk of abuse and 
+the presence of cardiac diseases prior to the study. Avoid use in patients with known 
+structural cardiac abnormalities, cardiomyopathy, serious heart arrhythmia, coronary 
+artery disease, and other serious heart problems. Monitor for signs of abuse and heart 
+problems during the study. 
+
+ 
+
+2. Type of study: Fed 
+
+
+Design: Single-dose, two-way crossover in vivo 
+
+Strength: EQ 2.5 mg Base/mL (8x EQ 2.5 mg Base/mL) 
+
+Subjects: Healthy males and non-pregnant, non-lactating females, general population 
+
+Additional comments: See comments above. 
+
+______________________________________________________________________________ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): d-amphetamine and l-amphetamine, 
+separately, in plasma 
+
+ 
+
+Bioequivalence based on (90% CI): d-amphetamine and l-amphetamine 
+
+ 
+
+Waiver request of in vivo testing: Not applicable. 
+
+ 
+
+Dissolution test method and sampling times: The dissolution information for this drug 
+product can be found on the FDA-Recommended Dissolution Methods website available to the 
+public at the following location: http://www.accessdata.fda.gov/scripts/cder/dissolution/. 
+Conduct comparative dissolution testing on 12 dosage units each of all strengths of the test and 
+
+
+reference products. Note that a dosage unit for a suspension is the labeled strength (mL). 
+Specifications will be determined upon review of the abbreviated new drug application (ANDA). 
+
+In addition to the method above, for modified release products, dissolution profiles on 12 dosage 
+units each of test and reference products generated using USP Apparatus I at 100 rpm and/or 
+Apparatus II at 50 rpm in at least three dissolution media (pH 1.2, 4.5 and 6.8 buffer) should be 
+submitted in the application. Agitation speeds may have to be increased if appropriate. It is 
+acceptable to add a small amount of surfactant, if necessary. Please include early sampling times 
+of 1, 2, and 4 hours and continue every 2 hours until at least 80% of the drug is released, to 
+provide assurance against premature release of drug (dose dumping) from the formulation. 
+Specifications will be determined upon review of the data submitted in the application. 
+
+ 
+
+Due to a concern of dose dumping of drug from this drug product when taken with alcohol, the 
+Agency currently requests that additional dissolution testing be conducted using various 
+concentrations of ethanol in the dissolution medium, as follows: 
+
+ 
+
+Testing Conditions: Volume: 900 mL 0.1N HCl, apparatus 2 (Paddle) at 50 rpm, with and 
+without the alcohol; 
+
+ 
+
+Test 1: Twelve units tested according to the proposed method, with data collected every 15 
+minutes for a total of 2 hours 
+
+Test 2: Twelve units analyzed by substituting 5% (v/v) of test medium with Alcohol USP and 
+data collection every 15 minutes for a total of 2 hours 
+
+Test 3: Twelve units analyzed by substituting 20% (v/v) of test medium with Alcohol USP and 
+data collection every 15 minutes for a total of 2 hours 
+
+Test 4: Twelve units analyzed by substituting 40% (v/v) of test medium with Alcohol USP and 
+data collection every 15 minutes for a total of 2 hours 
+
+ 
+
+Both test and RLD products must be tested accordingly and data must be provided on individual 
+unit, means, range and %CV on all strengths. 
+
+ 
+
+Additional Comments: 
+
+DYANAVEL XR is an extended-release liquid formulation containing immediate and extended-
+release components in a 3.2 to 1 ratio of d-amphetamine to l-amphetamine, allowing to be taken 
+once daily for its quick-onset and sustained activities. As per the FDA-approved labeling, the 
+median (range) time to peak plasma concentrations (Tmax) were 4.0 (2 – 7) hours after a single, 
+18.8 mg oral dose of DYANAVEL XR under fasting conditions, and the clinical efficacy studies 
+of DYANAVEL XR indicates that SKAMP-Combined change scores from pre-dose 
+demonstrated a statistically significant improvement at the time points of 1, 2, 4, 6, 8, 10, 12, 13 
+hours post-dosing with DYANAVEL XR, using the change from pre-dose in the SKAMP-
+
+
+Combined score at 4 hours post-dosing as the primary efficacy endpoint, and the onset and 
+duration of clinical effect as the key secondary efficacy parameters. To ensure that a generic 
+version of is therapeutically equivalent to the corresponding reference product, the firm should 
+conduct the following pAUC metrics in addition to the tratidional (AUC0-8 and Cmax) metrics: 
+
+• AUC0-4 should compare test & reference systemic exposure responsible for early 
+onset of response during the early part of the once-daily dosing interval; and 
+• AUC4-t should compare test & reference systemic exposure responsible for sustaining 
+the response later during the once-daily dosing interval. 
+
+
+
+
+The 90% confidence intervals of the geometric mean test/reference (T/R) ratios for the above 
+four metrics (Cmax, AUC0-4, AUC4-t, AUC0-8) should fall within the BE limits of 80-125%. 
+
+The sampling time of 4 hours for the first pAUC is based on the pharmacokinetic profiles and 
+clinical efficacy studies from FDA-approved drug product label. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

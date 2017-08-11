@@ -1,0 +1,81 @@
+ 
+
+Active ingredient: Anastrozole 
+
+ 
+
+Form/Route: Tablets/Oral 
+
+ 
+
+Recommended studies: 2 studies 
+
+ 
+
+1. Type of study: Fasting 
+Design: Single-dose, two-way crossover in-vivo 
+
+Strength: 1 mg 
+
+Subjects: Please conduct the studies in post-menopausal subjects or surgically sterile 
+females. 
+
+ Additional Comments: Please do not include subjects who are using female hormone 
+replacement therapies, thyroid hormone replacement therapies, or antihypertensive 
+therapies in the study population. 
+
+
+
+
+ Anastrozole has a long terminal elimination half-life. Please ensure adequate 
+washout periods between treatments in the crossover studies. You may also consider 
+using a parallel study design due to anastrozole’s long half-life. For long half-life drug 
+products, an AUC truncated to 72 hours may be used in place of AUC0-t or AUC0-8. 
+Please collect sufficient blood samples in the bioequivalence studies to adequately 
+characterize the peak concentration (Cmax) and time to reach peak concentration (tmax). 
+
+______________________________________________________________________________ 
+
+ 
+
+2. Type of study: Fed 
+Design: Single-dose, two-way crossover in-vivo 
+
+Strength: 1 mg 
+
+Subjects: Please see comments above. 
+
+Additional comments: Please see comments above. 
+
+
+
+
+______________________________________________________________________________ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Anastrozole in plasma 
+
+ 
+
+Bioequivalence based on (90% CI): Anastrozole 
+
+ 
+
+Waiver request of in-vivo testing: Not Applicable 
+
+ 
+
+Dissolution test method and sampling times: 
+
+ 
+
+Please note that a Dissolution Methods Database is available to the public at the OGD website 
+at http://www.fda.gov/cder/ogd/index.htm. Please find the dissolution information for this 
+product at this website. Please conduct comparative dissolution testing on 12 dosage units each 
+of all strengths of the test and reference products. Specifications will be determined upon review 
+of the application. 
+
+ 
+
+

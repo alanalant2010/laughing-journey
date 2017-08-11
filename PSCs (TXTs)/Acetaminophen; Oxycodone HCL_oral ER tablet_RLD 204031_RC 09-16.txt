@@ -1,0 +1,87 @@
+
+
+Active Ingredient: Acetaminophen; Oxycodone hydrochloride 
+
+
+
+Dosage Form; Route: Extended-release tablet; Oral 
+
+
+
+Recommended Studies: Two Studies 
+
+
+
+1.Type of study: Fasting
+
+
+Design: Single-dose, two-way crossover in-vivo
+
+Strength: 325 mg/7.5 mg
+
+Subjects: Healthy males and nonpregnant females, general population.
+
+Additional Comments: A clear plan for continuous respiratory monitoring from the time ofdosing past the time of expected peak effect of the drug (i.e. at least 4 hours from dosing)
+should be included. Standard operating procedures (SOPs) should be in place for assessingand treating ventilatory depression, and personnel qualified to treat ventilatory emergenciesshould be immediately available.
+
+
+
+2.Type of study: Fed
+
+
+Design: Single-dose, two-way crossover in-vivo
+
+Strength: 325 mg/7.5 mg
+
+Subjects: Healthy males and nonpregnant females, general population.
+
+Additional Comments: Please see the commons above.
+
+
+
+Analytes to measure (in appropriate biological fluid): acetaminophen and oxycodone in 
+plasma 
+
+Bioequivalence based on (90% CI): acetaminophen and oxycodone 
+
+Waiver request of in-vivo testing: Not applicable 
+
+Dissolution test method and sampling times: The dissolution information for this drug 
+product can be found on the FDA-Recommended Dissolution Methods website available to the 
+public at the following location: http://www.accessdata.fda.gov/scripts/cder/dissolution/. 
+Conduct comparative dissolution testing on 12 dosage units of the test and reference products. 
+Specifications will be determined upon review of the abbreviated new drug application (ANDA). 
+
+In addition to the method above, for modified release products, dissolution profiles on 12 dosage 
+units of test and reference products generated using USP Apparatus I at 100 rpm and/or 
+
+
+Apparatus II at 50 rpm in at least three dissolution media (pH 1.2, 4.5 and 6.8 buffer) should be 
+submitted in the application. Agitation speeds may have to be increased if appropriate. It is 
+acceptable to add a small amount of surfactant, if necessary. Please include early sampling times 
+of 1, 2, and 4 hours and continue every 2 hours until at least 80% of the drug is released, to 
+provide assurance against premature release of drug (dose dumping) from the formulation. 
+
+Due to a concern of dose dumping of drug from this drug product when taken with alcohol, the 
+Agency currently requests that additional dissolution testing be conducted using various 
+concentrations of ethanol in the dissolution medium, as follows: 
+
+Testing Conditions: 900 mL, 0.1 N HCl, USP apparatus 2 (paddle) @100 rpm, with or 
+without alcohol; 
+
+Test 1: 12 units tested according to the proposed method (with 0.1N HCl), with data 
+collected every 15 minutes for a total of 2 hours. 
+
+Test 2: 12 units analyzed by substituting 5% (v/v) of test medium with Alcohol USP and 
+data collection every 15 minutes for a total of 2 hours. 
+
+Test 3: 12 units analyzed by substituting 20% (v/v) of test medium with Alcohol USP and 
+data collection every 15 minutes for a total of 2 hours. 
+
+Test 4: 12 units analyzed by substituting 40% (v/v) of test medium with Alcohol USP and 
+data collection every 15 minutes for a total of 2 hours. 
+
+Both test and RLD products should be tested accordingly and data should be provided on 
+individual unit, means, range and %CV. 
+
+

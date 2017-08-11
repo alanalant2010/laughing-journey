@@ -1,0 +1,64 @@
+ 
+
+Active Ingredient: Alendronate sodium 
+
+ 
+
+Dosage Form; Route: Effervescent tablet; oral 
+
+ 
+
+Recommended Studies: In vitro dissolution or in vivo study 
+
+ 
+
+I. In vitro dissolution option 
+
+
+ 
+
+To demonstrate bioequivalence (BE) via the in vitro dissolution option, a generic alendronate 
+sodium effervescent tablet should demonstrate that it is fully dissolved in water at the time of 
+administration, per administration instructions provided in the approved drug label, and does not 
+contain any excipients that may significantly affect drug absorption and systemic availability. 
+
+ 
+
+II. In vivo study option 
+
+
+ 
+
+Type of study: Fasting 
+
+Design: Single-dose, two-way in vivo 
+
+Strength: EQ 70 mg base 
+
+Subjects: Healthy males and nonpregnant females, general population 
+
+Additional comments: The BE study may be waived based on acceptable in vitro 
+dissolution testing 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Alendronate in plasma 
+
+ 
+
+Bioequivalence based on (90% CI): Alendronate 
+
+ 
+
+Waiver request of in vivo testing: See comments above 
+
+ 
+
+Dissolution test method and sampling times: The dissolution information for this drug 
+product can be found on the FDA-Recommended Dissolution Methods Web site, available to the 
+public at the following location: http://www.accessdata.fda.gov/scripts/cder/dissolution/. 
+Conduct comparative dissolution testing on 12 dosage units each of the test and reference 
+products. Specifications will be determined upon review of the abbreviated new drug application 
+(ANDA). 
+
+

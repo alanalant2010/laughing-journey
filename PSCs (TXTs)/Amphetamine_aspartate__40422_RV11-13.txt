@@ -1,0 +1,70 @@
+Active ingredient: Amphetamine Aspartate; Amphetamine Sulfate; 
+Dextroamphetamine Saccharate; Dextroamphetamine Sulfate 
+
+ 
+
+Form/Route: Tablets/Oral 
+
+ 
+
+Recommended studies: 2 studies 
+
+ 
+
+1. Type of study: Fasting 
+
+
+Design: Single-dose, two-way crossover in vivo 
+
+Strength: 7.5 mg; 7.5 mg; 7.5 mg; 7.5 mg 
+
+Subjects: Healthy males and nonpregnant females, general population. 
+
+Additional Comments: 
+
+______________________________________________________________________________ 
+
+ 
+
+2. Type of study: Fed 
+
+
+Design: Single-dose, two-way crossover in vivo 
+
+Strength: 7.5 mg; 7.5 mg; 7.5 mg; 7.5 mg 
+
+Subjects: Healthy males and nonpregnant females, general population. 
+
+Additional Comments: Please refer to the Amantadine Hydrochloride Tablet Draft 
+Guidance for additional information regarding fed studies. 
+
+______________________________________________________________________________ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): D-amphetamine and l-amphetamine, 
+measured separately in plasma 
+
+ 
+
+Bioequivalence based on (90% CI): D-amphetamine and l-amphetamine 
+
+ 
+
+Waiver request of in vivo testing: (1. 25 mg; 1.25 mg; 1.25mg; 1.25 mg), (1.875 mg, 1.875 mg; 
+1.875 mg: 1.875 mg), (2.5 mg, 2.5 mg. 2.5 mg, 2.5 mg), (3.125 mg, 3.125 mg, 3.125 mg, 3.125 mg), 
+(3.75 mg, 3.75 mg, 3.75 mg, 3.75 mg), (5 mg, 5 mg, 5 mg, 5 mg) strengths based on (i) acceptable 
+bioequivalence studies on the (7.5 mg, 7.5 mg, 7.5 mg, 7.5 mg) strength, (ii) acceptable dissolution 
+testing across all strengths, and (iii) proportional similarity in the formulations across all strengths. 
+
+ 
+
+Dissolution test method and sampling times: 
+
+Please note that a Dissolution Methods Database is available to the public at the OGD website at 
+http://www.accessdata.fda.gov/scripts/cder/dissolution/. Please find the dissolution information for 
+this product at this website. Please conduct comparative dissolution testing on 12 dosage units each of 
+all strengths of the test and reference products. Specifications will be determined upon review of the 
+application. 
+
+

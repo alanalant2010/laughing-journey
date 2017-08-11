@@ -1,0 +1,75 @@
+This draft guidance, when finalized, will represent the current thinking of the Food and Drug 
+Administration (FDA, or the Agency) on this topic. It does not establish any rights for any person 
+and is not binding on FDA or the public. You can use an alternative approach if it satisfies the 
+requirements of the applicable statutes and regulations. To discuss an alternative approach, contact 
+the Office of Generic Drugs. 
+
+ 
+
+Active Ingredient: Albuterol sulfate 
+
+ 
+
+Dosage Form; Route: Tablet; oral 
+
+ 
+
+Recommended Studies: Two studies 
+
+ 
+
+1. Type of study: Fasting 
+
+
+Design: Single-dose, two-way crossover in vivo 
+
+Strength: EQ 4 mg base 
+
+Subjects: Healthy males and females, general population 
+
+Additional Comments: None 
+
+ 
+
+ 
+
+ 2. Type of study: Fed 
+
+Design: Single-dose, two-way crossover in vivo 
+
+Strength: EQ 4 mg base 
+
+Subjects: Healthy males and females, general population 
+
+Additional Comments: None 
+
+ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Albuterol in plasma 
+
+ 
+
+Bioequivalence based on (90% CI): Albuterol 
+
+ 
+
+Waiver request of in vivo testing: EQ 2 mg base strength based on (i) acceptable 
+bioequivalence studies on the EQ 4 mg base strength, (ii) acceptable dissolution testing across all 
+the strengths, and (iii) proportional similarity in the formulations across all the strengths. 
+
+ 
+
+Dissolution test method and sampling times: 
+
+The dissolution information for this drug product can be found on the FDA-Recommended 
+Dissolution Methods website, available to the public at the following location: 
+http://www.accessdata.fda.gov/scripts/cder/dissolution/. Please conduct comparative 
+dissolution testing on 12 dosage units each of all strengths of the test and reference products. 
+Specifications will be determined upon review of the abbreviated new drug application 
+(ANDA). 
+
+ 
+
+

@@ -1,0 +1,41 @@
+Contains Nonbinding Recommendations 
+
+Guidance on Acetaminophen; Caffeine; Dihydrocodeine Bitartrate 
+
+This guidance represents the Food and Drug Administration's (FDA's) current thinking on 
+this topic. It does not create or confer any rights for or on any person and does not operate to 
+bind FDA or the public. You can use an alternative approach if the approach satisfies the 
+requirements of the applicable statutes and regulations. If you want to discuss an alternative 
+approach, contact the Office of Generic Drugs. 
+
+Active ingredient: Acetaminophen; Caffeine; Dihydrocodeine Bitartrate 
+
+Form/Route: Tablets/Oral 
+
+Recommended studies: 
+
+Acetaminophen; Caffeine: Dihydrocodeine bitartrate Tablets are a DESI1 effective drug for 
+which there are no known or suspected bioequivalence problems, and as such is rated “AA” in 
+the FDA/CDER’s Approved Drug Products with Therapeutic Equivalence Evaluations (“Orange 
+Book”). 
+
+Analytes to measure (in appropriate biological fluid): Not Applicable 
+
+Bioequivalence based on (90% CI): Not Applicable 
+
+Waiver request of in-vivo testing: 712.8 mg/60 mg/32 mg, and 356.4 mg/30 mg/16 mg 
+pursuant to 21 CFR 320.22 (c) provided that the in-vitro dissolution profiles of your proposed 
+product are comparable to those of the reference product. 
+
+Dissolution test method and sampling times: 
+Please note that a Dissolution Methods Database is available to the public at the OGD website 
+at http://www.accessdata.fda.gov/scripts/cder/dissolution/. Please find the dissolution 
+information for this product at this website. Please conduct comparative dissolution testing on 12 
+dosage units each of all strengths of the test and reference products. Specifications will be 
+determined upon review of the application. 
+
+1 Drug Efficacy Study Implementation 
+
+Finalized Oct 2011 
+
+

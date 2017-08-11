@@ -1,0 +1,143 @@
+ 
+
+Active ingredient: Altretamine 
+
+ 
+
+Form/Route: Capsule/Oral 
+
+ 
+
+Recommended studies: 1 study 
+
+ 
+
+ Type of study: Steady-State 
+
+Design: Multiple-dose, two-way crossover in-vivo 
+
+Strength: Dose should be calculated on the basis of body surface area. Altretamine 
+capsules may be administered at a dose of 260 mg/m2/day for 5 days. The total daily dose 
+should be given as 4 divided oral doses after meals and at bedtime. The meals should be 
+standardized, but there is no need to administer Altretamine with a high-fat meal. 
+
+Subjects: Patients with persistent or recurring ovarian cancer following first-line therapy 
+with a cisplatin and/or alkylating agent-based combination already on altretamine or 
+previously determined to be candidates for such therapy. 
+
+Additional Comments: 
+
+ 
+
+1) Submission of an Investigational New Drug Application (IND) is required prior to the 
+conduct of a bioequivalence study for a cytotoxic drug product such as Altretamine (see 
+21 CFR §320.31). 
+
+
+
+
+ 
+
+2) Period I can begin on the first day of treatment cycle. Pharmacokinetic sampling should 
+take place on Day 5 of Period I and II. Blood sampling should occur over a dosing 
+interval on the Day 5 morning to assess the concentration-time curve at pre-dose (0 hour) 
+and at appropriate post-dose sampling time. Following end of Period I pharmacokinetic 
+sampling day, patients should be switched to receive the other treatment in Period 2. 
+Patients should be dosed for another 5 days prior to pharmacokinetic sampling for Period 
+II. Both periods of the bioequivalence studies should be completed within one treatment 
+cycle of Altretamine Capsules. 
+
+
+
+
+ 
+
+3) Blood samples should be collected on the last three days (day 3, 4 and 5) of dosing in 
+each period to ensure that steady-state blood plasma/serum levels are achieved. 
+Attainment of steady state can be verified by regression analysis. The pre-dose blood 
+sampling must include at least three successive trough level samples (Cmin). 
+
+
+
+
+ 
+
+4) Applicants may consider using a reference-scaled average bioequivalence approach for 
+this highly variable drug substance/product. Please provide evidence of high variability in 
+the bioequivalence parameters, AUC and/or Cmax (i.e., within-subject variability =30%) 
+when using this approach. For general information on this approach, please refer to 
+
+
+
+
+
+Haidar et al., Bioequivalence Approaches for Highly Variable Drugs and Drug Products, 
+Pharm. Res. 25:237-241(2008). To avoid variability from different treatment cycles, all 
+the periods of the bioequivalence studies should be conducted within the same treatment 
+cycle. 
+
+
+
+
+ 
+
+5) After the study is completed, patients should be continued on their current dose of 
+Altretamine. 
+
+
+
+
+ 
+
+6) Since patients will be receiving different dosing regimens, dose should be included in the 
+statistical model. Correction for differing dosing regimens by dose-normalization is not 
+recommended. 
+
+
+
+
+ 
+
+7) If it becomes necessary to adjust a patient’s dosing regimen, then that patient must be 
+dropped from the bioequivalence study. 
+
+
+
+
+________________________________________________________________________ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Altretamine and its metabolites 
+pentamethylmelamine and tetramethylmelamine in plasma 
+
+ 
+
+Bioequivalence based on (90% CI): Altretamine 
+
+ 
+
+Please submit the metabolites data as supportive evidence of comparable therapeutic outcome. 
+For the metabolites, pentamethylmelamine and tetramethylmelamine, the following data should 
+be submitted: individual and mean concentrations, individual and mean pharmacokinetic 
+parameters, and geometric means and ratios of means for AUC and Cmax. 
+
+ 
+
+Waiver request of in-vivo testing: Not Applicable 
+
+ 
+
+Dissolution test method and sampling times: 
+
+ 
+
+Please note that a Dissolution Methods Database is available to the public at the OGD website 
+at http://www.accessdata.fda.gov/scripts/cder/dissolution/index.cfm. Please find the dissolution 
+information for this product at this website. Please conduct comparative dissolution testing on 12 
+dosage units each of all strengths of the test and reference products. Specifications will be 
+determined upon review of the application. 
+
+ 
+
+

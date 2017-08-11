@@ -1,0 +1,89 @@
+ 
+
+Active ingredient: Amlodipine Besylate; Valsartan 
+
+ 
+
+Form/Route: Tablets/Oral 
+
+ 
+
+Recommended studies: 3 studies 
+
+ 
+
+1. Type of study: Fasting 
+
+Design: Single-dose, two-way crossover in-vivo 
+
+Strength: 10 mg (base); 320 mg 
+
+Subjects: Normal healthy males and females, general population 
+
+Additional Comments: Females should not be pregnant, and if applicable, should practice 
+abstention or contraception during the study. 
+
+As an option, due to the relatively long half-life of amlodipine, you may wish to conduct this 
+study using a single dose, two-way parallel design. As an additional option for either the 
+crossover or parallel design, you may wish to truncate the AUC at 72 hours. 
+
+____________________________________________________________________ 
+
+
+2. Type of study: Fed 
+
+Design: Single-dose, two-way crossover in-vivo 
+
+Strength: 10 mg (base); 320 mg 
+
+Subjects: Normal healthy males and females, general population 
+
+Additional Comments: Please see comment above. 
+
+____________________________________________________________________ 
+
+
+3. Type of study: Fasting 
+
+Design: Single-dose, two-way crossover in-vivo 
+
+Strength: 10 mg (base); 160 mg 
+
+Subjects: Normal healthy males and females, general population 
+
+Additional Comments: Please see comment above. 
+
+
+
+
+_____________________________________________________________________________ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Amlodipine and valsartan in plasma. 
+
+ 
+
+Bioequivalence based on (90% CI): Amlodipine and valsartan 
+
+ 
+
+Waiver request of in-vivo testing: 5 mg (base);160 mg and 5 mg (base);320 mg based on (i) acceptable 
+bioequivalence studies on the 10 mg (base);160 mg and 10 mg (base);320 mg strengths, (ii) acceptable 
+dissolution testing across all strengths, and (iii) proportional similarity in the formulations across all 
+strengths. 
+
+ 
+
+Dissolution test method and sampling times: 
+
+ 
+
+Please note that a Dissolution Methods Database is available to the public at the OGD website at 
+http://www.fda.gov/cder/ogd/index.htm. Please find the dissolution information for this product at this 
+website. Please conduct comparative dissolution testing on 12 dosage units each of all strengths of the test 
+and reference products. Specifications will be determined upon review of the application. 
+
+ 
+
+

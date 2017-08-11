@@ -1,0 +1,83 @@
+ 
+
+Active ingredient: Amlodipine Besylate; Atorvastatin Calcium 
+
+ 
+
+Form/Route: Tablets/Oral 
+
+ 
+
+Recommended studies: 2 studies 
+
+ 
+
+1. Type of study: Fasting 
+Design: Single-dose, two-way, crossover in-vivo 
+
+Strength: Eq 10 mg base; Eq 80 mg base 
+
+Subjects: Healthy males and nonpregnant females, general population. 
+
+Additional Comments: Applicants may consider using a reference-scaled average bioequivalence 
+approach for this drug product. If using this approach, the applicant should provide evidence of high 
+variability in the bioequivalence parameters AUC and/or Cmax (i.e., within-subject variability > 
+30%). For general information on this approach, please refer to Haidar et al., Bioequivalence 
+Approaches for Highly Variable Drugs and Drug Products, Pharm. Res. 25:237-241(2008). 
+
+
+
+
+______________________________________________________________________________ 
+
+ 
+
+2. Type of study: Fed 
+Design: Single-dose, two-way, crossover in-vivo 
+
+Strength: Eq 10 mg base; Eq 80 mg base 
+
+Subjects: Healthy males and nonpregnant females, general population. 
+
+Additional comments: Please see comment above. 
+
+
+
+
+_____________________________________________________________________________ 
+
+ 
+
+Analytes to measure: Amlodipine and atorvastatin in plasma 
+
+ 
+
+Bioequivalence based on (90% CI): Amlodipine and atorvastatin. 
+
+ 
+
+The active ortho- and para-hydroxylated metabolites of atorvastatin in plasma should be measured. 
+
+Please submit the metabolite data as supportive evidence of comparable therapeutic outcome. For the 
+metabolites, the following data should be submitted: individual and mean concentrations, individual and mean 
+pharmacokinetic parameters, and geometric means and ratios of means for AUC and Cmax. 
+
+ 
+
+Waiver request of in-vivo testing: 2.5 mg/10 mg, 2.5 mg/20 mg, 2.5 mg/40 mg, 5 mg/10 mg, 5 mg/20 mg, 5 
+mg/40 mg, 5 mg/80 mg, 10 mg/10 mg, 10 mg/20 mg and 10 mg/40 mg based on (i) acceptable bioequivalence 
+studies on the Eq 10 mg base; Eq 80 mg base strength, (ii) acceptable dissolution testing across all strengths, 
+and (iii) proportional similarity in the formulations across all strengths. 
+
+ 
+
+Dissolution test method and sampling times: 
+
+ 
+
+Please note that a Dissolution Methods Database is available to the public at the OGD website at 
+http://www.fda.gov/cder/ogd/index.htm. Please find the dissolution information for this product at this 
+website. Please conduct comparative dissolution testing on 12 dosage units each of all strengths of the test and 
+reference products. Specifications will be determined upon review of the application. 
+
+

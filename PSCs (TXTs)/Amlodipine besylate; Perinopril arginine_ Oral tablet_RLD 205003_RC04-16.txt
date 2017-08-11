@@ -1,0 +1,66 @@
+ 
+
+Active Ingredient: Amlodipine besylate; Perindopril arginine 
+
+ 
+
+Dosage Form; Route: Tablet; oral 
+
+ 
+
+Recommended Studies: Two studies 
+
+ 
+
+1. Type of study: Fasting 
+
+
+Design: Single-dose, two-way crossover in vivo 
+
+Strength: EQ 10mg base/ 14 mg 
+
+Subjects: Healthy males and females (non-pregnant), general population. 
+
+Additional comments: See additional warnings and precautions in the approved drug 
+label 
+
+__________________________________________________________________________ 
+
+2. Type of study: Fed 
+
+
+Design: Single-dose, two-way crossover in vivo 
+
+Strength: EQ10 mg base/ 14 mg 
+
+Subjects: Healthy males and females (non-pregnant), general population 
+
+Additional comments: See comments above 
+
+______________________________________________________________________________ 
+
+Analytes to measure (in appropriate biological fluid): Amlodipine, perindopril, and the active 
+metabolite perindoprilat in plasma 
+
+Bioequivalence based on (90% CI): amlodipine and perindopril 
+
+Please submit the metabolite data (perindoprilat) as supportive evidence of comparable 
+therapeutic outcome. For the metabolite, the following data should be submitted: individual and 
+mean concentrations, individual and mean pharmacokinetic parameters, and geometric means 
+and ratios of means for AUC and Cmax. 
+
+Waiver request of in vivo testing: EQ 5 mg base/7 mg and EQ 2.5 mg base/3.5 mg based on (i) 
+acceptable bioequivalence studies on the EQ 10 mg base/14 mg strength, (ii) acceptable in vitro 
+dissolution testing of all strengths, and (iii) proportional similarity of the formulations across all 
+strengths. 
+
+Dissolution test method and sampling times: The dissolution information for this drug 
+product can be found on the FDA-Recommended Dissolution Methods Web site, available to the 
+public at the following location: http://www.accessdata.fda.gov/scripts/cder/dissolution/. 
+Conduct comparative dissolution testing on 12 dosage units each of all strengths of the test and 
+
+
+reference products. Specifications will be determined upon review of the abbreviated new drug 
+application (ANDA). 
+
+

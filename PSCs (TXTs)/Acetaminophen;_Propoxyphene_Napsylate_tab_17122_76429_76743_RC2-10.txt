@@ -1,0 +1,85 @@
+ 
+
+Active ingredient: Acetaminophen; Propoxyphene Napsylate 
+
+ 
+
+Form/Route: Tablets/Oral 
+
+ 
+
+Recommended studies: 2 studies 
+
+ 
+
+1. Type of study: Fasting 
+
+Design: Single-dose, two-way crossover in-vivo 
+
+Strength: 650 mg/100 mg 
+
+Subjects: Healthy males and nonpregnant females, general population. 
+
+Additional Comments: 
+
+
+
+
+ 
+
+2. Type of study: Fed 
+
+Design: Single-dose, two-way crossover in-vivo 
+
+Strength: 650 mg/100 mg 
+
+Subjects: Healthy males and nonpregnant females, general population. 
+
+Additional Comments: 
+
+
+
+
+ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Acetaminophen and propoxyphene Napsylate in 
+plasma. 
+
+ 
+
+Bioequivalence based on (90% CI): Acetaminophen and propoxyphene napsylate 
+
+ 
+
+Waiver request of in-vivo testing: 325 mg/50 mg, 325 mg/100 mg, and 500 mg/100 mg based on (i) 
+acceptable bioequivalence studies on the 650 mg/100 mg strength, (ii) acceptable dissolution testing of all 
+strengths, and (iii) proportional similarity in the formulations across all strengths. 
+
+ 
+
+Additional Comments: Since Acetaminophen and Propoxyphene Napsylate Tablets, 325 mg/50 mg and 650 
+mg/100 mg; 325 mg/100 mg; and 500 mg/100 mg are the subject of three separate applications, three 
+separate Abbreviated New Drug Applications (ANDAs) must be submitted. A waiver of in vivo 
+bioequivalence testing of the 325 mg/100 mg and the 500 mg/100 mg strengths may be requested if the 
+criteria are met. The in vivo bioequivalence studies conducted on 650 mg/100 mg should be cross-
+referenced, along with the in-vivo waiver request. Refer to the Guidance for Industry, Variations in Drug 
+Products that May Be Included in a Single ANDA located at: 
+http://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/ 
+
+Guidances/ucm072892.pdf. 
+
+ 
+
+Dissolution test method and sampling times: 
+
+ 
+
+Please note that a Dissolution Methods Database is available to the public at the OGD website at 
+http://www.accessdata.fda.gov/scripts/cder/dissolution/. Please find the dissolution information for this 
+product at this website. Please conduct comparative dissolution testing on 12 dosage units each of all 
+strengths of the test and reference products. Specifications will be determined upon review of the 
+application. 
+
+

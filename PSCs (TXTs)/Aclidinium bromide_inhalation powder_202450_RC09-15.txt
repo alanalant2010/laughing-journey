@@ -1,0 +1,806 @@
+ 
+
+ 
+
+Active Ingredient: Aclidinium bromide 
+
+ 
+
+Dosage Form; Route: Powder, metered; inhalation 
+
+ 
+
+Recommended Studies: In vitro and in vivo studies 
+
+ 
+
+The Agency recommends the following in vitro and in vivo studies to establish bioequivalence (BE) of 
+the test (T) and reference (R) dry powder inhalers (DPIs) containing aclidinium bromide 
+
+______________________________________________________________________________ 
+
+ 
+
+In Vitro Studies 
+
+ 
+
+The Agency recommends that applicants conduct the following in vitro studies for the T and R products. 
+These in vitro studies should be conducted using at least three batches each of T and R products, with no 
+fewer than 10 units from each batch. 
+
+ 
+
+1. Type of study: Single actuation content (SAC) 
+
+
+Design: The SAC test should be performed at the beginning (B), middle (M), and end (E) 
+lifestages1 of the product using flow rates of at 31.5 L/min, 63.0 L/min, and 94.5 L/min. The 
+U.S. Pharmacopeia (USP) <601> Apparatus B or another appropriate apparatus may be used to 
+determine the SAC using a validated assay. The number of actuations per determination should 
+be one. The volume of air drawn through the delivery system should be 2 L. 
+
+1 Based on the labeled number of actuations, the terms B lifestage, M lifestage, and E lifestage represent the first 
+actuation(s), the actuation(s) corresponding to 50 percent of the labeled number of actuations, and the actuation(s) 
+corresponding to the labeled number of actuations, respectively. 
+
+2 http://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM319977.pdf 
+
+ 
+
+Equivalence based on: Population bioequivalence (PBE) analysis of SAC. The draft 
+budesonide inhalation suspension BE guidance provides additional information regarding PBE.2 
+
+ 
+
+2. Type of study: Aerodynamic particle size distribution (APSD) 
+
+
+Design: The APSD test should be performed at the B and E lifestages of the product using flow 
+rates of 28.3 L/min or at 31.5 L/min, 63.0 L/min, and 94.5 L/min. The USP <601> Apparatus 3, 
+Apparatus 5, or another appropriate method may be used to determine APSD using a validated 
+assay. The APSD determination of each unit should be performed with a minimum number of 
+inhalations justified by the sensitivity of the validated assay. The volume of air drawn through 
+the delivery system should be 4 L. 
+
+ 
+
+Additional comments: 
+
+Drug deposition on individual sites, including the mouthpiece adapter, the induction port, the pre-
+separator, and each stage of the cascade impactor (CI) and the filter, is requested. Mass balance 
+
+
+accountability should be reported based on the sum of all deposition sites. For electronic 
+submission of the individual CI data for the T and R products, provide a table using the format in 
+the appendix, and send them as part of the abbreviated new drug application (ANDA) submission 
+for BE evaluation. 
+
+ 
+
+Equivalence based on: PBE analysis of impactor-sized mass (ISM).3 The CI profiles 
+representing drug deposition on the individual stages of the CI along with the mass median 
+aerodynamic diameter (MMAD), geometric standard deviation (GSD), and fine particle mass 
+(FPM) should be submitted as supportive evidence for equivalent APSD. 
+
+3 ISM is defined as the sum of the drug mass on all stages of the CI plus the terminal filter, but excluding the top CI stage because of its lack of a 
+specified upper cutoff size limit. 
+
+______________________________________________________________________________ 
+
+ 
+
+Pharmacokinetic (PK) BE Study 
+
+ 
+
+The Agency recommends that applicants conduct the following PK BE study for the T and R products. 
+
+ 
+
+3. Type of Study: Fasting 
+
+
+Design: Single-dose, two-way crossover 
+
+Dose: Minimum number of inhalations that is sufficient to characterize a PK profile by using a 
+sensitive analytical method 
+
+Subjects: Normal healthy adult males and nonpregnant females, general population 
+
+Additional comments: The healthy subjects enrolled for in vivo studies should be trained in the 
+use of the inhalation aerosols in a standard fashion prior to each treatment session to ensure a 
+relatively consistent inspiratory flow rate and inspiratory duration 
+
+ 
+
+Analyte(s) to measure (in appropriate biological fluid): Aclidinium in plasma 
+
+ 
+
+Equivalence based on: AUC and Cmax for aclidinium. The 90% confidence intervals (CIs) for 
+the geometric mean T/R ratios of AUC and Cmax should fall within the limits of 80.00-125.00%. 
+
+________________________________________________________________________ 
+
+Clinical pharmacodynamic (PD) study 
+
+ 
+
+Type of study: BE study 
+
+ 
+
+Design: This study could be either of crossover or parallel-group design, taking into consideration the 
+patient population and the current standard-of-care treatment for chronic obstructive pulmonary disease 
+(COPD), and should include appropriate justification for the design chosen. The study should be 
+randomized, single-dose, and placebo-controlled, at minimum consisting of a run-in period (to allow for 
+wash-out of anticholinergic agents, as well as chronic long-acting beta-agonists and chronic inhaled 
+corticosteroids), followed by a one-day treatment period of the placebo, T, or R product. 
+
+ 
+
+Strength: 375 mcg aclidinium bromide (metering 400 mcg aclidinium bromide per inhalation) 
+
+ 
+
+Dose: 375 mcg, single dose (i.e., one inhalation from 375 mcg aclidinium bromide metered powder for 
+inhalation, metering 400 mcg aclidinium bromide per inhalation) 
+
+ 
+
+Subjects: Males and nonpregnant females with COPD. The study may enroll all COPD patients who 
+meet inclusion and exclusion criteria, or may be enriched with patients who demonstrate >15% 
+
+
+reversibility to bronchodilator therapy (appropriate justification should be included for the population 
+chosen for study) 
+
+ 
+
+Additional comments: 
+
+ 
+
+1. Inclusion criteria should, at a minimum, include: 
+a. Adult (>40-year-old) male or female subjects of non-childbearing potential or of childbearing 
+potential but committed to consistent use of an acceptable method of birth control 
+b. Diagnosis of COPD, as defined by American Thoracic Society (ATS) or Global Initiative for 
+Chronic Obstructive Lung Disease (GOLD) criteria 
+c. Current or former smoker (e.g., with history of >10 pack-years) 
+d. Post-bronchodilator FEV1<80% of predicted 
+e. Post-bronchodilator FEV1/FVC ratio =0.70 
+
+
+ 
+
+2. Exclusion criteria should, at a minimum, include: 
+a. Known respiratory disorder other than COPD, including but not limited to the following: alpha-
+1-antitrypsin deficiency, cystic fibrosis, significant asthma, active bronchiectasis, sarcoidosis, 
+lung fibrosis, pulmonary hypertension, or interstitial lung disease 
+b. Evidence or history of other clinically significant disease or abnormality (such as congestive heart 
+failure, uncontrolled hypertension, uncontrolled coronary artery disease, myocardial infarction, 
+stroke, glaucoma, or cardiac dysrhythmia) which, in the opinion of the investigator, would put the 
+patient at risk through study participation, or would affect the study analyses if the disease 
+exacerbated during the study 
+c. Known active tuberculosis 
+d. History of narrow-angle glaucoma, prostatic hypertrophy, or bladder neck obstruction, which, in 
+the investigator’s opinion, would contraindicate the use of an anticholinergic agent 
+e. History of allergy or hypersensitivity to anticholinergic/muscarinic receptor antagonist agent, 
+beta-2 agonists, or specific intolerance to aclidinium bromide-containing products, or known 
+hypersensitivity to any of the proposed ingredients 
+f. Hospitalization for COPD or pneumonia within 12 weeks prior to study 
+g. Treatment for COPD exacerbation within 12 weeks prior to study 
+h. Acute (viral or bacterial) upper or lower respiratory tract infection or illness within 6 weeks prior 
+to study 
+i. Lung volume reduction surgery within the previous 12 months 
+j. Chronic oxygen use for >12 hours/day 
+
+
+ 
+
+3. A clear list of permitted and restricted medications should be provided, including justification for use 
+(or restriction) of certain classes of respiratory therapies, that considers the current standard of care 
+for COPD. 
+4. All spirometry should be conducted in accordance with ATS standards. 
+5. The protocol should list appropriate withholding times prior to spirometry for permitted concomitant 
+medications (e.g., 4 hours for short-acting beta-agonists, 12 or 24 hours for long-acting beta-
+agonists). 
+6. The study should begin with a placebo run-in period (at least 2 weeks in duration) to wash out any 
+pre-study long-acting anti-cholinergic agents, corticosteroids, and long-acting bronchodilators. 
+7. To ensure adequate study sensitivity, the T and R products should both be statistically superior to 
+placebo (p<0.05) with regard to the BE study primary endpoints. 
+8. It is the sponsor’s responsibility to enroll a sufficient number of subjects for the study to demonstrate 
+BE of the T to the R product. 
+
+
+
+9. All adverse events (AEs) should be reported, whether or not they are considered to be related to the 
+treatment. The report of an AE should include date of onset, description of AE, severity, relation to 
+study medication, action taken, outcome, and date of resolution. 
+10. Appropriate pre-defined withdrawal criteria should be described for patients who may require 
+withdrawal during washout period due to COPD exacerbation or inability to tolerate withdrawal of 
+baseline therapy. 
+11. The study protocol should include pre-specified definitions of COPD exacerbation, as well as pre-
+specified and appropriate escape criteria with consideration to patient safety. 
+
+
+ 
+
+ 
+
+ 
+
+BE study primary endpoint: Area under the serial FEV1-time curve calculated from time zero to 6 
+hours (AUC0-6h) following the treatment. 
+
+ 
+
+The above BE study endpoint should be baseline-adjusted (change from baseline). FEV1 measurements 
+should be performed and interpreted in accordance with ATS guidelines. 
+
+ 
+
+Serial spirometry (FEV1) should be measured at 0, 10, 15, 30, 60, 90, and 120 minutes, and 3, 4, 5, and 6 
+hours post-dose. 
+
+ 
+
+For each treatment group, time to peak bronchodilator response (Tmax) and FEV1 values at all 
+measurement times within each evaluation period should be included in the final study report. 
+
+ 
+
+Equivalence based on: T/R ratio for the primary endpoint. The 90% CI for the T/R ratio for the BE 
+study endpoint should fall within 80.00-125.00%. 
+
+ 
+
+______________________________________________________________________________ 
+
+ 
+
+Additional information 
+
+ 
+
+Formulation 
+
+ 
+
+The Agency recommends that the T product be qualitatively (Q1)4 and quantitatively (Q2)5 the same 
+as the R product. 
+
+4 Q1 (qualitative sameness) means that the test product uses the same inactive ingredient(s) as the reference product. 
+
+5 Q2 (quantitative sameness) means that concentrations of the inactive ingredient(s) used in the test product are 
+within ±5% of those used in the reference product. 
+
+ 
+
+If a sponsor uses a Q2-different formulation for its T product, the sponsor should explain the 
+reason(s) for not using a T formulation that is Q2 the same as the R formulation. In addition, the 
+sponsor should provide pharmaceutical development data, involving in vitro testing of multiple drug-
+to-excipient ratios that encompass combinations below and above the ratios used in the T and R 
+products. 
+
+ 
+
+Device 
+
+ 
+
+Sponsors are encouraged to submit a working model and engineering drawings to the Office of 
+Generic Drugs (OGD) prior to the abbreviated new drug application (ANDA) submission. 
+
+ 
+
+ 
+
+
+The Agency recommends that the T product have the following characteristics: 
+
+• Passive (breath-actuated) device 
+• Device-metered multi-dose format 
+• Same number of doses as the R product 
+• Similar external operating procedures as the R product 
+• Similar size and shape to the R product 
+• Comparable device resistance to the R product 
+• Dose indicator/counter 
+• Similar patient feedback mechanism to the R product 
+
+
+ 
+
+In addition, the robustness of the T product should be demonstrated. 
+
+ 
+
+ 
+
+
+APPENDIX 
+
+ 
+
+ 
+
+Variable Name 
+
+Variable Type 
+
+Content 
+
+Notes 
+
+Product Name 
+
+Character 
+
+TEST or REF 
+
+Identifier for 
+product 
+
+LOT Number 
+
+Alphanumeric/Numeric 
+
+Alphanumeric/Numeric 
+
+Identifier for 
+product lot 
+
+UNIT Number 
+
+Numeric 
+
+Numeric values 
+
+Identifier for unit 
+must be unique 
+for each product 
+(e.g. #1-30 for 
+test and #31-60 
+for ref). 
+
+Stage 1 
+
+Numeric 
+
+Numeric Values 
+
+S1 
+
+Stage 2 
+
+Numeric 
+
+Numeric Values 
+
+S2 
+
+Stage 3 
+
+Numeric 
+
+Numeric Values 
+
+S3 
+
+Stage 4 
+
+Numeric 
+
+Numeric Values 
+
+S4 
+
+Stage 5 
+
+Numeric 
+
+Numeric Values 
+
+S5 
+
+Stage 6 
+
+Numeric 
+
+Numeric Values 
+
+S6 
+
+Stage 7 
+
+Numeric 
+
+Numeric Values 
+
+S7 
+
+Stage 8 or Filter 
+
+Numeric 
+
+Numeric Values 
+
+S8 
+
+ISM 
+
+Numeric 
+
+Numeric Values 
+
+ISM 
+
+MMAD 
+
+Numeric 
+
+Numeric Values 
+
+MMAD 
+
+GSD 
+
+Numeric 
+
+Numeric Values 
+
+GSD 
+
+FPM 
+
+Numeric 
+
+Numeric Values 
+
+FRM 
+
+
+
+ 
+
+Example 
+
+ 
+
+PRODUCT 
+
+LOT 
+
+Unit 
+
+S1 
+
+S2 
+
+S3 
+
+S4 
+
+S5 
+
+S6 
+
+S7 
+
+S8 or 
+Filter 
+
+ISM 
+
+MMAD 
+
+GSD 
+
+FPM 
+
+TEST 
+
+1234 
+
+1 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+9 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+10 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+

@@ -1,0 +1,91 @@
+Contains Nonbinding Recommendations 
+
+Draft Guidance on Amantadine Hydrochloride 
+
+This draft guidance, once finalized, will represent the Food and Drug Administration's (FDA's) 
+current thinking on this topic. It does not create or confer any rights for or on any person and does 
+not operate to bind FDA or the public. You can use an alternative approach if the approach satisfies 
+the requirements of the applicable statutes and regulations. If you want to discuss an alternative 
+approach, contact the Office of Generic Drugs. 
+
+Active ingredient: Amantadine Hydrochloride 
+
+Form/Route: Tablet/Oral 
+
+Recommended studies: 2 studies 
+
+1. Type of study: Fasting 
+Design: Single-dose, two-way crossover in-vivo 
+Strength: 100 mg 
+Subjects: Healthy males and nonpregnant females, general population 
+Additional Comments: 
+2. Type of study: Fed 
+Design: Single-dose, two-way crossover in-vivo 
+Strength: 100 mg 
+Subjects: Healthy males and nonpregnant females, general population 
+Additional Comments: See attachment for recommendations regarding fed studies 
+
+
+Analytes to measure (in appropriate biological fluid): Amantadine in plasma 
+
+Bioequivalence based on (90% CI): Amantadine 
+
+Dissolution test method and sampling times: 
+
+Please note that a Dissolution Methods Database is available to the public at the OGD 
+website at http://www.accessdata.fda.gov/scripts/cder/dissolution/. Please find the 
+dissolution information for this product at this website. Please conduct comparative 
+dissolution testing on 12 dosage units each of the test and reference products. 
+Specifications will be determined upon review of the application. 
+
+Recommended Nov 2010, Revised Jan 2011 
+
+
+Attachment: 
+
+Co-administration of food with oral drug products can influence bioequivalence (BE). 
+Therefore, fed BE studies can determine whether test and RLD products are 
+bioequivalent when co-administered with meals. We usually recommend a single-dose, 
+two-period, two-treatment, two-sequence, crossover study for fed BE studies. 
+
+When a fasting in vivo BE study is indicated for an orally administered, immediate 
+release product, we also recommend that applicants conduct a fed study, except as 
+follows: 
+
+• When both test product and RLD are rapidly dissolving, have similar dissolution 
+profiles, and contain a drug substance with high solubility and high permeability 
+(BCS Class I) 
+• When the dosage and administration section of the RLD labeling states that the 
+product should be taken only on an empty stomach (e.g., the labeling states that 
+the product should be administered one hour before or two hours after a meal). 
+
+
+For orally administered, immediate release products labeled to be taken only with food, 
+fasting and fed studies are recommended, except when serious adverse events are 
+anticipated with fasting administration. In these cases, we recommend that applicants 
+conduct only a fed study; a fasting study is not recommended. 
+
+For all orally administered, modified release drug products, we recommend that 
+applicants conduct a fed BE study in addition to a fasting BE study. These studies are 
+usually conducted on the highest strength of the drug product, unless safety 
+considerations preclude the use of that dose in study subjects. 
+
+Test Meal Composition: 
+
+We recommend that applicants conduct fed BE studies using meals that provide the 
+greatest effects on GI physiology and systemic drug availability. We recommend a high-
+fat (approximately 50 percent of total caloric content of the meal), high-calorie 
+(approximately 800 to 1000 calories) test meal for fed BE studies. This test meal should 
+derive approximately 150, 250, and 500-600 calories from protein, carbohydrate, and fat, 
+respectively. The caloric breakdown of the test meal should be provided in the study 
+report. 
+
+An example test meal would be: two eggs fried in butter, two strips of bacon, two slices 
+of toast with butter, four ounces of hash brown potatoes and eight ounces of whole milk. 
+Substitutions in this test meal (e.g., beef instead of bacon) can be made as long as the 
+meal provides a similar amount of calories from protein, carbohydrate, and fat and has 
+comparable meal volume, density, and viscosity. 
+
+Recommended Nov 2010, Revised Jan 2011 
+
+

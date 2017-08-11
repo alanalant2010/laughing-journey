@@ -1,0 +1,83 @@
+
+
+Active Ingredient: Acetylcysteine 
+
+
+
+Dosage Form; Route: Effervescent tablets; oral 
+
+
+
+Recommended Studies: Two options: in vitro or in vivo studies 
+
+
+
+I. In Vitro Disintegration Testing 
+
+
+
+
+To qualify for a waiver of the in vivo bioequivalence study requirement under 21 CFR 
+§320.22(b)(3), applicants should demonstrate that generic versions of AcetylcysteineEffervescent Tablets are fully dissolved in 200 mL of purified water at the time of administration 
+with six dosage units each of all strengths of the test and reference products by in vitro 
+disintegration testing. Specifications will be determined upon review of the abbreviated new 
+drug application (ANDA). The generic drug product should also contain the same active drug 
+ingredient in the same concentration and dosage form as the Reference Listed Drug (RLD) and 
+should not contain any excipients that may significantly affect drug absorption and systemic 
+availability. 
+
+______________________________________________________________________________ 
+
+
+
+II.In Vivo Studies
+
+
+
+
+1.Type of study: Fasting
+
+
+Design: Single-dose, two-way crossover in-vivo
+
+Strength: 2500 mg at a dose of 5000 mg (2500 mg x 2) in 300 mL water
+
+Subjects: Healthy males and non-pregnant, non-lactating females, general population.
+
+Additional Comments: None
+
+
+
+2.Type of study: Fed
+
+
+Design: Single-dose, two-way crossover in-vivo
+
+Strength: 2500 mg at a dose of 5000 mg (2500 mg x 2) in 300 mL water
+
+Subjects: Healthy males and non-pregnant, non-lactating females, general population.
+
+Additional Comments: None
+
+________________________________________________________________________ 
+
+
+
+Analytes to measure (in appropriate biological fluid): Acetylcysteine in plasma 
+
+
+
+Bioequivalence based on (90% CI): Acetylcysteine 
+
+
+
+
+Waiver request of in-vivo testing: 500 mg based on (i) acceptable bioequivalence studies on 
+the 2500 mg strength, (ii) acceptable in vitro disintegration testing of all strengths, and (iii) 
+proportional similarity of the formulations across all strengths. 
+
+
+
+
+
+

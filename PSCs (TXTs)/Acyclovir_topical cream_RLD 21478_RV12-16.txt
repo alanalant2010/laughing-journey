@@ -1,0 +1,1255 @@
+This draft guidance, when finalized, will represent the current thinking of the Food and Drug 
+Administration (FDA, or the Agency) on this topic. It does not establish any rights for any person 
+and is not binding on FDA or the public. You can use an alternative approach if it satisfies the 
+requirements of the applicable statutes and regulations. To discuss an alternative approach, contact 
+the Office of Generic Drugs. 
+
+ 
+
+Active Ingredient: Acyclovir 
+
+ 
+
+Dosage Form; Route: Cream; topical 
+
+ 
+
+Recommended Studies: Two options: in vitro or in vivo study 
+
+ 
+
+I. In vitro option: 
+
+
+To qualify for the in vitro option for this drug product the following criteria should be met: 
+
+A. The test and Reference Listed Drug (RLD) products are qualitatively (Q1) and 
+quantitatively (Q2) the same as defined in the Guidance for Industry ANDA Submissions 
+– Refuse-to-Receive Standards, Revision 1 (May 2015).1 
+B. The test and RLD products are physically and structurally similar based upon an 
+acceptable comparative physicochemical characterization of a minimum of three lots of 
+the test and three lots (as available) of the RLD product. 
+C. The test and RLD products have an equivalent rate of acyclovir release based upon an 
+acceptable in vitro release test (IVRT) comparing a minimum of one lot each of the test 
+and RLD products using an appropriately validated IVRT method. 
+D. The test and RLD products are bioequivalent based upon an acceptable in vitro 
+permeation test (IVPT) comparing the rate and extent of acyclovir permeation through 
+excised human skin from a minimum of one lot each of the test and RLD products using 
+an appropriately validated IVPT method. 
+
+
+1 Guidance for Industry ANDA Submissions – Refuse-to-Receive Standards, Revision 1 (May 2015) 
+
+ 
+
+Additional comments: Specific recommendations are provided below. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+II. In vivo option: 
+
+
+Type of study: BE study with a clinical endpoint 
+
+Design: Randomized, double blind, parallel, three-arm, placebo-controlled, in vivo study 
+
+Strength: 5% 
+
+Subjects: Healthy, immunocompetent adult males and non-pregnant, non-lactating females with 
+recurrent herpes labialis (cold sores) 
+
+Additional comments: Specific recommendations are provided below. Due to the modest 
+efficacy demonstrated by the RLD, it is anticipated that a relatively large number of subjects 
+would need to be enrolled. 
+
+ 
+
+Analytes to measure: Acyclovir (in vitro option only; see additional comments) 
+
+Bioequivalence based on (90% CI): See additional comments for the in vitro or in vivo option 
+
+Dissolution test method and sampling times: N/A 
+
+______________________________________________________________________________ 
+
+I. Additional comments relating to the in vitro option 
+A. Q1/Q2 Comparison 
+
+
+1. The test product should be pharmaceutically equivalent to the RLD product as defined in the 
+Agency publication Approved Drug Products with Therapeutic Equivalence Evaluations 
+(commonly known as the Orange Book). 
+
+2. To demonstrate acceptable Q1 and Q2 sameness of the test product with respect to the RLD 
+product, the test product should contain the same inactive ingredients in the same quantitative 
+composition (±5% of the RLD concentration of that inactive ingredient), and no 
+concentration of any inactive ingredient should exceed the allowed limit listed in the inactive 
+ingredient database for the applicable route of administration. 
+
+B. Physical and Structural Comparison 
+1. The Office of Generic Drugs (OGD) recommends that the lots of test and RLD products 
+evaluated in the IVRT study should be the same as those evaluated in the IVPT study, and 
+that these lots should be included among those for which the physical and structural 
+similarity is characterized and compared. The influence of any differences in the container 
+closure systems between the test and RLD products, which may influence the 
+physicochemical properties of the cream when dispensed, should be considered in the design 
+of the physical and structural characterization studies and discussed in the associated reports. 
+
+
+
+2. Investigators are recommended to perform the physical and structural characterization studies 
+within a quality management system that is compatible with applicable principles of Good 
+Laboratory Practices (GLP) described in 21 CFR 58. Any aspects of the quality management 
+system that are not compatible with these GLP principles, and any aspects of GLP that are 
+not applicable, should be identified in the relevant physical and structural characterization 
+study protocols and final reports. Experimental observations that may have the potential to 
+influence the interpretation of the study results, as well as any protocol deviations, should be 
+reported. 
+3. Comparison of physical and structural similarity for the test and RLD products should 
+include the following physicochemical characterizations for each lot of test and RLD 
+products: 
+a. Assessment of appearance 
+b. Analysis of the acyclovir polymorphic form in the drug product 
+c. Analysis of particle size distribution and crystal habit with representative microscopic 
+images at multiple magnifications. 
+d. Analysis of the rheological behavior which may be characterized using a rheometer that 
+is appropriate for monitoring the non-Newtonian flow behavior of semi-solid dosage 
+forms. The following evaluations are recommended: 
+
+
+
+
+
+• A complete flow curve of shear stress (or viscosity) vs. shear rate should consist of 
+multiple data points across the range of attainable shear rates, until low or high shear 
+plateaus are identified. 
+• Yield stress values should be reported if the material tested exhibits plastic flow 
+behavior. 
+• The linear viscoelastic response (storage and loss modulus vs. frequency) should be 
+measured and reported. 
+e. Analysis of specific gravity, water activity, pH and any other potentially relevant physical 
+and structural similarity characterizations. 
+
+
+
+
+
+C. IVRT Comparison 
+1. The IVRT pivotal study comparing the acyclovir release rates between the test and RLD 
+products should be performed in a manner compatible with the general procedures and 
+statistical analysis method specified in the United States Pharmacopeia (USP) General 
+Chapter <1724>, Semisolid Drug Products – Performance Tests. The cumulative amount of 
+acyclovir released at each sampling time point should be reported for each diffusion cell, as 
+well as relevant summary statistics for the IVRT study. Detailed study protocols and reports 
+should be submitted in module 5.3.1 of the electronic Common Technical Document 
+
+
+
+(Reports of biopharmaceutic studies) including experimental procedures, study controls, 
+quality management procedures, and data analyses. 
+2. Refer to 21 CFR 320.38, 320.63 and the Guidance for Industry, “Handling and Retention of 
+BA and BE Testing Samples”, regarding considerations for retention of study drug samples 
+and to 21 CFR 320.36 for requirements for maintenance of records of BE testing. In addition, 
+investigators are recommended to perform the IVRT validation and pivotal studies within a 
+quality management system that is compatible with applicable principles of GLP described in 
+21 CFR 58. Any aspects of the quality management system that are not compatible with these 
+GLP principles, and any aspects of GLP that are not applicable, should be identified in the 
+relevant IVRT study protocol and final report. Retention samples should be randomly 
+selected from the drug supplies received prior to dispensing during the IVRT study in which 
+the test and RLD products are compared. Experimental observations that may have the 
+potential to influence the interpretation of the study results, as well as any protocol 
+deviations, should be reported. 
+3. A detailed description of the blinding procedure should be provided in the study protocol and 
+final report. The packaging of the test and RLD products should be similar in appearance to 
+maintain adequate blinding of the investigator and any experimental operators. 
+4. In the IVRT pivotal study, the test and RLD products should be dosed in an alternating 
+sequence on successive diffusion cells; it is possible to assign two possible sequences 
+(illustrated below) one of which is randomly selected for dosing: 
+a. ABABAB… 
+b. BABABA… 
+
+
+
+
+
+5. IVRT Method Development: The results of relevant IVRT method development studies 
+should be submitted for review, although such exploratory studies may not be performed 
+using validated test method or sample analytical procedures, or within a quality management 
+system that is compatible with applicable GLP principles: 
+a. Method Parameters: Information should be provided to support the selection of the 
+IVRT apparatus, product dose amount, sampling times, stirring/agitation rate, and other 
+parameters of the test method. 
+b. Membrane: Information on acyclovir membrane binding and chemical compatibility 
+with relevant receptor solutions should be provided to support the inertness of the 
+membrane selected, and information on the linearity and precision of the resulting 
+acyclovir release rate in an IVRT should be provided to support the selection of a 
+membrane for the test method. 
+
+
+
+c. Receptor Solution: Information on the empirical solubility and stability of acyclovir in 
+the receptor solution, as well as information on the linearity and precision of the resulting 
+acyclovir release rate in an IVRT should be provided to support the selection of a 
+receptor solution for the test method. 
+6. IVRT Method Validation: The apparatus, methodologies and study conditions utilized in 
+the IVRT pivotal study should be appropriately validated, qualified, verified and/or justified. 
+Detailed protocols and well-controlled study procedures are recommended to ensure the 
+precise control of dosing, sampling, and other IVRT study variables or potential sources of 
+experimental bias. The validation of the IVRT method should incorporate the following 
+qualifications and controls, performed using validated sample analytical procedures, as 
+applicable: 
+a. IVRT Apparatus Qualification: Suitable apparatus for the IVRT method are described 
+in USP General Chapter <1724>. These include different models of a vertical diffusion 
+cell, an immersion cell, and a flow through cell used with USP Apparatus 4. The 
+operating principles and specific test procedures differ among the various apparatus; 
+relevant procedures for installation, operational and performance qualification available 
+from the manufacturer may be utilized. The laboratory qualification of each diffusion cell 
+should, at minimum, qualify the diffusional area of the orifice in which the membrane is 
+mounted, the volume of the receptor solution compartment in each diffusion cell, the 
+control of a 32°C ± 1°C temperature (at the membrane), and the control of the rate of 
+stirring or agitation, as applicable. 
+b. IVRT Membrane Qualification: Membrane inertness may be evaluated in relation to 
+membrane binding of the acyclovir in the receptor solution (at a concentration relevant to 
+the average concentration of acyclovir in the receptor solution at the end of the test). 
+Determinations may be based upon 3 replicate membrane incubations for the IVRT 
+duration (e.g. 6 hours) at 32°C ± 1°C. Three replicate control incubations may be 
+performed in parallel, without membranes, to monitor for acyclovir loss that is not 
+associated with membrane binding. Aliquots of these solutions may be collected before 
+and after the duration of incubation, to assess any decrease in the amount of acyclovir in 
+solution. The recovery of acyclovir in solution is recommended to be within the range of 
+100% ± 5% at the end of the test duration to qualify the inertness of the membrane. 
+c. IVRT Receptor Solution Qualification: The composition of the receptor solution 
+utilized for the IVRT study should be justified and the minimum solubility of acyclovir in 
+the IVRT receptor solution should be empirically determined in triplicate with acyclovir 
+dissolved to saturation in the receptor solution, to a concentration exceeding the highest 
+sample concentration obtained in the pivotal IVRT study, ideally by an order of 
+magnitude or demonstrably sufficient to facilitate the linearity of the release rate for the 
+duration of the study. 
+
+
+
+d. IVRT Receptor Solution Sampling Qualification: The accuracy and precision of 
+receptor solution sample collection at each time point should be appropriately qualified. 
+e. IVRT Receptor Solution Sample Analytical Method Validation: The receptor sample 
+HPLC analysis procedures should be validated in a manner compatible with the current 
+FDA Guidance for Industry on Bioanalytical Method Validation, and/or the ICH 
+Harmonised Tripartite Guideline on Validation of Analytical Procedures Q2 (R1). The 
+validation of the receptor sample analytical method should include relevant qualifications 
+of dilution integrity as well as stability assessments with the highest relevant temperature 
+in the receptor solution, which may be warmer than 32°C, for the duration of the IVRT 
+study (e.g., 34°C for 6 hours). 
+f. IVRT Environmental Control: Ambient laboratory temperature and humidity during 
+the study should be monitored and reported. An environmentally controlled temperature 
+range of 21°C ± 2°C and a humidity range of 50% ± 20% relative humidity are 
+recommended. 
+g. IVRT Linearity and Range: The linearity (r2 value) of the release rate (slope) may be 
+calculated across the range of the sampling times, which corresponds to the IVRT study 
+duration. Linearity may be compared within and across all IVRT runs, and a minimum r2 
+value = 0.90 across the IVRT study duration (time range) is recommended. 
+h. IVRT Precision and Reproducibility: The intra-run and inter-run precision and 
+reproducibility may be compared for the release rate (slopes) calculated for each 
+diffusion cell. The mean, standard deviation and percent coefficient of variation (%CV) 
+among slopes may be calculated within and across all runs, and a minimum intra-run and 
+inter-run %CV = 15% is recommended. Runs may be organized to facilitate a 
+simultaneous evaluation of intra/inter-instrumentation and/or intra/inter-operator 
+precision and reproducibility. 
+i. IVRT Recovery, Mass Balance & Dose Depletion: The recovery of released acyclovir 
+in the receptor solution may be characterized in each diffusion cell as the accumulated 
+amount of acyclovir in the receptor solution over the IVRT duration. This may be 
+expressed as a percentage of the amount of acyclovir in the applied dose. The average 
+dose depletion may thereby be estimated and should be reported. 
+j. IVRT Discrimination Sensitivity, Specificity and Selectivity: The IVRT method 
+should be able to discriminate acyclovir release rates from similar formulations. This may 
+be evaluated by comparing the release rate from the acyclovir cream 5% with that from 
+two comparable formulations in which the concentration of acyclovir has been altered – 
+one with a higher strength (e.g., 7.5%) and one with a lower strength (e.g., 2.5%). The 
+composition and procedures for preparation of these reference and test formulations 
+should be reported, although these formulations may not be prepared in a manner 
+compatible with current Good Manufacturing Practices. The discrimination ability of the 
+
+
+
+IVRT method may be described using three concepts of discrimination ability: 
+sensitivity, specificity, and selectivity. 
+i. IVRT Sensitivity is the ability to detect changes in the release rate, as a function of 
+acyclovir concentration in the formulation. If the IVRT method consistently identifies 
+higher or lower rates of release for test formulations with increased or decreased 
+acyclovir concentrations, respectively, relative to the reference formulation run in 
+parallel on the same day, the IVRT method may be considered sensitive. 
+
+
+ 
+
+ii. IVRT Specificity is the ability to accurately monitor the proportionality of changes in 
+the release rate as a function of drug concentration in the formulation. This 
+proportionality may be illustrated in a plot of the relationship between the formulation 
+concentration and the average IVRT release rate (slope). Specificity may be 
+quantified and reported as the linearity (ideally a minimum r2 value of = 0.90) of the 
+correlation of formulation concentration to average IVRT release rate (slope). 
+
+
+ 
+
+iii. IVRT Selectivity is the ability of the IVRT method to be sufficiently selective to 
+identify that the different acyclovir release rates from the altered concentration test 
+formulations are in-equivalent with respect the acyclovir release rate from the 
+reference product. To support supplemental selectivity, other test formulation 
+alterations may involve changes in inactive ingredients, changes in inactive ingredient 
+concentration(s), or altered manufacturing processes. Determination of 
+(in)equivalence in release rates may be evaluated using the statistical approach 
+described in USP <1724>. 
+k. IVRT Robustness: The IVRT method may be considered robust to a variation in the test 
+method if the average slope of that IVRT run (under altered conditions) is within ± 15% 
+of the average slope of the Precision & Reproducibility IVRT runs. Robustness testing 
+may encompass variations in the IVRT method that are relevant to the apparatus and test 
+method, for example: 
+i. Temperature variations (e.g. - 1°C and +1°C relative to 32°C ± 1°C) 
+ii. Dose volume variations (e.g. +10% and -10% in the dose volume) 
+iii. Receptor solution variations (e.g. change in composition and/or pH) 
+iv. Mixing rate variation (e.g. differences in stirring speed, or without stirring) 
+
+
+ 
+
+D. IVPT Comparison 
+1. The recommended IVPT pivotal study design is a parallel, single-dose, multiple-replicate per 
+treatment group study comparing the cutaneous pharmacokinetics of acyclovir from the test 
+product versus the RLD using excised human skin with a competent skin barrier mounted on 
+a qualified diffusion cell system. 
+
+
+
+2. The IVPT pivotal study should utilize a balanced design directly comparing the test and RLD 
+products on skin from the same set of donors, each with the same number of replicate skin 
+sections per donor per treatment group (dosed with either test or RLD product). Skin sections 
+(diffusion cells) that are discontinued from the study based upon criteria specified in the 
+study protocol may be replaced with new skin sections from the same donor to ensure that 
+the final data set contains a balanced number of replicate skin sections (diffusion cells) dosed 
+in each treatment group (test or RLD product) across all donors in the study. 
+3. The IVPT pivotal study protocol should incorporate considerations relevant to BE studies in 
+general. Detailed study protocols and reports should be submitted in module 5.3.1 of the 
+electronic Common Technical Document (Reports of biopharmaceutic studies) including 
+experimental procedures, study controls, quality management procedures, and data analyses. 
+4. Refer to 21 CFR 320.38, 320.63 and the Guidance for Industry, “Handling and Retention of 
+BA and BE Testing Samples”, regarding considerations for retention of study drug samples 
+and to 21 CFR 320.36 for requirements for maintenance of records of BE testing. In addition, 
+investigators are recommended to perform the IVPT validation and pivotal studies within a 
+quality management system that is compatible with applicable principles of GLP described in 
+21 CFR 58. Any aspects of the quality management system that are not compatible with these 
+GLP principles, and any aspects of GLP that are not applicable, should be identified in the 
+relevant IVPT study protocol and final report. Retention samples should be randomly 
+selected from the drug supplies received prior to dispensing during the IVPT study in which 
+the test and RLD products are compared. Experimental observations that may have the 
+potential to influence the interpretation of the study results, as well as any protocol 
+deviations, should be reported. 
+5. A detailed description of the blinding procedure should be provided in the study protocol and 
+final report. The packaging of the test and RLD products should be similar in appearance to 
+maintain adequate blinding of the investigator and any experimental operators. The method 
+of randomization should be described in the protocol and the randomization schedule 
+provided, preferably in a SAS data set in .xpt format (created using the SAS XPORT 
+procedure). It is recommended that an independent third party generate and hold the 
+randomization code throughout the conduct of the study in order to minimize bias. The 
+sponsor may generate the randomization code if not involved in the packaging and labeling 
+of the test and RLD products dosed in the study. A sealed copy of the randomization scheme 
+should be retained at the study site and should be available to FDA investigators at the time 
+of site inspection to allow for verification of the treatment identity of each skin section. 
+6. In the IVPT pivotal study, the test and RLD products should be dosed in an alternating 
+sequence on successive diffusion cells (skin sections) from each donor. One of two dosing 
+sequences (illustrated below) may be randomly assigned for each donor: 
+
+
+
+a. ABABAB… 
+b. BABABA… 
+
+
+ 
+
+7. A single, un-occluded dose in the range of 5-15 mg cream/cm2 that is retained on the skin for 
+the duration of the study is recommended. An alternative study design (e.g., where the dose 
+is not retained on the skin for the entire duration of the study) should be appropriately 
+justified with particular consideration for the discrimination sensitivity of the IVPT study. 
+8. It is the responsibility of the applicant to determine the number of donors required to 
+adequately power the IVPT pivotal study, however, a minimum of 4 dosed replicates per 
+donor per treatment group (RLD or test) is recommended. 
+9. IVPT Method Development: The results of relevant method development IVPT studies 
+should be submitted for review, although such exploratory studies may not be performed 
+using validated procedures or sample analytical methods, or within a quality management 
+system that is compatible with applicable GLP principles. 
+a. IVPT Method Development Studies: The selection of the dose amount utilized in the 
+study, even if within the recommended range, should be justified for each IVPT system 
+based upon studies performed during IVPT method development. Different dose amounts 
+may be compared in parallel to evaluate the consistency with which the dose can be 
+applied, the relative precision and magnitude of the flux results, the influence of dose on 
+the time course and pharmacokinetic parameters of the flux profiles, and the approximate 
+range of acyclovir concentrations in receptor solution samples at different time points. 
+
+
+
+
+
+
+
+Studies performed during IVPT method development may also support the selection of an 
+appropriate sampling schedule and duration for the IVPT pivotal study. The study 
+duration should be sufficient to characterize the cutaneous pharmacokinetics of acyclovir, 
+including a sufficiently complete flux profile to identify the maximum (peak) flux and a 
+decline in the flux thereafter across multiple subsequent time points. The sampling 
+frequency should be selected to provide suitable resolution for the flux profile, and a 
+minimum of 8 non-zero sampling time points is recommended across the study duration 
+(e.g. 48 hours). Information should be provided to support the selection of the IVPT 
+apparatus, product dose amount, sampling times, stirring/flow rate, and other parameters 
+of the test method 
+
+10. IVPT Method Validation: The apparatus, methodologies and study conditions utilized in 
+the IVPT pivotal study should be appropriately validated, qualified, verified and/or justified. 
+Detailed protocols and well-controlled study procedures are recommended to ensure the 
+precise control of dosing, sampling, and other IVPT study variables or potential sources of 
+experimental bias. The validation of the IVPT method should incorporate the following 
+qualifications and controls: 
+
+
+
+a. IVPT Apparatus Qualification: Suitable apparatus for the IVPT method include 
+vertical diffusion cells and flow through diffusion cells. The operating principles and 
+specific test procedures differ among the various apparatus; relevant procedures for 
+installation, operational and performance qualification available from the manufacturer 
+may be utilized. The laboratory qualification of each diffusion cell should, at minimum, 
+qualify the diffusional area of the orifice in which the skin is mounted, the volume of the 
+receptor solution compartment in each diffusion cell, the control of a 32°C ± 1°C 
+temperature (at the skin surface), and the control of the rate of stirring or flow rate, as 
+applicable. The test system should control the diffusion cell thermoregulation so that the 
+skin surface temperature is verified to be stable at 32°C ± 1°C for each diffusion cell 
+prior to dosing (e.g., measured by a calibrated infrared thermometer), and monitored 
+periodically throughout the duration of the experiment by measuring the temperature of a 
+non-dosed control diffusion cell that is run in parallel with the other replicate dosed 
+diffusion cells and connected to the same water bath or thermoregulation system. 
+b. IVPT Membrane (Skin) Qualification: Excised human skin is recommended as the 
+membrane for the IVPT study. The validity of each skin section dosed in the study should 
+be qualified using an appropriate test procedure to evaluate the stratum corneum barrier 
+integrity. Acceptable barrier integrity tests may be based upon tritiated water permeation, 
+trans-epidermal water loss (TEWL), or electrical impedance/conductance measured 
+across the skin. The test parameters and acceptance criteria utilized for the skin barrier 
+integrity test should be justified based upon relevant literature references or other 
+information. The skin thickness should be measured and reported for each skin section 
+and should be relatively consistent for all donors whose skin is included in the study, 
+within limits specified in the study protocol. The assignment of replicate skin sections 
+from a donor to each treatment group should be randomized, as feasible. It is acceptable 
+to balance the distribution of skin thicknesses in each treatment group (test or RLD 
+product) by a procedure specified in the study protocol. 
+c. IVPT Receptor Solution Qualification: The composition and pH of the receptor 
+solution utilized for the IVPT study should be qualified in relation to its compatibility 
+with the skin as well as the solubility and stability of acyclovir. The minimum solubility 
+of acyclovir in the IVPT receptor solution should be empirically determined in triplicate 
+with acyclovir dissolved to saturation in the receptor solution, to a concentration 
+exceeding the highest sample concentration in the IVPT pivotal study, ideally by an order 
+of magnitude. Strategies to improve the solubility of acyclovir in the receptor solution 
+that may have the potential to alter the permeability of the skin are not recommended. 
+The inclusion of an anti-microbial agent in the receptor solution (e.g., ~0.1% sodium 
+azide or ~ 0.01% gentamicin sulfate) is recommended to mitigate potential bacterial 
+decomposition of the dermis and/or epidermis in the diffusion cell across the study 
+
+
+
+duration. The stability of acyclovir in the receptor solution samples should be validated as 
+part of the receptor sample analytical method validation. 
+d. IVPT Receptor Solution Sampling Qualification: The accuracy and precision of 
+receptor solution sample collection at each time point should be appropriately qualified. 
+For IVPT studies using a vertical diffusion cell, it is recommended that the entire receptor 
+solution volume be removed and replaced at each time point to provide optimal solubility 
+sink conditions. For IVPT studies using a flow-through diffusion cell, it may be 
+necessary to qualify the lengths of tubing and associated dead volumes, to accurately 
+calculate the lag time before a sample elutes through the tubing and is collected. 
+e. IVPT Receptor Solution Sample Analytical Method Validation: The receptor sample 
+analysis procedures should be validated in a manner compatible with the current FDA 
+Guidance for Industry on Bioanalytical Method Validation. The validation of the receptor 
+sample analytical method should include relevant qualifications of dilution integrity as 
+well as stability assessments with the highest relevant temperature in the receptor 
+solution, which may be warmer than 32°C for the duration of the IVPT study (e.g., 34°C 
+for 48 hours) or for the longest interval between sampling time points for methods in 
+which the entire receptor solution is replaced at each sampling time point. If the samples 
+are processed in specific ways for analysis (e.g., by drying and reconstituting the receptor 
+samples in a smaller volume to concentrate the sample and increase the effective 
+analytical sensitivity, or by dilution of receptor solution samples into the validated curve 
+range of the analytical method) those procedures should be validated (e.g., by qualifying 
+the dilution integrity during the analytical method validation). The stability of acyclovir 
+in the receptor solution sample should be validated in a receptor solution matrix that has 
+been exposed to the underside of the skin in a diffusion cell under conditions relevant to 
+the IVPT pivotal study. 
+f. IVPT Environmental Control: Ambient laboratory temperature and humidity during 
+the study should be monitored and reported. An environmentally controlled temperature 
+range of 21°C ± 2°C and a humidity range of 50% ± 20% relative humidity are 
+recommended. 
+g. IVPT Pilot Study: Following the IVPT method development studies, a pilot IVPT study 
+comparing the test and RLD products is recommended, to estimate the number of donors 
+required for the IVPT pivotal study. A pilot IVPT study performed with multiple skin 
+donors and a minimum of 4 replicate skin sections per donor per treatment group is 
+recommended. As skin from an increasing number of donors is evaluated in the pilot 
+study, the accuracy of the estimated number of donors needed to adequately power the 
+IVPT pivotal study may improve. While skin from the same donors evaluated in the pilot 
+study may also be utilized in the IVPT pivotal study, the results from the pilot study may 
+not be combined with the results from the IVPT pivotal study for the purpose of 
+
+
+
+statistical analysis. In addition to the test and RLD products evaluated in the pilot study, a 
+parallel assessment should be performed with a third product or formulation that is 
+known or designed to be different from the RLD, to validate the selectivity of the IVPT 
+method to discriminate differences in bioavailability. 
+h. IVPT Permeation Profile and Range: The flux profile and cumulative permeation 
+profile of acyclovir across the range of sampling times, which corresponds to the IVPT 
+study duration, should be characterized based upon the results of the pilot IVPT study. 
+The pilot study results should be plotted with error bars, comparing the permeation 
+profiles for the three treatment groups in the pilot study, as separate plots for average flux 
+and average cumulative permeation. The calculation of flux and cumulative total 
+permeation is discussed in more detail below. The results of the pilot study should 
+validate that the study duration (range) is sufficient to characterize the cutaneous 
+pharmacokinetics of acyclovir, including a sufficiently complete flux profile to identify 
+the maximum (peak) flux and a decline in the flux thereafter across multiple subsequent 
+time points. The results of the pilot study should also validate that the sampling 
+frequency provides suitable resolution for the flux profile. 
+i. IVPT Precision and Reproducibility: The pilot study flux and cumulative permeation 
+results should be tabulated for each diffusion cell and time point, with summary statistics 
+to describe the intra-donor average, standard deviation, and %CV among replicates as 
+well as the inter-donor average, standard error, and %CV. 
+j. IVPT Recovery, Mass Balance & Dose Depletion: The recovery of permeated 
+acyclovir in the receptor solution may be characterized in each diffusion cell as the 
+cumulative total permeation of acyclovir in the receptor solution over the IVRT duration. 
+This may be expressed as a percentage of the amount of acyclovir in the applied dose. 
+The minimum amount of dose depletion (not accounting for skin content) may thereby be 
+estimated and should be reported. 
+k. IVPT Discrimination Sensitivity and Selectivity: The discrimination ability of the 
+IVPT method may be described using two concepts: sensitivity, and selectivity. 
+i. IVPT Sensitivity is the ability of the IVPT method to detect changes in the cutaneous 
+pharmacokinetics of acyclovir as a function of differences in acyclovir delivery. The 
+IVPT method development study with different dose amounts may provide supportive 
+evidence that the IVPT methodology is sensitive to differences in acyclovir delivery. 
+Alternatively, studies with acyclovir formulations at higher and lower strengths 
+relative to the RLD or that are otherwise rationally expected to increase and decrease 
+drug delivery, or studies with different dose durations, if relevant to the IVPT study 
+design, may support a demonstration of IVPT sensitivity. The differences in the IVPT 
+cutaneous pharmacokinetic endpoints (discussed below) are not necessarily expected 
+
+
+
+
+
+
+to be specifically proportional to differences in the delivered dose. For example, 
+three-fold differences in the dose (even if outside the recommended target dose range 
+of 5-15 mg cream/cm2) may provide distinct flux curves, but may not result in three-
+fold differences in the cutaneous pharmacokinetic endpoints because the skin barrier 
+may be rate limiting both in vitro and in vivo. If the IVPT method consistently 
+demonstrates higher and lower flux profiles (and cutaneous pharmacokinetic 
+endpoints) in response to increased and decreased dose amounts, respectively (or in 
+response to other conditions expected to increase and decrease drug delivery, 
+respectively) the IVPT method may be considered sensitive. 
+ii. IVPT Selectivity is the ability of the IVPT method to discriminate that the cutaneous 
+pharmacokinetics of acyclovir from a product or formulation that exhibits differences 
+in acyclovir delivery is not equivalent to the cutaneous pharmacokinetics of acyclovir 
+from the RLD product. The IVPT pilot study with the parallel assessment of the RLD 
+product, the test product, and a third product or formulation that is known or designed 
+to be different from the RLD may provide supportive evidence that the IVPT 
+methodology is selective for differences in acyclovir delivery. The evaluation of 
+(in)equivalence may be based upon the cutaneous pharmacokinetic endpoints and the 
+statistical approach recommended below, although the sample size in the pilot study 
+is not necessarily expected to adequately power the statistical analysis. 
+
+
+
+l. IVPT Robustness: A primary assumption related to robustness testing is that the test 
+system performs consistently when all system variables (e.g., temperature, stirring rate) 
+are at nominal settings. A value of robustness testing is that it can verify whether the 
+system continues to provide a consistent output when specific variables are slightly 
+varied, thereby qualifying operational ranges for those variables. However, the variability 
+inherent in the permeability of human skin, whether in vitro or in vivo, may not be 
+compatible with the primary assumption related to the consistency of the test system. 
+Therefore, it may be challenging to qualify broad operational ranges, and study 
+procedures should be controlled as precisely as possible (discussed in more detail below). 
+
+
+Relevant results from studies during IVPT method development that appear to support 
+the robustness of the IVPT system may be reported and discussed. Similarly, any 
+concerns that the permeability of acyclovir into and through human skin is robust to 
+certain conditions that may be used to evaluate the discrimination sensitivity and/or 
+selectivity of the IVPT method may be discussed in relation to specific results from the 
+IVPT method development and/or pilot studies. 
+
+m. IVPT Qualification and Control of Study Procedures: 
+i. Study procedures that have the potential to influence the results of the study should be 
+appropriately justified, qualified, and/or controlled. 
+
+
+
+
+
+
+ii. Control of procedures related to the skin include the consistent control across the 
+study of the skin preparation (e.g., dermatoming of skin sections) and the thickness of 
+skin sections mounted on diffusion cells, as well as the skin storage conditions, 
+including the duration for which the skin was frozen and the number of freeze-thaw 
+cycles to which the skin was exposed. Skin from the same anatomical location should 
+be utilized from all donors, and the demographics (age, race, sex) should be reported 
+for all donors. 
+iii. Control of procedures related to the dose include the control of the area of dose 
+application, the dose amount, the dosing technique, the dose duration, and the 
+blinding and randomization procedures for dosing. The test and RLD products should 
+be dosed in an identical and consistent manner for all diffusion cells in the study. 
+Differences in dosing technique may have the potential to alter the metamorphosis of 
+the dosage form on the skin and inconsistencies in the diameter of the area dosed on 
+each diffusion cell may significantly influence the dosed area and contribute to errors 
+in the calculation of flux. 
+iv. Control of procedures related to sampling include the control of sampling time 
+precision, the sampling technique, the duration of sampling and replacement of 
+receptor solution, the sample volume or flow rate, and sample handling and storage. 
+v. Control of procedures related to study should include a non-dosed control skin section 
+from each skin donor, which should be mounted in a diffusion cell and otherwise 
+treated identically to the dosed skin sections, including sampling of the receptor 
+solution at all time points to ensure that acyclovir concentrations monitored in the 
+receptor solution are associated with the dose applied in the IVPT pivotal study, and 
+not acyclovir contamination in the skin from that donor that might permeate into the 
+receptor solution across the duration of the study. A pre-dose “zero” sample collected 
+from each diffusion cell is also recommended, which may identify potential 
+contamination associated with each skin section and/or each diffusion cell. 
+vi. The IVPT pivotal study design, methodology and diffusion cell apparatus 
+considerations relating to sampling precision should be controlled as precisely as 
+possible and justified. For example, it may be appropriate to stagger the dose 
+application on successive diffusion cells and to synchronize the sampling time points 
+with the dosing time for that diffusion cell, to ensure consistent durations between 
+dosing and sampling of all diffusion cells. 
+
+
+
+11. IVPT pivotal Study Inclusion Criteria (the sponsor may add additional criteria) 
+a. Healthy, normal, barrier-competent skin from male and/or female donors of at least 18 
+years of age. Inclusion criteria related to donor demographics (age, race, sex) should be 
+
+
+
+specified in the study protocol and demographic information should be reported for each 
+donor. 
+b. The skin may be harvested following excision from patients undergoing a surgical 
+procedure or excised from cadavers. A consistent source is recommended for all the skin 
+used. The anatomical region specified in the study protocol (e.g., posterior torso) should 
+be consistent for all donors whose skin is included in the study. 
+c. The study protocol should specify the inclusion (acceptance) criteria for skin sections 
+based upon the barrier integrity test result, which should be reported for each skin 
+section. 
+d. The study protocol should specify and justify inclusion criteria related to the temperature 
+and duration of skin storage as well as the number of freeze-thaw cycles, all of which 
+should be reported for each donor’s skin. 
+e. The study protocol should specify and justify the inclusion criteria related to the skin 
+harvesting/processing procedures and skin thickness (e.g., dermatomed skin of 500µm ± 
+250µm thickness) utilized in the IVPT study. 
+12. IVPT pivotal Study Exclusion Criteria (the sponsor may add additional criteria) 
+a. Skin with tattoos, stretch marks or any sign of dermatological abnormality should be 
+excluded from the study. 
+b. Skin exhibiting a significant density of terminal hair is not recommended and should be 
+excluded from the study. 
+c. While gentle washing or rinsing of the skin surface is appropriate, skin that has been 
+subjected to shaving with a blade, abrasive polishing, tape-stripping, or cleansing with 
+alcohols, solvents or other strong solutions that could damage the skin barrier is not 
+recommended and should be excluded from the study. 
+d. Skin from donors with significant background levels of acyclovir or other compounds 
+that may interfere with the quantification of acyclovir in receptor solution samples should 
+be excluded from the study. 
+e. Skin from donors exhibiting a high barrier integrity test failure rate among replicate skin 
+sections may be excluded from the study, and skin from an alternative donor may be 
+utilized instead. 
+13. The cutaneous pharmacokinetic endpoints for the IVPT pivotal study are based upon 
+parameters that characterize the rate and extent to which acyclovir permeates into and 
+through the skin, and becomes available in the receptor solution. Specifically, the rate of 
+acyclovir permeation is characterized by the flux (J) and the extent of acyclovir permeation is 
+
+
+
+characterized by the total cumulative amount of acyclovir permeated into the receptor 
+solution across the study duration. 
+14. The flux (rate of acyclovir permeation) should be plotted as J on the Y-axis in units of 
+mass/area/time (e.g., ng/ cm2/hr) versus time on the X-axis. Flux profiles commonly 
+resemble plasma pharmacokinetic profiles, although the flux is a rate, rather than a 
+concentration. The extent of acyclovir permeation should also be plotted, as the cumulative 
+amount of acyclovir permeated on the Y-axis in units of mass/area (e.g., ng/cm2) versus time 
+on the X-axis. 
+15. The flux should calculated based upon: the receptor sample concentration (e.g., 2.0 ng/mL) at 
+each time point; the precise, empirically measured volume of that specific diffusion cell (e.g., 
+6.0 mL) which may vary between individual cells; the area of dose application (e.g., 1 cm2); 
+and the duration for which the receptor volume was accepting the acyclovir. For example, if 
+the sample exemplified here represented a two hour period following dosing, then J would be 
+calculated based upon the values above as: 
+
+
+ J = [(2.0 ng/mL) x (6.0 mL)]/(1 cm2)/(2 hrs) = 6 ng/cm2/hr 
+
+16. This flux should be calculated and reported for each diffusion cell for each sampling interval 
+and plotted across the entire study duration to generate the flux profile for each diffusion cell. 
+The rate calculated above may be plotted at the 2 hr time point, or at the midpoint between 0 
+and 2 hrs (i.e., 1 hr). A similar approach is utilized to calculate the cumulative total amount 
+of acyclovir that has penetrated during each sampling interval. 
+17. The maximum flux (Jmax) at the peak of the acyclovir flux profile should be compared for the 
+test and RLD products. This is analogous to the comparison of the Cmax for test and RLD 
+products in the case of plasma pharmacokinetics. Similarly, the cumulative total permeation 
+of acyclovir across the study duration should be compared for the test and RLD products: this 
+corresponds to the area under the curve (AUC) of the incremental acyclovir permeation 
+profile. 
+18. A confidence interval (CI) should be calculated for each pharmacokinetic endpoint: 
+a. the log-transformed maximum flux (Jmax) 
+b. the log-transformed total (cumulative) penetration (AUC) 
+19. The statistical analysis should consider a sample of n donors, for which r replicate skin 
+sections from each one of the n donors are available for each treatment group. Each replicate 
+(i) from each donor (j) should have been randomly assigned to each product. The two 
+treatment groups would correspond to the test acyclovir cream 5% (T) and the RLD (R). 
+
+
+
+20. The replicate skin sections from donor 1 dosed with the test product may be denoted as T11, 
+T21, …, Tr1, and likewise from donor 2, T12, T22, …, Tr2, and so forth up to n donors; T1n, 
+T2n, …, Trn. Similarly, the replicate skin sections dosed with the RLD product may be 
+denoted as R1n, R2n, …, Rrn. 
+21. For each donor, Ij=1rS( Tij-Rij)ri=1 should be calculated, which leads to the derivation of 
+the point estimate, 
+
+
+.....=1.. 
+........
+..=1 
+
+the estimate of inter-donor variability, 
+....2=1(..-1) ..(....-.....)2..
+..=1 
+
+and the estimate of within-reference variability: 
+......2=SS(......-.............)2....
+=1....
+=1(..-1).. 
+
+where ............. is the average across all .. replicates for donor ..of R. 
+
+22. Under normality assumptions, the following distributional results hold: 
+
+
+..... ~ ..(....-...., ....2.. ) (..-1).. ......2......2 ~ ..(..-1)..2 
+
+and the two quantities are considered statistically independent. Furthermore, one may 
+assume a balanced design in which no donor-by-product interaction exists. 
+
+23. The recommended statistical methodology to evaluate BE includes a mixed criterion that 
+uses the within - reference variability as a cutoff point. 
+24. For SWR=0.294, the test and RLD products are declared bioequivalent if the (1-2a) *100% 
+confidence interval: 
+
+
+.....±..(..-1),..*......2.. 
+
+
+is contained within the limits [1..
+, ..]. 
+
+25. If SWR>0.294, the hypotheses to be tested are: 
+
+
+..0: (....-....)2......2> .. 
+....:(....-....)2......2 = .. 
+
+where ......2 is the reference population within-subject variance and .. is equal to (ln(..))2(0.25)2 , and 
+where .. represents the BE limit (1.25). The aim should be to construct a (1-a) *100% CI 
+for the quantity (....-....)2-.. ......2 . If the upper bound of this CI is less than or equal to 
+zero, the null hypothesis should be rejected. Rejection of the null hypothesis, ..0, supports 
+BE. This criterion should be accompanied by a point estimate constraint according to which 
+the geometric mean ratio (point estimate of the log-transformed response has to fall within 
+the pre-specified limits: [1..
+, ..]. 
+
+26. One possible way to perform the analysis in order to derive the upper bound of this CI is to 
+use an approach similar to that described in the FDA Draft Guidance on Progesterone 
+(recommended Apr 2010; revised Feb 2011), with appropriate modifications for this replicate 
+experimental design. 
+27. The method of randomization should be described in the protocol and the randomization 
+schedule provided, preferably in a SAS data set in .xpt format (created using the SAS 
+XPORT procedure). It is recommended that an independent third party generate and hold the 
+randomization code throughout the conduct of the study in order to minimize bias. The 
+sponsor may generate the randomization code if not involved in the packaging and labeling 
+of the test and RLD products dosed in the study. A sealed copy of the randomization scheme 
+should be retained at the study site and should be available to FDA investigators at the time 
+of site inspection to allow for verification of the treatment identity of each skin section. 
+
+
+ 
+
+II. Additional comments relating to the in vivo option (BE study with a clinical endpoint): 
+
+1. FDA recommends conducting a BE study with a clinical endpoint in immunocompetent adult 
+males and non-pregnant, non-lactating females with recurrent herpes labialis (RHL) 
+comparing the test product versus the RLD and placebo (vehicle) control with treatment 
+initiated as early as possible following the onset of signs or symptoms of herpes labialis, i.e., 
+
+
+
+during prodrome or no later than when herpetic lesions first appear. Treatment should be 
+applied five times per day for 4 days (20 applications). 
+2. A placebo (vehicle) control arm is recommended to demonstrate that the test product and 
+RLD are active and as a parameter to establish that the study is sufficiently sensitive to detect 
+differences between products at the lower end of the dose/response curve. 
+3. Inclusion Criteria (the sponsor may add additional criteria) 
+a. Healthy, immunocompetent male or non-pregnant, non-lactating females aged at least 18 
+years with recurrent herpes labialis. 
+b. At least 3 recurrences of a typical herpes labialis lesion within the past year. 
+• At least half of recurrences preceded by recognizable prodromal symptoms, e.g., 
+itching, redness, burning, tingling or a sense of irritation. 
+• At least half of prodromes followed by classical lesions, e.g., ulcer, vesicle, and/or hard 
+crust. 
+
+
+
+
+
+4. Exclusion Criteria (the sponsor may add additional criteria) 
+a. Females who are pregnant, breast feeding, or planning a pregnancy. 
+b. Females of childbearing potential who do not agree to utilize an adequate form of 
+contraception. 
+c. Subject who is unable or is not expected to reliably comprehend or satisfactorily assess a 
+herpetic lesion. 
+d. Subject with any abnormal skin condition, e.g., acne, eczema, rosacea, psoriasis, 
+albinism, or chronic vesiculo-bullous disorders, known to occur or currently present in 
+the area ordinarily affected by RHL. 
+e. Current active immunodeficiency syndrome or disease. 
+f. Current active malignancy. 
+g. Current episode of herpes labialis that is not completely healed. 
+h. Recent organ transplant. 
+i. Chronic use of immunosuppressive drugs (e.g., systemic steroid) or topical steroids. 
+j. Chronic use of antiviral medication with activity against herpes simplex virus (HSV). 
+k. History of vaccination for HSV type 1 (typically oral herpes) or HSV type 2 (typically 
+genital herpes). 
+l. History of herpes keratitis. 
+m. Candidate for parenteral antiviral treatment or for prophylactic antiviral therapy of their 
+RHL. 
+
+
+
+n. Contraindication to antiviral therapy or known hypersensitivity to acyclovir, valacyclovir 
+or any component of acyclovir therapy. 
+o. Use within four weeks prior to baseline of any over-the-counter or prescription antiviral 
+treatment. 
+5. A positive viral culture is not required for enrollment. 
+6. The protocol should include a list of the prescription and over-the-counter drug products, 
+procedures, and activities that are prohibited during the study, such as: 
+a. Antiviral therapies, other than study product. 
+b. Corticosteroids. 
+c. Treatments for cold sores, other than study product. 
+d. Topical lip balms. 
+e. Cosmetics or other skin products applied to the treatment area. 
+f. Prolonged sun exposure (i.e., sunbathing or sunburn). 
+g. Mechanical disruption (i.e., scrubbing, lancing, shaving) of the prodromal area or lesion. 
+h. Subjects should be instructed to wash their hands with soap and water before and after 
+applying treatment, to avoid rubbing the cold sore and to avoid contact of the study 
+product with the eye or the inside of mouth or nose. 
+7. The recommended primary endpoint is the duration of episode (DOE) assessed by the 
+investigator, based on both clinical observation and review of the subject diary, and defined 
+as: 
+a. For subjects who experience a vesicular lesion, DOE is the time from the treatment 
+initiation to the healing of primary lesions (loss of crust; residual erythema may be 
+present after loss of hard crust). 
+b. For subjects whose primary lesions were not vesicular in nature, DOE is the time from 
+the treatment initiation to the return to normal skin or to the cessation of symptoms, 
+whichever occurs last. 
+
+
+The primary endpoint is calculated by subtracting the recorded time of the first application of 
+study medication in the case report from the recorded time of the investigator-assessed 
+healing. 
+
+8. Within 24 hours (study Day 1) of initiating treatment with study drug, recommend that 
+subjects return to study site for investigator assessments and return to study site for 
+investigator assessments daily thereafter (or as often as possible) until: 
+
+
+
+a. healing of the primary vesicular lesion, for those subjects who experience a vesicular 
+lesion, OR 
+b. return to normal skin or the cessation of symptoms, whichever occurs last, for those 
+subjects whose primary lesions are not vesicular in nature. 
+9. Provide subjects with a diary and instruct them to record their symptoms, such as pain, 
+tenderness, tingling, itching, discomfort and the stage of their herpes lesions (normal lip, 
+erythema, papule, vesicle, ulcer, crust), at a minimum of twice daily. 
+10. A rescue clause is recommended to allow subjects who significantly worsen (e.g., significant 
+increase in size or number of lesions beyond the patient’s usual pattern, progression of 
+lesions after the first few days of therapy, development of severe pain, or evidence of tissue 
+necrosis) during therapy to be discontinued from the study and provided with standard 
+therapy. 
+11. The protocol should clearly define the per-protocol (PP), modified intent-to-treat (mITT) and 
+safety populations. 
+a. The accepted PP population used for BE evaluation includes all randomized subjects who 
+meet all inclusion/exclusion criteria, applied a pre-specified proportion of the scheduled 
+doses (e.g., 75% to 125%) of the assigned product for the specified duration of the study, 
+do not miss the scheduled applications for more than 1 consecutive day, and complete the 
+evaluation within the designated visit window (+/- 2 days) with no protocol violations 
+that would affect the treatment evaluation. The protocol should specify how compliance 
+will be verified, e.g., by the use of subject diaries. 
+b. The mITT population includes all randomized subjects who meet all inclusion/exclusion 
+criteria, apply at least one dose of assigned product and return for at least one post-
+baseline evaluation visit. 
+c. The safety population includes all randomized subjects who receive study product. 
+12. Subjects who are discontinued early from the study due to insufficient or lack of treatment 
+effect after completing 3 days of treatment should be included in the PP population as 
+treatment failures and assigned the longest time to healing observed in the study. Subjects 
+discontinued early for other reasons should be excluded from the PP population, but included 
+in the mITT population, using Last Observation Carried Forward (LOCF) if complete healing 
+was noted at their last visit and assigning the longest time to healing if healing was not 
+complete at their last visit. 
+13. The start and stop date of concomitant medication use during the study should be provided in 
+the data set in addition to the reason for the medication use. The sponsor should clearly 
+explain whether the medication was used prior to baseline visit, during the study, or both. 
+
+
+
+14. All adverse events (AEs) should be reported, whether or not they are considered to be related 
+to the treatment. The report of AEs should include date of onset, description of the AE, 
+severity, relation to study medication, action taken, outcome and date of resolution. This 
+information is needed to determine if the incidence and severity of adverse reactions is 
+different between the test product and RLD. 
+15. If the inactive ingredients of the test product are different than those contained in the RLD or 
+in significantly different amounts, then the sponsor must clearly describe the differences and 
+provide information to show that the differences will not affect the safety, efficacy and/or 
+systemic or local availability of the drug. 
+16. The method of randomization should be described in the protocol and the randomization 
+schedule provided in a SAS data set in .xpt format (created using the SAS XPORT 
+procedure). It is recommended that an independent third party generate and hold the 
+randomization code throughout the conduct of the study in order to minimize bias. The 
+sponsor may generate the randomization code if not involved in the packaging and labeling 
+of the study medication. A sealed copy of the randomization scheme should be retained at the 
+study site and should be available to FDA investigators at the time of site inspection to allow 
+for verification of the treatment identity of each subject. 
+17. A detailed description of the blinding procedure is to be provided in the study protocol and 
+final report. The packaging of the test, RLD and placebo products should be similar in 
+appearance to make differences in treatment less obvious to the subjects and to maintain 
+adequate blinding of evaluators. When possible, neither the subject nor the investigator 
+should be able to identify the treatment. The containers should not be opened by the subject 
+at the study center. 
+18. Refer to 21 CFR 320.38, 320.63 and the Guidance for Industry, “Handling and Retention of 
+BA and BE Testing Samples”, regarding retention of study drug samples and 21 CFR 320.36 
+for requirements for maintenance of records of BE testing. In addition, the investigators 
+should follow the procedures of 21 CFR 58 and ICH E6, “Good Clinical Practice: 
+Consolidated Guideline”, for retention of study records and data in order to conduct their 
+studies in compliance with Good Laboratory Practices (GLP) and Good Clinical Practices 
+(GCP). Retention samples should be randomly selected from the drug supplies received prior 
+to dispensing to subjects. Retention samples should not be returned to the sponsor at any 
+time. 
+19. It is the sponsor's responsibility to enroll sufficient subjects for the study to demonstrate BE 
+between the products. 
+
+
+
+20. To establish BE, the 90% confidence interval of the test/reference ratio of the means for the 
+primary endpoint must be contained within [0.80, 1.25] for a continuous variable, using the 
+PP population. 
+21. It is recommended that an analysis of covariance (ANCOVA) with two covariates be used for 
+the estimation of the ratio of the means. The two covariates are the type of primary lesion 
+(vesicular or not vesicular in nature) and the baseline absolute lesion count. 
+22. As a parameter for determining adequate study sensitivity, the test product and RLD should 
+both be statistically superior to placebo (p<0.05) with regard to the primary endpoint, using 
+the mITT study population. 
+23. To establish BE, it is recommended the following compound hypotheses be tested using the 
+PP population: 
+
+
+H0 : µT /µR < .1 or µT /µR > .2 versus HA : .1 = µT /µR = .2 
+
+where µT = mean of the primary endpoint for the test group, and 
+
+µR = mean of the primary endpoint for the reference group. 
+
+The null hypothesis, H0 , is rejected with a type I error (a) of 0.05 (two one-sided tests) if the 
+90% confidence interval for the ratio of the means between test and reference products (µT /µR ) 
+is contained within the interval [.1 , .2 ], where .1 = 0.80 and .2 = 1.25. Rejection of the null 
+hypothesis supports the conclusion of equivalence of the two products. 
+
+24. In addition to the test described above, a supportive time-to-event (survival) statistical 
+analysis using the Kaplan/Meier methodology and the Cox proportional hazards model can 
+be performed for the DOE primary endpoint. 
+25. Study data should be submitted to the OGD in electronic format. 
+a. A list of file names, with a simple description of the content of each file, should be 
+included. Such a list should include an explanation of the variables included in each of 
+the data sets. 
+b. Provide a “pdf” document with a detailed description of the codes that are used for each 
+variable in each of the SAS datasets (for example, Y=yes, N=no for analysis population). 
+c. All SAS transport files, covering all variables collected in the Case Report Forms (CRFs) 
+per subject, should include .xpt as the file extension and should not be compressed. A 
+simple SAS program to open the data transport files and SAS files should be included. 
+d. Primary data sets should consist of two data sets: No Last Observation Carried Forward 
+(NO-LOCF-pure data set) and Last Observation Carried Forward (LOCF- modified data 
+set). 
+
+
+
+e. Provide a separate dataset for variables such as demographics, vital signs, adverse events, 
+disposition (including reason for discontinuation of treatment), concomitant medications, 
+medical history, compliance and comments, etc. 
+26. Provide a summary dataset containing a separate line listing for each subject (if data exist) 
+using the following headings, if applicable: 
+a. Study identifier 
+b. Subject identifier 
+c. Site identifier: study center 
+d. Age 
+e. Age units (years) 
+f. Sex 
+g. Race 
+h. Name of Actual Treatment (exposure): test product, RLD, vehicle control 
+i. Completed the study (yes/no) 
+j. Reason for premature discontinuation of subject 
+k. Subject required additional treatment for herpes labialis due to unsatisfactory treatment 
+response (yes/no) 
+l. Per Protocol (PP) population inclusion (yes/no) 
+m. Reason for exclusion from PP population 
+n. Modified Intent to Treat (mITT) population inclusion (yes/no) 
+o. Reason for exclusion from mITT population 
+p. Safety population inclusion (yes/no) 
+q. Reason for exclusion from Safety population 
+r. Time to complete healing of lesions (days) 
+s. Treatment compliance: number of missed doses per subject 
+t. Concomitant medication (yes/no) 
+u. Adverse event(s) reported (yes/no) 
+
+
+Refer to Table 1 as an example. This sample table may contain additional information not 
+applicable to your study and/or it may not contain all information applicable to your study. 
+
+Table 1: Example of a summary dataset containing one line listing for each subject 
+
+
+ 
+
+STUDYID 
+
+ 
+
+SUBJID 
+
+ 
+
+SITEID 
+
+ 
+
+AGE 
+
+ 
+
+AGEU 
+
+ 
+
+SEX 
+
+ 
+
+RACE 
+
+ 
+
+EXTRT 
+
+ 
+
+completd 
+
+ 
+
+disc_rs 
+
+ 
+
+add_trt 
+
+ 
+
+pp 
+
+ 
+
+pp_rs 
+
+ 
+
+mitt 
+
+ 
+
+mitt_rs 
+
+ 
+
+safety 
+
+ 
+
+safety_rs 
+
+101 
+
+1 
+
+01 
+
+54 
+
+YEARS 
+
+F 
+
+1 
+
+A 
+
+Y 
+
+ 
+
+N 
+
+Y 
+
+ 
+
+Y 
+
+ 
+
+Y 
+
+ 
+
+101 
+
+2 
+
+01 
+
+58 
+
+YEARS 
+
+F 
+
+1 
+
+B 
+
+Y 
+
+ 
+
+N 
+
+Y 
+
+ 
+
+Y 
+
+ 
+
+Y 
+
+ 
+
+ 
+
+tim_heal 
+
+ 
+
+complian 
+
+ 
+
+CM 
+
+ 
+
+AE 
+
+6 
+
+0 
+
+Y 
+
+Y 
+
+4 
+
+0 
+
+N 
+
+N 
+
+
+
+Note: Capitalized headings are from Clinical Data Interchange Standards Consortium (CDISC) 
+Study Data Tabulation Model (SDTM) Implementation Guide (IG) for Human Clinical Trials 
+V3.1.2 Final dated 11/12/08. 
+
+STUDYID: Study Identifier 
+
+SUBJID: Subject Identifier for the Study 
+
+SITEID: Study Site Identifier 
+
+AGE: Age 
+
+AGEU: Age units (years) 
+
+SEX: Sex, e.g., M=Male, F=Female, U=Unknown 
+
+RACE: Race, e.g., 1=White, 2=Black or African American, 3=Asian, 4=American Indian 
+or Alaska Native, 5=Native Hawaiian or Other Pacific Islanders 
+
+EXTRT: Name of Actual Treatment (exposure), e.g., A=test product, B= RLD, C=vehicle 
+control 
+
+completd: Subject completed the study, e.g., Y=Yes, N=No 
+
+disc_rs: Reason for premature discontinuation from the study, e.g., A=adverse event, 
+B=death, C=lost to follow-up, D=non-compliance with treatment, E=treatment 
+unblinded, F=subject moved out of area, G=unsatisfactory treatment response, 
+H=withdrew consent, I=protocol violation, K=other event 
+
+add_trt: Subject required additional treatment for herpes labialis due to unsatisfactory 
+treatment response, e.g., Y=Yes, N=No 
+
+pp: Per Protocol (PP) population inclusion, e.g., Y=Yes, N=No 
+
+pp_rs: Reason for exclusion from PP population, e.g., A=prematurely discontinued, 
+B=lost to follow-up, C=subject moved out of the area, D=noncompliant, etc. 
+
+mitt: Modified Intent to Treat (mITT) population inclusion, e.g., Y=Yes, N=No 
+
+mitt_rs: Reason for exclusion from mITT population, e.g., A=never treated, etc. 
+
+safety: Safety population inclusion, e.g., Y=Yes, N=No 
+
+
+safe_rs: Reason for exclusion from Safety population, e.g., A=never treated, etc. 
+
+tim_heal: Time to complete healing of lesions (days) 
+
+complian: Treatment compliance, e.g., number of missed doses per subject 
+
+CM: Concomitant medication, e.g., Y=Yes, N=No 
+
+AE: Adverse event(s) reported, e.g., Y=Yes, N=No 
+
+27. These in vivo BE study recommendations are specific to this product and may not be 
+appropriate for BE studies of any other product, including any other dosage form or strength 
+of acyclovir. 
+
+
+

@@ -1,0 +1,63 @@
+
+
+Active Ingredient: Alectinib hydrochloride 
+
+
+
+Dosage Form; Route: Capsule; oral 
+
+
+
+Recommended Studies: Two studies 
+
+
+
+1.Type of study: Fasting
+
+
+Design: Single-dose, two-way crossover in vivo
+
+Strength: Eq 150 mg base at a dose of 600 mg (150 mg x 4)
+
+Subjects: Healthy males and non-pregnant, non-lactating females, general population
+
+Additional comments: a. Female subjects should not be pregnant or lactating, and shouldpractice abstention or contraception during the study and for one week after the final dosesince ALECENSA can cause fetal harm when administered to a pregnant woman. Basedon genotoxicity findings, males with female partners of reproductive potential should useeffective contraception during treatment with ALECENSA and for three monthsfollowing the final dose. b. Ensure adequate washout periods between treatments in thecrossover studies due to its long terminal elimination half-life. Also consider using aparallel study design due to its long half-life. For long half-life drug products with lowintra-subject variability in distribution and clearance, an AUC truncated to 72 hours maybe used in place of AUC0-t or AUC0-8. For either a crossover or parallel study, samplecollection time should be adequate to ensure completion of gastrointestinal transit of thedrug product and absorption of the drug substance. Collect sufficient blood samples in thebioequivalence studies to adequately characterize the peak concentration (Cmax) andtime to reach peak concentration (tmax).
+
+______________________________________________________________________________ 
+
+
+
+2.Type of study: Fed
+
+
+Design: Single-dose, two-way crossover in vivo
+
+Strength: Eq 150 mg base at a dose of 600 mg (150 mg x 4)
+
+Subjects: Healthy males and non-pregnant, non-lactating females, general population
+
+Additional comments: See comments above.
+
+______________________________________________________________________________ 
+
+
+
+Analytes to measure (in appropriate biological fluid): Alectinib in plasma 
+
+
+
+Bioequivalence based on (90% CI): Alectinib 
+
+
+
+Waiver request of in vivo testing: Not applicable. 
+
+
+Dissolution test method and sampling times: The dissolution information for this drug 
+product can be found on the FDA-Recommended Dissolution Methods website available to the 
+public at the following location: http://www.accessdata.fda.gov/scripts/cder/dissolution/. 
+Conduct comparative dissolution testing on 12 dosage units each of all strengths of the test and 
+reference products. Specifications will be determined upon review of the abbreviated new drug 
+application (ANDA). 
+
+

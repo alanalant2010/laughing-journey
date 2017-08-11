@@ -1,0 +1,55 @@
+Contains Nonbinding Recommendations 
+
+Draft Guidance on Alendronate Sodium; Cholecalciferol 
+
+This draft guidance, once finalized, will represent the Food and Drug Administration's (FDA's) current thinking 
+on this topic. It does not create or confer any rights for or on any person and does not operate to bind FDA or 
+the public. You can use an alternative approach if the approach satisfies the requirements of the applicable 
+statutes and regulations. If you want to discuss an alternative approach, contact the Office of Generic Drugs. 
+
+Active ingredient: Alendronate Sodium; Cholecalciferol 
+Form/Route: Tablets; Oral 
+Recommended studies: 1 Study 
+Type of study: Fasting 
+
+Design: Single-dose, two-way crossover in-vivo 
+Strength: 70 mg/5600 IU 
+Subjects: Healthy males and non-pregnant females, general population 
+Additional Comments: (1) A highly selective assay capable of low ng/mL limit of quantitation should be 
+utilized. (2) Applicants may consider using a reference-scaled average bioequivalence approach for alendronate. 
+If using this approach, please provide evidence of high variability in the bioequivalence parameters of AUC 
+and/or Cmax (i.e., within-subject variability = 30%). For details on the method for statistical analysis using the 
+reference-scaled average bioequivalence approach, please refer to the Draft Guidance on Progesterone Oral 
+Capsules at http://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatory 
+Information/Guidances/UCM209294.pdf. (3) To assist with achieving a stable plasma cholecalciferol baseline, 
+subjects should receive a stable diet for a period preceding dosing and during plasma sample collection. 
+Subjects should avoid all active vitamin D compounds and vitamin D-supplemented foods. In addition, subjects 
+should avoid prolonged, direct sunlight for at least 10 days prior to- and during the study periods/washout. 
+
+Analytes to measure (in appropriate biological fluid): Alendronate and cholecalciferol in plasma 
+
+Bioequivalence based on (90% CI): Alendronate and cholecalciferol 
+
+Special Considerations: Because cholecalciferol (Vitamin D3) is endogenously produced, post-dose plasma 
+concentrations should be corrected for each subject per treatment period. Baseline plasma cholecalciferol 
+concentrations should be determined from the average of at least four (4) samples collected between -24 and 0 
+hours (inclusive) prior to dosing. 
+
+For each treatment, test or reference, the mean of the endogenous plasma cholecalciferol concentrations from 
+these four (or more) time points should be used for baseline adjustment. If baseline-adjusted concentrations are 
+negative, concentrations should be set to zero (0.0). Statistical analysis should be performed on both baseline- 
+adjusted and unadjusted pharmacokinetic parameters. BE should be established from the baseline- adjusted values 
+and meet the standard 90% CI criteria for AUCt, AUC8, and Cmax pharmacokinetic criteria. 
+Waiver request of in-vivo testing: 70 mg/2800 IU based (i) acceptable bioequivalence studies on the 70 
+mg/5600 mg strength, (ii) proportional similarity of the formulations across all strengths, and (iii) acceptable in 
+vitro dissolution testing of all strengths. 
+
+Dissolution test method and sampling time: Please note that a Dissolution Methods Database is available to 
+the public at the OGD website at http://www.accessdata.fda.gov/scripts/cder/dissolution/. Please find the 
+dissolution information for this product at this website. Please conduct comparative dissolution testing on 12 
+dosage units each of all strengths of the test and reference products. Specifications will be determined upon 
+review of the application 
+
+Recommended April 2009; Revised Oct 2011 
+
+

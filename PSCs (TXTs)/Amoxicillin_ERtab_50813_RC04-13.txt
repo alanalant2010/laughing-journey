@@ -1,0 +1,79 @@
+ 
+
+Active ingredient: Amoxicillin 
+
+ 
+
+Form/Route: Extended-Release Tablets/Oral 
+
+ 
+
+Recommended studies: 2 studies 
+
+ 
+
+1. Type of study: Fasting 
+
+Design: Single-dose, two-way crossover in vivo 
+
+Strength: 775 mg (anhydrous base) 
+
+Subjects: Normal healthy males and females, general population. 
+
+Additional Comments: Females should not be pregnant or lactating, and if applicable, should 
+practice abstention or contraception during the study. 
+
+
+
+
+______________________________________________________________________________ 
+
+ 
+
+2. Type of study: Fed 
+
+Design: Single-dose, two-way crossover in vivo 
+
+Strength: 775 mg (anhydrous base) 
+
+Subjects: Normal healthy males and females, general population. 
+
+Additional Comments: Females should not be pregnant or lactating, and if applicable, should 
+practice abstention or contraception during the study. 
+
+
+
+
+______________________________________________________________________________ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Amoxicillin in plasma. 
+
+ 
+
+Bioequivalence based on (90% CI): Amoxicillin 
+
+ 
+
+Waiver request of in-vivo testing: Not applicable. 
+
+ 
+
+Dissolution test method and sampling times: Please note that Dissolution Method Database is available 
+to the public at the OGD website at http://www.accessdata.fda.gov/scripts/cder/dissolution/. Please find 
+the dissolution information for this product at this website. Please conduct comparative dissolution 
+testing on 12 dosage units each of all strengths of the test and reference products. Specifications will be 
+determined upon review of the application. 
+
+ 
+
+In addition to the method above, for modified release products, dissolution profiles on 12 dosage units 
+each of test and reference products generated using USP Apparatus I at 100 rpm and/or Apparatus II at 50 
+rpm in at least three dissolution media (pH 1.2, 4.5, and 6.8 buffer) should be submitted in the 
+application. Agitation speeds may have to be increased if appropriate. It is acceptable to add a small 
+amount of surfactant, if necessary. Please include early sampling times of 1, 2, and 4 hours and continue 
+every 2 hours until at least 80% of the drug is released. Specifications will be determined upon review of 
+the data submitted in the application. 
+
+

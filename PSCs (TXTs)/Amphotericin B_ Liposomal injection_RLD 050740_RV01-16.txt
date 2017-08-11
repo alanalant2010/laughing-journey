@@ -1,0 +1,256 @@
+ 
+
+Active Ingredient: Amphotericin B 
+
+ 
+
+Dosage Form; Route: Liposome injection; intravenous 
+
+ 
+
+Recommended Studies: Two studies 
+
+ 
+
+When the test and reference liposome products 
+
+• have the same drug product composition and 
+• have equivalent liposome characteristics, including liposome composition, liposome 
+size distribution, number of lamellar, electrical surface potential or charge, lipid bilayer 
+phase transition, and in vitro leakage rates. 
+
+
+ 
+
+ 
+
+The following in vivo and in vitro studies are recommended to demonstrate bioequivalence: 
+
+ 
+
+In Vivo Study: 
+
+ 
+
+A. Type of study: In vivo steady-state 
+
+
+Design: (1) Parallel group or (2) two-way crossover 
+
+Strength: 50 mg/vial 
+
+Dose: Appropriate dose that is recommended by physicians to fit the patients’ needs 
+per the RLD labeling 
+
+Subjects: Patients who need Amphotericin B treatment as part of their therapy per the 
+RLD labeling. FDA recommends that the study not be conducted using healthy 
+subjects. 
+
+Additional Comments: Please see comments below. 
+
+ 
+
+1. Submission of a Bio Investigational New Drug Application (Bio-IND) is required prior 
+to conducting a bioequivalence (BE) study for a cytotoxic drug product such as 
+Amphotericin B (see 21CFR § 320.31). 
+
+
+ 
+
+2. Following patients should be excluded from the study: 
+
+
+ 
+
+• Less than 18 years of age 
+• Pregnant or lactating women 
+• History of hypersensitivity reactions to any components of conventional or 
+liposomal Amphotericin B formulations 
+• Serum creatinine concentration greater than twice the upper limit of normal (ULN) 
+AST or ALT value greater than 10 times the ULN 
+
+
+ 
+
+3. Following safety monitoring measures are recommended for the in vivo BE study: 
+
+
+ 
+
+• Pregnancy test for women 
+
+
+
+• Laboratory evaluation of renal, hepatic and hematopoietic function 
+• Serum electrolytes (particularly magnesium and potassium) at baseline and during 
+the course of the study 
+
+
+ 
+
+4. Each qualified patient should receive the same dose of Amphotericin B Liposomal 
+injection treatment at fixed 24-hour intervals. Exclude patients from the study with 
+dose adjustment during the BE study. For crossover studies, patients may receive 
+either the generic formulation (Treatment A) or the reference formulation (Treatment 
+B) for 5 days (Day 1-5), and then switch to the other treatment for 5 days (Day 6-10). 
+No washout period is necessary between the two treatments. 
+
+
+ 
+
+5. The patients shall receive their own established Amphotericin B dosing regimen during 
+the study. After the study is completed, continue the patients on their Liposomal 
+Amphotericin B Injection dosing regimens. 
+
+
+ 
+
+6. Patient’s concomitant medications should remain exactly the same during the study. 
+
+
+ 
+
+7. All study subjects can be given a standard non-high-fat diet every day during the study 
+provided there is no interference with patients’ care. Alternatively, initiate the 
+treatment two hours after a standard (non-high-fat) breakfast every day during the 
+study. In addition, avoid concomitant therapy with intravenous fat emulsions, such as 
+total parental nutrition (TPN), since that may change the pharmacokinetic (PK) profile 
+of Amphotericin B Liposomal injection. 
+
+
+ 
+
+8. Blood sampling: 
+
+
+ 
+
+For each period, two or three trough concentrations are recommended to be measured 
+before the full PK sampling day to ensure steady-state is reached. On the day of blood 
+sample collection, a series of blood samples should be collected to assess the 
+concentration-time curve. 
+
+ 
+
+9. Statistical analysis of PK data: 
+
+
+ 
+
+For statistical analysis of PK data, please refer to Bioequivalence Recommendations for 
+Specific Products — Clozapine (final). 
+
+ 
+
+10. Clinical report and adverse reactions: 
+
+ 
+
+Report patient medical histories, physical examination laboratory reports, and all 
+incidents of possible adverse reactions. 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Free Amphotericin B (liposome-
+unbound) and liposome-encapsulated Amphotericin B in plasma 
+
+ 
+
+Bioequivalence based on (90% CI): Free Amphotericin B and liposome-encapsulated 
+Amphotericin B 
+
+ 
+
+Note: the pivotal BE study should be conducted using test product produced by the proposed 
+commercial scale manufacturing process. 
+
+ 
+
+ 
+
+
+In Vitro Study: 
+
+ 
+
+B. Type of study: Liposome size distribution 
+
+
+Design: In vitro bioequivalence study on at least three lots of both test and reference 
+products 
+
+ 
+
+Equivalence based on (95% CI): Population bioequivalence based on D50 and SPAN [i.e. 
+(D90-D10)/D50] or alternatively on the harmonic intensity-weighted average particle 
+diameter and polydispersity index derived from cumulant analysis of the size intensity 
+distribution. 
+
+ 
+
+Waiver request of in vivo testing: Not Applicable. 
+
+ 
+
+Dissolution test method and sampling times: The dissolution information for this drug 
+product can be found on the FDA-Recommended Dissolution Methods Web site, available to 
+the public at the following location: http://www.accessdata.fda.gov/scripts/cder/dissolution/. 
+Conduct comparative dissolution testing on 12 dosage units each of all strengths of the test 
+and reference products. Specifications will be determined upon review of the abbreviated new 
+drug application (ANDA). 
+
+ 
+
+Additional information: 
+
+ 
+
+Same drug product composition 
+
+ 
+
+Per 21 CFR § 314.94 (a) (9) (iii), as a parenteral drug product, a generic Amphotericin B 
+liposome injection must be qualitatively (Q1) and quantitatively (Q2) the same as the RLD, 
+except differences in buffers, preservatives and antioxidants provided that the applicant 
+identifies and characterizes these differences and demonstrates that the differences do not 
+impact the safety/efficacy profile of the drug product. Currently, FDA has no 
+recommendations for the type of studies that would be needed to demonstrate that differences 
+in buffers, preservatives, and antioxidants do not affect the safety/efficacy profile of the drug 
+product. 
+
+ 
+
+Lipid excipients are critical in the liposome formulation. ANDA sponsors should obtain lipids 
+from the same category of synthesis route (natural or synthetic) as found in the RLD. 
+Information concerning the chemistry, manufacturing, and control of the lipid components 
+should be provided at the same level of detail expected for a drug substance as suggested in 
+the liposome drug products draft guidance. ANDA sponsors should have specification on lipid 
+excipients that are similar to those used to produce the RLD. Provide additional comparative 
+characterization (beyond meeting specifications) of lipid excipients including the distribution 
+of the molecular species. 
+
+ 
+
+Equivalent liposome characteristics 
+
+ 
+
+Additional in vitro characterization are recommended to demonstrate the sameness between 
+the test and reference products in terms of liposome composition, liposome morphology and 
+number of lamellar, lipid bilayer phase transitions, liposome size distribution, electrical 
+
+
+surface potential or charge, and in vitro leakage rates. The in vitro liposome characterization 
+tests should be conducted on at least three batches of the ANDA and RLD products (at least 
+one ANDA batch should be produced by the commercial scale process and used in the in vivo 
+BE study). 
+
+ 
+
+For additional information regarding statistical analysis of in vitro data, please refer to 
+
+Bioequivalence Recommendations for Specific Products — Budesonide Suspension (Draft). 
+
+ 
+
+

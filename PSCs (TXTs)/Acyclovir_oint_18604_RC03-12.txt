@@ -1,0 +1,315 @@
+Contains Nonbinding Recommendations 
+
+Draft Guidance on Acyclovir 
+
+This draft guidance, once finalized, will represent the Food and Drug Administration's (FDA's) 
+current thinking on this topic. It does not create or confer any rights for or on any person and does 
+not operate to bind FDA or the public. You can use an alternative approach if the approach satisfies 
+the requirements of the applicable statutes and regulations. If you want to discuss an alternative 
+approach, contact the Office of Generic Drugs. 
+
+Active ingredient: Acyclovir 
+
+Form/Route: Ointment; Topical 
+
+Recommended study: 2 Options: In Vitro or In Vivo Study 
+
+I. In Vitro option: 
+
+To qualify for the in vitro option for this drug product pursuant to 21 CFR 320.24 (b)(6), under which 
+“any other approach deemed adequate by FDA to measure bioavailability or establish 
+bioequivalence” may be acceptable for determining the bioavailability or bioequivalence (BE) of a 
+drug product, all of the following criteria must be met: 
+
+i. The test and Reference Listed Drug (RLD) formulations are qualitatively and quantitatively 
+the same (Q1/Q2). 
+
+ii. Acceptable comparative physicochemical characterization of the test and RLD formulations. 
+
+iii. Acceptable comparative in vitro drug release rate tests of acyclovir from the test and RLD 
+formulations. 
+
+II. In Vivo option: 
+
+Type of study: BE Study with Clinical Endpoint 
+Design: Randomized, double-blind, parallel, placebo-controlled in vivo 
+Strength: 5% 
+Subjects: Immunocompromised males and nonpregnant females with recurrent herpes simplex 
+labialis 
+Additional comments: Specific recommendations are provided below. 
+
+Analytes to measure (in appropriate biological fluid): Not Applicable 
+
+Bioequivalence based on (90% CI): Clinical endpoint (in vivo option) 
+
+Dissolution test method and sampling times: Not Applicable 
+
+Additional comments regarding the BE study with clinical endpoint: 
+
+1. The Office of Generic Drugs (OGD) recommends conducting a BE study with a clinical endpoint 
+in immunocompromised males and nonpregnant females with recurrent herpes simplex labialis 
+comparing the test product versus the RLD and placebo control with treatment initiated at the 
+onset of signs or symptoms and applied every three hours six times daily for 7 days. 
+
+
+
+2. A placebo (vehicle) control arm is recommended to demonstrate that the test product and RLD 
+are active and as a parameter to establish that the study is sufficiently sensitive to detect 
+differences between products at the lower end of the dose/response curve. 
+3. Inclusion Criteria (the sponsor may add additional criteria) 
+a. Immunocompromised (defined according to underlying disease and/or the administration of 
+immunosuppressant medication) male or nonpregnant females aged at least 18 years with 
+limited, non-life-threatening, recurrent herpes simplex labialis. 
+b. At least 3 recurrences of herpes simplex labialis per year for the past two years. 
+• At least half of recurrences preceded by recognizable prodromal symptoms. 
+• At least half of prodromes followed by classical lesions. 
+
+
+
+
+
+
+
+
+4. Exclusion Criteria (the sponsor may add additional criteria) 
+a. Females who are pregnant, breast feeding, or planning a pregnancy. 
+b. Females of childbearing potential who do not agree to utilize an adequate form of 
+contraception. 
+c. Candidate for parental antiviral treatment or for prophylactic antiviral therapy of their 
+recurrent herpes simplex labialis. 
+d. Recent transplant. 
+e. CD4 counts below 200 cells/µl (HIV subjects are generally considered to be 
+immunocompromised without regard to an upper limit for CD4 counts). 
+f. Recent major change in immune status that could seriously affect the clinical manifestations 
+of herpes simplex labialis and need for treatment. 
+g. Current episode of herpes simplex labialis that is not completely healed. 
+h. History of herpes keratitis. 
+i. Contraindication to antiviral therapy or known hypersensitivity to any component of 
+acyclovir therapy. 
+j. Use within one week prior to baseline of antiviral therapy 
+
+
+
+
+5. A positive viral culture is not required for enrollment. 
+6. Subjects should be instructed to use a finger cot or rubber glove when applying the study product 
+to prevent autoinoculation of other body sites and transmission of infection to other persons. 
+7. The protocol should include a list of the prescription and over-the-counter drug products, 
+procedures, and activities that are prohibited during the study, such as: 
+a. Antiviral therapies, other than study product. 
+b. Topical lip-balms. 
+c. Treatments for cold sores. 
+d. Cosmetics applied to the treatment area. 
+e. Prolonged sun exposure (i.e., sunbathing or sunburn). 
+f. Subjects should be instructed to avoid contact of the study product with the eye. 
+
+
+
+
+8. The recommended primary endpoint is time to complete healing of lesions (defined as loss of 
+crust and re-epithelialization with or without erythema, as assessed by the investigator, based on 
+both clinical observation and review of the subject diary), measured in days from the time of first 
+dosing. Subjects who experience a prodrome and start treatment at that time, but who do not 
+subsequently develop any lesion should be assigned a value of zero (0) for time to complete 
+healing of lesions. 
+
+
+
+9. Cessation of viral shedding has not been shown to correlate well with clinical outcome. It may be 
+included as a secondary endpoint. 
+10. Within 24 hours (study Day 1) of initiating treatment with study drug, recommend that subjects 
+return to study site for investigator assessments. Site visits are recommended on study Days 2, 3, 
+and 4, and then every other day until the investigator deemed that lesion healing had occurred or 
+up to study Day 14. In any cases where healing did not occur by study Day 14, another site visit is 
+recommended at study Day 21. 
+11. A rescue clause is recommended to allow subjects who significantly worsen (e.g., significant 
+increase in size or number of lesions beyond the patient’s usual pattern, progression of lesions 
+after the first few days of therapy, development of severe pain, or evidence of tissue necrosis) 
+during therapy to be discontinued from the study and provided with standard therapy. 
+12. The protocol should clearly define the per-protocol (PP), modified intent-to-treat (mITT) and 
+safety populations. 
+a. The accepted PP population used for bioequivalence evaluation includes all randomized 
+subjects who meet all inclusion/exclusion criteria, applied a pre-specified proportion of the 
+scheduled doses (e.g., 75% to 125%) of the assigned product for the specified duration of the 
+study, do not miss the scheduled applications for more than 1 consecutive day, and complete 
+the evaluation within the designated visit window (+/- 2 days) with no protocol violations that 
+would affect the treatment evaluation. The protocol should specify how compliance will be 
+verified, e.g., by the use of subject diaries. 
+b. The mITT population includes all randomized subjects who meet all inclusion/exclusion 
+criteria, apply at least one dose of assigned product and return for at least one post-baseline 
+evaluation visit. 
+c. The safety population includes all randomized subjects who receive study product. 
+
+
+
+
+13. Subjects who are discontinued early from the study due to insufficient or lack of treatment effect 
+after completing 5 days of treatment should be included in the PP population as treatment failures 
+and assigned the longest time to healing observed in the study. Subjects discontinued early for 
+other reasons should be excluded from the PP population, but included in the mITT population, 
+using Last Observation Carried Forward (LOCF) if complete healing was noted at their last visit 
+and assigning the longest time to healing if healing was not complete at their last visit. 
+14. The start and stop date of concomitant medication use during the study should be provided in the 
+data set in addition to the reason for the medication use. The sponsor should clearly explain 
+whether the medication was used prior to baseline visit, during the study, or both. 
+15. All adverse events (AEs) should be reported, whether or not they are considered to be related to 
+the treatment. The report of AEs should include date of onset, description of the AE, severity, 
+relation to study medication, action taken, outcome and date of resolution. This information is 
+needed to determine if the incidence and severity of adverse reactions is different between the test 
+product and RLD. 
+16. If the inactive ingredients of the test product are different than those contained in the RLD or in 
+significantly different amounts, then the sponsor must clearly describe the differences and 
+provide information to show that the differences will not affect the safety, efficacy and/or 
+systemic or local availability of the drug. 
+
+
+
+17. The method of randomization should be described in the protocol. It is recommended that an 
+independent third party generate and hold the randomization code throughout the conduct of the 
+study in order to minimize bias. The sponsor may generate the randomization code if not involved 
+in the packaging and labeling of the study medication. A sealed copy of the randomization 
+scheme should be retained at the study site and should be available to FDA investigators at the 
+time of site inspection to allow for verification of the treatment identity of each subject. 
+18. A detailed description of the blinding procedure is to be provided in the protocol. The packaging 
+of the test, reference and placebo products should be similar in appearance to make differences in 
+treatment less obvious to the subjects and to maintain adequate blinding of evaluators. When 
+possible, neither the subject nor the investigator should be able to identify the treatment. The 
+containers should not be opened by the subject at the study center. 
+19. Please refer to 21 CFR 320.38, 320.63 and the Guidance for Industry, “Handling and Retention of 
+BA and BE Testing Samples”, regarding retention of study drug samples and 21 CFR 320.36 for 
+requirements for maintenance of records of bioequivalence testing. In addition, the investigators 
+should follow the procedures of 21 CFR 58 and ICH E6, “Good Clinical Practice: Consolidated 
+Guideline”, for retention of study records and data in order to conduct their studies in compliance 
+with Good Laboratory Practices (GLP) and Good Clinical Practices (GCP). Retention samples 
+should be randomly selected from the drug supplies received prior to dispensing to subjects. 
+Retention samples should not be returned to the sponsor at any time. 
+20. It is the sponsor's responsibility to enroll sufficient subjects for the study to demonstrate 
+bioequivalence between the products. 
+21. To establish bioequivalence, the 90% confidence interval of the test/reference ratio for the 
+primary endpoint must be contained within [0.80, 1.25] for a continuous variable, using the PP 
+population. 
+22. As a parameter for determining adequate study sensitivity, the test product and RLD should both 
+be statistically superior to placebo (p<0.05) with regard to the primary endpoint, using the mITT 
+study population and LOCF. 
+23. The following Statistical Analysis Method is recommended for equivalence testing for a 
+continuous variable: 
+
+
+Equivalence Analysis 
+The compound hypothesis to be tested is: 
+
+
+H0: µT / µR =.1 or µT / µR =.2 versus HA : .1 < µT / µR < .2 
+
+Where µT = mean of test treatment, and µR = mean of reference treatment 
+
+Typically, we reject H0 with a type I error a = 0.05 (two 1-sided tests), if the 90% confidence 
+interval for the ratio of means between test and reference products (µT / µR) is contained 
+within the interval [.1, .2], where .1 = 0.80 and .2 = 1.25. 
+
+24. Study data should be submitted to the OGD in electronic format. 
+
+a. A list of file names, with a simple description of the content of each file, should be included. 
+Such a list should include an explanation of the variables included in each of the data sets. 
+
+
+
+b. Provide a “pdf” document with a detailed description of the codes that are used for each 
+variable in each of the SAS datasets (for example, Y=yes, N=no for analysis population). 
+c. All SAS transport files, covering all variables collected in the Case Report Forms (CRFs) per 
+subject, should include .xpt as the file extension and should not be compressed. A simple 
+SAS program to open the data transport files and SAS files should be included. 
+d. Primary data sets should consist of two data sets: No Last Observation Carried Forward (NOLOCF-
+pure data set) and Last Observation Carried Forward (LOCF-modified data set). 
+e. Please provide a separate dataset for variables such as demographics, vital signs, adverse 
+events, disposition (including reason for discontinuation of treatment), concomitant 
+medications, medical history, compliance and comments, etc. 
+
+
+25. Please provide a summary dataset containing a separate line listing for each subject (if data exist) 
+using the following headings, if applicable: 
+
+a. Study identifier 
+b. Subject identifier 
+c. Site identifier: study center 
+d. Age 
+e. Age units (years) 
+f. Sex 
+g. Race 
+h. Name of Actual Treatment (exposure): test product, RLD, vehicle control 
+i. Completed the study (yes/no) 
+j. Reason for premature discontinuation of subject 
+k. Subject required additional treatment for herpex simplex labialis due to unsatisfactory 
+treatment response (yes/no) 
+l. Per Protocol (PP) population inclusion (yes/no) 
+m. Reason for exclusion from PP population 
+n. Modified Intent to Treat (mITT) population inclusion (yes/no) 
+o. Reason for exclusion from mITT population 
+p. Safety population inclusion (yes/no) 
+q. Reason for exclusion from Safety population 
+r. Time to complete healing of lesions (days) 
+s. Treatment compliance: number of missed doses per subject 
+t. Concomitant medication (yes/no) 
+u. Adverse event(s) reported (yes/no) 
+
+
+Please refer to Table 1 as an example. This sample table may contain additional information not 
+applicable to your study and/or it may not contain all information applicable to your study. 
+
+Table 1: Example of a summary dataset containing one line listing for each subject 
+
+STUDYID 
+SUBJIDSITEIDAGEAGEUSEXRACEEXTRTcompletddisc_rsadd_trtpppp_rsmittmitt_rs 
+safetysafety_rs 
+101 1 01 54 YEARS F 1 A Y N Y Y Y 
+101 2 01 58 YEARS F 1 B Y N Y Y Y 
+
+
+tim_healcomplianCMAE 
+6 0 Y Y 
+4 0 N N 
+
+Note: Capitalized headings are from Clinical Data Interchange Standards Consortium (CDISC) Study 
+Data Tabulation Model (SDTM) Implementation Guide (IG) for Human Clinical Trials V3.1.2 Final 
+dated 11/12/08. 
+
+STUDYID: Study Identifier 
+SUBJID: Subject Identifier for the Study 
+SITEID: Study Site Identifier 
+AGE: Age 
+AGEU: Age units (years) 
+SEX: Sex, e.g., M=Male, F=Female, U=Unknown 
+RACE: Race, e.g., 1=White, 2=Black or African American, 3=Asian, 4=American Indian 
+
+or Alaska Native, 5=Native Hawaiian or Other Pacific Islanders 
+EXTRT: Name of Actual Treatment (exposure), e.g., A=test product, B= RLD, C=vehicle 
+
+control 
+completd: Subject completed the study, e.g., Y=Yes, N=No 
+disc_rs: Reason for premature discontinuation from the study, e.g., A=adverse event, 
+
+B=death, C=lost to follow-up, D=non-compliance with treatment, E=treatment 
+unblinded, F=subject moved out of area, G=unsatisfactory treatment response, 
+H=withdrew consent, I=protocol violation, K=other event 
+
+add_trt: Subject required additional treatment for psoriasis vulgaris due to unsatisfactory 
+
+treatment response, e.g., Y=Yes, N=No 
+pp: Per Protocol (PP) population inclusion, e.g., Y=Yes, N=No 
+pp_rs: Reason for exclusion from PP population, e.g., A=prematurely discontinued, 
+
+B=lost to follow-up, C=subject moved out of the area, D=noncompliant, etc. 
+mitt: Modified Intent to Treat (mITT) population inclusion, e.g., Y=Yes, N=No 
+mitt_rs: Reason for exclusion from mITT population, e.g., A=never treated, etc. 
+safety: Safety population inclusion, e.g., Y=Yes, N=No 
+safe_rs: Reason for exclusion from Safety population, e.g., A=never treated, etc. 
+tim_heal: Time to complete healing of lesions (days) 
+complian: Treatment compliance, e.g., number of missed doses per subject 
+CM: Concomitant medication, e.g., Y=Yes, N=No 
+AE: Adverse event(s) reported, e.g., Y=Yes, N=No 
+
+26. These recommendations are specific to this product and may not be appropriate for 
+bioequivalence studies of any other product, including any other dosage form or strength of 
+acyclovir. 
+
+

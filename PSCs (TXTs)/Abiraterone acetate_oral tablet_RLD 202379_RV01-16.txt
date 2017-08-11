@@ -1,0 +1,86 @@
+ 
+
+Active Ingredient: Abiraterone acetate 
+
+ 
+
+Dosage Form; Route: Tablet; oral 
+
+ 
+
+Recommended Studies: Two studies 
+
+ 
+
+1. Type of study: Fasting 
+
+
+Design: Single-dose, two-way crossover in vivo 
+
+Strength: 250 mg 
+
+Subjects: Healthy males , general population. 
+
+Additional Comments: 
+
+• Study population should consist of healthy males at least 18 years old. 
+• Study participants must be in good general health as determined by no clinically 
+significant findings on medical history, physical examination, vital signs, 12-lead 
+electrocardiogram consistent with normal cardiac conduction and function, and 
+clinical laboratory measurements. 
+• Monitor vital signs and serum electrolytes during the course of the study. 
+• Perform a 12-lead ECG at baseline and at the end of the study. 
+• Inform study participants that it is not known whether abiraterone or its metabolites 
+are present in semen. Study participants should use adequate contraception during the 
+study and for at least one week after the last abiraterone acetate dose. 
+• Applicants may consider using a reference-scaled average bioequivalence approach 
+for this drug product. For general information on this approach, please refer to the 
+Individual Product Bioequivalence Recommendations Guidance on Progesterone 
+Capsules. 
+
+
+ _______________________________________________________________________ 
+
+ 
+
+2. Type of study: Fed 
+
+
+Design: Single-dose, two-way crossover in vivo 
+
+Strength: 250 mg 
+
+Subjects: Healthy males, general population. 
+
+Additional Comments: 
+
+• The reference listed drug (RLD) labeling indicates that abiraterone acetate tablets 
+must be taken on an empty stomach. However, due to the complex food effects 
+associated with abiraterone acetate tablets, FDA recommends applicants conduct a 
+BE study under fed conditions. 
+• See the fasted study design above for additional comments. 
+
+
+ 
+
+
+Analytes to measure (in appropriate biological fluid): Abiraterone in plasma 
+
+ 
+
+Bioequivalence based on (90% CI): Abiraterone 
+
+ 
+
+Waiver request of in vivo testing: N/A 
+
+ 
+
+Dissolution test method and sampling times: The dissolution information for this drug 
+product can be found on the FDA-Recommended Dissolution Methods website available to the 
+public at the following location: http://www.accessdata.fda.gov/scripts/cder/dissolution/. 
+Conduct comparative dissolution testing on 12 dosage units each of all strengths of the test and 
+reference products. Specifications will be determined upon review of the abbreviated new drug 
+application. 
+
+

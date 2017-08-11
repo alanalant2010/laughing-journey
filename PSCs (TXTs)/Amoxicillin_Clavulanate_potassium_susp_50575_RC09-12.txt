@@ -1,0 +1,73 @@
+ 
+
+Active ingredient: Amoxicillin; Clavulanate Potassium 
+
+ 
+
+Form/Route: Suspension/Oral 
+
+ 
+
+Recommended study: 2 studies 
+
+ 
+
+1. Type of study: Fasting 
+Design: Single-dose, two-treatment, two-period crossover in-vivo 
+
+Strength: 250 mg/5 mL; Eq. 62.5 mg base/5 mL 
+
+Subjects: Healthy males and nonpregnant females, general population 
+
+Additional comments: 
+
+
+
+
+________________________________________________________________________ 
+
+ 
+
+2. Type of study: Fed 
+Design: Single-dose, two-treatment, two-period crossover in-vivo 
+
+Strength: 250 mg/5 mL; Eq. 62.5 mg base/5 mL 
+
+Subjects: Healthy males and nonpregnant females, general population 
+
+Additional Comments: Please refer to the Amantadine Hydrochloride Draft 
+Guidance for additional information regarding fed studies. 
+
+
+
+
+________________________________________________________________________ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Amoxicillin and clavulanate 
+potassium in plasma 
+
+ 
+
+Bioequivalence based on (90% CI): Amoxicillin and clavulanate potassium 
+
+ 
+
+Waiver request of in-vivo testing: 125 mg/5 mL; Eq. 31.25 mg base/5 mL, based on 
+
+(i) acceptable bioequivalence studies on the 250 mg/5 mL; Eq. 62.5 mg base/5 mL 
+strength, (ii) acceptable in-vitro dissolution testing of all strengths, and (iii) proportional 
+similarity of the formulations across all strengths. Please refer to the Mirtazapine Tablet 
+Draft Guidance for additional information regarding dose proportionality. 
+
+ 
+
+Dissolution test method and sampling times: Please note that a Dissolution Methods 
+Database is available to the public at the OGD website 
+http://www.accessdata.fda.gov/scripts/cder/dissolution/. Please find the dissolution 
+information for this product at this website. Please conduct comparative dissolution 
+testing on 12 dosage units each of all strengths of the test and reference products. 
+Specifications will be determined upon review of the application. 
+
+

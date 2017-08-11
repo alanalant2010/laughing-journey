@@ -1,0 +1,63 @@
+ 
+
+Active Ingredient: Amantadine hydrochloride 
+
+ 
+
+Dosage Form; Route: Capsule; oral 
+
+ 
+
+Recommended Studies: Two studies 
+
+ 
+
+1. Type of study: Fasting 
+
+
+Design: Single-dose, two-way crossover 
+
+Strength: 100 mg 
+
+Subjects: Healthy males and nonpregnant females, general population 
+
+Additional comments: Since amantadine is known to be excreted in human milk, FDA 
+recommends that the study exclude lactating women. In addition, due to the potential risk 
+to the embryo or fetus, the study should exclude pregnant women, and other female study 
+subjects should be counseled to practice abstinence or an appropriate form of 
+contraception. 
+
+___________________________________________________________________________ 
+
+2. Type of study: Fed 
+
+
+Design: Single-dose, two-way crossover 
+
+Strength: 100 mg 
+
+Subjects: Healthy males and nonpregnant females, general population 
+
+Additional comments: Same as above 
+
+___________________________________________________________________________ 
+
+Analytes to measure (in appropriate biological fluid): Amantadine in plasma 
+
+ 
+
+Bioequivalence based on (90% CI): Amantadine 
+
+ 
+
+Waiver request of in vivo testing: Not applicable 
+
+ 
+
+Dissolution test method and sampling times: The dissolution information for this drug 
+product can be found on the FDA-Recommended Dissolution Methods Web site available to the 
+public at the following location: http://www.accessdata.fda.gov/scripts/cder/dissolution/. 
+Conduct comparative dissolution testing on 12 dosage units of the test and reference products. 
+Specifications will be determined upon review of the abbreviated new drug application (ANDA). 
+
+

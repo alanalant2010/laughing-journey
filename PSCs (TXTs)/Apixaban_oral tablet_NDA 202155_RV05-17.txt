@@ -1,0 +1,160 @@
+ 
+
+Active Ingredient: Apixaban 
+
+ 
+
+Dosage Form; Route: Tablet; oral 
+
+ 
+
+Recommended Studies: Two studies 
+
+ 
+
+1. Type of study: Fasting 
+Design: Single-dose, 2-way, crossover in vivo 
+Strength: 5 mg 
+Subjects: Healthy males and non-pregnant females 
+
+
+Additional comments: All subjects should be tested on prothrombin time (PT), activated 
+partial thromboplastin time (aPTT), and creatinine clearance (CrCl). The PT and aPTT 
+results should be within normal range, and the CrCl value should be more than 50 
+mL/min for all subjects before dosing in order to prevent or avoid the possibility of 
+bleeding. 
+
+ 
+
+ 
+
+2. Type of study: Fed 
+
+
+Design: Single-dose, 2-way, crossover in vivo 
+
+Strength: 5 mg 
+
+Subjects: Healthy males and non-pregnant females 
+
+Additional comments: Same as comments above 
+
+ 
+
+ 
+
+Analytes to measure (in appropriate biological fluid): Apixaban in plasma 
+
+Bioequivalence based on (90% CI): Apixaban 
+
+ 
+
+Waiver request of in-vivo testing: 2.5mg based on (i) acceptable bioequivalence studies on the 
+5mg strength, (ii) acceptable in vitro dissolution testing of both strengths, and (iii) proportional 
+similarity of the formulations between both strengths. 
+
+ 
+
+Dissolution test method and sampling times: 
+
+The dissolution information for this drug product can be found on the FDA-Recommended 
+Dissolution Methods web site, available to the public at the following location: 
+
+
+http://www.accessdata.fda.gov/scripts/cder/dissolution/. Conduct comparative dissolution testing 
+on 12 dosage units each of both strengths of the test and reference products. Specifications will 
+be determined upon review of the abbreviated new drug application (ANDA). 
+
+ 
+
+In Vitro Comparative Nasogastric Tube Studies: 
+
+The approved labeling for the reference product states that the product may be crushed and 
+suspended in 60 mL of water or 5% dextrose in water (D5W) and promptly delivered through a 
+nasogastric (NG) tube. Conduct the following in vitro studies with 8 French NG tube to compare 
+the performance of the test product to that of the reference product to support NG tube 
+administration. 
+
+NG tube preparation procedure: Prepare the NG tube studies using 12 units of the test and the 
+reference products at the 5 mg strength for 0 and 15 minutes by the following procedure: 
+
+a. Prepare the dispersion by crushing the tablet and suspending it in 60 mL of water. 
+Prepare the catheter tip syringe, remove the syringe plunger and transfer the 
+suspension into the syringe. Insert the syringe plunger and gently rotate the 
+syringe. 
+
+
+
+
+ 
+
+b. Attach the syringe to the NG tube, using the syringe plunger push the suspension 
+through the syringe and the NG tube into a collection container. Flush the syringe 
+with additional amount of water until no granules remain in the syringe. Record 
+the total amount of water used. 
+
+
+
+
+ 
+
+c. Repeat the testing described above with a fresh set of 12 units. However, after 
+preparing the suspension in step ‘a’, wait for 15 min prior to injecting the contents 
+into the NG tube. 
+
+
+
+
+ 
+
+Repeat this test using 60 mL of D5W in place of water. 
+
+ 
+
+1. Comparative recovery test: conduct the comparative recovery studies of suspension of 
+apixaban to determine what percentage of the initial dose passes through a combination 
+of oral syringe and NG tube. Follow the feeding tube preparation procedure outline 
+above. Determine the percentage of apixaban recovered at the NG tube exit relative to the 
+initial dose for both the test and the reference products, using a validated analytical 
+method. The T/R recovery ratio and the 90% confidence interval of the T/R recovery 
+ratio should be calculated. If high variability is observed, the applicant may increase the 
+number of units used for this test. Visually examine the tube and the syringe for any 
+aggregation, adherence, clogging, etc. 
+
+
+ 
+
+2. Risk assessment of administration conditions: NG tubes may be made with different 
+materials (e.g., PVC, silicone, and polyurethane) and excipients in the suspension may 
+interact with tubing material differently. Therefore, the applicant should consider material 
+of various NG tubes that may be used for product administration and justify that the 
+
+
+
+conditions used in the equivalence testing conducted below are sufficient for risk 
+evaluation. Justification of testing conditions may be made on the basis of recovery 
+studies (testing procedure as above). Studies should be performed demonstrating the 
+recovery of the suspension through NG tubes and tested to determine the worst case 
+scenario conditions (including, but not necessarily limited to tubing material) which will 
+be used for the equivalence testing above. 
+
+
+ 
+
+3. Standard operating procedure submission: Submit standard operating procedures for the 
+above in vitro testing. Include details about the type of water, the pH of water, flushing 
+volume used in the studies, the tube and syringe used (e.g. material, brand, size, etc.), 
+holding positions of the tube, crushing procedure, shaking method, analytical site and 
+testing dates, etc. for each of the studies. Please submit individual data, mean values, 
+standard deviations, and coefficient of variation (%CV) of each study in an excel file. 
+Visually examine the tubing and the syringe for any aggregation, adherence, clogging, 
+etc., and report all observations and supply supporting photographs. For recovery studies, 
+video may be provided to document the testing process and associated observations. 
+Provide the pre-study and within-study assay validation report. Conduct all the above 
+testing on unexpired test and reference batches. Provide explanation if additional pressure 
+is needed during the testing to ensure complete recovery. 
+
+
+ 
+
+

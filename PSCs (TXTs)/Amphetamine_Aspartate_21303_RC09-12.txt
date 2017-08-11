@@ -1,0 +1,199 @@
+ 
+
+Active ingredient: Amphetamine Aspartate; Amphetamine Sulfate; 
+Dextroamphetamine Saccharate; Dextroamphetamine 
+Sulfate 
+
+ 
+
+Form/Route: Capsule, Extended Release/Oral 
+
+ 
+
+Recommended studies: 3 studies 
+
+ 
+
+1. Type of study: Fasting 
+
+Design: Single-dose, two-way crossover in-vivo 
+
+Strength: 7.5 mg; 7.5 mg; 7.5 mg; 7.5 mg 
+
+Subjects: Healthy males and nonpregnant females, general population. 
+
+Additional Comments: 
+
+
+
+
+________________________________________________________________________ 
+
+ 
+
+2. Type of study: Fed 
+
+Design: Single-dose, two-way crossover in-vivo 
+
+Strength: 7.5 mg; 7.5 mg; 7.5 mg; 7.5 mg 
+
+Subjects: Healthy males and nonpregnant females, general population. 
+
+Additional Comments: Please refer to the Amantadine Hydrochloride Tablet Draft 
+Guidance for additional information regarding fed studies. 
+
+
+
+
+________________________________________________________________________ 
+
+ 
+
+3. Type of study: Fasting sprinkle (capsule compared to RLD, capsule contents 
+sprinkled on a spoonful of applesauce) 
+
+Design: Single-dose, two-way crossover in-vivo 
+
+Strength: 7.5 mg; 7.5 mg; 7.5 mg; 7.5 mg 
+
+Subjects: Healthy males and nonpregnant females, general population. 
+
+Additional Comments: Fasting study, with contents sprinkled over a spoonful of 
+applesauce in accordance with the approved labeling of the RLD. 
+
+
+
+
+________________________________________________________________________ 
+
+ 
+
+Analytes to measure: d-amphetamine and l-amphetamine, measured separately in 
+plasma. 
+
+ 
+
+Bioequivalence based on (90% CI): d-amphetamine and l-amphetamine. 
+
+Please refer to Additional Comments below for more guidance regarding bioequivalence. 
+
+ 
+
+
+Waiver request of in-vivo testing: (1. 25 mg; 1.25 mg; 1.25mg; 1.25 mg), (2.5 mg, 2.5 
+mg. 2.5 mg, 2.5 mg), (3.75 mg, 3.75 mg, 3.75 mg, 3.75 mg), (5 mg, 5 mg, 5 mg, 5 mg), 
+and (6.25 mg, 6.25 mg, 6.25 mg, 6.25 mg) based on (i) acceptable bioequivalence studies 
+on the (7.5 mg, 7.5 mg, 7.5 mg, 7.5 mg) strength, (ii) acceptable dissolution testing across 
+all strengths, and (iii) proportional similarity in the formulations across all strengths. 
+
+Please refer to the Mirtazapine Tablet Draft Guidance for additional information 
+regarding waivers of in-vivo testing. 
+
+ 
+
+Dissolution test method and sampling times: 
+
+Please note that a Dissolution Methods Database is available to the public at the OGD 
+website at http://www.accessdata.fda.gov/scripts/cder/dissolution/index.cfm. Please find 
+the dissolution information for this product at this website. Please conduct comparative 
+dissolution testing on 12 dosage units each of all strengths of the test and reference 
+products. Specifications will be determined upon review of the application. 
+
+ 
+
+In addition to the method above, for modified-release products, dissolution profiles on 12 
+dosage units each of test and reference products generated using USP Apparatus I at 100 
+rpm and/or Apparatus II at 50 rpm in at least three dissolution media (pH 1.2, 4.5 and 6.8 
+buffer) should be submitted in the application. Agitation speeds may have to be increased 
+if appropriate. It is acceptable to add a small amount of surfactant, if necessary. Please 
+include early sampling times of 1, 2, and 4 hours and continue every 2 hours until at least 
+80% of the drug is released, to provide assurance against premature release of drug (dose 
+dumping) from the formulation. 
+
+ 
+
+Additional Comments: 
+
+ 
+
+The Adderall XR® Capsule labeling states that “Adderall XR® capsule contains two types 
+of drug-containing beads designed to give a double-pulsed delivery of amphetamines, 
+which prolongs the release of amphetamine from Adderall XR® compared to the 
+conventional Adderall (immediate-release) tablet formulation.” Further, the label states 
+that “patients taking divided doses of immediate-release Adderall®, (for example, twice 
+daily), may be switched to Adderall XR® at the same total daily dose taken once daily.” 
+
+ 
+
+Thus, Adderall XR® is a multiphasic, modified-release formulation designed to mimic the 
+drug release of two Adderall [immediate release (IR) mixed amphetamine] tablet 
+formulations taken four hours apart. According to the FDA-approved labeling for this 
+product, clinical studies showed statistically significant improvement in behavioral 
+assessment scores, following once daily dosing of Adderall XR®. As this multiphasic, 
+modified-release dosage form is designed to achieve quick onset of activity, mimicking 
+that of IR mixed amphetamine tablet formulation followed by sustained activity for the 
+remainder of the day, the FDA suggests that additional BE metrics may be appropriate to 
+ensure that a generic (test) version is therapeutically equivalent to the corresponding 
+reference product. Thus, for Adderall XR® the following two pAUC metrics are proposed 
+in addition to the traditional metrics [AUC8 (area under the curve from 0 to infinity), and 
+Cmax (maximum plasma concentration)]: 
+
+
+• AUC0-5 should compare test & reference systemic exposure responsible for early 
+onset of response during the early part of the once-daily dosing interval, where 
+AUC0-5 is the area under the plasma-concentration vs. time curve from 0 to 5 
+hours; and 
+
+• AUC5-t should compare test & reference systemic exposure responsible for 
+sustaining the response later during the once-daily dosing interval, where AUC5-t 
+is area under the curve from 5 hours to the last measurable time point. 
+
+ 
+
+The 90% confidence intervals of the geometric mean test/reference (T/R) ratios for the 
+above four metrics (Cmax, AUC0-5, AUC5-t, AUC8) should fall within the BE limits of 80-
+125% for d-amphetamine and l-amphetamine. 
+
+ 
+
+Fasting, Fed, and Fasting sprinkle-in-applesauce Studies: Log-transformed AUC0-5, 
+AUC5-t, AUC8, and Cmax. The partial AUCs (pAUCs), AUC0-5 and AUC5-t, have been 
+determined to be the most appropriate parameters for evaluation of the drug 
+bioavailability responsible for the rapid onset and sustained maintenance of the clinical 
+response throughout the 24 hr dosing period1. These two pAUCs replace the usual AUC0-
+t, and together with the other bioequivalence (BE) parameters, AUC0-8 and Cmax, will 
+ensure that the pharmacokinetic profiles and clinical effects of test and reference products 
+are sufficiently similar. 
+
+ 
+
+The sampling time of 5 hours for the first pAUC is based on time at which 90-95% of 
+subjects are likely to achieve optimal early onset of response, for the following reasons: 
+
+• The Tmax of IR mixed amphetamine formulation is about 3 hours in fasting 
+subjects. Available evidence indicates that food does not affect the Tmax of this IR 
+formulation; 
+
+
+• The standard deviation of Tmax for IR mixed amphetamine formulation is 1 hour; 
+
+
+• Since, approximately 95% of observations fall within two standard deviations of 
+the mean, the first pAUC sampling time will be Tmax mean ± 2 x standard 
+deviation of the IR formulation, i.e. 3 hr ± 2 hr. 
+
+
+
+
+ 
+
+This should provide additional assurance that a test and reference product will be 
+therapeutically equivalent over the early part of the daily dosing interval, corresponding 
+to onset of response. Likewise, AUC5-t should ensure that two products are 
+therapeutically equivalent over the later part of the daily dosing interval. 
+
+ 
+
+1 CFR § 320.24(b)(6) 
+
+

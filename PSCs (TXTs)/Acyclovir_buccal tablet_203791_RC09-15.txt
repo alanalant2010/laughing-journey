@@ -1,0 +1,137 @@
+ 
+
+Active Ingredient: Acyclovir 
+
+ 
+
+Dosage Form; Route: Buccal tablet; oral 
+
+ 
+
+Recommended Studies: Two options: in vitro study, or in vivo and in vitro study 
+
+ 
+
+1. In vitro option: 
+
+
+ 
+
+Bioequivalence based on in vitro studies if the test formulation is qualitatively and 
+quantitatively the same (Q1/Q2) as the reference listed drug (RLD). In addition, the test 
+formulation should have inactive ingredients of comparable grade (compendial/technical 
+grade) to that used in the RLD. Under this approach, bioequivalence can be 
+demonstrated based on: 
+
+ 
+
+a) In vitro comparative dissolution study 
+b) In vitro comparative adhesion study 
+
+
+ 
+
+2. In vivo and in vitro option: 
+
+
+ 
+
+Bioequivalence based on both in vivo and in vitro studies if the test product formulations 
+are not Q1/Q2 the same as the RLD or if the inactive ingredients are not of comparable 
+grade (compendial/technical grade) to that used in the RLD. Under this approach, 
+bioequivalence can be demonstrated based on: 
+
+ 
+
+a) In vivo study with clinical endpoints in patients with herpes labialis (cold sores). We 
+recommend that any sponsor choosing this option submit a protocol outlining and 
+validating their method to conduct a proposed clinical endpoint study to OGD for 
+review and concurrence prior to initiating the study. 
+b) In vitro comparative dissolution study 
+c) In vitro comparative adhesion study 
+
+
+
+Analytes to measure (in appropriate biological fluid): Not applicable (N/A) 
+
+ 
+
+Bioequivalence based on (90% CI): Clinical endpoint (in vivo option) 
+
+ 
+
+Waiver request of in vivo testing: N/A 
+
+ 
+
+Dissolution test method and sampling times: The dissolution information for this drug 
+product can be found on the FDA-Recommended Dissolution Methods Web site, available to the 
+public at the following location: http://www.accessdata.fda.gov/scripts/cder/dissolution/. 
+Conduct comparative dissolution testing on 12 dosage units each of all strengths of the test and 
+reference products. Specifications will be determined upon review of the abbreviated new drug 
+application (ANDA). 
+
+Additional information on in vitro comparative dissolution study: 
+
+Apparatus: U.S. Pharmacopeia (USP) 2 (paddle) 
+
+Speed: 100 rpm 
+
+Media: pH 6 (KH2PO4) phosphate buffer (0.2 M) 
+
+pH 4.0 (0.1 % NaCl solution, pH adjusted to pH 4.0) 
+
+pH 6.0 (0.05 M phosphate buffer solution) 
+
+pH 7.0 (0.1 % NaCl solution, pH adjusted to pH 7.0) 
+
+pH 6.8 simulated salivary fluid – phosphate buffer saline solution 
+
+Volume: 1000 mL 
+
+Temperature: 37ºC 
+
+Sampling times: 1, 2, 4, 6, 8, and 12 hours, or as needed for profile comparison 
+
+ 
+
+Additional comments: The applicant should use at least 12 dosage units per test. The f2 
+metric will be used to compare dissolution profiles. 
+
+ 
+
+Additional information on in vitro comparative adhesion study: 
+
+The firm is recommended to optimize relevant in vitro adhesion test conditions, 
+including but not limited to contact time, applied force for adhesion, and withdrawal speed 
+of the probe. This is primarily because the aforementioned instrument variables can have a 
+profound effect on the adhesion force (peak detachment force) and energy of adhesion 
+(work of adhesion). This may need to be optimized considering both the test and reference 
+formulations, since they may differ with respect to physical attributes such as hardness. 
+
+A tensiometry study is recommended to compare the peak detachment force for test and 
+reference products.1 Water is recommended between the buccal tablets and the base plate of 
+the tensiometer. The loading weight and length of time the loading weight is applied to 
+press the buccal tablet into contact with the base plate should be specified. Following 
+removal of the weight, the rate at which the buccal tablet is pulled away from the base plate 
+should be specified. The peak detachment force should be measured as the force required to 
+detach the buccal tablet from the base plate. The comparative adhesion test should be 
+conducted using 12 individual units of the test and reference products. 
+
+1 HE Junginger et al. Mucoadhesive Hydrogels in Drug Delivery. Encyclopedia Pharm Technol, 2002. 
+
+ 
+
+
+Prior to conducting studies for submission to the ANDA, the firm should determine 
+appropriate loading weight, length of time the loading weight is applied to press the buccal 
+tablet into contact with the base plate of the tensiometer, and the rate at which the buccal 
+tablet is pulled away from the base plate.2 These studies should be conducted to ensure the 
+appropriateness of the test conditions to the test and reference products. 
+
+2 SJ Jackson, AC Perkins. In Vitro Assessment of the Mucoadhesion of Cholestyramine to Porcine and Human 
+Gastric Mucosa. Eur J Pharm Biopharm. 2001;52:121-127. 
+
+ 
+
+
